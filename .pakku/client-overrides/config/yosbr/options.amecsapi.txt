@@ -1,0 +1,11 @@
+key_modifiers_key.jei.toggleOverlay:0,0,0
+key_modifiers_key.jei.focusSearch:0,0,0
+key_modifiers_key.jei.transferRecipeBookmark:0,0,0
+key_modifiers_key.jei.maxTransferRecipeBookmark:0,0,0
+key_modifiers_key.jei.cheatItemStack:0,0,0
+key_modifiers_key.jei.toggleCheatModeConfigButton:0,0,0
+key_modifiers_key.jei.toggleHideIngredient:0,0,0
+key_modifiers_key.jei.toggleWildcardHideIngredient:0,0,0
+key_modifiers_key.jei.previousCategory:0,0,0
+key_modifiers_key.jei.nextCategory:0,0,0
+key_modifiers_key.toms_storage.open_terminal:0,1,0

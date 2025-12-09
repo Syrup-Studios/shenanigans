@@ -6285,49 +6285,6 @@
             ]
         },
         {
-            "pakku_id": "IuMOJtH1guq8Oe0t",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "fastboot"
-            },
-            "name": {
-                "modrinth": "FastBoot"
-            },
-            "id": {
-                "modrinth": "nRL5uFe0"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "fastboot-1.20.x-1.2fabric.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nRL5uFe0/versions/CMn5tbJX/fastboot-1.20.x-1.2fabric.jar",
-                    "id": "CMn5tbJX",
-                    "parent_id": "nRL5uFe0",
-                    "hashes": {
-                        "sha512": "5068f0d11f2cd97b4f2e3abf467249d125dcadd0edeb04899bb0daf397d1659b8b1f72d570948de7c6598e56b0b6e396e7f81c0aa2a87061f62243f463dc7d3a",
-                        "sha1": "72c11409a1c70c787ffb66329a87b21ba27ad4bd"
-                    },
-                    "required_dependencies": [],
-                    "size": 30721,
-                    "date_published": "2025-01-16T13:29:49.987826Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "mWK1Z9lwnWofId8o",
             "type": "MOD",
             "side": "CLIENT",
@@ -8277,6 +8234,69 @@
                     ],
                     "size": 240386,
                     "date_published": "2025-04-14T12:15:48.423Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bmGwPNEH1BnJkJOI",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "journeymap",
+                "modrinth": "journeymap"
+            },
+            "name": {
+                "curseforge": "JourneyMap",
+                "modrinth": "JourneyMap"
+            },
+            "id": {
+                "curseforge": "32274",
+                "modrinth": "lfHFW1mp"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "journeymap-1.20.1-5.10.3-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5789/354/journeymap-1.20.1-5.10.3-fabric.jar",
+                    "id": "5789354",
+                    "parent_id": "32274",
+                    "hashes": {
+                        "sha1": "d21f82961c65df520df28ec75f045f4c89213de0",
+                        "md5": "0daacf8f13dd33450a970601cf21d627"
+                    },
+                    "required_dependencies": [],
+                    "size": 7209178,
+                    "date_published": "2024-10-06T18:57:14.987Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "journeymap-1.20.1-5.10.3-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/ThfZM7jC/journeymap-1.20.1-5.10.3-fabric.jar",
+                    "id": "ThfZM7jC",
+                    "parent_id": "lfHFW1mp",
+                    "hashes": {
+                        "sha512": "0e6d7e5a179fcc531eea19ac5333b90abc45bf1a5b63daddf5266ba14e317eab160d209592dda9593575e0b4346604215ba94be037cb2ab1910db29ab6d63a75",
+                        "sha1": "79c73992c1f0240144e49d946cd62f8033d796cf"
+                    },
+                    "required_dependencies": [],
+                    "size": 7209180,
+                    "date_published": "2024-10-06T18:56:54.231290Z"
                 }
             ]
         },
