@@ -1,7 +1,15 @@
 {
     "name": "Shenanigans",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "overrides": [
         "config"
-    ]
+    ],
+    "projects": {
+        "geckolib": {
+            "side": "BOTH"
+        },
+        "athena": {
+            "side": "BOTH"
+        }
+    }
 }
