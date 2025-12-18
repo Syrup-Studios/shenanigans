@@ -1,6 +1,6 @@
 {
     "name": "Shenanigans",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "overrides": [
         "config"
     ],
@@ -10,6 +10,9 @@
         },
         "athena": {
             "side": "BOTH"
+        },
+        "data-anchor": {
+            "update_strategy": "NONE"
         }
     }
 }
