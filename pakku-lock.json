@@ -1328,6 +1328,75 @@
             ]
         },
         {
+            "pakku_id": "xesVAhlRqy1VHIQB",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "bountiful-fares",
+                "modrinth": "bountiful-fares"
+            },
+            "name": {
+                "curseforge": "Bountiful Fares",
+                "modrinth": "Bountiful Fares"
+            },
+            "id": {
+                "curseforge": "972289",
+                "modrinth": "YgrSDjlb"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bountifulfares-1.2.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6987/920/bountifulfares-1.2.1-1.20.1.jar",
+                    "id": "6987920",
+                    "parent_id": "972289",
+                    "hashes": {
+                        "sha1": "6a70eadded00ef59ef5f74a5aeebacfa0c3a16ec",
+                        "md5": "29d6a1fec75b340ead3845317f78097e"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 4829694,
+                    "date_published": "2025-09-12T00:15:33.743Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "bountifulfares-1.2.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YgrSDjlb/versions/H4COb7fF/bountifulfares-1.2.1-1.20.1.jar",
+                    "id": "H4COb7fF",
+                    "parent_id": "YgrSDjlb",
+                    "hashes": {
+                        "sha512": "4bc645467ede4291e72d6ee2e7de7cc3d8c2f90cba564cd4f83025d84d80262d3780b3a3fb1a11444ab67c69e88ec371142a30bb3d40fba0275253257c54d88b",
+                        "sha1": "6a70eadded00ef59ef5f74a5aeebacfa0c3a16ec"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 4829694,
+                    "date_published": "2024-06-01T23:13:57.972433Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "0xr88bieT9CuDO8r",
             "type": "MOD",
             "side": "CLIENT",
@@ -2663,6 +2732,75 @@
                     "required_dependencies": [],
                     "size": 4147385,
                     "date_published": "2025-12-01T08:44:59.527Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "67Ah3BCSUT5lzTVP",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "backport-copper-age",
+                "curseforge": "copper-age-backport"
+            },
+            "name": {
+                "modrinth": "Copper Age Backport",
+                "curseforge": "Copper Age Backport"
+            },
+            "id": {
+                "modrinth": "a1llHwl4",
+                "curseforge": "1386823"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "copperagebackport-fabric-1.20.1-0.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/a1llHwl4/versions/TqXQZvqk/copperagebackport-fabric-1.20.1-0.1.4.jar",
+                    "id": "TqXQZvqk",
+                    "parent_id": "a1llHwl4",
+                    "hashes": {
+                        "sha512": "bf7c69d8adb719c92db7f9a1ade852349ed008c991f4b4f49123c782d4a384e53b4a320809e25de5598f422243e1527e396d5f9adedc54cae687f848a6e354ea",
+                        "sha1": "c956cecc8fac92492881ce141f06dc214d69d790"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 2808741,
+                    "date_published": "2025-12-01T21:19:41.396692Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "copperagebackport-fabric-1.20.1-0.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7283/480/copperagebackport-fabric-1.20.1-0.1.4.jar",
+                    "id": "7283480",
+                    "parent_id": "1386823",
+                    "hashes": {
+                        "sha1": "c956cecc8fac92492881ce141f06dc214d69d790",
+                        "md5": "e300ae249bde4e93ad2d068c89817f0c"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 2808741,
+                    "date_published": "2025-12-01T21:19:38.163Z"
                 }
             ]
         },
@@ -7898,6 +8036,67 @@
                     "required_dependencies": [],
                     "size": 7209180,
                     "date_published": "2024-10-06T18:56:54.231290Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "mwMsS3q6ka9CBBVU",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "joy-of-painting",
+                "modrinth": "joy-of-painting"
+            },
+            "name": {
+                "curseforge": "Joy of Painting",
+                "modrinth": "Joy of Painting"
+            },
+            "id": {
+                "curseforge": "350727",
+                "modrinth": "YOs4tZea"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "xercapaint-fabric-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5592/163/xercapaint-fabric-1.20.1-1.0.1.jar",
+                    "id": "5592163",
+                    "parent_id": "350727",
+                    "hashes": {
+                        "sha1": "17b69bb0eb8b62be11da79963522d4612382439b",
+                        "md5": "814284b87c0727d1d37f9345af0954ad"
+                    },
+                    "required_dependencies": [],
+                    "size": 401360,
+                    "date_published": "2024-08-03T10:37:30.257Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "xercapaint-fabric-1.20.1-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YOs4tZea/versions/laTdPpfY/xercapaint-fabric-1.20.1-1.0.1.jar",
+                    "id": "laTdPpfY",
+                    "parent_id": "YOs4tZea",
+                    "hashes": {
+                        "sha512": "37c0c1d288ebf9975a8b0ee8d5d9df366199110de2b06fe4bda7f91b0460a3cb3bf1351fa3cd9109d0f2441f0bc2bc641df53ec811dd54793deb7a2e177dd6da",
+                        "sha1": "17b69bb0eb8b62be11da79963522d4612382439b"
+                    },
+                    "required_dependencies": [],
+                    "size": 401360,
+                    "date_published": "2024-08-03T10:37:32.587818Z"
                 }
             ]
         },
@@ -14613,6 +14812,81 @@
                     ],
                     "size": 2726891,
                     "date_published": "2025-01-25T04:13:53.950Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yq892JyBn1CFujnq",
+            "pakku_links": [
+                "QYHSp4ueHrV1H99g",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "spirit-walker",
+                "modrinth": "spirit-walker"
+            },
+            "name": {
+                "curseforge": "Spirit Walker",
+                "modrinth": "Spirit Walker"
+            },
+            "id": {
+                "curseforge": "730880",
+                "modrinth": "zbX4s3vj"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spirit-walker-0.1.5+1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4992/699/spirit-walker-0.1.5+1.20.jar",
+                    "id": "4992699",
+                    "parent_id": "730880",
+                    "hashes": {
+                        "sha1": "8f69a40e558e645d4353c1dd2c2e3f7a7cda8897",
+                        "md5": "0a5029206fdea8094bceef112f1c3816"
+                    },
+                    "required_dependencies": [
+                        "532610",
+                        "306612"
+                    ],
+                    "size": 205272,
+                    "date_published": "2023-12-29T20:00:14.773Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "spirit-walker-0.1.5+1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/zbX4s3vj/versions/OiZK261v/spirit-walker-0.1.5+1.20.jar",
+                    "id": "OiZK261v",
+                    "parent_id": "zbX4s3vj",
+                    "hashes": {
+                        "sha512": "fc36cac1398fd1bad4d64771f54a034f20f0f4ea7653ae397f973faa17bbe156dd03c91d60c526fba5385dc9a5f83407ec611d532658e49ff0edd81d553bed3c",
+                        "sha1": "8f69a40e558e645d4353c1dd2c2e3f7a7cda8897"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "ccKDOlHs"
+                    ],
+                    "size": 205272,
+                    "date_published": "2023-12-29T19:53:13.334454Z"
                 }
             ]
         },
