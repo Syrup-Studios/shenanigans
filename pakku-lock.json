@@ -2933,6 +2933,81 @@
             ]
         },
         {
+            "pakku_id": "ZwiudPop6zSfISKS",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "hyr8badempTmouXm"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cosmetic-armor-fabric",
+                "modrinth": "cosmetic-armor"
+            },
+            "name": {
+                "curseforge": "Cosmetic Armor [FABRIC]",
+                "modrinth": "Cosmetic Armor"
+            },
+            "id": {
+                "curseforge": "436659",
+                "modrinth": "JrIYhb1P"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CosmeticArmor-1.20-1.6.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4646/421/CosmeticArmor-1.20-1.6.0.jar",
+                    "id": "4646421",
+                    "parent_id": "436659",
+                    "hashes": {
+                        "sha1": "6adc25ad26e9c0641bf48fb67eb8d05dae2911b1",
+                        "md5": "642e2ebbfc66a3bd063994b54f6467ca"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "341284"
+                    ],
+                    "size": 20221,
+                    "date_published": "2023-07-16T01:03:39.973Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CosmeticArmor-1.20-1.6.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JrIYhb1P/versions/wPdj2uLD/CosmeticArmor-1.20-1.6.0.jar",
+                    "id": "wPdj2uLD",
+                    "parent_id": "JrIYhb1P",
+                    "hashes": {
+                        "sha512": "426792cb538e73962374f638cee3182fa1c3e28acbdc5a61b534ee70149ffc955db652c820caf4fc4a27acd980f522e419f5f580c55683d985723a314caf2c96",
+                        "sha1": "6adc25ad26e9c0641bf48fb67eb8d05dae2911b1"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "5aaWibi9"
+                    ],
+                    "size": 20221,
+                    "date_published": "2023-07-16T01:03:42.661375Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "McJ3t8aHIbcR2hjG",
             "type": "MOD",
             "side": "BOTH",
