@@ -62,6 +62,5 @@ ServerEvents.recipes(event => {
       Item.of('minecraft:rotten_flesh'),           // Recipe result
       [meats]            // Inputs
     )
-    .id(`homestead:${meats.replace(':', '_')}_to_rotten_flesh`); // Unique ID
   });
 })
