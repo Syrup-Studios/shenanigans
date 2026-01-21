@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZXZ",
+    "XYX",
+    "ZXZ"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:cactus"
+    },
+    "Y": {
+      "item": "minecraft:water_bucket"
+    },
+    "Z": {
+      "item": "minecraft:lily_pad"
+    }
+  },
+  "result": {
+    "item": "minecraft:slime_ball",
+    "count": 1
+  }
+}

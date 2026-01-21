@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XZX",
+    "ZYZ",
+    "XZX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:carrot"
+    },
+    "Y": {
+      "item": "minecraft:rabbit"
+    },
+    "Z": {
+      "item": "minecraft:rabbit_hide"
+    }
+  },
+  "result": {
+    "item": "minecraft:rabbit_foot",
+    "count": 1
+  }
+}

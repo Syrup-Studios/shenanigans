@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:ink_sac"
+    },
+    "Y": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "minecraft:glow_ink_sac",
+    "count": 1
+  }
+}

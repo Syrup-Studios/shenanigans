@@ -1,9 +1,14 @@
 {
     "name": "Shenanigans",
-    "version": "0.0.10-alpha",
+    "version": "0.0.11-alpha",
+    "author": "Salad",
     "overrides": [
         "config"
     ],
+    "paths": {
+        "data_packs": "./kubejs/data/",
+        "shader_packs": "./shaderpacks/"
+    },
     "projects": {
         "geckolib": {
             "side": "BOTH"

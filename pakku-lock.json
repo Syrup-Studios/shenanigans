@@ -6713,97 +6713,6 @@
             ]
         },
         {
-            "pakku_id": "9fYf57BQ4sIWoR6N",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "geophilic",
-                "modrinth": "geophilic"
-            },
-            "name": {
-                "curseforge": "Geophilic – Vanilla Biome Overhauls",
-                "modrinth": "Geophilic"
-            },
-            "id": {
-                "curseforge": "711216",
-                "modrinth": "hl5OLM95"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Geophilic v3.4.5.mod.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/FdVH8Irc/Geophilic v3.4.5.mod.jar",
-                    "id": "FdVH8Irc",
-                    "parent_id": "hl5OLM95",
-                    "hashes": {
-                        "sha512": "69eeeb0b02926d08fa56ebd0927c37dc6d1b3a41c2b88c84256ff53d04b93632bf122259693196da201f9364a48625ad2906bda023085471966fe7138b19ae3b",
-                        "sha1": "0a8373d58ee3e5a580d8710a688cd58b28f9f81b"
-                    },
-                    "required_dependencies": [],
-                    "size": 750576,
-                    "date_published": "2025-12-10T21:39:03.418187Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "Geophilic v3.4.5.mod.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4",
-                        "1.20.3"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7317/837/Geophilic v3.4.5.mod.jar",
-                    "id": "7317837",
-                    "parent_id": "711216",
-                    "hashes": {
-                        "sha1": "0a8373d58ee3e5a580d8710a688cd58b28f9f81b",
-                        "md5": "20d6fba06812e844ba154805cc07cf7e"
-                    },
-                    "required_dependencies": [],
-                    "size": 750576,
-                    "date_published": "2025-12-10T21:42:49.800Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "vUvwNV32aCL3wk6m",
             "type": "MOD",
             "side": "BOTH",
@@ -7370,6 +7279,49 @@
                     "required_dependencies": [],
                     "size": 242879,
                     "date_published": "2025-12-09T20:19:33.160Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "zWsqbkngvptPrZAW",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "incendium"
+            },
+            "name": {
+                "modrinth": "Incendium"
+            },
+            "id": {
+                "modrinth": "ZVzW5oNS"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Incendium_1.20_v5.3.5.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/b9pN4Twz/Incendium_1.20_v5.3.5.zip",
+                    "id": "b9pN4Twz",
+                    "parent_id": "ZVzW5oNS",
+                    "hashes": {
+                        "sha512": "5d0d360a51b86f62354b5867f87d4f39ad78f2c91d6bcccc26235db029f2d93a63e9e63a19d07f48e59655a2bd6d394fc9c0172be6ae4dc32a68763054914350",
+                        "sha1": "27b5965ba51e6727bcab17db367469b2d86bf9ee"
+                    },
+                    "required_dependencies": [],
+                    "size": 4475914,
+                    "date_published": "2024-09-18T08:24:48.116583Z"
                 }
             ]
         },
@@ -8392,6 +8344,79 @@
                     ],
                     "size": 1114373,
                     "date_published": "2025-09-18T22:52:42.515280Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "omC3fxR3xr2kGgPg",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "larion-worldgen",
+                "curseforge": "larion-world-generation"
+            },
+            "name": {
+                "modrinth": "Larion World Generation",
+                "curseforge": "Larion World Generation"
+            },
+            "id": {
+                "modrinth": "rctNbbuL",
+                "curseforge": "1150582"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "larion-fabric-1.20.4-4.3.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/rctNbbuL/versions/fgbesLMa/larion-fabric-1.20.4-4.3.0.jar",
+                    "id": "fgbesLMa",
+                    "parent_id": "rctNbbuL",
+                    "hashes": {
+                        "sha512": "e4c8a1c7628990bc70d67662b7787e5b31d5f6598fbc2fcbfbe6a6e7d03b8a7d508afd710267fac6308d95d66d5998cdb0593920737ca40b249ea4144ff71e99",
+                        "sha1": "0b4e006901d60753eba0d01ea638fb3f293c2e48"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 80929,
+                    "date_published": "2025-03-17T15:40:45.778293Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "larion-fabric-1.20.4-4.3.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6315/777/larion-fabric-1.20.4-4.3.0.jar",
+                    "id": "6315777",
+                    "parent_id": "1150582",
+                    "hashes": {
+                        "sha1": "0b4e006901d60753eba0d01ea638fb3f293c2e48",
+                        "md5": "aa2171fb562d54372cebb1dae482ddd5"
+                    },
+                    "required_dependencies": [],
+                    "size": 80929,
+                    "date_published": "2025-03-17T15:49:08.643Z"
                 }
             ]
         },
@@ -9693,6 +9718,67 @@
             ]
         },
         {
+            "pakku_id": "Jpxe0yfPfix2Zooq",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "mastercutter",
+                "modrinth": "mastercutter"
+            },
+            "name": {
+                "curseforge": "MasterCutter [Data Pack]",
+                "modrinth": "MasterCutter"
+            },
+            "id": {
+                "curseforge": "944598",
+                "modrinth": "DuUMFIfX"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MasterCutter+v1.1.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4912/612/MasterCutter+v1.1.zip",
+                    "id": "4912612",
+                    "parent_id": "944598",
+                    "hashes": {
+                        "sha1": "15dc1a77b9abe529a7928abb28990d5dc0ace9ef",
+                        "md5": "3129472aa93978194bb4a59062a5ef0a"
+                    },
+                    "required_dependencies": [],
+                    "size": 237211,
+                    "date_published": "2023-11-29T23:01:01.273Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MasterCutter+v1.1.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DuUMFIfX/versions/gDz8Zvwf/MasterCutter+v1.1.zip",
+                    "id": "gDz8Zvwf",
+                    "parent_id": "DuUMFIfX",
+                    "hashes": {
+                        "sha512": "462acdfef1ed1615e1a8216bf63478e5de8ce2a4916f809b76b8ece561e899f68416977cd2a13aa3adfb0882448e6c54fb190440b299bd8f18e9e5c541c2cacc",
+                        "sha1": "74a4851c51d91ab8c150ccebca30273acf238748"
+                    },
+                    "required_dependencies": [],
+                    "size": 237211,
+                    "date_published": "2023-11-29T19:37:48.317351Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "at0wBmjjwYZxheK7",
             "type": "MOD",
             "side": "BOTH",
@@ -10782,8 +10868,12 @@
             ]
         },
         {
-            "pakku_id": "Uks0HcXz3CceyJ5m",
-            "type": "MOD",
+            "pakku_id": "tyyktAxna9PGtggs",
+            "pakku_links": [
+                "nziiIR5mfr9ev1my",
+                "pZNDIIO3hsLsacjr"
+            ],
+            "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
                 "modrinth": "nifty-carts-x-farm-and-charm"
@@ -10797,30 +10887,27 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "nifty-carts-x-farm-and-charm-1.0.jar",
+                    "file_name": "NiftyCarts x Farm & Charm.zip",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
+                        "datapack"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/DDUhwDmz/versions/mqFLmNjZ/nifty-carts-x-farm-and-charm-1.0.jar",
-                    "id": "mqFLmNjZ",
+                    "url": "https://cdn.modrinth.com/data/DDUhwDmz/versions/MVcG96rL/NiftyCarts x Farm & Charm.zip",
+                    "id": "MVcG96rL",
                     "parent_id": "DDUhwDmz",
                     "hashes": {
-                        "sha512": "0594fa3b123a91d71b7c57075fd8a16b96c8cf93ae1c9ed7502951e68ca25b05cd0bef16cb604af89ea3bcce6c95415a4d08d7e5716d00964b5c65b85410cd94",
-                        "sha1": "919799983d5e223515612942824019672975e597"
+                        "sha512": "72af9330085f6d4860d6db5352b877840a95b094cd6bfb6eb52fda0fcb5e171cb913c867e708b5fe52c94d34e4249a5888788d26d58ff09b0e14e6433b5aaab0",
+                        "sha1": "f9436dcc1295a5bcfc116adc63b3a7e5e16deb38"
                     },
                     "required_dependencies": [
                         "HJetCzWo",
                         "CXd6g9xp"
                     ],
-                    "size": 13917,
-                    "date_published": "2025-09-19T14:13:49.840756Z"
+                    "size": 11465,
+                    "date_published": "2025-09-19T14:12:14.100089Z"
                 }
             ]
         },
@@ -10892,8 +10979,12 @@
             ]
         },
         {
-            "pakku_id": "PBIYCVjV70dh8abt",
-            "type": "MOD",
+            "pakku_id": "4kwsBQqdpMP5F2Rw",
+            "pakku_links": [
+                "Y8JLaPIY8JfBT7SR",
+                "pZNDIIO3hsLsacjr"
+            ],
+            "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
                 "modrinth": "niftycarts-x-regions-unexplored"
@@ -10907,30 +10998,27 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "niftycarts-x-regions-unexplored-1.0.jar",
+                    "file_name": "NiftyCarts x Regions Unexplored.zip",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
+                        "datapack"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/SUxgYFgZ/versions/nN9J1K6b/niftycarts-x-regions-unexplored-1.0.jar",
-                    "id": "nN9J1K6b",
+                    "url": "https://cdn.modrinth.com/data/SUxgYFgZ/versions/V0e4Q62Q/NiftyCarts x Regions Unexplored.zip",
+                    "id": "V0e4Q62Q",
                     "parent_id": "SUxgYFgZ",
                     "hashes": {
-                        "sha512": "094054d88c9bed9e0ec6cb819ab1775ea48c9e175a14df812265903584e418860c731bed996b49279adea7ba00716f171aef9011e24669cc3093199f7b1a4f1c",
-                        "sha1": "981c17bccdaf8320b1fa5b6a07d98d20464c9087"
+                        "sha512": "ed68acd352549efdfa7281720f87fb8b50587ab3e999bcc3c6048c06f71b0949d9118a4f3081042020a437f0896a5227e5d5e5868e6c8228cae2c7817e7e7574",
+                        "sha1": "1ac50a146e7f098ae8f55ac86d6c2db531cddee6"
                     },
                     "required_dependencies": [
                         "Tkikq67H",
                         "CXd6g9xp"
                     ],
-                    "size": 14570,
-                    "date_published": "2025-09-19T13:34:59.335694Z"
+                    "size": 7228,
+                    "date_published": "2025-09-19T13:34:54.184581Z"
                 }
             ]
         },
@@ -15223,69 +15311,6 @@
             ]
         },
         {
-            "pakku_id": "9uPCfE9WDcnMWZgx",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "starlight",
-                "modrinth": "starlight"
-            },
-            "name": {
-                "curseforge": "Starlight (Fabric)",
-                "modrinth": "Starlight (Fabric)"
-            },
-            "id": {
-                "curseforge": "521783",
-                "modrinth": "H8CaAYZC"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "starlight-1.1.2+fabric.dbc156f.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
-                    "id": "XGIsoVGT",
-                    "parent_id": "H8CaAYZC",
-                    "hashes": {
-                        "sha512": "6b0e363fc2d6cd2f73b466ab9ba4f16582bb079b8449b7f3ed6e11aa365734af66a9735a7203cf90f8bc9b24e7ce6409eb04d20f84e04c7c6b8e34f4cc8578bb",
-                        "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421"
-                    },
-                    "required_dependencies": [],
-                    "size": 127368,
-                    "date_published": "2023-06-07T16:51:56.458881Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "starlight-1.1.2+fabric.dbc156f.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4572/96/starlight-1.1.2+fabric.dbc156f.jar",
-                    "id": "4572096",
-                    "parent_id": "521783",
-                    "hashes": {
-                        "sha1": "a03102cab439cbab5a1d7d72cd7c2b4976ddd421",
-                        "md5": "a0b391bf55891502c2074bd078bb5899"
-                    },
-                    "required_dependencies": [],
-                    "size": 127368,
-                    "date_published": "2023-06-07T16:37:29.753Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "ROKPzaL5At3fQ5Hi",
             "pakku_links": [
                 "kyyzOCzqkJhCruX8"
@@ -15917,67 +15942,6 @@
             ]
         },
         {
-            "pakku_id": "QSiVi7jQxFwGQUje",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "tectonic",
-                "modrinth": "tectonic"
-            },
-            "name": {
-                "curseforge": "Tectonic",
-                "modrinth": "Tectonic"
-            },
-            "id": {
-                "curseforge": "686836",
-                "modrinth": "lWDHr9jE"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "tectonic-3.0.17-fabric-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/mz3wlQKd/tectonic-3.0.17-fabric-1.20.1.jar",
-                    "id": "mz3wlQKd",
-                    "parent_id": "lWDHr9jE",
-                    "hashes": {
-                        "sha512": "9a11047ed0e981bb60c230d00ec5d88bf3968119df808e9c55678cab94f8fa5005cdd916799dfd641e0ad60a1b937b4554c71c19d7b3d0f61b94f5135cbf377a",
-                        "sha1": "5bcc0c5a21f543856082f52588e6365e6a8b02ef"
-                    },
-                    "required_dependencies": [],
-                    "size": 319868,
-                    "date_published": "2025-11-08T05:23:36.988835Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "tectonic-3.0.17-fabric-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7197/833/tectonic-3.0.17-fabric-1.20.1.jar",
-                    "id": "7197833",
-                    "parent_id": "686836",
-                    "hashes": {
-                        "sha1": "5bcc0c5a21f543856082f52588e6365e6a8b02ef",
-                        "md5": "4e54cbee95dc23b5d783cc01230d2c2d"
-                    },
-                    "required_dependencies": [],
-                    "size": 319868,
-                    "date_published": "2025-11-08T05:23:37.450Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "VdvRQ7hvp7yTfhKG",
             "type": "MOD",
             "side": "BOTH",
@@ -16087,6 +16051,47 @@
                     ],
                     "size": 930355,
                     "date_published": "2023-12-02T22:14:07.593Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "u6xIlZkWftIK6Has",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "tidal-towns"
+            },
+            "name": {
+                "modrinth": "Tidal Towns"
+            },
+            "id": {
+                "modrinth": "EEIwvQVo"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "tidal_1.3.4.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/wSiPniLg/tidal_1.3.4.zip",
+                    "id": "wSiPniLg",
+                    "parent_id": "EEIwvQVo",
+                    "hashes": {
+                        "sha512": "ddc626d00f26c40069c39875a4c5a8cffc2e66dd2c88891a624a14288f7c49babf8b213587eab3e8590c462d7846b853722d6a54d8d5ec3248b39b129073ab70",
+                        "sha1": "d66480674a9f3e1b4fb9472bc77de54fd8297e30"
+                    },
+                    "required_dependencies": [],
+                    "size": 56300,
+                    "date_published": "2024-11-28T17:03:12.332603Z"
                 }
             ]
         },
@@ -16819,6 +16824,66 @@
             ]
         },
         {
+            "pakku_id": "hBlTXnsUfJHDWwWI",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "typewriter-daycounter"
+            },
+            "name": {
+                "modrinth": "Typewriter Day Counter"
+            },
+            "id": {
+                "modrinth": "j6YEKDZd"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "vr_typewriter_daycounter_v1.1.zip",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/j6YEKDZd/versions/QjGr2L89/vr_typewriter_daycounter_v1.1.zip",
+                    "id": "QjGr2L89",
+                    "parent_id": "j6YEKDZd",
+                    "hashes": {
+                        "sha512": "c8257af81c06df73e69d4c74d8d900dbd20bd857a9f54a3c641f6a0581cfcbfb9e391b3fde23bc9317645b181d3cec80ee999f7a3e35fbf796f7c1b66e86191b",
+                        "sha1": "4c279ee4beeacb5f1e50bf341fb04b13c32b076d"
+                    },
+                    "required_dependencies": [],
+                    "size": 56277,
+                    "date_published": "2026-01-11T03:09:14.794121Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "f5sJeKb2A64HxnfQ",
             "type": "MOD",
             "side": "BOTH",
@@ -16949,6 +17014,50 @@
                     ],
                     "size": 28063267,
                     "date_published": "2025-11-16T06:54:44.767Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Mra9Xmu5uUVMrSwu",
+            "pakku_links": [
+                "Y8JLaPIY8JfBT7SR",
+                "KlKb0REbyIvzZh9x"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "vb-x-ru"
+            },
+            "name": {
+                "modrinth": "Vanilla Backport x Regions Unexplored"
+            },
+            "id": {
+                "modrinth": "y4VzLoNa"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Vanilla Backport x Regions Unexplored.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/y4VzLoNa/versions/f1RSHc6Y/Vanilla Backport x Regions Unexplored.zip",
+                    "id": "f1RSHc6Y",
+                    "parent_id": "y4VzLoNa",
+                    "hashes": {
+                        "sha512": "87e3b42021c48cba3200297408b925989cedbd7720ee1510637a57dca24b0786ba64c0ad22a304edf7477c683a4cf13c1288c84d0dc030b7ee61832d887faa1a",
+                        "sha1": "e8a72957d7c6b0095c5efe0457736c246349ff83"
+                    },
+                    "required_dependencies": [
+                        "Tkikq67H",
+                        "6xwxDTgf"
+                    ],
+                    "size": 210157,
+                    "date_published": "2025-12-12T00:01:02.282663Z"
                 }
             ]
         },
