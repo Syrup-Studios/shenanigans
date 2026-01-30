@@ -203,6 +203,48 @@
             ]
         },
         {
+            "pakku_id": "eHGnuVDOf9Fbqidt",
+            "pakku_links": [
+                "X1AQ13Z1y1fsW3pj"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "almanac-for-spyglass-astronomy-(fixed)"
+            },
+            "name": {
+                "modrinth": "Almanac for Spyglass Astronomy (Fixed)"
+            },
+            "id": {
+                "modrinth": "j15KcubR"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "almanacbook-0.6.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/j15KcubR/versions/sOmV5c1t/almanacbook-0.6.1.jar",
+                    "id": "sOmV5c1t",
+                    "parent_id": "j15KcubR",
+                    "hashes": {
+                        "sha512": "9d8c2604e7fb90f4cac9f32b5c0bd13912a6d2e5a3cb37d8378632b0dabc47e94ad8534df6fb4cd76722b556b430234044307b96fac7dfb29bceca09744eb5ff",
+                        "sha1": "a49005e7c8feb69f7b2f34fdfb0c02f31b440c63"
+                    },
+                    "required_dependencies": [
+                        "EdBSdqge"
+                    ],
+                    "size": 43227,
+                    "date_published": "2025-12-04T13:15:51.788514Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "oiKB8e1LNJHhqYhV",
             "type": "MOD",
             "side": "CLIENT",
@@ -738,9 +780,9 @@
             ]
         },
         {
-            "pakku_id": "F739TbHJ8PntQiuZ",
+            "pakku_id": "lB8qWQxd3t0iHyDz",
             "pakku_links": [
-                "kyyzOCzqkJhCruX8"
+                "RjGdALOn8S9NpH6I"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -756,7 +798,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "balm-fabric-1.20.1-7.3.37.jar",
+                    "file_name": "balm-fabric-1.20.1-7.3.38.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -765,18 +807,60 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/qCk04klC/balm-fabric-1.20.1-7.3.37.jar",
-                    "id": "qCk04klC",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/TSihd8MJ/balm-fabric-1.20.1-7.3.38.jar",
+                    "id": "TSihd8MJ",
                     "parent_id": "MBAkmtvl",
                     "hashes": {
-                        "sha512": "2fddc3053091ec9e9939f873f01a06752698adf56b0405df17c13e1f6359daa009dc8e194bb9591b172cc013900b9891b52993b779efb338b5d977b4099ae2da",
-                        "sha1": "f152937a8064f70ec65667e29d18ac8830bf6028"
+                        "sha512": "fc3212781606186b881a956846d262fbe7fc068668b601749aa965b341cb20fb28e28da7591a258e4fa184d3931ef4c5e9bf7c298c8450ccd367d0be0510e8fa",
+                        "sha1": "e5946a840a03ffc0f33d6f4bc24341651f2d3ad5"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 608287,
-                    "date_published": "2025-10-09T16:45:39.829090Z"
+                    "size": 609150,
+                    "date_published": "2026-01-05T11:43:11.017168Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "CMFNPQkz0U8SNca2",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "balm-fabric"
+            },
+            "name": {
+                "curseforge": "Balm (Fabric Edition)"
+            },
+            "id": {
+                "curseforge": "500525"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-fabric-1.20.1-7.3.38.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7420/614/balm-fabric-1.20.1-7.3.38.jar",
+                    "id": "7420614",
+                    "parent_id": "500525",
+                    "hashes": {
+                        "sha1": "833370d2a28be5673537b177e332918668e829e0",
+                        "md5": "c4541bfc148f27f307afa41dc26cfcbf"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 609150,
+                    "date_published": "2026-01-05T11:42:35.440Z"
                 }
             ]
         },
@@ -3831,59 +3915,6 @@
                     ],
                     "size": 18003502,
                     "date_published": "2025-12-03T00:55:41.423Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "AAQcgSQ2y70blagD",
-            "pakku_links": [
-                "2YnrKO6qEpuP0fLl",
-                "kyyzOCzqkJhCruX8"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "detailab-compat"
-            },
-            "name": {
-                "modrinth": "Detail Armor Bar Compat"
-            },
-            "id": {
-                "modrinth": "idGcORfw"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "detailab_compat-fabric-0.1.2+1.19.3.jar",
-                    "mc_versions": [
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/idGcORfw/versions/O60p6T1o/detailab_compat-fabric-0.1.2+1.19.3.jar",
-                    "id": "O60p6T1o",
-                    "parent_id": "idGcORfw",
-                    "hashes": {
-                        "sha512": "3984f7b83ad68006d8692cb37b79793023925431bf31883861fbbe94d7d4dccebef8aa3c5cb8419f6dffa1eba9e7a7d006cdae8faeeb891acc786311bf09d6e8",
-                        "sha1": "8f68ca1a3b061a48cbff3fd5462aa6e51948132f"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "hAt6ty93"
-                    ],
-                    "size": 98235,
-                    "date_published": "2025-07-25T02:36:46.691387Z"
                 }
             ]
         },
@@ -8161,6 +8192,75 @@
                     "required_dependencies": [],
                     "size": 401360,
                     "date_published": "2024-08-03T10:37:32.587818Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "q4VCuYs2lecyetVN",
+            "pakku_links": [
+                "zJdHaMqgv1dOR3pR",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "jump-over-fences",
+                "curseforge": "jump-over-fences-forge"
+            },
+            "name": {
+                "modrinth": "Jump Over Fences",
+                "curseforge": "Jump Over Fences"
+            },
+            "id": {
+                "modrinth": "4HeIHvIP",
+                "curseforge": "423421"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "jumpoverfences-fabric-1.20.1-1.3.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4HeIHvIP/versions/DuXpBGwE/jumpoverfences-fabric-1.20.1-1.3.1.jar",
+                    "id": "DuXpBGwE",
+                    "parent_id": "4HeIHvIP",
+                    "hashes": {
+                        "sha512": "04470f0bb366e4b1ebd48a82ce405e3ebaa4e5284100719c80f5f11c866f6dea249937ab8983a46d6c000ea5b8e483a523c75c90736b26b1d0777b16ce2a3dc3",
+                        "sha1": "f12109b47de6395f222a216a0328b0e04cdb23fa"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "P7dR8mSH"
+                    ],
+                    "size": 29556,
+                    "date_published": "2023-11-30T21:34:06.188242Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "jumpoverfences-fabric-1.20.1-1.3.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4915/384/jumpoverfences-fabric-1.20.1-1.3.1.jar",
+                    "id": "4915384",
+                    "parent_id": "423421",
+                    "hashes": {
+                        "sha1": "f12109b47de6395f222a216a0328b0e04cdb23fa",
+                        "md5": "a0210b3cb2daef1f809f38683bf640c2"
+                    },
+                    "required_dependencies": [],
+                    "size": 29556,
+                    "date_published": "2023-11-30T21:31:52.880Z"
                 }
             ]
         },
@@ -16593,19 +16693,49 @@
             ]
         },
         {
-            "pakku_id": "kKckJQ57mkmXwuq3",
+            "pakku_id": "G4sFhOhXkCjBPl3V",
+            "pakku_links": [
+                "CMFNPQkz0U8SNca2",
+                "lB8qWQxd3t0iHyDz"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "trashslot",
                 "modrinth": "trashslot"
             },
             "name": {
+                "curseforge": "TrashSlot",
                 "modrinth": "TrashSlot"
             },
             "id": {
+                "curseforge": "235577",
                 "modrinth": "vRYk0bv7"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trashslot-fabric-1.20.1-15.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7364/650/trashslot-fabric-1.20.1-15.1.3.jar",
+                    "id": "7364650",
+                    "parent_id": "235577",
+                    "hashes": {
+                        "sha1": "faf82eb8bb280bf5dd976f8dcbdb8036422ed094",
+                        "md5": "99f9023dbfa4ba36c697edd7c1b22256"
+                    },
+                    "required_dependencies": [
+                        "500525"
+                    ],
+                    "size": 118616,
+                    "date_published": "2025-12-22T08:26:35.507Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "trashslot-fabric-1.20-15.1.1.jar",
