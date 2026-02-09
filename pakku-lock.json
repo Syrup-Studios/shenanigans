@@ -3158,6 +3158,78 @@
             ]
         },
         {
+            "pakku_id": "gnAUl9e4p1Wkbsgx",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "craterlib",
+                "modrinth": "craterlib"
+            },
+            "name": {
+                "curseforge": "CraterLib",
+                "modrinth": "CraterLib"
+            },
+            "id": {
+                "curseforge": "867099",
+                "modrinth": "Nn8Wasaq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CraterLib-Fabric-1.20-3.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7301/622/CraterLib-Fabric-1.20-3.0.1.jar",
+                    "id": "7301622",
+                    "parent_id": "867099",
+                    "hashes": {
+                        "sha1": "940a4b9c1f3e99a25cca85a48d5bfdf42fe81ff6",
+                        "md5": "8e9b60077dbc87883cd9b4a308b9cfe6"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1245977,
+                    "date_published": "2025-12-06T20:10:38.583Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CraterLib-Fabric-1.20-3.0.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/4pifzNQX/CraterLib-Fabric-1.20-3.0.1.jar",
+                    "id": "4pifzNQX",
+                    "parent_id": "Nn8Wasaq",
+                    "hashes": {
+                        "sha512": "0e2540857c2af784ca8989bf6d77d51817b761cb9a57cb0d27c76b6d742b2a6d5851587539f481fd5645fbba7150da5ef0eeb4779a2a285bfec81e1a55c403f2",
+                        "sha1": "940a4b9c1f3e99a25cca85a48d5bfdf42fe81ff6"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1245977,
+                    "date_published": "2025-12-06T20:10:42.920161Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LKoSjjNHHQnVvHoi",
             "type": "MOD",
             "side": "BOTH",
@@ -14111,6 +14183,96 @@
                     "required_dependencies": [],
                     "size": 11775,
                     "date_published": "2024-04-25T05:48:54.165050Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "TER56I861VWaY1MH",
+            "pakku_links": [
+                "gnAUl9e4p1Wkbsgx"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "simple-discord-rpc",
+                "modrinth": "simple-discord-rpc"
+            },
+            "name": {
+                "curseforge": "Simple Discord RPC",
+                "modrinth": "Simple Discord RPC"
+            },
+            "id": {
+                "curseforge": "411816",
+                "modrinth": "ObXSoyrn"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SimpleRPC-4.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7297/826/SimpleRPC-4.0.5.jar",
+                    "id": "7297826",
+                    "parent_id": "411816",
+                    "hashes": {
+                        "sha1": "6ec6f18ac26b82101e5d78974a541f3dff6ca1c4",
+                        "md5": "a50e60d4ff0297eef39f6e67f01d983c"
+                    },
+                    "required_dependencies": [
+                        "867099"
+                    ],
+                    "size": 714159,
+                    "date_published": "2025-12-05T19:08:14.203Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "SimpleRPC-4.0.5.jar",
+                    "mc_versions": [
+                        "1.18.2",
+                        "1.19.2",
+                        "1.20",
+                        "1.20.1",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ObXSoyrn/versions/Ttdlq9TH/SimpleRPC-4.0.5.jar",
+                    "id": "Ttdlq9TH",
+                    "parent_id": "ObXSoyrn",
+                    "hashes": {
+                        "sha512": "929f28dc678e43b731f9f2792504baf7bcfc86090fd6ce18a1bcaeeb74a8d6d83ab7ecb17854e777d124a6c21d019236ab8b1c3706ce2045a11a69aeae19df4a",
+                        "sha1": "6ec6f18ac26b82101e5d78974a541f3dff6ca1c4"
+                    },
+                    "required_dependencies": [
+                        "Nn8Wasaq"
+                    ],
+                    "size": 714159,
+                    "date_published": "2025-12-05T19:08:18.583298Z"
                 }
             ]
         },
