@@ -998,6 +998,74 @@
             ]
         },
         {
+            "pakku_id": "HJ3Hwwkj7dm9pASw",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "better-compatibility-checker",
+                "modrinth": "better-compatibility-checker"
+            },
+            "name": {
+                "curseforge": "Better Compatibility Checker",
+                "modrinth": "Better Compatibility Checker"
+            },
+            "id": {
+                "curseforge": "551894",
+                "modrinth": "KJhXPbHQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4688/939/BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar",
+                    "id": "4688939",
+                    "parent_id": "551894",
+                    "hashes": {
+                        "sha1": "8aa26b0ec2f48e65598fab5cf08cea569d87dc48",
+                        "md5": "a2c45a305f6471fd9884ba3b38fbb65d"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 26886,
+                    "date_published": "2023-08-08T16:32:58.143Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KJhXPbHQ/versions/gatP97QZ/BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+                    "id": "gatP97QZ",
+                    "parent_id": "KJhXPbHQ",
+                    "hashes": {
+                        "sha512": "b6b042dde4d58d858dc7dbad95c40020ad1f9e54e6c078f4534b1df1253f3f339e32d55d83f3796030b0f11a495cfcf872ef5c48750591121ce4bb32147709f4",
+                        "sha1": "0c4dda5c9ebe5fcedd829996a272009f3122630a"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 26039,
+                    "date_published": "2023-09-16T14:39:59.295390Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Fph2F8dQ55RCNZBG",
             "type": "MOD",
             "side": "CLIENT",
