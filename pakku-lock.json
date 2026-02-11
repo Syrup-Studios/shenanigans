@@ -1066,6 +1066,74 @@
             ]
         },
         {
+            "pakku_id": "i0IMDayQBFdyGvFo",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "betterdays",
+                "modrinth": "betterdays"
+            },
+            "name": {
+                "curseforge": "Better Days",
+                "modrinth": "Better Days"
+            },
+            "id": {
+                "curseforge": "895618",
+                "modrinth": "tPLE214j"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "betterdays-1.20.1-3.3.4.5-FABRIC.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7046/760/betterdays-1.20.1-3.3.4.5-FABRIC.jar",
+                    "id": "7046760",
+                    "parent_id": "895618",
+                    "hashes": {
+                        "sha1": "9f37e454480ac89607f1040d55c6c8348ba07e04",
+                        "md5": "47122a2854da5a31fb26221d4d8c8c65"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 793234,
+                    "date_published": "2025-09-29T21:04:46.147Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "betterdays-1.20.1-3.3.4.5-FABRIC.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tPLE214j/versions/cwWtzkRW/betterdays-1.20.1-3.3.4.5-FABRIC.jar",
+                    "id": "cwWtzkRW",
+                    "parent_id": "tPLE214j",
+                    "hashes": {
+                        "sha512": "bab13fac12a08f19d276407ce1d643af1529fe4a5220d1722aff6f444065fba5b1fffb04146137bf595256a75e4b67bbcd3c4e0e5122a741b4d7f59e0823afd6",
+                        "sha1": "9f37e454480ac89607f1040d55c6c8348ba07e04"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 793234,
+                    "date_published": "2025-09-29T21:04:48.057888Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Fph2F8dQ55RCNZBG",
             "type": "MOD",
             "side": "CLIENT",
@@ -4987,75 +5055,6 @@
             ]
         },
         {
-            "pakku_id": "0VOAHRJ7tFabf53P",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "easy-magic",
-                "modrinth": "easy-magic"
-            },
-            "name": {
-                "curseforge": "Easy Magic",
-                "modrinth": "Easy Magic"
-            },
-            "id": {
-                "curseforge": "456239",
-                "modrinth": "9hx3AbJM"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "EasyMagic-v8.0.1-1.20.1-Fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/9hx3AbJM/versions/9Jw4urvo/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
-                    "id": "9Jw4urvo",
-                    "parent_id": "9hx3AbJM",
-                    "hashes": {
-                        "sha512": "359783536d189f2ea9b79828890483858eae1c286aafd50a3b674888d99372d11c945c4648e35eb65e16af0e6f605485585dfaa48ab040f73aa916c47ac6689d",
-                        "sha1": "08f95e61a1c9c1a51905962455c3f5a8e2809257"
-                    },
-                    "required_dependencies": [
-                        "QAGBst4M",
-                        "P7dR8mSH",
-                        "ohNO6lps"
-                    ],
-                    "size": 104693,
-                    "date_published": "2023-07-22T19:00:57.714867Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "EasyMagic-v8.0.1-1.20.1-Fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4658/749/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
-                    "id": "4658749",
-                    "parent_id": "456239",
-                    "hashes": {
-                        "sha1": "08f95e61a1c9c1a51905962455c3f5a8e2809257",
-                        "md5": "44d78d2ca99e6d5f4e9fdcfd2c5daec5"
-                    },
-                    "required_dependencies": [
-                        "306612",
-                        "495476",
-                        "547434"
-                    ],
-                    "size": 104693,
-                    "date_published": "2023-07-22T19:00:52.860Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "zdArj3wqpRDzG2zf",
             "type": "MOD",
             "side": "CLIENT",
@@ -5372,6 +5371,74 @@
                     ],
                     "size": 297767,
                     "date_published": "2023-07-30T09:55:01.353Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "NmcKXbxpI2FsnMrK",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "enchanting-system-overhaul",
+                "modrinth": "enchanting-system-overhaul"
+            },
+            "name": {
+                "curseforge": "Enchanting System Overhaul",
+                "modrinth": "Enchanting System Overhaul"
+            },
+            "id": {
+                "curseforge": "960121",
+                "modrinth": "CxaV51ez"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "eso-fabric-1.20.1-1.2.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5463/25/eso-fabric-1.20.1-1.2.2.jar",
+                    "id": "5463025",
+                    "parent_id": "960121",
+                    "hashes": {
+                        "sha1": "c85f9f7f2ea0f30cf2f34d69185c145fdb0106ea",
+                        "md5": "3fa8f72874a112cd72632be35040eb4a"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 163986,
+                    "date_published": "2024-06-23T12:04:42.940Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "eso-fabric-1.20.1-1.2.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CxaV51ez/versions/mHwxF7TE/eso-fabric-1.20.1-1.2.2.jar",
+                    "id": "mHwxF7TE",
+                    "parent_id": "CxaV51ez",
+                    "hashes": {
+                        "sha512": "81400b8a24c4dd3a492d0367031bb823f5d266c7df52525fe0ed4d3d41b81d4ada0b0d79935297c68c718114bb9e0c98a78afeb4100dc9233ca5523ef4ade540",
+                        "sha1": "c85f9f7f2ea0f30cf2f34d69185c145fdb0106ea"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 163986,
+                    "date_published": "2024-06-23T12:09:49.178760Z"
                 }
             ]
         },
