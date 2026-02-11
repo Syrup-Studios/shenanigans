@@ -1,6 +1,6 @@
 {
     "name": "Shenanigans",
-    "version": "0.0.12-alpha",
+    "version": "0.0.13-alpha",
     "author": "Salad",
     "paths": {
         "data_packs": "./kubejs/data/",
@@ -13,7 +13,7 @@
         "athena": {
             "side": "BOTH"
         },
-        "data-anchor": {
+        "continuity": {
             "update_strategy": "NONE"
         }
     }

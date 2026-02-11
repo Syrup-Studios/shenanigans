@@ -1,0 +1,267 @@
+
+#General Config Section. See https://srpc.fdd-docs.com/introduction/
+[general]
+	#The Application ID of the Discord App to use
+	applicationID = "1470367676416131092"
+	#Enable/Disable the mod
+	enabled = true
+	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
+	debugging = false
+	#Display the Icon and Pack Name in place of LargeImage from compatible launchers. DOES NOT WORK WITH CUSTOM APPS! ONLY THE DEFAULT ONE!
+	launcherIntegration = false
+	#Allow using local image files, as RPC icons
+	rpcImageServer = false
+	#The URL of the RPC image server that will be used for local images. Restart required when changed
+	rpcImageServerUrl = ""
+	#Internal Version Number. NO TOUCHY!
+	version = 26
+
+#The Game Loading event
+[init]
+	#Enable/Disable the Game Loading Event
+	enabled = true
+
+	[[init.presence]]
+		type = "PLAYING"
+		description = "@name@ is loading"
+		state = "Game Starting..."
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["mclogo"]
+		smallImageText = "{{game.mods}} mods installed"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[init.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#The Main Menu event
+[main_menu]
+	#Enable/Disable the Main Menu Event
+	enabled = true
+
+	[[main_menu.presence]]
+		type = "PLAYING"
+		description = "{{player.name}} is currently lazy"
+		state = "Chilling in the menu"
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[main_menu.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#The Server List event
+[server_list]
+	#Enable/Disable the Server List Event
+	enabled = true
+
+	[[server_list.presence]]
+		type = "PLAYING"
+		description = "{{player.name}} is looking for a server"
+		state = "Searching for friends"
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[server_list.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#The Realms Screen event
+[realms_list]
+	#Enable/Disable the Realms Screen Event
+	enabled = true
+
+	[[realms_list.presence]]
+		type = "PLAYING"
+		description = "{{player.name}} is looking for a Realm"
+		state = "Browsing Realms"
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[realms_list.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#The Join Game Event
+[join_game]
+	#Enable/Disable the Join Game Event
+	enabled = true
+
+	[[join_game.presence]]
+		type = "PLAYING"
+		description = "{{player.name}} is joining a game"
+		state = "Joining Game"
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[join_game.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#The Single Player Event
+[single_player]
+	#Enable/Disable the Single Player Event
+	enabled = true
+
+	[[single_player.presence]]
+		type = "PLAYING"
+		description = "Currently In {{world.name}}"
+		state = "Playing lonely mode"
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[single_player.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#The Multi Player Event
+[multi_player]
+	#Enable/Disable the Multi Player Event
+	enabled = true
+
+	[[multi_player.presence]]
+		type = "PLAYING"
+		description = "Playing on {{server.name}} with {{server.players.count}} players"
+		state = "Playing online"
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[multi_player.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#The Realms Game Event
+[realms]
+	#Enable/Disable the Realms Game Event
+	enabled = true
+
+	[[realms.presence]]
+		type = "PLAYING"
+		description = "Playing on {{realm.name}}"
+		state = "Playing on a Realm"
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[realms.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#The Paused Event
+[paused]
+	#Enable/Disable the Pause Event
+	enabled = true
+
+	[[paused.presence]]
+		type = "PLAYING"
+		description = "In the Pause Menu"
+		state = "Game Paused"
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["{{images.player}}"]
+		smallImageText = "{{player.name}}"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[paused.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#Fallback event for disabled events
+[generic]
+
+	[[generic.presence]]
+		type = "PLAYING"
+		description = "Playing the @name@ Modpack!"
+		state = ""
+		largeImageKey = ["mclogonew"]
+		largeImageText = "Playing @name@ version @version@"
+		smallImageKey = ["mclogo"]
+		smallImageText = "{{game.mods}} mods installed"
+		streamingActivityUrl = "https://twitch.tv/twitch"
+
+		[[generic.presence.buttons]]
+			label = "{{custom.downloadbutton}}"
+			url = "{{custom.modrinthlink}}"
+
+#Custom Config Variables that you can use
+[custom]
+	#Must these variables be parsed along with other variables
+	enabled = true
+
+	#Your custom variables to add
+	[[custom.variables]]
+		name = "downloadbutton"
+		value = "Get the Pack!"
+
+	[[custom.variables]]
+		name = "modrinthlink"
+		value = "https://modrinth.com/modpack/shenanigans"
+
+#Dimension Information Overrides
+[dimension_overrides]
+	#Allows you to override the displayed values for dimensions
+	enabled = false
+
+	[[dimension_overrides.dimensions]]
+		name = "overworld"
+
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}} is in The Overworld"
+			state = ""
+			largeImageKey = ["overworld"]
+			largeImageText = "In the Overworld"
+			smallImageKey = ["mclogo"]
+			smallImageText = "{{game.mods}} mods installed"
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			buttons = []
+
+	[[dimension_overrides.dimensions]]
+		name = "the_nether"
+
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}} is in The Nether"
+			state = ""
+			largeImageKey = ["nether"]
+			largeImageText = "In the Nether"
+			smallImageKey = ["mclogo"]
+			smallImageText = "{{game.mods}} mods installed"
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			buttons = []
+
+	[[dimension_overrides.dimensions]]
+		name = "the_end"
+
+		[[dimension_overrides.dimensions.presence]]
+			type = "PLAYING"
+			description = "{{player.name}} is in The End"
+			state = ""
+			largeImageKey = ["end"]
+			largeImageText = "In the End"
+			smallImageKey = ["mclogo"]
+			smallImageText = "{{game.mods}} mods installed"
+			streamingActivityUrl = "https://twitch.tv/twitch"
+			buttons = []
+
