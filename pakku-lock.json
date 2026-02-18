@@ -3431,6 +3431,74 @@
             ]
         },
         {
+            "pakku_id": "1AA1N8BbCIHqOfSN",
+            "pakku_links": [
+                "uAfFWm2rEb2ggpg4"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "copycats",
+                "modrinth": "copycats"
+            },
+            "name": {
+                "curseforge": "Create: Copycats+",
+                "modrinth": "Create: Copycats+"
+            },
+            "id": {
+                "curseforge": "968398",
+                "modrinth": "UT2M39wf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "copycats-3.0.7+mc.1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7634/683/copycats-3.0.7+mc.1.20.1-fabric.jar",
+                    "id": "7634683",
+                    "parent_id": "968398",
+                    "hashes": {
+                        "sha1": "5313c6da1030e72bbb9d0bf9ab65022beb150a13",
+                        "md5": "5739837415352078cb3d7fe5e675c229"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 1996934,
+                    "date_published": "2026-02-16T17:37:41.107Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "copycats-3.0.7+mc.1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/dMrxOciv/copycats-3.0.7+mc.1.20.1-fabric.jar",
+                    "id": "dMrxOciv",
+                    "parent_id": "UT2M39wf",
+                    "hashes": {
+                        "sha512": "024d5aaacb96a73afe0c2d3810e7fbc0263bef2cd296f2b7b90593700e3ff9414f72e05e4a5301eee5bf8e337c6bab89d69bfd79d9ff0956ef207eb6639cf66c",
+                        "sha1": "5313c6da1030e72bbb9d0bf9ab65022beb150a13"
+                    },
+                    "required_dependencies": [
+                        "Xbc0uyRg"
+                    ],
+                    "size": 1996934,
+                    "date_published": "2026-02-16T17:37:43.286295Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5oJYJ9VQafRgSY7f",
             "type": "MOD",
             "side": "BOTH",
@@ -13020,48 +13088,6 @@
                     ],
                     "size": 33078,
                     "date_published": "2024-05-30T21:37:32.167Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "Ks7rNQvzNvpC5IjC",
-            "pakku_links": [
-                "RjGdALOn8S9NpH6I"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "reframed"
-            },
-            "name": {
-                "modrinth": "ReFramed"
-            },
-            "id": {
-                "modrinth": "jCpoCBpn"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ReFramed-1.6.6.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/jCpoCBpn/versions/qUajV4uc/ReFramed-1.6.6.jar",
-                    "id": "qUajV4uc",
-                    "parent_id": "jCpoCBpn",
-                    "hashes": {
-                        "sha512": "358d81a47258e1e2b6c0918803b5b2c3d4b334d6f23b50b5fc5b3cb56bbcd6b9616f22ad226b4df0545ad9d0d722bc220e7d610f20813a8e0d9111b63f57ccaa",
-                        "sha1": "a1d656b76824fac79bb360bee8f13e1f89274f61"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 758876,
-                    "date_published": "2024-07-01T22:56:40.658926Z"
                 }
             ]
         },
