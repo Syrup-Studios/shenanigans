@@ -7,4 +7,4 @@
 #.
 #Interval between keepalive requests, in minutes.
 #Range: > -2147483648
-"Update Rate" = 1
+"Update Rate" = 10
