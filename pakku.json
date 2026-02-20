@@ -1,6 +1,6 @@
 {
     "name": "Shenanigans",
-    "version": "0.0.13-alpha",
+    "version": "0.0.14-alpha",
     "author": "Salad",
     "paths": {
         "data_packs": "./kubejs/data/",
