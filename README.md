@@ -6,6 +6,8 @@ _Looking for playtesters, info below!_
 
 [![Built with Pakku](https://raw.githubusercontent.com/juraj-hrivnak/Pakku/main/docs/images/compact_vector.svg)](https://github.com/juraj-hrivnak/Pakku) [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/modpack/shenanigans)
 
+***
+
 This is our attempt at creating a nice and pleasant Vanilla++ Experience with many opinionated changes to make it feel very comfortable and familiar.
 
 *   Overhauled Biomes — Discover new surface biomes, along with cave biomes & cool features!
@@ -25,13 +27,18 @@ We want to bring all mods and additions together in a way that feels natural, an
 
 This pack has been in the works for over 2 years (LOTS of procrastination), and I'm finally wanting to bring it to light to make it the gameplay experience I envisioned so long ago.
 
+***
+
 ### Looking for playtester!
 
 We are also looking for playtesters on our [Discord](https://discord.gg/RPEz5JX4EM)!
 
 If you encounter any glitches & crashes, or if you have any suggestions, you can tell me by joining [Discord](https://discord.gg/RPEz5JX4EM) or opening an issue on [GitHub](https://github.com/SodaSyrup/shenanigans/issues)
 
+***
 
 [![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-plural_vector.svg)](https://ko-fi.com/saladsyrup)
 
+#### Telemetry
 
+This Pack collects data on how many active instances are running, click [here](https://syrup-studios.github.io/guidingit/help/analytics/) to read more
