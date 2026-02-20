@@ -10992,21 +10992,24 @@
             ]
         },
         {
-            "pakku_id": "764oMBvXHA5NRs7Y",
+            "pakku_id": "qD01zPsPr7yx7k3U",
             "pakku_links": [
-                "3FpAARvZ6uHWZyzN",
-                "zJdHaMqgv1dOR3pR"
+                "zJdHaMqgv1dOR3pR",
+                "3FpAARvZ6uHWZyzN"
             ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
-                "modrinth": "motor-assistance"
+                "modrinth": "motor-assistance",
+                "curseforge": "aim-assistance-fabric"
             },
             "name": {
-                "modrinth": "Motor Assistance"
+                "modrinth": "Motor Assistance",
+                "curseforge": "Aim Assistance - Fabric"
             },
             "id": {
-                "modrinth": "PpYYCciX"
+                "modrinth": "PpYYCciX",
+                "curseforge": "676747"
             },
             "files": [
                 {
@@ -11027,11 +11030,35 @@
                         "sha1": "7c35f8b584c845fd67d1b796b6089444144e87f2"
                     },
                     "required_dependencies": [
-                        "Ha28R6CL",
-                        "9s6osm5g"
+                        "9s6osm5g",
+                        "Ha28R6CL"
                     ],
                     "size": 81354,
                     "date_published": "2023-09-04T17:42:06.591137Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "motorassistance-2.1.0-MC1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4738/120/motorassistance-2.1.0-MC1.20.1-fabric.jar",
+                    "id": "4738120",
+                    "parent_id": "676747",
+                    "hashes": {
+                        "sha1": "7c35f8b584c845fd67d1b796b6089444144e87f2",
+                        "md5": "b470ba33908a474f57c1f1252a6a2bc9"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "308769"
+                    ],
+                    "size": 81354,
+                    "date_published": "2023-09-04T17:43:40.963Z"
                 }
             ]
         },
