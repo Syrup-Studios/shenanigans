@@ -1,6 +1,6 @@
 #.
 #URL to send data to.
-"Metrics Endpoint URL" = "https://n8n.bysalad.studio/webhook-test/pack-analytics-receiver"
+"Metrics Endpoint URL" = "https://n8n.bysalad.studio/webhook/pack-analytics-receiver"
 #.
 #Identifier for this modpack
 "Pack ID" = "shenanigans"
