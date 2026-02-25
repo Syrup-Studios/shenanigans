@@ -11,4 +11,10 @@ ItemEvents.tooltip(event => {
             text.add(2, Text.gray('Use Blast Furnace for faster smelting.'));
         }
     });
+
+    const item_frames = ['minecraft:glow_item_frame', 'minecraft:item_frame']
+
+        event.addAdvanced(item_frames, (item, advanced, text) => {
+            text.add(1, Text.gray('Shift + Right Click to toggle invisible item frame.'));
+    });
 })
