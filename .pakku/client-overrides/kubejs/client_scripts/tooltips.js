@@ -15,6 +15,7 @@ ItemEvents.tooltip(event => {
     const item_frames = ['minecraft:glow_item_frame', 'minecraft:item_frame']
 
         event.addAdvanced(item_frames, (item, advanced, text) => {
-            text.add(1, Text.gray('Shift + Right Click to toggle invisible item frame.'));
+            text.add(1, Text.gray('Place an item and'));
+            text.add(2, Text.gray('Crouch + Right Click to toggle invisible item frame.'));
     });
 })
