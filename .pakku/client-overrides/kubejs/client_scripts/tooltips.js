@@ -18,4 +18,10 @@ ItemEvents.tooltip(event => {
             text.add(1, Text.gray('Place an item and'));
             text.add(2, Text.gray('Crouch + Right Click to toggle invisible item frame.'));
     });
+
+    const clocks = ['supplementaries:clock_block', 'minecraft:clock', 'create:cuckoo_clock', 'create:clockwork_bearing', 'luphieclutteredmod:luphie_darkwood_clock']
+
+        event.addAdvanced(clocks, (item, advanced, text) => {
+            text.add(1, Text.gray('The days are 40 minutes and the nights are 20 minutes!'));
+    });
 })
