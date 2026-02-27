@@ -3365,6 +3365,51 @@
             ]
         },
         {
+            "pakku_id": "41BEAEqz6UpInj0r",
+            "pakku_links": [
+                "uAfFWm2rEb2ggpg4"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-deco",
+                "modrinth": "create-deco"
+            },
+            "name": {
+                "curseforge": "Create Deco",
+                "modrinth": "Create Deco"
+            },
+            "id": {
+                "curseforge": "509285",
+                "modrinth": "sMvUb4Rb"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "createdeco-2.1.1-1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/OHgy53E6/createdeco-2.1.1-1.20.1-fabric.jar",
+                    "id": "OHgy53E6",
+                    "parent_id": "sMvUb4Rb",
+                    "hashes": {
+                        "sha512": "96153a62eac6c98d80a29ff5186cf38c304ffaa0463867c6ac6826db8b3234230e78503dcbbac2bc81d467c9f2a07d4fb3b1908d7b6e85d775aabc1492c682d1",
+                        "sha1": "8af20ce558c8027016dfd99cc118a7bc1289a7f7"
+                    },
+                    "required_dependencies": [
+                        "Xbc0uyRg"
+                    ],
+                    "size": 3492044,
+                    "date_published": "2026-02-24T15:02:45.087984Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uAfFWm2rEb2ggpg4",
             "type": "MOD",
             "side": "BOTH",
