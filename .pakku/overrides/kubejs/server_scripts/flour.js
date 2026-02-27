@@ -12,6 +12,6 @@ ServerEvents.recipes(event => {
       [pestle, '#forge:grains/wheats']            // Inputs
     )
     .damageIngredient(pestle)                     // Damages the pestle by 1
-    .id(`homestead:wheat_flour_with_${pestle.replace(':', '_')}`); // Unique ID
+    .id(`syrupstudios:wheat_flour_with_${pestle.replace(':', '_')}`); // Unique ID
   });
 });
