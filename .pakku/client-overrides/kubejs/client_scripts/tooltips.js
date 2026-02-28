@@ -4,10 +4,10 @@ ItemEvents.tooltip(event => {
 
     event.addAdvanced(raw_ores, (item, advanced, text) => {
         if (!event.shift) {
-            text.add(1, Text.gray('Smelts slower in a normal furnace.'));
+            text.add(1, Text.gray('Smelts way slower in a normal furnace now.'));
             text.add(2, Text.gray('Hold Shift for more info.'));
         } else {
-            text.add(1, Text.gray('Smelts slower in a normal furnace.'));
+            text.add(1, Text.gray('Smelts way slower in a normal furnace now.'));
             text.add(2, Text.gray('Use Blast Furnace for faster smelting.'));
         }
     });
