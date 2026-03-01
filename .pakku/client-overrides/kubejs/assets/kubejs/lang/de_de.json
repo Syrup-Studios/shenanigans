@@ -4,7 +4,7 @@
     "tooltip.kubejs.raw_ores.blast": "Verwende einen Schmelzofen für schnelleres Schmelzen.",
 
     "tooltip.kubejs.item_frames.1": "Platziere einen Gegenstand und",
-    "tooltip.kubejs.item_frames.2": "Schleichen + Rechtsklick, um den Gegenstandsrahmen unsichtbar zu machen.",
+    "tooltip.kubejs.item_frames.2": "Schleichen + Rechtsklick, um den Rahmen unsichtbar zu machen.",
 
-    "tooltip.kubejs.clocks.day_cycle": "Die Tage dauern 40 Minuten und die Nächte 20 Minuten!"
+    "tooltip.kubejs.clocks.day_cycle": "Die Tage dauern 40 und die Nächte 20 Minuten!"
 }
