@@ -16,7 +16,7 @@ ItemEvents.tooltip(event => {
 
         event.addAdvanced(item_frames, (item, advanced, text) => {
             text.add(1, Component.translate('tooltip.kubejs.item_frames.1').gray());
-            text.add(1, Component.translate('tooltip.kubejs.item_frames.2').gray());
+            text.add(2, Component.translate('tooltip.kubejs.item_frames.2').gray());
     });
 
     const clocks = ['supplementaries:clock_block', 'minecraft:clock', 'create:cuckoo_clock', 'create:clockwork_bearing', 'luphieclutteredmod:luphie_darkwood_clock']
