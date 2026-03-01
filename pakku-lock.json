@@ -7184,8 +7184,8 @@
             ]
         },
         {
-            "pakku_id": "uBKCZGjA7pTKhRLA",
-            "type": "DATA_PACK",
+            "pakku_id": "HRAu9KSOlFSMmYN1",
+            "type": "MOD",
             "side": "SERVER",
             "slug": {
                 "curseforge": "geophilic",
@@ -7232,7 +7232,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "Geophilic 3.4.6.dp.zip",
+                    "file_name": "Geophilic v3.4.6.mod.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -7255,19 +7255,22 @@
                         "1.21.11"
                     ],
                     "loaders": [
-                        "datapack"
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/POZ6ECW4/Geophilic 3.4.6.dp.zip",
-                    "id": "POZ6ECW4",
+                    "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/Vk4cYx6F/Geophilic v3.4.6.mod.jar",
+                    "id": "Vk4cYx6F",
                     "parent_id": "hl5OLM95",
                     "hashes": {
-                        "sha512": "034ebfe0cbbd6807cd6ed38b05e4d41642b67ee77430243a89ef812cf5706a76f40cda29c3e9dfb1e40f362a8740c05d2b55ca57e4130f43895a09b8f54a98e4",
-                        "sha1": "6b2b1651ea51c040b9c36d8f9076a6779c048623"
+                        "sha512": "5d0ac03046a6524f015c6c380e5fce59d8b763eec5fd5b6b301d67418d25a726088e94d96381ec577425d03f7d70c3b711cfd13eea29e7a48a02e95a5fb11065",
+                        "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5"
                     },
                     "required_dependencies": [],
-                    "size": 749809,
-                    "date_published": "2026-01-12T14:42:06.140225Z"
+                    "size": 751598,
+                    "date_published": "2026-01-12T14:44:30.635277Z"
                 }
             ]
         },
@@ -7842,8 +7845,8 @@
             ]
         },
         {
-            "pakku_id": "t4vlkiKuYNYfu9cW",
-            "type": "DATA_PACK",
+            "pakku_id": "hN5fyEuZ9RS10MPO",
+            "type": "MOD",
             "side": "SERVER",
             "slug": {
                 "curseforge": "incendium",
@@ -17178,8 +17181,8 @@
             ]
         },
         {
-            "pakku_id": "mXelVZHFxq7jykBa",
-            "type": "DATA_PACK",
+            "pakku_id": "zO1fgQDRr9PhFobd",
+            "type": "MOD",
             "side": "SERVER",
             "slug": {
                 "curseforge": "tidal-towns",
@@ -17223,7 +17226,7 @@
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "tidal_1.3.4.zip",
+                    "file_name": "tidal-towns-1.3.4.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -17232,19 +17235,22 @@
                         "1.20.4"
                     ],
                     "loaders": [
-                        "datapack"
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/wSiPniLg/tidal_1.3.4.zip",
-                    "id": "wSiPniLg",
+                    "url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/aAa24NQe/tidal-towns-1.3.4.jar",
+                    "id": "aAa24NQe",
                     "parent_id": "EEIwvQVo",
                     "hashes": {
-                        "sha512": "ddc626d00f26c40069c39875a4c5a8cffc2e66dd2c88891a624a14288f7c49babf8b213587eab3e8590c462d7846b853722d6a54d8d5ec3248b39b129073ab70",
-                        "sha1": "d66480674a9f3e1b4fb9472bc77de54fd8297e30"
+                        "sha512": "1992f0b4b9ec7d89a4ab9cd96b652f89171941b8c0baf8fa6d22d1d92b6fc5ca7088e04738beda8a93319f35ad5a0ea1ca9e304d0324dec28dc35e84b3592e51",
+                        "sha1": "a0a8db8df7a471e75b53e3fa8cafc7ca767f5506"
                     },
                     "required_dependencies": [],
-                    "size": 56300,
-                    "date_published": "2024-11-28T17:03:12.332603Z"
+                    "size": 110098,
+                    "date_published": "2024-11-28T17:04:11.234907Z"
                 }
             ]
         },
