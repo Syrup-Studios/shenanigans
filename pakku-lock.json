@@ -7476,6 +7476,72 @@
             ]
         },
         {
+            "pakku_id": "wyjw0BVKp10f44L3",
+            "pakku_links": [
+                "JF6FKF1u7X4j8nIu"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "treechop",
+                "modrinth": "treechop"
+            },
+            "name": {
+                "curseforge": "HT's TreeChop",
+                "modrinth": "HT's TreeChop"
+            },
+            "id": {
+                "curseforge": "421377",
+                "modrinth": "gHoB7SHO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "TreeChop-1.20.1-fabric-0.19.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5168/479/TreeChop-1.20.1-fabric-0.19.0.jar",
+                    "id": "5168479",
+                    "parent_id": "421377",
+                    "hashes": {
+                        "sha1": "2b2821168355d9c96fcd26d59c4138ac9d155f00",
+                        "md5": "f181028c281de7ef1fe6a4654611ccbc"
+                    },
+                    "required_dependencies": [],
+                    "size": 490611,
+                    "date_published": "2024-03-09T05:46:05.960Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "TreeChop-1.20.1-fabric-0.19.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gHoB7SHO/versions/tIdTnzkf/TreeChop-1.20.1-fabric-0.19.0.jar",
+                    "id": "tIdTnzkf",
+                    "parent_id": "gHoB7SHO",
+                    "hashes": {
+                        "sha512": "f483b3884b22203d29a3637b74bd4524267e23956ab02f86074653a3530d2b8a550004013f5986e123f9c1ebe66b6feaa2a31433ae4a0eae0fd1ca9df07c3958",
+                        "sha1": "2b2821168355d9c96fcd26d59c4138ac9d155f00"
+                    },
+                    "required_dependencies": [
+                        "ohNO6lps"
+                    ],
+                    "size": 490611,
+                    "date_published": "2024-03-09T05:47:48.325298Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "nLnVWbNFvWnkThY1",
             "type": "MOD",
             "side": "BOTH",
