@@ -17026,6 +17026,43 @@
             ]
         },
         {
+            "pakku_id": "C5WNmleWG17hjWRc",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "syrup-essentials"
+            },
+            "name": {
+                "modrinth": "Syrup Essentials"
+            },
+            "id": {
+                "modrinth": "5ilOuE0e"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "syrup-essentials-0.0.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/3jWuS8Sj/syrup-essentials-0.0.1-1.20.1.jar",
+                    "id": "3jWuS8Sj",
+                    "parent_id": "5ilOuE0e",
+                    "hashes": {
+                        "sha512": "54d0ef2bb5eadcfc7f33c25baccf4ec740cb41fc4be2845c1da7959a1c1db72250aa031d9d8ee66f6ae979855837fefd858042ec563e07eac0b69f9e4b7bc49c",
+                        "sha1": "499a93b9f2ae96cd4c03adddc99678cfd1f6ab1d"
+                    },
+                    "required_dependencies": [],
+                    "size": 16991,
+                    "date_published": "2026-01-29T22:20:28.252056Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UXuIhctWFtV3Qw73",
             "type": "MOD",
             "side": "BOTH",
