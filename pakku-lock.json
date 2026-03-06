@@ -10502,6 +10502,46 @@
             ]
         },
         {
+            "pakku_id": "QnV9Hd1xW3FKTeo2",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "mastercutter"
+            },
+            "name": {
+                "modrinth": "MasterCutter"
+            },
+            "id": {
+                "modrinth": "DuUMFIfX"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "mastercutter-1.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DuUMFIfX/versions/Rrk1Nhoe/mastercutter-1.1.jar",
+                    "id": "Rrk1Nhoe",
+                    "parent_id": "DuUMFIfX",
+                    "hashes": {
+                        "sha512": "15d884a75dcaad112cb3d2943c14a44fc973204ce3c1c9d6a95c93d148e56f9027e31699f27a09619e2cbbbf9f3c5575f07272681d087dadb8214ca4390e142b",
+                        "sha1": "4a02fcc1bd19140570fbaae56112d554e0a7b26b"
+                    },
+                    "required_dependencies": [],
+                    "size": 330607,
+                    "date_published": "2023-11-29T19:37:54.524938Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "bfAo1oJ0aQbBRcIx",
             "type": "MOD",
             "side": "BOTH",
