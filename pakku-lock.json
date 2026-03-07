@@ -2499,6 +2499,67 @@
             ]
         },
         {
+            "pakku_id": "jeatxXwQ7JqrD9NP",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "colorwheel-patcher",
+                "modrinth": "colorwheel-patcher"
+            },
+            "name": {
+                "curseforge": "Colorwheel Patcher",
+                "modrinth": "Colorwheel Patcher"
+            },
+            "id": {
+                "curseforge": "1285475",
+                "modrinth": "KPsw5jDu"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7397/575/colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar",
+                    "id": "7397575",
+                    "parent_id": "1285475",
+                    "hashes": {
+                        "sha1": "edea4ba488f796c59656342a1073843ea0982f4b",
+                        "md5": "7033cc889e3bffe87b02e2eb67e171cc"
+                    },
+                    "required_dependencies": [],
+                    "size": 206913,
+                    "date_published": "2025-12-30T19:53:17.740Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KPsw5jDu/versions/DVaZpyHc/colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar",
+                    "id": "DVaZpyHc",
+                    "parent_id": "KPsw5jDu",
+                    "hashes": {
+                        "sha512": "3c155408363708a2d70df30e9890a627d1133755c9995a2b5603429958ba4e6c0e50fcc1c9f13ac925a05f5fd621440f7f923c08615efc749c346d5009258e69",
+                        "sha1": "edea4ba488f796c59656342a1073843ea0982f4b"
+                    },
+                    "required_dependencies": [],
+                    "size": 206913,
+                    "date_published": "2025-12-30T19:53:19.061305Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "u742i0R1iF3NVORt",
             "type": "MOD",
             "side": "BOTH",
