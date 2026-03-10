@@ -3754,7 +3754,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Steam_Rails-1.6.15-beta+fabric-mc1.20.1.jar",
+                    "file_name": "Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3762,23 +3762,24 @@
                         "fabric",
                         "quilt"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/YC8Fi2Uf/Steam_Rails-1.6.15-beta+fabric-mc1.20.1.jar",
-                    "id": "YC8Fi2Uf",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/s6L4oIfv/Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
+                    "id": "s6L4oIfv",
                     "parent_id": "ZzjhlDgM",
                     "hashes": {
-                        "sha512": "12f6b749988214e4b34c9f20a66527abc10133fae5b465597b0987658b8c8333155a22d2895e6c663be33ecad4ffc63694ce994600ff69d3f7a8009ac23d913e",
-                        "sha1": "2930fc022d2f93b07c5837d6ff9d0727a6ab7f9b"
+                        "sha512": "9bf19d275baa1d9208f17845d609e76abe8ed5150b1986b71e703b86a9977ed63359a575f499c3ff5334a883a05961dbad982a1827c73fcf03c3a2770c997a7d",
+                        "sha1": "72522eeb8fc32a1fc288b9f2898651bd405d7ba0"
                     },
                     "required_dependencies": [
+                        "P7dR8mSH",
                         "Xbc0uyRg"
                     ],
-                    "size": 9887158,
-                    "date_published": "2026-01-10T22:37:07.233915Z"
+                    "size": 16792922,
+                    "date_published": "2026-03-02T08:59:15.320315Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Steam_Rails-1.6.15-beta+fabric-mc1.20.1.jar",
+                    "file_name": "Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3786,19 +3787,20 @@
                         "fabric",
                         "quilt"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7443/694/Steam_Rails-1.6.15-beta+fabric-mc1.20.1.jar",
-                    "id": "7443694",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7700/116/Steam_Rails-1.7.1+fabric-mc1.20.1.jar",
+                    "id": "7700116",
                     "parent_id": "688231",
                     "hashes": {
-                        "sha1": "2930fc022d2f93b07c5837d6ff9d0727a6ab7f9b",
-                        "md5": "5fa016ccce89a6b5f32c8fc1a59714ee"
+                        "sha1": "72522eeb8fc32a1fc288b9f2898651bd405d7ba0",
+                        "md5": "2d5400451a12bf06e386437edece7852"
                     },
                     "required_dependencies": [
-                        "624165"
+                        "624165",
+                        "306612"
                     ],
-                    "size": 9887158,
-                    "date_published": "2026-01-10T22:37:05.173Z"
+                    "size": 16792922,
+                    "date_published": "2026-03-02T08:59:14.453Z"
                 }
             ]
         },
