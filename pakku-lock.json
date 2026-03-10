@@ -4751,6 +4751,48 @@
             ]
         },
         {
+            "pakku_id": "GXdJ5iJPDsJzC4XT",
+            "pakku_links": [
+                "AwRq1sYnLjT3JZ2i"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "downloader"
+            },
+            "name": {
+                "modrinth": "Downloader"
+            },
+            "id": {
+                "modrinth": "8uoaSEmr"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "downloadbypass-fabric-1.2-SNAPSHOT.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8uoaSEmr/versions/HGQyblbM/downloadbypass-fabric-1.2-SNAPSHOT.jar",
+                    "id": "HGQyblbM",
+                    "parent_id": "8uoaSEmr",
+                    "hashes": {
+                        "sha512": "638aeffa60019636fd001a6c1d2768ecd75612b4d80beb0f7c51d059ac32c9bcf387e175a93676404ef8412e5520ca9836eeb136b0b0ed312be8e4a9cdd53574",
+                        "sha1": "76122c1b538bd873b9e017b152c953e5fe0c63cf"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 3145805,
+                    "date_published": "2025-12-20T15:45:07.056386Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uTlghZfHcrEGiHPl",
             "type": "MOD",
             "side": "BOTH",
