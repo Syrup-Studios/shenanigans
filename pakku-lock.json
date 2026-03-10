@@ -5951,67 +5951,6 @@
             ]
         },
         {
-            "pakku_id": "OCllyh8eGkH73X2g",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "excavators-and-hammers",
-                "modrinth": "excavatorsandhammers"
-            },
-            "name": {
-                "curseforge": "Excavators And Hammers",
-                "modrinth": "ExcavatorsAndHammers"
-            },
-            "id": {
-                "curseforge": "1366151",
-                "modrinth": "2HaoWnJc"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "excavatorsandhammers-fabric-0.7+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/2HaoWnJc/versions/y5wWqHnu/excavatorsandhammers-fabric-0.7+mc1.20.1.jar",
-                    "id": "y5wWqHnu",
-                    "parent_id": "2HaoWnJc",
-                    "hashes": {
-                        "sha512": "983d9e86ba438282b4d3ac4409be772270f603f9c79231f1913bd7b795fd7c53daa227af2c9a977f4fdcff18fa2001d7a6c450bbfd87a657be31062980a51398",
-                        "sha1": "5065f64b02deb3d08293840b8928e12598ce1c60"
-                    },
-                    "required_dependencies": [],
-                    "size": 363843,
-                    "date_published": "2026-02-27T03:31:02.206110Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "excavatorsandhammers-fabric-0.7+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7684/466/excavatorsandhammers-fabric-0.7+mc1.20.1.jar",
-                    "id": "7684466",
-                    "parent_id": "1366151",
-                    "hashes": {
-                        "sha1": "5065f64b02deb3d08293840b8928e12598ce1c60",
-                        "md5": "67f63bf55169bc3309e59bf4e5ff676a"
-                    },
-                    "required_dependencies": [],
-                    "size": 363843,
-                    "date_published": "2026-02-27T03:32:44.797Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "O5bvavz1BFrfHxjH",
             "type": "MOD",
             "side": "BOTH",
