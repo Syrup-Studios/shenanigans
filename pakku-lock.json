@@ -12806,7 +12806,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "particlerain-4.0.0-beta.5+1.20.1-fabric.jar",
+                    "file_name": "particlerain-4.0.0-beta.6+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -12815,22 +12815,22 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/VDLJj4NA/particlerain-4.0.0-beta.5+1.20.1-fabric.jar",
-                    "id": "VDLJj4NA",
+                    "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/xrgcdsyD/particlerain-4.0.0-beta.6+1.20.1-fabric.jar",
+                    "id": "xrgcdsyD",
                     "parent_id": "nrikgvxm",
                     "hashes": {
-                        "sha512": "5690f05f6cdcae6c931f87dea723dd342eb8802c8545f116d29a474c1696107777d9ef778a2ac526ca8b0b7ff44c2df24f438dcfe6bfa6b5b7af0bdd6b292b6b",
-                        "sha1": "254b0becaca6b205cdee71bccb99d653c9b05c25"
+                        "sha512": "c590e2371fad28dfc353965376bf9d5a41c69f9ef41c53e9eab2001744346969e5d5c278ec1824cfc7c6462d9a9dd34fab431a1f92346751363c460380f8d490",
+                        "sha1": "7f7e3165e63ed7d434ecaaaf2f7b8680a4911ed1"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 594938,
-                    "date_published": "2025-12-26T00:40:08.327637Z"
+                    "size": 604036,
+                    "date_published": "2026-03-07T20:27:08.802778Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "particlerain-4.0.0-beta.5+1.20.1-fabric.jar",
+                    "file_name": "particlerain-4.0.0-beta.6+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -12839,18 +12839,18 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7378/830/particlerain-4.0.0-beta.5+1.20.1-fabric.jar",
-                    "id": "7378830",
+                    "url": "https://edge.forgecdn.net/files/7725/867/particlerain-4.0.0-beta.6+1.20.1-fabric.jar",
+                    "id": "7725867",
                     "parent_id": "421897",
                     "hashes": {
-                        "sha1": "254b0becaca6b205cdee71bccb99d653c9b05c25",
-                        "md5": "691f7016b57dbe890bcd8bc9019965fc"
+                        "sha1": "7f7e3165e63ed7d434ecaaaf2f7b8680a4911ed1",
+                        "md5": "aed71c0f741bb0950840acd85e7cbcd2"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 594938,
-                    "date_published": "2025-12-26T00:40:05.900Z"
+                    "size": 604036,
+                    "date_published": "2026-03-07T20:27:06.853Z"
                 }
             ]
         },
