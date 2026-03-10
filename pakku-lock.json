@@ -8721,29 +8721,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "xercapaint-fabric-1.20.1-1.0.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5592/163/xercapaint-fabric-1.20.1-1.0.1.jar",
-                    "id": "5592163",
-                    "parent_id": "350727",
-                    "hashes": {
-                        "sha1": "17b69bb0eb8b62be11da79963522d4612382439b",
-                        "md5": "814284b87c0727d1d37f9345af0954ad"
-                    },
-                    "required_dependencies": [],
-                    "size": 401360,
-                    "date_published": "2024-08-03T10:37:30.257Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "xercapaint-fabric-1.20.1-1.0.1.jar",
+                    "file_name": "xercapaint-fabric-1.20.1-1.1.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -8751,16 +8730,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/YOs4tZea/versions/laTdPpfY/xercapaint-fabric-1.20.1-1.0.1.jar",
-                    "id": "laTdPpfY",
+                    "url": "https://cdn.modrinth.com/data/YOs4tZea/versions/5EPykJTE/xercapaint-fabric-1.20.1-1.1.0.jar",
+                    "id": "5EPykJTE",
                     "parent_id": "YOs4tZea",
                     "hashes": {
-                        "sha512": "37c0c1d288ebf9975a8b0ee8d5d9df366199110de2b06fe4bda7f91b0460a3cb3bf1351fa3cd9109d0f2441f0bc2bc641df53ec811dd54793deb7a2e177dd6da",
-                        "sha1": "17b69bb0eb8b62be11da79963522d4612382439b"
+                        "sha512": "c4fee305b7c844300a59e8d4be3035bd53582735f0eb7fb289d591caa623d2382aff31be108c480f38b96b4263eacb8a997bb1192bb5465fcc5a08185deac516",
+                        "sha1": "62c17798b9f42bb217c008e04f4b0894b763358d"
                     },
                     "required_dependencies": [],
-                    "size": 401360,
-                    "date_published": "2024-08-03T10:37:32.587818Z"
+                    "size": 394509,
+                    "date_published": "2026-03-01T19:57:12.677600Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "xercapaint-fabric-1.20.1-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7697/744/xercapaint-fabric-1.20.1-1.1.0.jar",
+                    "id": "7697744",
+                    "parent_id": "350727",
+                    "hashes": {
+                        "sha1": "62c17798b9f42bb217c008e04f4b0894b763358d",
+                        "md5": "7c3defeb12478ce91f2c56692186ab95"
+                    },
+                    "required_dependencies": [],
+                    "size": 394509,
+                    "date_published": "2026-03-01T19:57:10.850Z"
                 }
             ]
         },
