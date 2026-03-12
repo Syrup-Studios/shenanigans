@@ -1,12 +1,15 @@
-_name subject to change_
 
+_name subject to change_
+  
 ## EARLY ALPHA
 
 _Looking for playtesters, info below!_
-
-[![Built with Pakku](https://raw.githubusercontent.com/juraj-hrivnak/Pakku/main/docs/images/compact_vector.svg)](https://github.com/juraj-hrivnak/Pakku) [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg)](https://modrinth.com/modpack/shenanigans)
+<div align="center">
+  
+[![Built with Pakku](https://raw.githubusercontent.com/juraj-hrivnak/Pakku/297bdece3b97e8277bb3a8671aaa41e7b3e44f9e/docs/images/cozy_vector.svg)](https://github.com/juraj-hrivnak/Pakku) [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/shenanigans) [![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) [![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/vSwuqMcdS2) [![crowdin](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/translate/crowdin_vector.svg)](https://crowdin.com/project/shenanigans-modpack)
 
 ***
+</div>
 
 This is our attempt at creating a nice and pleasant Vanilla++ Experience with many opinionated changes to make it feel very comfortable and familiar.
 
@@ -27,17 +30,26 @@ We want to bring all mods and additions together in a way that feels natural, an
 
 This pack has been in the works for over 2 years (LOTS of procrastination), and I'm finally wanting to bring it to light to make it the gameplay experience I envisioned so long ago.
 
-***
+<div align="center">
 
-### Looking for playtester!
+
+## Translations
+
+
+Help us improve the modpack's accessibility by submitting or voting on translations via [Crowdin](https://crowdin.com/project/shenanigans-modpack).
+Feel free to down vote bad ones and submit yours.
+
+
+## Looking for playtester!
 
 We are also looking for playtesters on our [Discord](https://discord.gg/RPEz5JX4EM)!
 
 If you encounter any glitches & crashes, or if you have any suggestions, you can tell me by joining [Discord](https://discord.gg/RPEz5JX4EM) or opening an issue on [GitHub](https://github.com/SodaSyrup/shenanigans/issues)
 
-***
-#### Telemetry
+## Telemetry
+
 This Pack collects data on how many active instances are running, click [here](https://syrup-studios.github.io/guidingit/help/analytics/) to read more
 
 [![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-plural_vector.svg)](https://ko-fi.com/saladsyrup)
+</div>
 
