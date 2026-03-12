@@ -18784,6 +18784,68 @@
             ]
         },
         {
+            "pakku_id": "DuCRGIhiYLt8FiyK",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "world-play-time",
+                "modrinth": "world-play-time"
+            },
+            "name": {
+                "curseforge": "World Play Time",
+                "modrinth": "World Play Time"
+            },
+            "id": {
+                "curseforge": "968891",
+                "modrinth": "YkKeggdl"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "worldplaytime-1.2.3-1.20.x-FABRIC.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5920/85/worldplaytime-1.2.3-1.20.x-FABRIC.jar",
+                    "id": "5920085",
+                    "parent_id": "968891",
+                    "hashes": {
+                        "sha1": "e0d104a96e409f155c9743dc461e5b0b302b6b93",
+                        "md5": "adff66f80fc74aedb79ab03b79e8a651"
+                    },
+                    "required_dependencies": [],
+                    "size": 83258,
+                    "date_published": "2024-11-19T17:47:43.217Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "worldplaytime-1.2.3-1.20.x-FABRIC.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/YkKeggdl/versions/47azxm1h/worldplaytime-1.2.3-1.20.x-FABRIC.jar",
+                    "id": "47azxm1h",
+                    "parent_id": "YkKeggdl",
+                    "hashes": {
+                        "sha512": "b2de3363edac284e35e95a103445d0474053bc1f5ec09e6b9ca656ce3ec7f620e982eb8f04bdc07ddc0e6d03423772981eb54c227905261174e333df0781cd5a",
+                        "sha1": "e0d104a96e409f155c9743dc461e5b0b302b6b93"
+                    },
+                    "required_dependencies": [],
+                    "size": 83258,
+                    "date_published": "2024-11-19T17:57:50.337432Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "FISS4s1p8nybBrfO",
             "type": "MOD",
             "side": "BOTH",
