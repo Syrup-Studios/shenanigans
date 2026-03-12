@@ -8092,6 +8092,135 @@
             ]
         },
         {
+            "pakku_id": "U2CQa7qB5yVLiRL3",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-melodies",
+                "modrinth": "immersive-melodies"
+            },
+            "name": {
+                "curseforge": "Immersive Melodies [Fabric/Forge]",
+                "modrinth": "Immersive Melodies"
+            },
+            "id": {
+                "curseforge": "904471",
+                "modrinth": "TaSmHw8V"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_melodies-0.6.0+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6744/790/immersive_melodies-0.6.0+1.20.1-fabric.jar",
+                    "id": "6744790",
+                    "parent_id": "904471",
+                    "hashes": {
+                        "sha1": "45c9e5b8b2900a7190117ebd85ae34dd468a1738",
+                        "md5": "d09172272c190410ce9acee131e64056"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 5516803,
+                    "date_published": "2025-07-08T15:27:07.760Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_melodies-0.6.0+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/TaSmHw8V/versions/mdmGUrXB/immersive_melodies-0.6.0+1.20.1-fabric.jar",
+                    "id": "mdmGUrXB",
+                    "parent_id": "TaSmHw8V",
+                    "hashes": {
+                        "sha512": "17c7d7369d5e4cebb058c3dc027921b1f6b7ae17569f11899751d89e62bdcaaf79a7436a94d36dfa87a2ac5d5abcdf802a7454ac085aa38c1f3e6d64231eab86",
+                        "sha1": "45c9e5b8b2900a7190117ebd85ae34dd468a1738"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 5516803,
+                    "date_published": "2025-07-08T15:27:16.465529Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "rr8QKi0WNDexbtc8",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-paintings",
+                "modrinth": "immersive-paintings"
+            },
+            "name": {
+                "curseforge": "Immersive Paintings [Fabric/Forge]",
+                "modrinth": "Immersive Paintings"
+            },
+            "id": {
+                "curseforge": "639584",
+                "modrinth": "6txNkua3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_paintings-0.6.10+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7583/926/immersive_paintings-0.6.10+1.20.1-fabric.jar",
+                    "id": "7583926",
+                    "parent_id": "639584",
+                    "hashes": {
+                        "sha1": "088fcc814695e9cbbe9f46f715e215338fcff996",
+                        "md5": "0bc8679221f44a77dae386a8d159ae85"
+                    },
+                    "required_dependencies": [],
+                    "size": 4853307,
+                    "date_published": "2026-02-06T11:38:50.227Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_paintings-0.6.10+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6txNkua3/versions/imRVEPKr/immersive_paintings-0.6.10+1.20.1-fabric.jar",
+                    "id": "imRVEPKr",
+                    "parent_id": "6txNkua3",
+                    "hashes": {
+                        "sha512": "f1cbad388c965b47a812fdc7e83ef66ec8e2a6c7d1757648ce3c316953cf768256f3abe82ba5c6bc4a513fe4f4493f6e39fec7df47380d5aa1a3514a2707143d",
+                        "sha1": "088fcc814695e9cbbe9f46f715e215338fcff996"
+                    },
+                    "required_dependencies": [],
+                    "size": 4853307,
+                    "date_published": "2026-02-06T11:38:53.162089Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xzC51obYGl1aYT84",
             "type": "MOD",
             "side": "SERVER",
@@ -14574,6 +14703,79 @@
                     ],
                     "size": 640144,
                     "date_published": "2025-08-31T13:43:09.783Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "UbeJtwSk3KM2IdSb",
+            "pakku_links": [
+                "JF6FKF1u7X4j8nIu",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "scholar",
+                "modrinth": "scholar"
+            },
+            "name": {
+                "curseforge": "Scholar",
+                "modrinth": "Scholar"
+            },
+            "id": {
+                "curseforge": "961802",
+                "modrinth": "fX4dIQCo"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "scholar-1.20.1-1.1.9.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7396/149/scholar-1.20.1-1.1.9.1-fabric.jar",
+                    "id": "7396149",
+                    "parent_id": "961802",
+                    "hashes": {
+                        "sha1": "c6eb2c47813221e07e669a5171f04aad680b253e",
+                        "md5": "0487365e3e056610bf14420cc3187c91"
+                    },
+                    "required_dependencies": [
+                        "547434",
+                        "306612"
+                    ],
+                    "size": 681255,
+                    "date_published": "2025-12-30T12:27:49.190Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "scholar-1.20.1-1.1.9.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fX4dIQCo/versions/EwLrlAck/scholar-1.20.1-1.1.9.1-fabric.jar",
+                    "id": "EwLrlAck",
+                    "parent_id": "fX4dIQCo",
+                    "hashes": {
+                        "sha512": "97535e4fc9e1f2e41f2c435a34508b267cf7af483414b04348aeafcecaac2afec07bbb0bda6284581c01eb171baa37e0d10b859a23acefec795accb0ba9fc1af",
+                        "sha1": "c6eb2c47813221e07e669a5171f04aad680b253e"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "ohNO6lps"
+                    ],
+                    "size": 681255,
+                    "date_published": "2025-12-30T12:27:07.823978Z"
                 }
             ]
         },
