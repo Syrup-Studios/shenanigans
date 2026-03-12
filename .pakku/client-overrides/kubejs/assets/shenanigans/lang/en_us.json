@@ -1,4 +1,8 @@
 {
+    "language.name": "English",
+    "language.region": "United States",
+    "language.code": "en_us",
+    
     "tooltip.kubejs.raw_ores.slow_smelt": "Smelts way slower in a normal furnace now.",
     "tooltip.kubejs.hold_shift": "Hold Shift for more info.",
     "tooltip.kubejs.raw_ores.blast": "Use Blast Furnace for faster smelting.",
