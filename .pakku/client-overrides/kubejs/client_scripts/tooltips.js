@@ -24,4 +24,8 @@ ItemEvents.tooltip(event => {
         event.addAdvanced(clocks, (item, advanced, text) => {
             text.add(1, Component.translate('tooltip.kubejs.clocks.day_cycle').gray());
     });
+
+            event.addAdvanced('#c:foods/raw', (item, advanced, text) => {
+            text.add(1, Component.translate('tooltip.kubejs.foods.raw').gray());
+    });
 })

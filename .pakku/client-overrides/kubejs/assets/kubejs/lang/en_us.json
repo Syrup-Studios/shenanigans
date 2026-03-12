@@ -6,6 +6,8 @@
     "tooltip.kubejs.item_frames.1": "Place an item and",
     "tooltip.kubejs.item_frames.2": "Crouch + Right Click to toggle invisible item frame.",
 
-    "tooltip.kubejs.clocks.day_cycle": "The days are 40 minutes and the nights are 20 minutes!"
+    "tooltip.kubejs.clocks.day_cycle": "The days are 40 minutes and the nights are 20 minutes!",
+
+    "tooltip.kubejs.foods.raw": "Can only be cooked on a Smoker or Campfire!"
 
 }
