@@ -6971,6 +6971,77 @@
             ]
         },
         {
+            "pakku_id": "eUy96eVFW0Tf25mX",
+            "pakku_links": [
+                "91wR4JR0Jr8g943s",
+                "jIyUzHPSkEDMgZse"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "field-guide",
+                "modrinth": "field-guide"
+            },
+            "name": {
+                "curseforge": "Field Guide",
+                "modrinth": "Field Guide"
+            },
+            "id": {
+                "curseforge": "1470590",
+                "modrinth": "72RRCWM6"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fieldguide-fabric-1.20.1-1.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7732/563/fieldguide-fabric-1.20.1-1.2.0.jar",
+                    "id": "7732563",
+                    "parent_id": "1470590",
+                    "hashes": {
+                        "sha1": "3c2d1cc000b2d6f620914bb8fd6e7759aa4ed1da",
+                        "md5": "dcb5f5a68c729cca02549c4e56d7f686"
+                    },
+                    "required_dependencies": [
+                        "1245453",
+                        "1101501"
+                    ],
+                    "size": 715863,
+                    "date_published": "2026-03-09T06:42:48.183Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fieldguide-fabric-1.20.1-1.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/72RRCWM6/versions/gDkzJqqY/fieldguide-fabric-1.20.1-1.2.0.jar",
+                    "id": "gDkzJqqY",
+                    "parent_id": "72RRCWM6",
+                    "hashes": {
+                        "sha512": "83de1e48f37d9aef707c24655bc8833927616d851d128bb0ce58d74f12bcfd45ef5844a18432cf80361191d19926b3e01db1a9b7739d634055d631b32ea94ec6",
+                        "sha1": "3c2d1cc000b2d6f620914bb8fd6e7759aa4ed1da"
+                    },
+                    "required_dependencies": [
+                        "UaizcMKP",
+                        "PKoLkD98"
+                    ],
+                    "size": 715863,
+                    "date_published": "2026-03-09T06:42:48.220775Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "JF6FKF1u7X4j8nIu",
             "type": "MOD",
             "side": "BOTH",
@@ -8025,6 +8096,74 @@
             ]
         },
         {
+            "pakku_id": "91wR4JR0Jr8g943s",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "immersive-overlays",
+                "modrinth": "immersive-overlays"
+            },
+            "name": {
+                "curseforge": "Immersive Overlays",
+                "modrinth": "Immersive Overlays"
+            },
+            "id": {
+                "curseforge": "1245453",
+                "modrinth": "PKoLkD98"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersiveoverlays-1.5.2+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7706/552/immersiveoverlays-1.5.2+1.20.1-fabric.jar",
+                    "id": "7706552",
+                    "parent_id": "1245453",
+                    "hashes": {
+                        "sha1": "e2a8ae6306dc82c5bf32008f2962b45aec52bea8",
+                        "md5": "9ac396d8c34a27550c83aacc1d9bd6d6"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 287991,
+                    "date_published": "2026-03-03T17:57:17.293Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersiveoverlays-1.5.2+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PKoLkD98/versions/zPmdlPZl/immersiveoverlays-1.5.2+1.20.1-fabric.jar",
+                    "id": "zPmdlPZl",
+                    "parent_id": "PKoLkD98",
+                    "hashes": {
+                        "sha512": "3f3776cd5ef182dec25e0e856c85b8552a75e76167cadf06403a657e4571c20d8f18031753cdfa77953089baca3470cd8a918e81aaf31912d6c75503fe5638e2",
+                        "sha1": "e2a8ae6306dc82c5bf32008f2962b45aec52bea8"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 287991,
+                    "date_published": "2026-03-03T17:57:18.406007Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xzC51obYGl1aYT84",
             "type": "MOD",
             "side": "SERVER",
@@ -8307,6 +8446,74 @@
                     "required_dependencies": [],
                     "size": 2726899,
                     "date_published": "2025-03-03T00:24:48.337Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jIyUzHPSkEDMgZse",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "item-descriptions",
+                "modrinth": "item-descriptions"
+            },
+            "name": {
+                "curseforge": "Item Descriptions",
+                "modrinth": "Item Descriptions"
+            },
+            "id": {
+                "curseforge": "1101501",
+                "modrinth": "UaizcMKP"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "item-descriptions-2.5.6+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7246/930/item-descriptions-2.5.6+1.20.1-fabric.jar",
+                    "id": "7246930",
+                    "parent_id": "1101501",
+                    "hashes": {
+                        "sha1": "6a2fc7500f25ba6c745d6b355659c1efad9e4a9d",
+                        "md5": "530931dc76ef82b868a32745e0c52086"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 440828,
+                    "date_published": "2025-11-21T20:08:30.813Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "item-descriptions-2.5.6+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UaizcMKP/versions/qtlmdbsT/item-descriptions-2.5.6+1.20.1-fabric.jar",
+                    "id": "qtlmdbsT",
+                    "parent_id": "UaizcMKP",
+                    "hashes": {
+                        "sha512": "93fb1fe65df10ad37b6395915378234f27d82a1b43806a52f9332ee66e31a026f2852da3d986ecf3982bc0b9d529560e175f01551d1ddce086c63ed6894a9206",
+                        "sha1": "6a2fc7500f25ba6c745d6b355659c1efad9e4a9d"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 440828,
+                    "date_published": "2025-11-21T20:08:32.576027Z"
                 }
             ]
         },
