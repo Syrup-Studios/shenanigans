@@ -6103,6 +6103,83 @@
             ]
         },
         {
+            "pakku_id": "sKcbEhbWfysF4pWB",
+            "pakku_links": [
+                "nJdK28PaqDp9XFgP",
+                "RjGdALOn8S9NpH6I",
+                "U6WPiwKc8f6lXIvN",
+                "wHSgKwavMZCWhcKN"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "enderman-overhaul",
+                "modrinth": "enderman-overhaul"
+            },
+            "name": {
+                "curseforge": "Enderman Overhaul",
+                "modrinth": "Enderman Overhaul"
+            },
+            "id": {
+                "curseforge": "574409",
+                "modrinth": "Lq6ojcWv"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5019/622/endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+                    "id": "5019622",
+                    "parent_id": "574409",
+                    "hashes": {
+                        "sha1": "77bb161d696a4bb3c890ce942500ca96db61f12d",
+                        "md5": "aecdcf146c1678c91efc14eccf5bc0d6"
+                    },
+                    "required_dependencies": [
+                        "714059",
+                        "306612",
+                        "388172",
+                        "570073"
+                    ],
+                    "size": 1194281,
+                    "date_published": "2024-01-09T10:35:06.813Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Lq6ojcWv/versions/4oiJql9P/endermanoverhaul-fabric-1.20.1-1.0.4.jar",
+                    "id": "4oiJql9P",
+                    "parent_id": "Lq6ojcWv",
+                    "hashes": {
+                        "sha512": "89b0941d84406a838e6bc9a1c567519d3bad027aa4db7ff80429a4505bd431cd7c37b12d851f1200bceb8357438d5a1a106f5e76a747f30dd288657bd768628b",
+                        "sha1": "77bb161d696a4bb3c890ce942500ca96db61f12d"
+                    },
+                    "required_dependencies": [
+                        "M1953qlQ",
+                        "G1hIVOrD",
+                        "8BmcQJ2H",
+                        "P7dR8mSH"
+                    ],
+                    "size": 1194281,
+                    "date_published": "2024-01-09T10:35:09.311404Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gsuL823QfC9GNAFt",
             "type": "MOD",
             "side": "CLIENT",
@@ -8305,6 +8382,74 @@
                     "required_dependencies": [],
                     "size": 354883,
                     "date_published": "2026-01-27T21:06:43.707Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "XqAuUBMa3FM1TDHH",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-armors",
+                "modrinth": "immersive-armors"
+            },
+            "name": {
+                "curseforge": "Immersive Armors [Fabric/Forge]",
+                "modrinth": "Immersive Armors"
+            },
+            "id": {
+                "curseforge": "580681",
+                "modrinth": "eE2Db4YU"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_armors-1.7.1+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6851/703/immersive_armors-1.7.1+1.20.1-fabric.jar",
+                    "id": "6851703",
+                    "parent_id": "580681",
+                    "hashes": {
+                        "sha1": "a28582c00a49caf757a401364aa3917c18c0a03c",
+                        "md5": "881f59efee47d02dfa18f21e29ce8734"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1252785,
+                    "date_published": "2025-08-05T17:02:47.770Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_armors-1.7.1+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/eE2Db4YU/versions/Ts0TsDkW/immersive_armors-1.7.1+1.20.1-fabric.jar",
+                    "id": "Ts0TsDkW",
+                    "parent_id": "eE2Db4YU",
+                    "hashes": {
+                        "sha512": "1f66b9cddbfc3ddc792434e19b0d4680966067e489c07bfb6be6c76d9b02361e1d9d3327a0489c1aeffae3edd3b9b85df66b8bedd166f72afb0c9dfc106a01c3",
+                        "sha1": "a28582c00a49caf757a401364aa3917c18c0a03c"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1252785,
+                    "date_published": "2025-08-05T17:02:49.624126Z"
                 }
             ]
         },
