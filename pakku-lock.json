@@ -4370,6 +4370,72 @@
             ]
         },
         {
+            "pakku_id": "SX9jhyTaMxCdSgEJ",
+            "pakku_links": [
+                "U6WPiwKc8f6lXIvN"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "critters-and-companions",
+                "modrinth": "critters-and-companions"
+            },
+            "name": {
+                "curseforge": "Critters and Companions",
+                "modrinth": "Critters and Companions"
+            },
+            "id": {
+                "curseforge": "574913",
+                "modrinth": "Yd4wb5wZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "crittersandcompanions-fabric-1.20.1-2.3.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7147/524/crittersandcompanions-fabric-1.20.1-2.3.5.jar",
+                    "id": "7147524",
+                    "parent_id": "574913",
+                    "hashes": {
+                        "sha1": "57214ad9519ff18de2eb9755b640def48216a302",
+                        "md5": "ed1e6fdc498b872aba9fe192d4fb029c"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 2192964,
+                    "date_published": "2025-10-25T09:53:30.873Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "crittersandcompanions-fabric-1.20.1-2.3.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Yd4wb5wZ/versions/Nd89kCPQ/crittersandcompanions-fabric-1.20.1-2.3.5.jar",
+                    "id": "Nd89kCPQ",
+                    "parent_id": "Yd4wb5wZ",
+                    "hashes": {
+                        "sha512": "3f384910ef48a7e4f08e02a7ec88c06174ea672156891965f6566a25dee8daeab906947e0d5c909de8f9f7153d69f4bee3b5bc0c4a592b3bde41593f6a6170f5",
+                        "sha1": "57214ad9519ff18de2eb9755b640def48216a302"
+                    },
+                    "required_dependencies": [],
+                    "size": 2192964,
+                    "date_published": "2025-10-25T09:53:34.879176Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "843QUsG7vhBRo6WK",
             "type": "MOD",
             "side": "SERVER",
