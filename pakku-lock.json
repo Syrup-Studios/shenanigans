@@ -20208,6 +20208,43 @@
             ]
         },
         {
+            "pakku_id": "HJfB9wO2iLK5E575",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "visual-snowy-leaves"
+            },
+            "name": {
+                "modrinth": "Visual Snowy Leaves"
+            },
+            "id": {
+                "modrinth": "Ff2M7Ii7"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "visual-snowy-leaves-0.4.1+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ff2M7Ii7/versions/n7Q2PSCG/visual-snowy-leaves-0.4.1+mc1.20.1.jar",
+                    "id": "n7Q2PSCG",
+                    "parent_id": "Ff2M7Ii7",
+                    "hashes": {
+                        "sha512": "f7905e2ef0c7b41f0a01639b2ec29048c65d5c13a255e98718e8a4728e41b9db8e9c609e943e90a56e4127c4c95c5040bb0b1204b23da78b1a3cd4792f224cdf",
+                        "sha1": "cc89e87b10c3ad37fc19f265ddd4face871383d7"
+                    },
+                    "required_dependencies": [],
+                    "size": 84603,
+                    "date_published": "2024-11-21T14:26:09.698735Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9Xrv5myJm3SnRtKr",
             "pakku_links": [
                 "wNyv433bs0BhCrbg"
