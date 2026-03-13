@@ -4525,6 +4525,69 @@
             ]
         },
         {
+            "pakku_id": "gj1zYckJ7Ol61UcV",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "custom-player-models-fabric",
+                "modrinth": "custom-player-models"
+            },
+            "name": {
+                "curseforge": "Customizable Player Models (Fabric)",
+                "modrinth": "Customizable Player Models"
+            },
+            "id": {
+                "curseforge": "440597",
+                "modrinth": "h1E7sQNL"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7192/336/CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
+                    "id": "7192336",
+                    "parent_id": "440597",
+                    "hashes": {
+                        "sha1": "f242df01fe9517ee0b4fce325ee803413ed4a6fc",
+                        "md5": "2fe71521f19af9c844cda8f774091846"
+                    },
+                    "required_dependencies": [],
+                    "size": 2834332,
+                    "date_published": "2025-11-06T15:14:12.860Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/j29ss5C6/CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
+                    "id": "j29ss5C6",
+                    "parent_id": "h1E7sQNL",
+                    "hashes": {
+                        "sha512": "6c152ff7706c3e8db89236de83085fbfb2f4caddeb82697e20d42dc4cc2e107acb66d467161c0f0467d8e3aea0326f308938933cdd640760a8e8f327260f6997",
+                        "sha1": "f242df01fe9517ee0b4fce325ee803413ed4a6fc"
+                    },
+                    "required_dependencies": [],
+                    "size": 2834332,
+                    "date_published": "2025-11-06T15:14:17.221283Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gmZ66N0xMydVxy6D",
             "type": "MOD",
             "side": "BOTH",
