@@ -1,0 +1,15 @@
+{
+    "language.name": "Deutsch",
+    "language.region": "Deutschland",
+    "language.code": "de_de",
+
+    "tooltip.shenanigans.raw_ores.slow_smelt": "Schmilzt jetzt viel langsamer in einem normalen Ofen.",
+    "tooltip.shenanigans.hold_shift": "Halte Shift für mehr Informationen gedrückt.",
+    "tooltip.shenanigans.raw_ores.blast": "Verwende einen Schmelzofen für schnelleres Schmelzen.",
+
+    "tooltip.shenanigans.item_frames.1": "Platziere einen Gegenstand und",
+    "tooltip.shenanigans.item_frames.2": "Schleichen + Rechtsklick, um den Rahmen unsichtbar zu machen.",
+
+    "tooltip.shenanigans.clocks.day_cycle": "Die Tage dauern 40 und die Nächte 20 Minuten!"
+
+}

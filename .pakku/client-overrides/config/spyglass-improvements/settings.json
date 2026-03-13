@@ -4,6 +4,6 @@
   "multiplierDelta": 0.1,
   "hideSettingsButton": true,
   "showCrossHair": false,
-  "smoothCamera": true,
+  "smoothCamera": false,
   "userForceSpyglass": false
 }
