@@ -3,15 +3,15 @@
     "language.region": "United States",
     "language.code": "en_us",
     
-    "tooltip.kubejs.raw_ores.slow_smelt": "Smelts way slower in a normal furnace now.",
-    "tooltip.kubejs.hold_shift": "Hold Shift for more info.",
-    "tooltip.kubejs.raw_ores.blast": "Use Blast Furnace for faster smelting.",
+    "tooltip.shenanigans.raw_ores.slow_smelt": "Smelts way slower in a normal furnace now.",
+    "tooltip.shenanigans.hold_shift": "Hold Shift for more info.",
+    "tooltip.shenanigans.raw_ores.blast": "Use Blast Furnace for faster smelting.",
 
-    "tooltip.kubejs.item_frames.1": "Place an item and",
-    "tooltip.kubejs.item_frames.2": "Crouch + Right Click to toggle invisible item frame.",
+    "tooltip.shenanigans.item_frames.1": "Place an item and",
+    "tooltip.shenanigans.item_frames.2": "Crouch + Right Click to toggle invisible item frame.",
 
-    "tooltip.kubejs.clocks.day_cycle": "The days are 40 minutes and the nights are 20 minutes!",
+    "tooltip.shenanigans.clocks.day_cycle": "The days are 40 minutes and the nights are 20 minutes!",
 
-    "tooltip.kubejs.foods.raw": "Can only be cooked on a Smoker or Campfire!"
+    "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!"
 
 }

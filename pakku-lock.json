@@ -3020,6 +3020,77 @@
             ]
         },
         {
+            "pakku_id": "OcmYNrTvkUpXGnjI",
+            "pakku_links": [
+                "lzahxvUKOajGzSSO",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "controlling",
+                "modrinth": "controlling"
+            },
+            "name": {
+                "curseforge": "Controlling",
+                "modrinth": "Controlling"
+            },
+            "id": {
+                "curseforge": "250398",
+                "modrinth": "xv94TkTM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Controlling-fabric-1.20.1-12.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4646/681/Controlling-fabric-1.20.1-12.0.2.jar",
+                    "id": "4646681",
+                    "parent_id": "250398",
+                    "hashes": {
+                        "sha1": "8a61ca1600e33c73598530f1e208bb07081fdcd6",
+                        "md5": "a225242dbf419ffa0eb1a79a503d1858"
+                    },
+                    "required_dependencies": [
+                        "858542",
+                        "306612"
+                    ],
+                    "size": 122777,
+                    "date_published": "2023-07-16T04:39:20.550Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Controlling-fabric-1.20.1-12.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/xv94TkTM/versions/6ipZLQSK/Controlling-fabric-1.20.1-12.0.2.jar",
+                    "id": "6ipZLQSK",
+                    "parent_id": "xv94TkTM",
+                    "hashes": {
+                        "sha512": "1e3da9b2b50488daa7b9165930a48158330404110912037cf42543c6acf649ad79019a324ee42e5ef88ad51bb64ee40684a147bfb7847412259b7cebff0134ee",
+                        "sha1": "8d6badebb7f2aea04793c92174dafa946b13f1e9"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "fuuu3xnx"
+                    ],
+                    "size": 122778,
+                    "date_published": "2023-07-16T04:39:35.892038Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "i9InH4zei62c2NR2",
             "type": "MOD",
             "side": "BOTH",
