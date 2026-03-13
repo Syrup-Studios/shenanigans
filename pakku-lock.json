@@ -8309,6 +8309,74 @@
             ]
         },
         {
+            "pakku_id": "5tmfjH0uD2DCKLzs",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-furniture",
+                "modrinth": "immersive-furniture"
+            },
+            "name": {
+                "curseforge": "Immersive Furniture",
+                "modrinth": "Immersive Furniture"
+            },
+            "id": {
+                "curseforge": "1283531",
+                "modrinth": "SvN6UGeF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_furniture-fabric-0.1.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7580/362/immersive_furniture-fabric-0.1.3+1.20.1.jar",
+                    "id": "7580362",
+                    "parent_id": "1283531",
+                    "hashes": {
+                        "sha1": "87ce252061326226489d9dbc3dfee3e020e926cb",
+                        "md5": "b41a20713e67c489288aa96d94199dce"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 903534,
+                    "date_published": "2026-02-05T17:15:40.583Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_furniture-fabric-0.1.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SvN6UGeF/versions/VyQp4CoK/immersive_furniture-fabric-0.1.3+1.20.1.jar",
+                    "id": "VyQp4CoK",
+                    "parent_id": "SvN6UGeF",
+                    "hashes": {
+                        "sha512": "82c8cc33acc697cfa771bb88c3f47b403b4ac2b243c94bef044b14d71cb2a1829a252a3daf6486894d8bf79274d0dedc704573592708f7bdde3d8949767f3ace",
+                        "sha1": "87ce252061326226489d9dbc3dfee3e020e926cb"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 903534,
+                    "date_published": "2026-02-05T17:15:43.388999Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "U2CQa7qB5yVLiRL3",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
