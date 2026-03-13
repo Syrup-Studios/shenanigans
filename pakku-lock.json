@@ -5452,6 +5452,67 @@
             ]
         },
         {
+            "pakku_id": "xIR3fyu0OafuyPa6",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "dungeon-now-loading",
+                "modrinth": "dungeon-now-loading"
+            },
+            "name": {
+                "curseforge": "Dungeon Now Loading 2%",
+                "modrinth": "Dungeon Now Loading"
+            },
+            "id": {
+                "curseforge": "638535",
+                "modrinth": "vZoqTqwv"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Dungeon Now Loading-fabric-1.20.1-2.11.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7176/770/Dungeon Now Loading-fabric-1.20.1-2.11.jar",
+                    "id": "7176770",
+                    "parent_id": "638535",
+                    "hashes": {
+                        "sha1": "4c18fc0091c5be9bbcff87debf2954c5ce17f609",
+                        "md5": "33118868ef868f702e33724c1deed4b5"
+                    },
+                    "required_dependencies": [],
+                    "size": 67424064,
+                    "date_published": "2025-11-02T06:47:34.393Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Dungeon Now Loading-fabric-1.20.1-2.11.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vZoqTqwv/versions/JlTOmyMX/Dungeon Now Loading-fabric-1.20.1-2.11.jar",
+                    "id": "JlTOmyMX",
+                    "parent_id": "vZoqTqwv",
+                    "hashes": {
+                        "sha512": "7eb23cb3c1e4f5d008422c5668c8b448bb214ea5750a6218c8fda77e3e298d796fa4ff6639cc8b4865a9dfd8d455591df2fdeec4ea065240510f232ef7f53f82",
+                        "sha1": "4c18fc0091c5be9bbcff87debf2954c5ce17f609"
+                    },
+                    "required_dependencies": [],
+                    "size": 67424064,
+                    "date_published": "2025-11-02T06:49:39.345187Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "rJIFxKjxR4uVvVjT",
             "type": "MOD",
             "side": "BOTH",
