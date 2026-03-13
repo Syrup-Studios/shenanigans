@@ -984,6 +984,78 @@
             ]
         },
         {
+            "pakku_id": "Eh68F4zl64JIrPCg",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "auroraslanterns",
+                "modrinth": "auroraslanterns"
+            },
+            "name": {
+                "curseforge": "Aurora's Lanterns",
+                "modrinth": "Aurora's Lanterns"
+            },
+            "id": {
+                "curseforge": "1368734",
+                "modrinth": "xABbFTq3"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "auroraslanterns-1.0.6+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7130/171/auroraslanterns-1.0.6+1.20.1.jar",
+                    "id": "7130171",
+                    "parent_id": "1368734",
+                    "hashes": {
+                        "sha1": "b8ba4616cfa4385cd70b0a50ed8be8e212cbda11",
+                        "md5": "7ff76fd9a90412d2def3c70045b82a07"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 230148,
+                    "date_published": "2025-10-20T17:05:41.847Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "auroraslanterns-1.0.6+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/xABbFTq3/versions/C6OboeOa/auroraslanterns-1.0.6+1.20.1.jar",
+                    "id": "C6OboeOa",
+                    "parent_id": "xABbFTq3",
+                    "hashes": {
+                        "sha512": "221dc90587eb5390422ea8c4813dba3818fdcb23e9e50b8dde35209061ca2740298795f320f68acda317e135d7809b4b661c0d61c7e7484a9284affece1d1511",
+                        "sha1": "b8ba4616cfa4385cd70b0a50ed8be8e212cbda11"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 230148,
+                    "date_published": "2025-09-03T21:22:16.047093Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4e2jUr6RItZIExwL",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
