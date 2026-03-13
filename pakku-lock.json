@@ -1780,6 +1780,54 @@
             ]
         },
         {
+            "pakku_id": "A0xZhuxi3VeTcGCS",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "boids"
+            },
+            "name": {
+                "modrinth": "Boids"
+            },
+            "id": {
+                "modrinth": "2OckSy74"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Boids-2.0.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2OckSy74/versions/MewtMK1Z/Boids-2.0.3+1.20.1.jar",
+                    "id": "MewtMK1Z",
+                    "parent_id": "2OckSy74",
+                    "hashes": {
+                        "sha512": "00face5473d2986588401715d4cd48ab7d62eecd1050a0d08d6338bfeaf35239c2164f2a04591f65cf56c38138431151222543e87ba2fe90430c1331e19774aa",
+                        "sha1": "8ea564d6d6ac0f7f6bfdfe13f830805a3e19bf7c"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 106573,
+                    "date_published": "2026-02-20T16:17:12.232664Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UOKLnfrltxpo1s2N",
             "type": "MOD",
             "side": "BOTH",
