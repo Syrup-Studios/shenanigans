@@ -12806,6 +12806,74 @@
             ]
         },
         {
+            "pakku_id": "pcmyyUnPYSz9Bpx9",
+            "pakku_links": [
+                "U6WPiwKc8f6lXIvN"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "naturalist",
+                "modrinth": "naturalist"
+            },
+            "name": {
+                "curseforge": "Naturalist Lite",
+                "modrinth": "Naturalist"
+            },
+            "id": {
+                "curseforge": "627986",
+                "modrinth": "F8BQNPWX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "naturalist-5.0pre5+fabric-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6863/939/naturalist-5.0pre5+fabric-1.20.1.jar",
+                    "id": "6863939",
+                    "parent_id": "627986",
+                    "hashes": {
+                        "sha1": "7551b26743045ec55f570b30d0e2d6d3bcc143ca",
+                        "md5": "d325c32d3dc4d853b9ed3d4ee0d53cfa"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 4770880,
+                    "date_published": "2025-08-08T16:12:14.347Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "naturalist-5.0pre3+fabric-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/tx891fzz/naturalist-5.0pre3+fabric-1.20.1.jar",
+                    "id": "tx891fzz",
+                    "parent_id": "F8BQNPWX",
+                    "hashes": {
+                        "sha512": "873845d3b5c85d9acb5750a46119cb92e18bc0101857ee081283f88fb1204eda418818b9a833a1e664cdbc61d770afa355bd1aa4ba3d4639d0913dcb3a5ed257",
+                        "sha1": "64e82b5d2a2f57c6888b5c307959c5630015262a"
+                    },
+                    "required_dependencies": [
+                        "8BmcQJ2H"
+                    ],
+                    "size": 4770347,
+                    "date_published": "2025-05-08T19:04:44.619585Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zVrjy05w1T0S23dL",
             "type": "MOD",
             "side": "BOTH",
