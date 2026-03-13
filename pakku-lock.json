@@ -1984,6 +1984,74 @@
             ]
         },
         {
+            "pakku_id": "UQJeE7sS8j5aFNHn",
+            "pakku_links": [
+                "AwRq1sYnLjT3JZ2i"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "building-but-better",
+                "modrinth": "building-but-better"
+            },
+            "name": {
+                "curseforge": "Building But Better",
+                "modrinth": "Building But Better"
+            },
+            "id": {
+                "curseforge": "989479",
+                "modrinth": "OSDpLd82"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bbb-fabric-2.0pre4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7627/392/bbb-fabric-2.0pre4.jar",
+                    "id": "7627392",
+                    "parent_id": "989479",
+                    "hashes": {
+                        "sha1": "bd63e4318dc4e74c0ec82a6e26b8af6850dc26a4",
+                        "md5": "06597004e9e01c9a7cd891d7b6ef140b"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 1701505,
+                    "date_published": "2026-02-15T07:21:14.123Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "bbb-fabric-2.0pre4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/OSDpLd82/versions/Of3JR2lP/bbb-fabric-2.0pre4.jar",
+                    "id": "Of3JR2lP",
+                    "parent_id": "OSDpLd82",
+                    "hashes": {
+                        "sha512": "afbfec044d5fd70562580e59e7c4e91805df8bdde8fae5905776894d653418a2365010963c01a294a28b7377121d2479e721a42e35085c9ad913999fd49c5307",
+                        "sha1": "bd63e4318dc4e74c0ec82a6e26b8af6850dc26a4"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 1701505,
+                    "date_published": "2026-02-15T07:17:15.054652Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "vWZncBGw8BhKjUnx",
             "type": "MOD",
             "side": "BOTH",
@@ -8021,6 +8089,74 @@
                     "required_dependencies": [],
                     "size": 751598,
                     "date_published": "2026-01-12T14:44:30.635277Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "1zCIj8gs69AxJYCd",
+            "pakku_links": [
+                "U6WPiwKc8f6lXIvN"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ghost",
+                "modrinth": "ghost"
+            },
+            "name": {
+                "curseforge": "Ghosts",
+                "modrinth": "Ghost"
+            },
+            "id": {
+                "curseforge": "602665",
+                "modrinth": "gJKLGvbS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ghosts-fabric-1.20.1-1.3.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7725/634/ghosts-fabric-1.20.1-1.3.2.jar",
+                    "id": "7725634",
+                    "parent_id": "602665",
+                    "hashes": {
+                        "sha1": "9701ce12eb87e8ff75f5adbe8606d7948dc9c7a6",
+                        "md5": "f49d4850cc2f95f3cef0755ed8b7646f"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 943923,
+                    "date_published": "2026-03-07T19:43:37.180Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ghosts-fabric-1.20.1-1.3.2.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gJKLGvbS/versions/oMq6BRao/ghosts-fabric-1.20.1-1.3.2.jar",
+                    "id": "oMq6BRao",
+                    "parent_id": "gJKLGvbS",
+                    "hashes": {
+                        "sha512": "b0e8062ee66107523832fd9435391404463bbb3b434538ef0dde1cde42b677a9c4142846df6a81f6e56e84b07802638ac12c0a6a76d9b5e3a9459a221f5d1c90",
+                        "sha1": "9701ce12eb87e8ff75f5adbe8606d7948dc9c7a6"
+                    },
+                    "required_dependencies": [],
+                    "size": 943923,
+                    "date_published": "2026-03-07T19:43:57.469159Z"
                 }
             ]
         },
