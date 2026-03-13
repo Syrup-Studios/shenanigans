@@ -4157,6 +4157,81 @@
             ]
         },
         {
+            "pakku_id": "hw8Mpxqna8H9WrVb",
+            "pakku_links": [
+                "U6WPiwKc8f6lXIvN",
+                "nJdK28PaqDp9XFgP",
+                "wHSgKwavMZCWhcKN"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "creeper-overhaul",
+                "modrinth": "creeper-overhaul"
+            },
+            "name": {
+                "curseforge": "Creeper Overhaul",
+                "modrinth": "Creeper Overhaul"
+            },
+            "id": {
+                "curseforge": "561625",
+                "modrinth": "MI1LWe93"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "creeperoverhaul-3.0.2-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5125/712/creeperoverhaul-3.0.2-fabric.jar",
+                    "id": "5125712",
+                    "parent_id": "561625",
+                    "hashes": {
+                        "sha1": "28f45ffa819e310e0df0e652b7a971db993fa008",
+                        "md5": "0b13cba2a00aafb49298f38d2d3f2e32"
+                    },
+                    "required_dependencies": [
+                        "388172",
+                        "714059",
+                        "570073"
+                    ],
+                    "size": 1451306,
+                    "date_published": "2024-02-21T15:48:18.483Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "creeperoverhaul-3.0.2-fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MI1LWe93/versions/Mw0Hq1SZ/creeperoverhaul-3.0.2-fabric.jar",
+                    "id": "Mw0Hq1SZ",
+                    "parent_id": "MI1LWe93",
+                    "hashes": {
+                        "sha512": "b1bfccc651b4caa95de045aa41d871b2f9da05e9a7a76211a3c9d462673fbf6e359b23a14c99ba27285a31498a77d7620584a7d50cd21bf3e3d4940f06b5e118",
+                        "sha1": "28f45ffa819e310e0df0e652b7a971db993fa008"
+                    },
+                    "required_dependencies": [
+                        "M1953qlQ",
+                        "G1hIVOrD",
+                        "8BmcQJ2H"
+                    ],
+                    "size": 1451306,
+                    "date_published": "2024-02-21T15:42:39.910637Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "dTba3uJdW2WoCj1N",
             "type": "MOD",
             "side": "SERVER",
@@ -8522,6 +8597,74 @@
             ]
         },
         {
+            "pakku_id": "SizmgoCfJ0wXqQp7",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "immersive-gateways",
+                "modrinth": "immersive-gateways"
+            },
+            "name": {
+                "curseforge": "Immersive Gateways",
+                "modrinth": "Immersive Gateways"
+            },
+            "id": {
+                "curseforge": "1307924",
+                "modrinth": "3hZmBMYA"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_gateways-fabric-0.0.4+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7740/127/immersive_gateways-fabric-0.0.4+1.20.1.jar",
+                    "id": "7740127",
+                    "parent_id": "1307924",
+                    "hashes": {
+                        "sha1": "cfb747ae09eb8b97fb49812793eed583332c2093",
+                        "md5": "2bd9f2c633c4fd79eb07d4be9e4b2f42"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 495117,
+                    "date_published": "2026-03-10T21:03:13.700Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_gateways-fabric-0.0.4+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3hZmBMYA/versions/nRyEOsj3/immersive_gateways-fabric-0.0.4+1.20.1.jar",
+                    "id": "nRyEOsj3",
+                    "parent_id": "3hZmBMYA",
+                    "hashes": {
+                        "sha512": "4ed2f2e0f249243ba9bb782874dd7fa40ef554ca83688f0c1295ee9937665e7ffff4f6766c84169b7c4b6901a9596df284b6091933e9cbbc8bf8179727b2ec33",
+                        "sha1": "cfb747ae09eb8b97fb49812793eed583332c2093"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 495117,
+                    "date_published": "2026-03-10T21:03:16.715990Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "U2CQa7qB5yVLiRL3",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
@@ -8797,6 +8940,153 @@
                     ],
                     "size": 105382,
                     "date_published": "2025-02-25T22:48:50.770Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "I8lEITgEM7BLMdaO",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "NZYot0NOBW7hhSfE",
+                "kheHUfvaJgrVOUL9"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "inventory-interactions",
+                "modrinth": "inventory-interactions"
+            },
+            "name": {
+                "curseforge": "Inventory Interactions",
+                "modrinth": "Inventory Interactions"
+            },
+            "id": {
+                "curseforge": "1426644",
+                "modrinth": "FCzmUKBr"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "InventoryInteractions-1.0.0+1.20.1+fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7448/156/InventoryInteractions-1.0.0+1.20.1+fabric.jar",
+                    "id": "7448156",
+                    "parent_id": "1426644",
+                    "hashes": {
+                        "sha1": "4bc52b59cc72119a443113a2d16d13282cbbee2f",
+                        "md5": "6c10084175866f81d4726dbca371cf23"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "1399257",
+                        "1339689"
+                    ],
+                    "size": 368917,
+                    "date_published": "2026-01-11T21:49:34.777Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "InventoryInteractions-1.0.0+1.20.1+fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FCzmUKBr/versions/EPLOol6i/InventoryInteractions-1.0.0+1.20.1+fabric.jar",
+                    "id": "EPLOol6i",
+                    "parent_id": "FCzmUKBr",
+                    "hashes": {
+                        "sha512": "91522be3bc154cef832e1b8183ef7e890d0604cceacecff2a01e283d3b1cd80d56eef57a1c7b48b9b98036acb3573260a8a210573508271ceb2f1667e1966488",
+                        "sha1": "4bc52b59cc72119a443113a2d16d13282cbbee2f"
+                    },
+                    "required_dependencies": [
+                        "XYnKrsxH",
+                        "ffLDUGbm",
+                        "P7dR8mSH"
+                    ],
+                    "size": 368917,
+                    "date_published": "2026-01-11T21:49:34.836401Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kheHUfvaJgrVOUL9",
+            "pakku_links": [
+                "NZYot0NOBW7hhSfE",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "inventory-particles",
+                "modrinth": "inventory-particles"
+            },
+            "name": {
+                "curseforge": "Inventory Particles",
+                "modrinth": "Inventory Particles"
+            },
+            "id": {
+                "curseforge": "1339689",
+                "modrinth": "XYnKrsxH"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "InventoryParticles-1.4.0+1.20.1+fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7662/644/InventoryParticles-1.4.0+1.20.1+fabric.jar",
+                    "id": "7662644",
+                    "parent_id": "1339689",
+                    "hashes": {
+                        "sha1": "081d1dd9ecec29e441e997b6d7819ac8fbc6860f",
+                        "md5": "f637ac494d13cc9dc801432322641206"
+                    },
+                    "required_dependencies": [
+                        "1399257",
+                        "306612"
+                    ],
+                    "size": 1531427,
+                    "date_published": "2026-02-22T11:26:48.593Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "InventoryParticles-1.4.0+1.20.1+fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XYnKrsxH/versions/x0eqE2Pt/InventoryParticles-1.4.0+1.20.1+fabric.jar",
+                    "id": "x0eqE2Pt",
+                    "parent_id": "XYnKrsxH",
+                    "hashes": {
+                        "sha512": "d62191e7c88b15d1ea1d3b2da2770b746fac47f40b77d74258d2a41ce2a566650e6a7e5112f0fab507016dc96a3a3e1d1354d0b019e70f7fdeb8d0b2114c6632",
+                        "sha1": "081d1dd9ecec29e441e997b6d7819ac8fbc6860f"
+                    },
+                    "required_dependencies": [
+                        "ffLDUGbm",
+                        "P7dR8mSH"
+                    ],
+                    "size": 1531427,
+                    "date_published": "2026-02-22T11:26:49.306908Z"
                 }
             ]
         },
@@ -11895,6 +12185,75 @@
             ]
         },
         {
+            "pakku_id": "NZYot0NOBW7hhSfE",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mossylib",
+                "modrinth": "mossylib"
+            },
+            "name": {
+                "curseforge": "MossyLib",
+                "modrinth": "MossyLib"
+            },
+            "id": {
+                "curseforge": "1399257",
+                "modrinth": "ffLDUGbm"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MossyLib-1.1.0+1.20.1+fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7438/816/MossyLib-1.1.0+1.20.1+fabric.jar",
+                    "id": "7438816",
+                    "parent_id": "1399257",
+                    "hashes": {
+                        "sha1": "d9d4105572e4aa68603b0610aa5b6ceadb615cff",
+                        "md5": "abd0d61854b92bc4ceca40a228640ec5"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 188502,
+                    "date_published": "2026-01-09T20:26:20.053Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MossyLib-1.1.0+1.20.1+fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ffLDUGbm/versions/j6bXQ5V5/MossyLib-1.1.0+1.20.1+fabric.jar",
+                    "id": "j6bXQ5V5",
+                    "parent_id": "ffLDUGbm",
+                    "hashes": {
+                        "sha512": "bfef0f9f57cc719e7bc5cc55ac7f36a2cfe43a7f6524012e34e022df4a0b8762483298bc9c4ac171ba5f388bc3360e39f5a7ccc7c3f0d4024cc182875a34dac3",
+                        "sha1": "d9d4105572e4aa68603b0610aa5b6ceadb615cff"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 188502,
+                    "date_published": "2026-01-09T20:26:20.123089Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "qD01zPsPr7yx7k3U",
             "pakku_links": [
                 "zJdHaMqgv1dOR3pR",
@@ -13950,6 +14309,67 @@
                     ],
                     "size": 962865,
                     "date_published": "2026-01-25T18:48:50.934947Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "QCGOMdO92STiARMo",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "portfolio",
+                "modrinth": "portfolio"
+            },
+            "name": {
+                "curseforge": "Portfolio",
+                "modrinth": "Portfolio"
+            },
+            "id": {
+                "curseforge": "851131",
+                "modrinth": "2k6aLirX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "portfolio-1.20.1-1.5.0-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7102/159/portfolio-1.20.1-1.5.0-fabric.jar",
+                    "id": "7102159",
+                    "parent_id": "851131",
+                    "hashes": {
+                        "sha1": "30e13738a74aaf91bb0ca0fcf067cefd5906ced8",
+                        "md5": "9457ded2482ce9ec5cf800812869d4d6"
+                    },
+                    "required_dependencies": [],
+                    "size": 362399,
+                    "date_published": "2025-10-13T08:12:08.573Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "portfolio-1.20.1-1.5.0-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2k6aLirX/versions/6PBCkzvU/portfolio-1.20.1-1.5.0-fabric.jar",
+                    "id": "6PBCkzvU",
+                    "parent_id": "2k6aLirX",
+                    "hashes": {
+                        "sha512": "139c872a3d33bb5020201161183fe20330664c6f72e875aa4ca92387f39deb8dcfb94e292b2fe42025245d0bef095f6ee9162d617c615cf438596e1df15a18d7",
+                        "sha1": "30e13738a74aaf91bb0ca0fcf067cefd5906ced8"
+                    },
+                    "required_dependencies": [],
+                    "size": 362399,
+                    "date_published": "2025-10-13T08:14:37.428630Z"
                 }
             ]
         },
