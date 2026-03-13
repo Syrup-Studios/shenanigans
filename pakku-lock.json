@@ -641,6 +641,80 @@
             ]
         },
         {
+            "pakku_id": "XOxmYnZDYFpsDusc",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "8XXJmG3GCel9lR3Q",
+                "JF6FKF1u7X4j8nIu"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "arcane-lanterns",
+                "modrinth": "arcane-lanterns"
+            },
+            "name": {
+                "curseforge": "Arcane Lanterns",
+                "modrinth": "Arcane Lanterns"
+            },
+            "id": {
+                "curseforge": "852666",
+                "modrinth": "NvlReHlC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ArcaneLanterns-v8.0.0-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4613/452/ArcaneLanterns-v8.0.0-1.20.1-Fabric.jar",
+                    "id": "4613452",
+                    "parent_id": "852666",
+                    "hashes": {
+                        "sha1": "6e18a4b86a45788c384a60994f4aa468bdcf280e",
+                        "md5": "4e9dbc78996e52d4955ebd39a3493cf9"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "495476",
+                        "547434"
+                    ],
+                    "size": 168213,
+                    "date_published": "2023-06-28T07:54:08.753Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ArcaneLanterns-v8.0.0-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NvlReHlC/versions/gyU91tTT/ArcaneLanterns-v8.0.0-1.20.1-Fabric.jar",
+                    "id": "gyU91tTT",
+                    "parent_id": "NvlReHlC",
+                    "hashes": {
+                        "sha512": "32cdd62b1d714aefdef33f5d712ae258b0c1b7382afb55d026844f61aa93b10d8ebcbd277067b8b2150eb453826122349de62dc833ba57ed9f510d1b85e30128",
+                        "sha1": "6e18a4b86a45788c384a60994f4aa468bdcf280e"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M",
+                        "ohNO6lps",
+                        "P7dR8mSH"
+                    ],
+                    "size": 168213,
+                    "date_published": "2023-06-28T07:54:13.775230Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "GzMF390M2O6LbyrI",
             "type": "MOD",
             "side": "BOTH",
