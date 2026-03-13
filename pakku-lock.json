@@ -4094,6 +4094,72 @@
             ]
         },
         {
+            "pakku_id": "3Dj9haKOa98rbfAE",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-design-n-decor",
+                "modrinth": "create-design-n-decor"
+            },
+            "name": {
+                "curseforge": "Create: Design n' Decor",
+                "modrinth": "Create: Design n' Decor"
+            },
+            "id": {
+                "curseforge": "923238",
+                "modrinth": "x49wilh8"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "design_decor-0.4.0b_fabric+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5596/516/design_decor-0.4.0b_fabric+1.20.1.jar",
+                    "id": "5596516",
+                    "parent_id": "923238",
+                    "hashes": {
+                        "sha1": "6d3203e06128006c7c6222f3593648c4fd11d426",
+                        "md5": "d55e21fb2a68b38ca3664e2e3f5363bc"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 2219641,
+                    "date_published": "2024-08-04T18:52:14.840Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "design_decor-0.4.0b_fabric+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/x49wilh8/versions/6bv4ASFG/design_decor-0.4.0b_fabric+1.20.1.jar",
+                    "id": "6bv4ASFG",
+                    "parent_id": "x49wilh8",
+                    "hashes": {
+                        "sha512": "1df837efcdb8b5e7cc6bf1de2af93e351958f8ecdbe690b70ed73fea9082c69d0ecd5c1c45a2eae595309a7b20458b9f26d125f70dd06335f8ded2cee8ef7b9f",
+                        "sha1": "6d3203e06128006c7c6222f3593648c4fd11d426"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 2219641,
+                    "date_published": "2024-08-04T18:53:13.712202Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5oJYJ9VQafRgSY7f",
             "type": "MOD",
             "side": "BOTH",
