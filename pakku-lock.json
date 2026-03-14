@@ -4030,25 +4030,48 @@
             ]
         },
         {
-            "pakku_id": "41BEAEqz6UpInj0r",
+            "pakku_id": "1cYYevgOxjabHSai",
             "pakku_links": [
                 "uAfFWm2rEb2ggpg4"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "create-deco",
+                "curseforge": "create-deco-fabric",
                 "modrinth": "create-deco"
             },
             "name": {
-                "curseforge": "Create Deco",
+                "curseforge": "Create Deco Fabric",
                 "modrinth": "Create Deco"
             },
             "id": {
-                "curseforge": "509285",
+                "curseforge": "739872",
                 "modrinth": "sMvUb4Rb"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createdeco-2.1.1-1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7721/695/createdeco-2.1.1-1.20.1-fabric.jar",
+                    "id": "7721695",
+                    "parent_id": "739872",
+                    "hashes": {
+                        "sha1": "8af20ce558c8027016dfd99cc118a7bc1289a7f7",
+                        "md5": "f444476017c6ee6e2afd899f78f0fa1b"
+                    },
+                    "required_dependencies": [
+                        "624165"
+                    ],
+                    "size": 3492044,
+                    "date_published": "2026-03-06T23:27:30.360Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "createdeco-2.1.1-1.20.1-fabric.jar",
@@ -18980,19 +19003,43 @@
             ]
         },
         {
-            "pakku_id": "C5WNmleWG17hjWRc",
+            "pakku_id": "EgGGug4Q5559byCi",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
+                "curseforge": "syrup-essentials",
                 "modrinth": "syrup-essentials"
             },
             "name": {
+                "curseforge": "Syrup Essentials",
                 "modrinth": "Syrup Essentials"
             },
             "id": {
+                "curseforge": "1477901",
                 "modrinth": "5ilOuE0e"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "syrup-essentials-0.0.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7712/556/syrup-essentials-0.0.1-1.20.1.jar",
+                    "id": "7712556",
+                    "parent_id": "1477901",
+                    "hashes": {
+                        "sha1": "499a93b9f2ae96cd4c03adddc99678cfd1f6ab1d",
+                        "md5": "a1f240244769f4e0efc2fd39b92b308c"
+                    },
+                    "required_dependencies": [],
+                    "size": 16991,
+                    "date_published": "2026-03-05T00:23:08.247Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "syrup-essentials-0.0.1-1.20.1.jar",
