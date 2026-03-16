@@ -15,6 +15,9 @@
         },
         "continuity": {
             "update_strategy": "NONE"
+        },
+        "puddles-floods": {
+            "side": "CLIENT"
         }
     }
 }
