@@ -12,6 +12,8 @@
 
     "tooltip.shenanigans.clocks.day_cycle": "The days are 40 minutes and the nights are 20 minutes!",
 
-    "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!"
+    "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!",
+
+    "tooltip.shenanigans.auroraslanters.amethyst_lantern.range": "Has a range up to 32 blocks!"
 
 }

@@ -28,4 +28,8 @@ ItemEvents.tooltip(event => {
             event.addAdvanced('#c:foods/raw', (item, advanced, text) => {
             text.add(1, Component.translate('tooltip.shenanigans.foods.raw').gray());
     });
+
+            event.addAdvanced('auroraslanterns:amethyst_lantern', (item, advanced, text) => {
+            text.add(1, Component.translate('tooltip.shenanigans.auroraslanters.amethyst_lantern.range').gray());
+    });
 })
