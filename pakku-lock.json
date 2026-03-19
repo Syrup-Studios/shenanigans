@@ -13825,7 +13825,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Oh-The-Biomes-Weve-Gone-Fabric-1.7.4.jar",
+                    "file_name": "Oh-The-Biomes-Weve-Gone-Fabric-1.7.5.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13834,26 +13834,26 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/qKtkWbpJ/Oh-The-Biomes-Weve-Gone-Fabric-1.7.4.jar",
-                    "id": "qKtkWbpJ",
+                    "url": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/nTgMZTl1/Oh-The-Biomes-Weve-Gone-Fabric-1.7.5.jar",
+                    "id": "nTgMZTl1",
                     "parent_id": "NTi7d3Xc",
                     "hashes": {
-                        "sha512": "7f80b90b999664832c48489e6af9d3ea287687f8c50606b885d96f5225ea8bae627b079c7dc8ecb26ec50ee3cbc1ff3a7179427d7434e40908f2affc8cf3e1bb",
-                        "sha1": "9908b82def65495ca3e657bad0a2fa8949082578"
+                        "sha512": "1a5666a85bf74014a3cc1daef200959d14de523c87435979c785beb5351a4d6d9e4a8aefb138eace6dc5a2d6d80888744b1b764709c5ed6e36bf914c63a2b89a",
+                        "sha1": "8836df8245007736a1034c98d742643dc0495017"
                     },
                     "required_dependencies": [
-                        "ziOp6EO8",
                         "8BmcQJ2H",
+                        "ziOp6EO8",
+                        "kkmrDlKT",
                         "g8NOG5OR",
-                        "P7dR8mSH",
-                        "kkmrDlKT"
+                        "P7dR8mSH"
                     ],
-                    "size": 18638245,
-                    "date_published": "2025-12-28T02:09:54.207467Z"
+                    "size": 18653246,
+                    "date_published": "2026-03-15T02:20:30.888547Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Oh-The-Biomes-Weve-Gone-Fabric-1.7.4.jar",
+                    "file_name": "Oh-The-Biomes-Weve-Gone-Fabric-1.7.5.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13862,22 +13862,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7386/694/Oh-The-Biomes-Weve-Gone-Fabric-1.7.4.jar",
-                    "id": "7386694",
+                    "url": "https://edge.forgecdn.net/files/7759/423/Oh-The-Biomes-Weve-Gone-Fabric-1.7.5.jar",
+                    "id": "7759423",
                     "parent_id": "1070751",
                     "hashes": {
-                        "sha1": "9908b82def65495ca3e657bad0a2fa8949082578",
-                        "md5": "87259e0e9c693da47b6ad09d8bf706e3"
+                        "sha1": "8836df8245007736a1034c98d742643dc0495017",
+                        "md5": "58f46914f433915a2c0405e32116dabd"
                     },
                     "required_dependencies": [
-                        "306612",
-                        "962544",
                         "565956",
+                        "693313",
+                        "962544",
                         "388172",
-                        "693313"
+                        "306612"
                     ],
-                    "size": 18638245,
-                    "date_published": "2025-12-28T02:09:46.183Z"
+                    "size": 18653246,
+                    "date_published": "2026-03-15T02:20:22.140Z"
                 }
             ]
         },
