@@ -2855,7 +2855,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "colorwheel-fabric-1.2.1+mc1.20.1.jar",
+                    "file_name": "colorwheel-fabric-1.2.2+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2863,22 +2863,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/zfIKU4QX/colorwheel-fabric-1.2.1+mc1.20.1.jar",
-                    "id": "zfIKU4QX",
+                    "url": "https://cdn.modrinth.com/data/BzHgFoGz/versions/OtuMdrdJ/colorwheel-fabric-1.2.2+mc1.20.1.jar",
+                    "id": "OtuMdrdJ",
                     "parent_id": "BzHgFoGz",
                     "hashes": {
-                        "sha512": "eeabc4f1805e2572f848ea07c063486463bc4ee9c814cc822c38173e94c67bde6a5f608a9488a7fa27940db860a182c802dff9d3434b91908e455b2b0e6393cc",
-                        "sha1": "4e84190732f75d4ad4e52a893653ed45d3d8721c"
+                        "sha512": "eba71ef6fc1c5a023a22626a85a3e866fd394ed51a3e21542513c6afea73bfb82a313d3d24f9e21a06659c068784d29c8ca5bd53133c7448446bbaee54a4bfde",
+                        "sha1": "3e4435e1a442ce323591d28cc94dfd5993b7e5a5"
                     },
                     "required_dependencies": [
                         "YL57xq9U"
                     ],
-                    "size": 375801,
-                    "date_published": "2026-01-19T20:10:00.449394Z"
+                    "size": 377474,
+                    "date_published": "2026-03-14T17:10:26.847026Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "colorwheel-fabric-1.2.1+mc1.20.1.jar",
+                    "file_name": "colorwheel-fabric-1.2.2+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -2886,18 +2886,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7490/339/colorwheel-fabric-1.2.1+mc1.20.1.jar",
-                    "id": "7490339",
+                    "url": "https://edge.forgecdn.net/files/7757/224/colorwheel-fabric-1.2.2+mc1.20.1.jar",
+                    "id": "7757224",
                     "parent_id": "1254143",
                     "hashes": {
-                        "sha1": "4e84190732f75d4ad4e52a893653ed45d3d8721c",
-                        "md5": "2ce336c0d58d9648ad570a5c9372b7e7"
+                        "sha1": "3e4435e1a442ce323591d28cc94dfd5993b7e5a5",
+                        "md5": "09981d0c0aa20f4547b8b839a9e8aa42"
                     },
                     "required_dependencies": [
                         "455508"
                     ],
-                    "size": 375801,
-                    "date_published": "2026-01-19T20:09:57.937Z"
+                    "size": 377474,
+                    "date_published": "2026-03-14T17:10:24.817Z"
                 }
             ]
         },
