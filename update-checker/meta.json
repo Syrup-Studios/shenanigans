@@ -3,13 +3,13 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "0.3.1-alpha",
-      "releasedAt": 1773702000000,
+      "id": "0.2.0-alpha",
+      "releasedAt": 1772665200000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/shenanigans/version/0.3.1-alpha",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/files/7770209",
-          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.3.1-alpha"
+          "modrinth": "https://modrinth.com/modpack/shenanigans/version/0.2.0-alpha",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/",
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.2.0-alpha"
         }
       }
     },
@@ -25,24 +25,13 @@
       }
     },
     {
-      "id": "0.2.0-alpha",
-      "releasedAt": 1772665200000,
+      "id": "0.3.1-alpha",
+      "releasedAt": 1773702000000,
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/shenanigans/version/0.2.0-alpha",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/",
-          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.2.0-alpha"
-        }
-      }
-    },
-    {
-      "id": "0.4.0-alpha",
-      "releasedAt": 1772665200000,
-      "promotions": {
-        "downloads": {
-          "modrinth": "https://modrinth.com/modpack/shenanigans/version/0.4.0-alpha",
-          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/",
-          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.4.0-alpha"
+          "modrinth": "https://modrinth.com/modpack/shenanigans/version/0.3.1-alpha",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/files/7770209",
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.3.1-alpha"
         }
       }
     }
