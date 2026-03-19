@@ -1,0 +1,48 @@
+## Changelog 0.3.0-alpha
+
+
+### Changed:
+- Changed Mastercutter Datapack to Mod version cause f*ck CF (many of these cases)
+- made whool be crafted into 2 strings and buffed string output from create recipes
+- made afk camera take 2.5 minutes instead of 30 seconds
+- made furnace recipes be 60 seconds instead of 80 seconds
+- removed the ability to cook food in normal furnaces, smoker needed now
+- added the ability to allow for different languages on tooltips
+
+### Updated:
+- [Create: Steam n Rails](https://modrinth.com/mod/create-steam-n-rails)
+- [Joy of Painting](https://modrinth.com/mod/joy-of-painting)
+- [Particle Rain](https://modrinth.com/mod/particle-rain)
+
+### Added: 
+- [Boids](https://modrinth.com/mod/boids)
+- [Dungeon Now Loading](https://modrinth.com/mod/dungeon-now-loading)
+- [Naturalist](https://modrinth.com/mod/naturalist)
+- [Ghost](https://modrinth.com/mod/ghost)
+- [Building But Better](https://modrinth.com/mod/building-but-better)
+- [Puddles & Floods](https://modrinth.com/mod/puddles-floods)
+- [Critters and Companions](https://modrinth.com/mod/critters-and-companions)
+- [Visual Snowy Leaves](https://modrinth.com/mod/visual-snowy-leaves)
+- [The Aether](https://modrinth.com/mod/aether) &  [Accessories](https://modrinth.com/mod/accessories)
+- [Customizable Player Models](https://modrinth.com/plugin/custom-player-models)
+- [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul)
+- [Enderman Overrhaul](https://modrinth.com/mod/enderman-overhaul)
+- [Immersive Gateways](https://modrinth.com/mod/immersive-gateways)
+- [Portfolio](https://modrinth.com/datapack/portfolio)
+- [Inventory Particles](https://modrinth.com/mod/inventory-particles)
+- [Inventory Interactions](https://modrinth.com/mod/inventory-interactions)
+- [Immersive Furniture](https://modrinth.com/mod/immersive-furniture)
+- [Swinging Lanterns](https://modrinth.com/mod/swinging-lanterns)
+- [Aurora's Lanterns](https://modrinth.com/mod/auroraslanterns)
+- [Arcane Lanterns](https://modrinth.com/mod/arcane-lanterns)
+- [Controlling](https://modrinth.com/mod/controlling)
+- [Immersive Melodies](https://modrinth.com/mod/immersive-melodies)
+- [Immersive Paintings](https://modrinth.com/mod/immersive-paintings)
+- [Field Guide](https://modrinth.com/mod/field-guide)
+- [Bedspreads](https://modrinth.com/mod/bedspreads)
+- [World Play Time](https://modrinth.com/mod/world-play-time)
+- [Only Hammers And Excavators](https://modrinth.com/mod/only-hammers-and-excavators)
+- [Colorwheel Patcher](https://modrinth.com/mod/colorwheel-patcher)
+
+### Removed:
+- [Excavators and Hammers](https://modrinth.com/mod/excavatorsandhammers)

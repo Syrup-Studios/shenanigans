@@ -1,0 +1,9 @@
+## Changelog 0.3.1-alpha
+
+
+### Changed:
+- Default Keybinds and removed the Aether Accessories keybind because it interfered with Toms storage search bar
+- Made the puddles mod be client side only for now, because of crashes when on server (already talked to the dev about it)
+
+### Removed:
+- [Inventory interactions](https://modrinth.com/mod/inventory-interactions) (too much)
