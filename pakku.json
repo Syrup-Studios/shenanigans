@@ -1,7 +1,7 @@
 {
     "name": "Shenanigans",
-    "version": "0.3.1-alpha",
-    "author": "Salad",
+    "version": "0.3.2-alpha",
+    "author": "Syrup Studios",
     "paths": {
         "data_packs": "./kubejs/data/",
         "shader_packs": "./shaderpacks/"
