@@ -2,9 +2,17 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
-     {
-        "id": "0.3.1-alpha",
-        "releasedAt": 1773702000000
+    {
+      "id": "0.3.1-alpha",
+      "releasedAt": 1773702000000
+    },
+    {
+      "id": "0.3.0-alpha",
+      "releasedAt": 1773356400000
+    },
+    {
+      "id": "0.2.0-alpha",
+      "releasedAt": 1772665200000
     }
   ]
 }
