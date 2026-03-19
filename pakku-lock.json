@@ -16635,6 +16635,72 @@
             ]
         },
         {
+            "pakku_id": "BWpBpq3dvq8FTzta",
+            "pakku_links": [
+                "U6WPiwKc8f6lXIvN"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "simply-tents",
+                "modrinth": "simply-tents"
+            },
+            "name": {
+                "curseforge": "Simply Tents",
+                "modrinth": "Simply Tents"
+            },
+            "id": {
+                "curseforge": "1152882",
+                "modrinth": "yWY7WWmg"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "simplytents-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7751/152/simplytents-1.0.0.jar",
+                    "id": "7751152",
+                    "parent_id": "1152882",
+                    "hashes": {
+                        "sha1": "3431200f2191d60a419c534e0a282efbe8d499dd",
+                        "md5": "6c6c97666dbfde78744d6ed96cfeadf4"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 1143612,
+                    "date_published": "2026-03-13T13:34:25.047Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "simplytents-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yWY7WWmg/versions/LUpq7Mcw/simplytents-1.0.0.jar",
+                    "id": "LUpq7Mcw",
+                    "parent_id": "yWY7WWmg",
+                    "hashes": {
+                        "sha512": "4b97b3b1b04a264dd10a87efac06455add7830c5cec5cead4676002134222bb673054e5e6d1862a455da39c7b8cbeeeba7bfa6823f7fb030ab948bfe76c3d7c6",
+                        "sha1": "3431200f2191d60a419c534e0a282efbe8d499dd"
+                    },
+                    "required_dependencies": [],
+                    "size": 1143612,
+                    "date_published": "2026-03-13T14:47:19.320328Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "BN3mLVGjgLIAau3j",
             "type": "MOD",
             "side": "SERVER",
