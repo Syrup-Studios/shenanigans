@@ -13804,6 +13804,77 @@
             ]
         },
         {
+            "pakku_id": "MteMpiStPOMWQ8He",
+            "pakku_links": [
+                "wHSgKwavMZCWhcKN",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "odyssey-quests",
+                "modrinth": "odyssey-quests"
+            },
+            "name": {
+                "curseforge": "Odyssey Quests",
+                "modrinth": "Odyssey Quests"
+            },
+            "id": {
+                "curseforge": "845831",
+                "modrinth": "lo90fZoB"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Heracles-fabric-1.20.1-1.1.13.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5406/937/Heracles-fabric-1.20.1-1.1.13.jar",
+                    "id": "5406937",
+                    "parent_id": "845831",
+                    "hashes": {
+                        "sha1": "9a9213acbbe2d10ed12087978653253f0a4754c6",
+                        "md5": "2806930f234021d6329da63bbf283cd2"
+                    },
+                    "required_dependencies": [
+                        "570073",
+                        "306612"
+                    ],
+                    "size": 1411990,
+                    "date_published": "2024-06-07T19:09:24.697Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Heracles-fabric-1.20.1-1.1.13.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lo90fZoB/versions/Iw91uuFK/Heracles-fabric-1.20.1-1.1.13.jar",
+                    "id": "Iw91uuFK",
+                    "parent_id": "lo90fZoB",
+                    "hashes": {
+                        "sha512": "a4b2575cab35827a031c8d73de1b822ec90dae925fc31d86f6367c96ead57b1f1c58a3cf15c747afaee942ece23529110ea1d5d47ef173389c837c013d23eff7",
+                        "sha1": "9a9213acbbe2d10ed12087978653253f0a4754c6"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "G1hIVOrD"
+                    ],
+                    "size": 1411990,
+                    "date_published": "2024-06-07T19:09:27.331193Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "cj6TIiGircbJv8a6",
             "pakku_links": [
                 "q10fPkhW5FLd1lnV"
