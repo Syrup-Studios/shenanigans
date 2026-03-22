@@ -19532,6 +19532,118 @@
             ]
         },
         {
+            "pakku_id": "pr8JUfFe8ilja6Rv",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "tinkerers-smithing"
+            },
+            "name": {
+                "modrinth": "Tinkerer's Smithing"
+            },
+            "id": {
+                "modrinth": "RhVpNN5O"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "tinkerers-smithing-2.7.0+1.20.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RhVpNN5O/versions/gzDgfk8I/tinkerers-smithing-2.7.0+1.20.jar",
+                    "id": "gzDgfk8I",
+                    "parent_id": "RhVpNN5O",
+                    "hashes": {
+                        "sha512": "1844cafeec93ca964b3aecd0ea64f1daa2ed41b2f375f02914438b6a2777749728bef1b840d09fea92c5b2bf89f45ca32b29f3de1475fe476c8e986bf7c88e93",
+                        "sha1": "0d84773acf29f5d8ca3f3802e599a6cd30b0ce9b"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 426431,
+                    "date_published": "2024-08-26T07:47:42.128653Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "NsdamfLD7EDKpF0p",
+            "pakku_links": [
+                "qnwURr6stvRJf7cl",
+                "pr8JUfFe8ilja6Rv"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "tinkerers-smithing-kubejs-compat",
+                "modrinth": "tinkerers-smithing-kubejs-compat"
+            },
+            "name": {
+                "curseforge": "Tinkerer's Smithing: KubeJS Compat",
+                "modrinth": "Tinkerer's Smithing: KubeJS Compat"
+            },
+            "id": {
+                "curseforge": "1394582",
+                "modrinth": "5U1y0liR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "tinkerers_kubejs_plugin-1.0.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7275/406/tinkerers_kubejs_plugin-1.0.0+1.20.1.jar",
+                    "id": "7275406",
+                    "parent_id": "1394582",
+                    "hashes": {
+                        "sha1": "6fcda3366228828f02ab9d370e0eddad6068a7a3",
+                        "md5": "14994a6cec16b4a5119fee0560555919"
+                    },
+                    "required_dependencies": [],
+                    "size": 145187,
+                    "date_published": "2025-11-29T19:18:50.347Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "tinkerers_kubejs_plugin-1.0.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5U1y0liR/versions/gnpszfhe/tinkerers_kubejs_plugin-1.0.0+1.20.1.jar",
+                    "id": "gnpszfhe",
+                    "parent_id": "5U1y0liR",
+                    "hashes": {
+                        "sha512": "d37115628b59039608109ca9b543abd7ca9183aa1eb2f81315e486f57cda10152fa075912a7a28d5a80e99bd424aa84991c8f9bb212c11d9716b147732008d98",
+                        "sha1": "ededbb43591fb4beb05c1c97e2a9222f5267c6bc"
+                    },
+                    "required_dependencies": [
+                        "umyGl7zF",
+                        "RhVpNN5O"
+                    ],
+                    "size": 20585,
+                    "date_published": "2025-02-15T00:53:12.149487Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7D6kPwe9CypyW1lz",
             "type": "MOD",
             "side": "CLIENT",
