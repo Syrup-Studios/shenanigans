@@ -22990,6 +22990,147 @@
             ]
         },
         {
+            "pakku_id": "pLKdTKnmEaPdjG60",
+            "pakku_links": [
+                "iZd7RRFKfDzPtaiB",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "guitas-woodworks",
+                "modrinth": "guitas-woodworks"
+            },
+            "name": {
+                "curseforge": "guita's Woodworks",
+                "modrinth": "guita's Woodworks"
+            },
+            "id": {
+                "curseforge": "1308420",
+                "modrinth": "NTFyR6MX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gwoodworks-1.1.1a-1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7479/18/gwoodworks-1.1.1a-1.20.1-fabric.jar",
+                    "id": "7479018",
+                    "parent_id": "1308420",
+                    "hashes": {
+                        "sha1": "8d8d57f8dd4828ae9ebf8b132dee6dc9e970bf89",
+                        "md5": "c4486ccd4f63383f3d640273fc8765f9"
+                    },
+                    "required_dependencies": [
+                        "1216837",
+                        "306612"
+                    ],
+                    "size": 597670,
+                    "date_published": "2026-01-18T04:51:27.207Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gwoodworks-1.1.1a-1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NTFyR6MX/versions/6W6fwAvx/gwoodworks-1.1.1a-1.20.1-fabric.jar",
+                    "id": "6W6fwAvx",
+                    "parent_id": "NTFyR6MX",
+                    "hashes": {
+                        "sha512": "f86e0ab761f49978cd77943fe3cab4783fbdbbb630ebaef4004db074d31f9478ed52f3f50dc9b93411229bbe7edf3ab9736c2970aa69757809a6c3172b7a0b05",
+                        "sha1": "8d8d57f8dd4828ae9ebf8b132dee6dc9e970bf89"
+                    },
+                    "required_dependencies": [
+                        "XnLNz8og",
+                        "P7dR8mSH"
+                    ],
+                    "size": 597670,
+                    "date_published": "2026-01-18T04:51:27.862501Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "iZd7RRFKfDzPtaiB",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "macu-lib",
+                "modrinth": "macu-lib"
+            },
+            "name": {
+                "curseforge": "macu lib",
+                "modrinth": "macu lib"
+            },
+            "id": {
+                "curseforge": "1216837",
+                "modrinth": "XnLNz8og"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "macu_lib-fabric-1.0.6-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7495/871/macu_lib-fabric-1.0.6-1.20.1.jar",
+                    "id": "7495871",
+                    "parent_id": "1216837",
+                    "hashes": {
+                        "sha1": "79656ed720fcf39addf01d09285d55021e79f14a",
+                        "md5": "9cf76d144f2bd0934e4a1194ad516fa0"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 33164,
+                    "date_published": "2026-01-20T19:24:06.897Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "macu_lib-fabric-1.0.6-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XnLNz8og/versions/zmWPTWSz/macu_lib-fabric-1.0.6-1.20.1.jar",
+                    "id": "zmWPTWSz",
+                    "parent_id": "XnLNz8og",
+                    "hashes": {
+                        "sha512": "ebaa74415faee9622c42fbd46efc12e130954cef87171a3024cd0ff0e62309679b4259013bc35ba7a545064c6c249174491bd48479b5d9a6fea1f33eec4ca7bd",
+                        "sha1": "79656ed720fcf39addf01d09285d55021e79f14a"
+                    },
+                    "required_dependencies": [],
+                    "size": 33164,
+                    "date_published": "2026-01-20T19:22:17.958261Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QYHSp4ueHrV1H99g",
             "type": "MOD",
             "side": "BOTH",
