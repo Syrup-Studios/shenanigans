@@ -403,48 +403,6 @@
             ]
         },
         {
-            "pakku_id": "Sn6BCfE7hrcCpSOe",
-            "pakku_links": [
-                "X1AQ13Z1y1fsW3pj"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "almanac-for-spyglass-astronomy-(fixed)"
-            },
-            "name": {
-                "modrinth": "Almanac for Spyglass Astronomy (Fixed)"
-            },
-            "id": {
-                "modrinth": "j15KcubR"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "almanacbook-0.6.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/j15KcubR/versions/sOmV5c1t/almanacbook-0.6.1.jar",
-                    "id": "sOmV5c1t",
-                    "parent_id": "j15KcubR",
-                    "hashes": {
-                        "sha512": "9d8c2604e7fb90f4cac9f32b5c0bd13912a6d2e5a3cb37d8378632b0dabc47e94ad8534df6fb4cd76722b556b430234044307b96fac7dfb29bceca09744eb5ff",
-                        "sha1": "a49005e7c8feb69f7b2f34fdfb0c02f31b440c63"
-                    },
-                    "required_dependencies": [
-                        "EdBSdqge"
-                    ],
-                    "size": 43227,
-                    "date_published": "2025-12-04T13:15:51.788514Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "oiKB8e1LNJHhqYhV",
             "type": "MOD",
             "side": "CLIENT",
