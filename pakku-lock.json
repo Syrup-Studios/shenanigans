@@ -6748,6 +6748,77 @@
             ]
         },
         {
+            "pakku_id": "srs9UVOpaBCd3WBX",
+            "pakku_links": [
+                "VeVpUVJ9hZfIh70m",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "every-compat",
+                "modrinth": "every-compat"
+            },
+            "name": {
+                "curseforge": "Every Compat (Wood Good)",
+                "modrinth": "Every Compat (Wood Good)"
+            },
+            "id": {
+                "curseforge": "628539",
+                "modrinth": "eiktJyw1"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "everycomp-1.20-2.9.17-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7597/911/everycomp-1.20-2.9.17-fabric.jar",
+                    "id": "7597911",
+                    "parent_id": "628539",
+                    "hashes": {
+                        "sha1": "7d6514e0dd69f17c52e967c10c9de2fe74ea14ab",
+                        "md5": "83833136b15e2f4945f68af7c7060819"
+                    },
+                    "required_dependencies": [
+                        "499980",
+                        "306612"
+                    ],
+                    "size": 2633101,
+                    "date_published": "2026-02-09T04:43:24.910Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "everycomp-1.20-2.9.17-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wG2XYdpH/everycomp-1.20-2.9.17-fabric.jar",
+                    "id": "wG2XYdpH",
+                    "parent_id": "eiktJyw1",
+                    "hashes": {
+                        "sha512": "f3a2e498381ad456d53f13c7823b9802f6890ceb83aba91829979b5544c8f585048df34c21aab3ae6bc9ca33f7df0671dae64d2908564e99cb35a57ab71cc3c5",
+                        "sha1": "7d6514e0dd69f17c52e967c10c9de2fe74ea14ab"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "twkfQtEc"
+                    ],
+                    "size": 2633101,
+                    "date_published": "2026-02-09T04:43:42.558Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "O5bvavz1BFrfHxjH",
             "type": "MOD",
             "side": "BOTH",
