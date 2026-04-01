@@ -8163,25 +8163,25 @@
             ]
         },
         {
-            "pakku_id": "HRAu9KSOlFSMmYN1",
-            "type": "MOD",
+            "pakku_id": "mHjS5NDa8sJY68qK",
+            "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
                 "curseforge": "geophilic",
                 "modrinth": "geophilic"
             },
             "name": {
-                "curseforge": "Geophilic – Vanilla Biome Overhauls",
+                "curseforge": "Geophilic (datapack version)",
                 "modrinth": "Geophilic"
             },
             "id": {
-                "curseforge": "711216",
+                "curseforge": "1178482",
                 "modrinth": "hl5OLM95"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Geophilic v3.4.6.mod.jar",
+                    "file_name": "Geophilic 3.4.6.dp.zip",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
@@ -8191,27 +8191,21 @@
                         "1.20.4",
                         "1.20.3"
                     ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7450/707/Geophilic v3.4.6.mod.jar",
-                    "id": "7450707",
-                    "parent_id": "711216",
+                    "url": "https://edge.forgecdn.net/files/7450/712/Geophilic 3.4.6.dp.zip",
+                    "id": "7450712",
+                    "parent_id": "1178482",
                     "hashes": {
-                        "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5",
-                        "md5": "e0354e4a2630e5467d484a129d047e47"
+                        "sha1": "6b2b1651ea51c040b9c36d8f9076a6779c048623",
+                        "md5": "e8140fb9e9546ef14894959aa924ab26"
                     },
                     "required_dependencies": [],
-                    "size": 751598,
-                    "date_published": "2026-01-12T14:50:36.237Z"
+                    "size": 749809,
+                    "date_published": "2026-01-12T14:51:33.333Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "Geophilic v3.4.6.mod.jar",
+                    "file_name": "Geophilic 3.4.6.dp.zip",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -8234,22 +8228,19 @@
                         "1.21.11"
                     ],
                     "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
+                        "datapack"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/Vk4cYx6F/Geophilic v3.4.6.mod.jar",
-                    "id": "Vk4cYx6F",
+                    "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/POZ6ECW4/Geophilic 3.4.6.dp.zip",
+                    "id": "POZ6ECW4",
                     "parent_id": "hl5OLM95",
                     "hashes": {
-                        "sha512": "5d0ac03046a6524f015c6c380e5fce59d8b763eec5fd5b6b301d67418d25a726088e94d96381ec577425d03f7d70c3b711cfd13eea29e7a48a02e95a5fb11065",
-                        "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5"
+                        "sha512": "034ebfe0cbbd6807cd6ed38b05e4d41642b67ee77430243a89ef812cf5706a76f40cda29c3e9dfb1e40f362a8740c05d2b55ca57e4130f43895a09b8f54a98e4",
+                        "sha1": "6b2b1651ea51c040b9c36d8f9076a6779c048623"
                     },
                     "required_dependencies": [],
-                    "size": 751598,
-                    "date_published": "2026-01-12T14:44:30.635277Z"
+                    "size": 749809,
+                    "date_published": "2026-01-12T14:42:06.140225Z"
                 }
             ]
         },
@@ -13284,6 +13275,50 @@
             ]
         },
         {
+            "pakku_id": "fbic2F8GTD0Z0OnU",
+            "pakku_links": [
+                "nziiIR5mfr9ev1my",
+                "pZNDIIO3hsLsacjr"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "nifty-carts-x-farm-and-charm"
+            },
+            "name": {
+                "modrinth": "Nifty Carts x Farm & Charm"
+            },
+            "id": {
+                "modrinth": "DDUhwDmz"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "NiftyCarts x Farm & Charm.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DDUhwDmz/versions/MVcG96rL/NiftyCarts x Farm & Charm.zip",
+                    "id": "MVcG96rL",
+                    "parent_id": "DDUhwDmz",
+                    "hashes": {
+                        "sha512": "72af9330085f6d4860d6db5352b877840a95b094cd6bfb6eb52fda0fcb5e171cb913c867e708b5fe52c94d34e4249a5888788d26d58ff09b0e14e6433b5aaab0",
+                        "sha1": "f9436dcc1295a5bcfc116adc63b3a7e5e16deb38"
+                    },
+                    "required_dependencies": [
+                        "HJetCzWo",
+                        "CXd6g9xp"
+                    ],
+                    "size": 11465,
+                    "date_published": "2025-09-19T14:12:14.100089Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pZNDIIO3hsLsacjr",
             "type": "MOD",
             "side": "BOTH",
@@ -13347,6 +13382,50 @@
                     ],
                     "size": 575758,
                     "date_published": "2025-09-16T20:40:20.987Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ywYy42IVAYNfFQ8Z",
+            "pakku_links": [
+                "pZNDIIO3hsLsacjr",
+                "Y8JLaPIY8JfBT7SR"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "niftycarts-x-regions-unexplored"
+            },
+            "name": {
+                "modrinth": "NiftyCarts x Regions Unexplored"
+            },
+            "id": {
+                "modrinth": "SUxgYFgZ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "NiftyCarts x Regions Unexplored.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SUxgYFgZ/versions/V0e4Q62Q/NiftyCarts x Regions Unexplored.zip",
+                    "id": "V0e4Q62Q",
+                    "parent_id": "SUxgYFgZ",
+                    "hashes": {
+                        "sha512": "ed68acd352549efdfa7281720f87fb8b50587ab3e999bcc3c6048c06f71b0949d9118a4f3081042020a437f0896a5227e5d5e5868e6c8228cae2c7817e7e7574",
+                        "sha1": "1ac50a146e7f098ae8f55ac86d6c2db531cddee6"
+                    },
+                    "required_dependencies": [
+                        "CXd6g9xp",
+                        "Tkikq67H"
+                    ],
+                    "size": 7228,
+                    "date_published": "2025-09-19T13:34:54.184581Z"
                 }
             ]
         },
@@ -14256,6 +14335,73 @@
                     ],
                     "size": 110656,
                     "date_published": "2025-11-22T20:03:44.383534Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "SfuHCq2s92YHv5dv",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "open-loader",
+                "modrinth": "open-loader"
+            },
+            "name": {
+                "curseforge": "Open Loader",
+                "modrinth": "Open Loader"
+            },
+            "id": {
+                "curseforge": "354339",
+                "modrinth": "KwWsINvD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "OpenLoader-Fabric-1.20.1-19.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7613/220/OpenLoader-Fabric-1.20.1-19.0.5.jar",
+                    "id": "7613220",
+                    "parent_id": "354339",
+                    "hashes": {
+                        "sha1": "075a2041acc5fe4ee22a1ab5dd0937105e82f0d7",
+                        "md5": "add6c5be2fc80c232fd7f8bb69b3d320"
+                    },
+                    "required_dependencies": [],
+                    "size": 21443,
+                    "date_published": "2026-02-12T07:34:01.133Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "OpenLoader-Fabric-1.20.1-19.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KwWsINvD/versions/UFqjauYD/OpenLoader-Fabric-1.20.1-19.0.5.jar",
+                    "id": "UFqjauYD",
+                    "parent_id": "KwWsINvD",
+                    "hashes": {
+                        "sha512": "13e9c5ddacc9dfbbb44f914387564d55e200a667d91152281d8541b9d3e30152f3d7d849bd944c81bed9fc6605713982389c769990c1bd7b409bea3ee2667be3",
+                        "sha1": "075a2041acc5fe4ee22a1ab5dd0937105e82f0d7"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 21443,
+                    "date_published": "2026-02-12T07:34:04.718097Z"
                 }
             ]
         },
@@ -19425,8 +19571,8 @@
             ]
         },
         {
-            "pakku_id": "kRhXkJdEOlFWVX5h",
-            "type": "MOD",
+            "pakku_id": "tx0PFXJAoM5gL9cM",
+            "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
                 "curseforge": "tectonic",
@@ -19437,51 +19583,64 @@
                 "modrinth": "Tectonic"
             },
             "id": {
-                "curseforge": "686836",
+                "curseforge": "986802",
                 "modrinth": "lWDHr9jE"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "tectonic-3.0.17-fabric-1.20.1.jar",
+                    "file_name": "tectonic-datapack-v2.2.1.zip",
                     "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7197/833/tectonic-3.0.17-fabric-1.20.1.jar",
-                    "id": "7197833",
-                    "parent_id": "686836",
+                    "url": "https://edge.forgecdn.net/files/5180/269/tectonic-datapack-v2.2.1.zip",
+                    "id": "5180269",
+                    "parent_id": "986802",
                     "hashes": {
-                        "sha1": "5bcc0c5a21f543856082f52588e6365e6a8b02ef",
-                        "md5": "4e54cbee95dc23b5d783cc01230d2c2d"
+                        "sha1": "d70e27d5b437937396224c4092f777c37a423531",
+                        "md5": "56844fa91c3615d26bfd904ab02d75bd"
                     },
                     "required_dependencies": [],
-                    "size": 319868,
-                    "date_published": "2025-11-08T05:23:37.450Z"
+                    "size": 120846,
+                    "date_published": "2024-03-13T21:06:27.917Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "tectonic-3.0.17-fabric-1.20.1.jar",
+                    "file_name": "tectonic-datapack-v2.2.2.zip",
                     "mc_versions": [
-                        "1.20.1"
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
                     ],
                     "loaders": [
-                        "fabric"
+                        "datapack"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/mz3wlQKd/tectonic-3.0.17-fabric-1.20.1.jar",
-                    "id": "mz3wlQKd",
+                    "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/stwi8gQ3/tectonic-datapack-v2.2.2.zip",
+                    "id": "stwi8gQ3",
                     "parent_id": "lWDHr9jE",
                     "hashes": {
-                        "sha512": "9a11047ed0e981bb60c230d00ec5d88bf3968119df808e9c55678cab94f8fa5005cdd916799dfd641e0ad60a1b937b4554c71c19d7b3d0f61b94f5135cbf377a",
-                        "sha1": "5bcc0c5a21f543856082f52588e6365e6a8b02ef"
+                        "sha512": "3d95d2d04700a1f13640ab86b9169580dfed8dd6638f6b8dfb6c3598a7f50a1e6d47765f474b5d0a9703649afdc56aeb3ac325534b5e997ae50e89da60ca0648",
+                        "sha1": "4643d514e93c26c032d55322acfd3fd0b039afb2"
                     },
                     "required_dependencies": [],
-                    "size": 319868,
-                    "date_published": "2025-11-08T05:23:36.988835Z"
+                    "size": 120879,
+                    "date_published": "2024-04-24T05:11:57.400888Z"
                 }
             ]
         },
@@ -19700,52 +19859,22 @@
             ]
         },
         {
-            "pakku_id": "zO1fgQDRr9PhFobd",
-            "type": "MOD",
+            "pakku_id": "GA91GwkG1YlRxbuA",
+            "type": "DATA_PACK",
             "side": "SERVER",
             "slug": {
-                "curseforge": "tidal-towns",
                 "modrinth": "tidal-towns"
             },
             "name": {
-                "curseforge": "Tidal Towns",
                 "modrinth": "Tidal Towns"
             },
             "id": {
-                "curseforge": "891880",
                 "modrinth": "EEIwvQVo"
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "tidal-towns-1.3.4.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "forge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5944/710/tidal-towns-1.3.4.jar",
-                    "id": "5944710",
-                    "parent_id": "891880",
-                    "hashes": {
-                        "sha1": "a0a8db8df7a471e75b53e3fa8cafc7ca767f5506",
-                        "md5": "3e0b71a61aa857a9a851a1786f07ae73"
-                    },
-                    "required_dependencies": [],
-                    "size": 110098,
-                    "date_published": "2024-11-28T17:12:29.740Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "tidal-towns-1.3.4.jar",
+                    "file_name": "tidal_1.3.4.zip",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -19754,22 +19883,19 @@
                         "1.20.4"
                     ],
                     "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
+                        "datapack"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/aAa24NQe/tidal-towns-1.3.4.jar",
-                    "id": "aAa24NQe",
+                    "url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/wSiPniLg/tidal_1.3.4.zip",
+                    "id": "wSiPniLg",
                     "parent_id": "EEIwvQVo",
                     "hashes": {
-                        "sha512": "1992f0b4b9ec7d89a4ab9cd96b652f89171941b8c0baf8fa6d22d1d92b6fc5ca7088e04738beda8a93319f35ad5a0ea1ca9e304d0324dec28dc35e84b3592e51",
-                        "sha1": "a0a8db8df7a471e75b53e3fa8cafc7ca767f5506"
+                        "sha512": "ddc626d00f26c40069c39875a4c5a8cffc2e66dd2c88891a624a14288f7c49babf8b213587eab3e8590c462d7846b853722d6a54d8d5ec3248b39b129073ab70",
+                        "sha1": "d66480674a9f3e1b4fb9472bc77de54fd8297e30"
                     },
                     "required_dependencies": [],
-                    "size": 110098,
-                    "date_published": "2024-11-28T17:04:11.234907Z"
+                    "size": 56300,
+                    "date_published": "2024-11-28T17:03:12.332603Z"
                 }
             ]
         },
@@ -20640,6 +20766,66 @@
             ]
         },
         {
+            "pakku_id": "Fd6k0DMhryv4YI8h",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "typewriter-daycounter"
+            },
+            "name": {
+                "modrinth": "Typewriter Day Counter"
+            },
+            "id": {
+                "modrinth": "j6YEKDZd"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "vr_typewriter_daycounter_v1.1.zip",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/j6YEKDZd/versions/QjGr2L89/vr_typewriter_daycounter_v1.1.zip",
+                    "id": "QjGr2L89",
+                    "parent_id": "j6YEKDZd",
+                    "hashes": {
+                        "sha512": "c8257af81c06df73e69d4c74d8d900dbd20bd857a9f54a3c641f6a0581cfcbfb9e391b3fde23bc9317645b181d3cec80ee999f7a3e35fbf796f7c1b66e86191b",
+                        "sha1": "4c279ee4beeacb5f1e50bf341fb04b13c32b076d"
+                    },
+                    "required_dependencies": [],
+                    "size": 56277,
+                    "date_published": "2026-01-11T03:09:14.794121Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "mXB1twxoezD0vRhn",
             "type": "MOD",
             "side": "BOTH",
@@ -20834,6 +21020,50 @@
                     ],
                     "size": 28442711,
                     "date_published": "2026-02-09T03:18:08.683Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "FXahxTuUKQp09uYl",
+            "pakku_links": [
+                "Y8JLaPIY8JfBT7SR",
+                "KlKb0REbyIvzZh9x"
+            ],
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "vb-x-ru"
+            },
+            "name": {
+                "modrinth": "Vanilla Backport x Regions Unexplored"
+            },
+            "id": {
+                "modrinth": "y4VzLoNa"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Vanilla Backport x Regions Unexplored.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/y4VzLoNa/versions/f1RSHc6Y/Vanilla Backport x Regions Unexplored.zip",
+                    "id": "f1RSHc6Y",
+                    "parent_id": "y4VzLoNa",
+                    "hashes": {
+                        "sha512": "87e3b42021c48cba3200297408b925989cedbd7720ee1510637a57dca24b0786ba64c0ad22a304edf7477c683a4cf13c1288c84d0dc030b7ee61832d887faa1a",
+                        "sha1": "e8a72957d7c6b0095c5efe0457736c246349ff83"
+                    },
+                    "required_dependencies": [
+                        "Tkikq67H",
+                        "6xwxDTgf"
+                    ],
+                    "size": 210157,
+                    "date_published": "2025-12-12T00:01:02.282663Z"
                 }
             ]
         },
