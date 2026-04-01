@@ -8163,25 +8163,25 @@
             ]
         },
         {
-            "pakku_id": "mHjS5NDa8sJY68qK",
-            "type": "DATA_PACK",
+            "pakku_id": "F7OM7O3zF8VqQ2ID",
+            "type": "MOD",
             "side": "SERVER",
             "slug": {
                 "curseforge": "geophilic",
                 "modrinth": "geophilic"
             },
             "name": {
-                "curseforge": "Geophilic (datapack version)",
+                "curseforge": "Geophilic – Vanilla Biome Overhauls",
                 "modrinth": "Geophilic"
             },
             "id": {
-                "curseforge": "1178482",
+                "curseforge": "711216",
                 "modrinth": "hl5OLM95"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "Geophilic 3.4.6.dp.zip",
+                    "file_name": "Geophilic v3.4.6.mod.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
@@ -8191,21 +8191,27 @@
                         "1.20.4",
                         "1.20.3"
                     ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7450/712/Geophilic 3.4.6.dp.zip",
-                    "id": "7450712",
-                    "parent_id": "1178482",
+                    "url": "https://edge.forgecdn.net/files/7450/707/Geophilic v3.4.6.mod.jar",
+                    "id": "7450707",
+                    "parent_id": "711216",
                     "hashes": {
-                        "sha1": "6b2b1651ea51c040b9c36d8f9076a6779c048623",
-                        "md5": "e8140fb9e9546ef14894959aa924ab26"
+                        "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5",
+                        "md5": "e0354e4a2630e5467d484a129d047e47"
                     },
                     "required_dependencies": [],
-                    "size": 749809,
-                    "date_published": "2026-01-12T14:51:33.333Z"
+                    "size": 751598,
+                    "date_published": "2026-01-12T14:50:36.237Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "Geophilic 3.4.6.dp.zip",
+                    "file_name": "Geophilic v3.4.6.mod.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1",
@@ -8228,19 +8234,22 @@
                         "1.21.11"
                     ],
                     "loaders": [
-                        "datapack"
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/POZ6ECW4/Geophilic 3.4.6.dp.zip",
-                    "id": "POZ6ECW4",
+                    "url": "https://cdn.modrinth.com/data/hl5OLM95/versions/Vk4cYx6F/Geophilic v3.4.6.mod.jar",
+                    "id": "Vk4cYx6F",
                     "parent_id": "hl5OLM95",
                     "hashes": {
-                        "sha512": "034ebfe0cbbd6807cd6ed38b05e4d41642b67ee77430243a89ef812cf5706a76f40cda29c3e9dfb1e40f362a8740c05d2b55ca57e4130f43895a09b8f54a98e4",
-                        "sha1": "6b2b1651ea51c040b9c36d8f9076a6779c048623"
+                        "sha512": "5d0ac03046a6524f015c6c380e5fce59d8b763eec5fd5b6b301d67418d25a726088e94d96381ec577425d03f7d70c3b711cfd13eea29e7a48a02e95a5fb11065",
+                        "sha1": "cea812a101e7dd130d130ca43d7ee4d1a227cbd5"
                     },
                     "required_dependencies": [],
-                    "size": 749809,
-                    "date_published": "2026-01-12T14:42:06.140225Z"
+                    "size": 751598,
+                    "date_published": "2026-01-12T14:44:30.635277Z"
                 }
             ]
         },
@@ -16618,6 +16627,44 @@
             ]
         },
         {
+            "pakku_id": "VuemEvVAa9jzkMXa",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "shenanigans-datapack"
+            },
+            "name": {
+                "modrinth": "Shenanigans Datapack"
+            },
+            "id": {
+                "modrinth": "SJv2PKMA"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Shenanigans.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/SJv2PKMA/versions/GjxOiahm/Shenanigans.zip",
+                    "id": "GjxOiahm",
+                    "parent_id": "SJv2PKMA",
+                    "hashes": {
+                        "sha512": "03350e7c55dd9eaadb5baf6a5a917c93f80a9e8478298fbf77cef42a8b1fcc9627b86aee0f00b082c0cc3bbabf2f4c6baaa8292377c0a682edfb7c0db72a5f8b",
+                        "sha1": "f83bca65c04be00234886497b658c4157a70c5b9"
+                    },
+                    "required_dependencies": [],
+                    "size": 54630,
+                    "date_published": "2026-03-08T22:30:26.816971Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QntiXr1txsRL2ajE",
             "type": "MOD",
             "side": "SERVER",
@@ -19571,8 +19618,8 @@
             ]
         },
         {
-            "pakku_id": "tx0PFXJAoM5gL9cM",
-            "type": "DATA_PACK",
+            "pakku_id": "fouxFMFRflV4fFil",
+            "type": "MOD",
             "side": "SERVER",
             "slug": {
                 "curseforge": "tectonic",
@@ -19583,64 +19630,51 @@
                 "modrinth": "Tectonic"
             },
             "id": {
-                "curseforge": "986802",
+                "curseforge": "686836",
                 "modrinth": "lWDHr9jE"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "tectonic-datapack-v2.2.1.zip",
+                    "file_name": "tectonic-3.0.17-fabric-1.20.1.jar",
                     "mc_versions": [
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.4"
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5180/269/tectonic-datapack-v2.2.1.zip",
-                    "id": "5180269",
-                    "parent_id": "986802",
+                    "url": "https://edge.forgecdn.net/files/7197/833/tectonic-3.0.17-fabric-1.20.1.jar",
+                    "id": "7197833",
+                    "parent_id": "686836",
                     "hashes": {
-                        "sha1": "d70e27d5b437937396224c4092f777c37a423531",
-                        "md5": "56844fa91c3615d26bfd904ab02d75bd"
+                        "sha1": "5bcc0c5a21f543856082f52588e6365e6a8b02ef",
+                        "md5": "4e54cbee95dc23b5d783cc01230d2c2d"
                     },
                     "required_dependencies": [],
-                    "size": 120846,
-                    "date_published": "2024-03-13T21:06:27.917Z"
+                    "size": 319868,
+                    "date_published": "2025-11-08T05:23:37.450Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "tectonic-datapack-v2.2.2.zip",
+                    "file_name": "tectonic-3.0.17-fabric-1.20.1.jar",
                     "mc_versions": [
-                        "1.18.2",
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6"
+                        "1.20.1"
                     ],
                     "loaders": [
-                        "datapack"
+                        "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/stwi8gQ3/tectonic-datapack-v2.2.2.zip",
-                    "id": "stwi8gQ3",
+                    "url": "https://cdn.modrinth.com/data/lWDHr9jE/versions/mz3wlQKd/tectonic-3.0.17-fabric-1.20.1.jar",
+                    "id": "mz3wlQKd",
                     "parent_id": "lWDHr9jE",
                     "hashes": {
-                        "sha512": "3d95d2d04700a1f13640ab86b9169580dfed8dd6638f6b8dfb6c3598a7f50a1e6d47765f474b5d0a9703649afdc56aeb3ac325534b5e997ae50e89da60ca0648",
-                        "sha1": "4643d514e93c26c032d55322acfd3fd0b039afb2"
+                        "sha512": "9a11047ed0e981bb60c230d00ec5d88bf3968119df808e9c55678cab94f8fa5005cdd916799dfd641e0ad60a1b937b4554c71c19d7b3d0f61b94f5135cbf377a",
+                        "sha1": "5bcc0c5a21f543856082f52588e6365e6a8b02ef"
                     },
                     "required_dependencies": [],
-                    "size": 120879,
-                    "date_published": "2024-04-24T05:11:57.400888Z"
+                    "size": 319868,
+                    "date_published": "2025-11-08T05:23:36.988835Z"
                 }
             ]
         },
@@ -20114,47 +20148,6 @@
                     "required_dependencies": [],
                     "size": 1537265,
                     "date_published": "2025-04-13T11:20:35.213Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "uLVk75IkcXplPmWO",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "too-cheap"
-            },
-            "name": {
-                "modrinth": "Too Cheap!"
-            },
-            "id": {
-                "modrinth": "yxIf0Dct"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "too-cheap-1.4.0+mc1.20.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yxIf0Dct/versions/gbJQHFDc/too-cheap-1.4.0+mc1.20.jar",
-                    "id": "gbJQHFDc",
-                    "parent_id": "yxIf0Dct",
-                    "hashes": {
-                        "sha512": "1b6d7dfb0b7e6cf24d6478f1dea00cacf5d5bffb8bee13033ffc6dcd192e1cce1d58abb2f21c83a560312fc95d7736d04d98d4b919c795eed32dcb8f92ec3ff4",
-                        "sha1": "3dce40a94a6a7a85540062789da1764cd081991a"
-                    },
-                    "required_dependencies": [
-                        "9s6osm5g"
-                    ],
-                    "size": 19769,
-                    "date_published": "2024-08-23T14:05:05.436501Z"
                 }
             ]
         },
