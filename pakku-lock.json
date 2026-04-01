@@ -21482,6 +21482,69 @@
             ]
         },
         {
+            "pakku_id": "eOyuUM81EAoIvbdR",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "visual-travelers-titles",
+                "modrinth": "visual-travelers-titles"
+            },
+            "name": {
+                "curseforge": "Visual Traveler's Titles",
+                "modrinth": "Visual Traveler's Titles"
+            },
+            "id": {
+                "curseforge": "679106",
+                "modrinth": "Z6cnZeGU"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Visual Titles 1.3.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7619/105/Visual Titles 1.3.zip",
+                    "id": "7619105",
+                    "parent_id": "679106",
+                    "hashes": {
+                        "sha1": "80a1efaf621d7b376b0ce8e5fab7462ed10b9ce3",
+                        "md5": "ca3cbb3f4f0cef9110b88a79a0a6f474"
+                    },
+                    "required_dependencies": [],
+                    "size": 444982,
+                    "date_published": "2026-02-13T14:50:21.267Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Visual Titles 1.3.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.4",
+                        "1.21.1",
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Z6cnZeGU/versions/AwVu5ygs/Visual Titles 1.3.zip",
+                    "id": "AwVu5ygs",
+                    "parent_id": "Z6cnZeGU",
+                    "hashes": {
+                        "sha512": "548cd46223a96142463646f613ecdec004226bed46e71c990ab3ddee5e8f55e20a3e326f916f6dd5c936f0d0e975534b86a6b094f8065ff873dd5f132191dc97",
+                        "sha1": "80a1efaf621d7b376b0ce8e5fab7462ed10b9ce3"
+                    },
+                    "required_dependencies": [],
+                    "size": 444982,
+                    "date_published": "2026-02-13T14:52:11.933850Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9Xrv5myJm3SnRtKr",
             "pakku_links": [
                 "wNyv433bs0BhCrbg"
