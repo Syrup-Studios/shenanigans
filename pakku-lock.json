@@ -1663,6 +1663,87 @@
             ]
         },
         {
+            "pakku_id": "yxhKT22aJtb4Rq5y",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "blinking-ender-eyes",
+                "modrinth": "blinking-ender-eyes"
+            },
+            "name": {
+                "curseforge": "Blinking Ender Eyes",
+                "modrinth": "Blinking Ender Eyes"
+            },
+            "id": {
+                "curseforge": "322713",
+                "modrinth": "6GgEjSHS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EnderEyes_26.1_v3.1.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7813/544/EnderEyes_26.1_v3.1.zip",
+                    "id": "7813544",
+                    "parent_id": "322713",
+                    "hashes": {
+                        "sha1": "d3ee26526efed0682538c7eb669fe4b230cdfa5d",
+                        "md5": "90b6ae8eac19c95065249b2747934250"
+                    },
+                    "required_dependencies": [],
+                    "size": 251257,
+                    "date_published": "2026-03-25T21:20:11.207Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "EnderEyes_26.1_v3.1.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11",
+                        "26.1"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6GgEjSHS/versions/l1gUhnhx/EnderEyes_26.1_v3.1.zip",
+                    "id": "l1gUhnhx",
+                    "parent_id": "6GgEjSHS",
+                    "hashes": {
+                        "sha512": "f78094580c26e87d504330c401c29ebf94609949b375aa2594094d54fc51285bab7333f9c40748147025999caf4d07a94f063a6a6a0b88d9587266518ef24940",
+                        "sha1": "d3ee26526efed0682538c7eb669fe4b230cdfa5d"
+                    },
+                    "required_dependencies": [],
+                    "size": 251257,
+                    "date_published": "2026-03-25T21:21:13.026972Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uqlbF2jav39LNsOt",
             "type": "MOD",
             "side": "CLIENT",
@@ -17267,6 +17348,102 @@
                     ],
                     "size": 1966631,
                     "date_published": "2026-02-23T18:54:07.123Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "E5hMrTrNAA2hZWtA",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "slightly-improved-font",
+                "modrinth": "slightly-improved-font"
+            },
+            "name": {
+                "curseforge": "Slightly Improved Font (32x)",
+                "modrinth": "Slightly Improved Font (32x)"
+            },
+            "id": {
+                "curseforge": "580181",
+                "modrinth": "yopVn4E8"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Slightly-Improved-Font-1.1.5.zip",
+                    "mc_versions": [
+                        "1.20.2-Snapshot",
+                        "1.20.5-Snapshot",
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20-Snapshot",
+                        "1.20.4",
+                        "1.20.3-Snapshot",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6090/721/Slightly-Improved-Font-1.1.5.zip",
+                    "id": "6090721",
+                    "parent_id": "580181",
+                    "hashes": {
+                        "sha1": "da836f13d948d0024a6aa5818beb3b06102bbe40",
+                        "md5": "ebcece28fa92c86f31998e387a8a12c0"
+                    },
+                    "required_dependencies": [],
+                    "size": 74599,
+                    "date_published": "2025-01-15T18:45:28.870Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Slightly-Improved-Font-1.1.5.zip",
+                    "mc_versions": [
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yopVn4E8/versions/voCszbPf/Slightly-Improved-Font-1.1.5.zip",
+                    "id": "voCszbPf",
+                    "parent_id": "yopVn4E8",
+                    "hashes": {
+                        "sha512": "f7d8bade8f1e924e06e062beda759fda2e390bcac4d7200b11938f87128f22dc931e929de5ddfc1f80be3ad5dbc00b18c7299f804aa1b3264423a4defc275308",
+                        "sha1": "da836f13d948d0024a6aa5818beb3b06102bbe40"
+                    },
+                    "required_dependencies": [],
+                    "size": 74599,
+                    "date_published": "2025-01-15T18:43:45.789981Z"
                 }
             ]
         },
