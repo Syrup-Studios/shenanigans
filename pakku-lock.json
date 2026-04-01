@@ -7596,6 +7596,115 @@
             ]
         },
         {
+            "pakku_id": "FSiFNeonBXrS53Bn",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fancy-beds",
+                "modrinth": "fancy-beds"
+            },
+            "name": {
+                "curseforge": "Fancy Beds",
+                "modrinth": "Fancy Beds"
+            },
+            "id": {
+                "curseforge": "509339",
+                "modrinth": "hFoOkEdk"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Fancy_Beds-v4.1.zip",
+                    "mc_versions": [
+                        "1.20.2-Snapshot",
+                        "1.20.5-Snapshot",
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20-Snapshot",
+                        "1.20.4",
+                        "1.20.3-Snapshot",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7148/803/Fancy_Beds-v4.1.zip",
+                    "id": "7148803",
+                    "parent_id": "509339",
+                    "hashes": {
+                        "sha1": "b13c45c8187799e92b15d2c00720970f3116becb",
+                        "md5": "1d75b27a03516b88921cdebb493a9427"
+                    },
+                    "required_dependencies": [],
+                    "size": 202209,
+                    "date_published": "2025-10-25T16:16:37.610Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Fancy_Beds-v4.1.zip",
+                    "mc_versions": [
+                        "1.14",
+                        "1.14.1",
+                        "1.14.2",
+                        "1.14.3",
+                        "1.14.4",
+                        "1.15",
+                        "1.15.1",
+                        "1.15.2",
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hFoOkEdk/versions/l3RTAoaC/Fancy_Beds-v4.1.zip",
+                    "id": "l3RTAoaC",
+                    "parent_id": "hFoOkEdk",
+                    "hashes": {
+                        "sha512": "618569a5ab692d0a6c0405a942b8d9366395423d938a8b4560d4f8d0c3f31a1ad91c89ac925b3d72905e71d600e59ec7dd978382286ddec5560089e417b6ce28",
+                        "sha1": "b13c45c8187799e92b15d2c00720970f3116becb"
+                    },
+                    "required_dependencies": [],
+                    "size": 202209,
+                    "date_published": "2025-10-25T16:14:05.975308Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "61IZVaATFOgui7PU",
             "type": "MOD",
             "side": "BOTH",
