@@ -6900,6 +6900,72 @@
             ]
         },
         {
+            "pakku_id": "1dmq9kMrsAcY0Eci",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "excalibur-lootr-support",
+                "curseforge": "excalibur-lootr-retextured"
+            },
+            "name": {
+                "modrinth": "Excalibur | Lootr Support",
+                "curseforge": "Excalibur | Lootr Retextured"
+            },
+            "id": {
+                "modrinth": "dzo7g60I",
+                "curseforge": "1342344"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Excalibur_Lootr_v1.1.zip",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/dzo7g60I/versions/KyYDwuXI/Excalibur_Lootr_v1.1.zip",
+                    "id": "KyYDwuXI",
+                    "parent_id": "dzo7g60I",
+                    "hashes": {
+                        "sha512": "1c5110a51426871d7cd5dff2fb2b6c78d6cb4183fb895f1c2a3bb5cb11e64b8b06ce3cf04e2fd798d782ee7311dd92cfaa14525dc7441c1c4b6906438efa948f",
+                        "sha1": "9a9b09afc6b3701bd8878336dad843fc4eaba25d"
+                    },
+                    "required_dependencies": [],
+                    "size": 77791,
+                    "date_published": "2025-09-16T06:59:55.406909Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Excalibur_Lootr_v1.1.zip",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6976/125/Excalibur_Lootr_v1.1.zip",
+                    "id": "6976125",
+                    "parent_id": "1342344",
+                    "hashes": {
+                        "sha1": "9a9b09afc6b3701bd8878336dad843fc4eaba25d",
+                        "md5": "cabf288bcb35dcd0c2e397e5cab298aa"
+                    },
+                    "required_dependencies": [],
+                    "size": 77791,
+                    "date_published": "2025-09-08T12:56:40.843Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "O5bvavz1BFrfHxjH",
             "type": "MOD",
             "side": "BOTH",
