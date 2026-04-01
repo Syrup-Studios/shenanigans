@@ -95,6 +95,88 @@
             ]
         },
         {
+            "pakku_id": "Ke7ouHaiCnbV9d94",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fancy-crops",
+                "modrinth": "fancy-crops"
+            },
+            "name": {
+                "curseforge": "(Bee's) Fancy Crops",
+                "modrinth": "(Bee's) Fancy Crops"
+            },
+            "id": {
+                "curseforge": "884709",
+                "modrinth": "UGEVQ6t9"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Fancy Crops v1.3.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7094/29/Fancy Crops v1.3.zip",
+                    "id": "7094029",
+                    "parent_id": "884709",
+                    "hashes": {
+                        "sha1": "788e5169eb064b696b2e20d4c5d998cceb387a2e",
+                        "md5": "7d8cdffc76437c501c32232588b37ae2"
+                    },
+                    "required_dependencies": [],
+                    "size": 92779,
+                    "date_published": "2025-10-11T10:00:27.177Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Fancy Crops v1.3.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/UGEVQ6t9/versions/ZJEBZjg6/Fancy Crops v1.3.zip",
+                    "id": "ZJEBZjg6",
+                    "parent_id": "UGEVQ6t9",
+                    "hashes": {
+                        "sha512": "ce8e34ce76f5368169722f9949edf372af5d9e1d3c262395006a5a1561ed7bae1259b9d69e4838914d637817f611283bfaf8be07c7b45b317fd2bdb22f32b7e3",
+                        "sha1": "788e5169eb064b696b2e20d4c5d998cceb387a2e"
+                    },
+                    "required_dependencies": [],
+                    "size": 92779,
+                    "date_published": "2025-10-11T09:59:20.169602Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fKb3LmPuYgaUkEUs",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
