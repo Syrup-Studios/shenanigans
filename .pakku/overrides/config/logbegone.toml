@@ -2,7 +2,7 @@
 
 [logbegone]
 # If a log message has one of these phrases, it will be filtered out from logging
-phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Cowardly refusing to access an unloaded tag ingredient:", "A tag ingredient was accessed before tags are loaded - This can break recipes! Report this to the mod in the trace below."]
+phrases = ["Disconnecting VANILLA connection attempt", "Channels ", "Cowardly refusing to access an unloaded tag ingredient:", "A tag ingredient was accessed before tags are loaded - This can break recipes! Report this to the mod in the trace below.", "Invalid path in datapack: minecraft:textures/", "Unknown block ", " could not find sampler named ", " could not find uniform named ", "Mixin apply for mod necronomicon failed ", "Missing sound for event", "Unable to find texture", "does not exist, cannot add it to event", "was empty after loading", "Failed to generate texture"]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging. EX: 
-regex = ["Disconnecting VANILLA connection attempt", "Channels ", "Cowardly refusing to access an unloaded tag ingredient:", "A tag ingredient was accessed before tags are loaded - This can break recipes! Report this to the mod in the trace below."]
+regex = ["Disconnecting VANILLA connection attempt", "Channels ", "Cowardly refusing to access an unloaded tag ingredient:", "A tag ingredient was accessed before tags are loaded - This can break recipes! Report this to the mod in the trace below.", "Invalid path in datapack: minecraft:textures/", "Unknown block ", " could not find sampler named ", " could not find uniform named ", "Mixin apply for mod necronomicon failed ", "Missing sound for event", "Unable to find texture", "does not exist, cannot add it to event", "was empty after loading", "Failed to generate texture"]
