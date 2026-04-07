@@ -17,9 +17,6 @@
         },
         "puddles-floods": {
             "side": "CLIENT"
-        },
-        "trashslot": {
-            "update_strategy": "NONE"
         }
     }
 }

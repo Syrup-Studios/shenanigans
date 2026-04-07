@@ -20982,29 +20982,24 @@
             ]
         },
         {
-            "pakku_id": "uOa25ceBPWlZln6x",
+            "pakku_id": "zb8mtahsmW4caFXt",
             "pakku_links": [
                 "4e2jUr6RItZIExwL"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "trashslot",
-                "modrinth": "trashslot"
+                "curseforge": "trashslot"
             },
             "name": {
-                "curseforge": "TrashSlot",
-                "modrinth": "TrashSlot"
+                "curseforge": "TrashSlot"
             },
             "id": {
-                "curseforge": "235577",
-                "modrinth": "vRYk0bv7"
+                "curseforge": "235577"
             },
-            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "trashslot-fabric-1.20.1-15.1.3.jar",
+                    "file_name": "trashslot-fabric-1.20.1-15.1.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21012,39 +21007,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7364/650/trashslot-fabric-1.20.1-15.1.3.jar",
-                    "id": "7364650",
+                    "url": "https://edge.forgecdn.net/files/7772/356/trashslot-fabric-1.20.1-15.1.4.jar",
+                    "id": "7772356",
                     "parent_id": "235577",
                     "hashes": {
-                        "sha1": "faf82eb8bb280bf5dd976f8dcbdb8036422ed094",
-                        "md5": "99f9023dbfa4ba36c697edd7c1b22256"
+                        "sha1": "7005c959dc083a2154fde73355bbbb260ce81db6",
+                        "md5": "198c5503dab4832944d80039109e4063"
                     },
                     "required_dependencies": [
                         "500525"
                     ],
-                    "size": 118616,
-                    "date_published": "2025-12-22T08:26:35.507Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "trashslot-fabric-1.20.1-15.1.3.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/m866Ufz6/trashslot-fabric-1.20.1-15.1.3.jar",
-                    "id": "m866Ufz6",
-                    "parent_id": "vRYk0bv7",
-                    "hashes": {
-                        "sha512": "3872fc8b43a758e2698cce7a285a3b40b5e8de882c19e2231a277dde3bb0a7332351669f2e20986f88db23fdc4cd440cf8b749a1d4905d60ced57305b7eb9253",
-                        "sha1": "faf82eb8bb280bf5dd976f8dcbdb8036422ed094"
-                    },
-                    "required_dependencies": [],
-                    "size": 118616,
-                    "date_published": "2026-01-30T18:21:06.747153Z"
+                    "size": 118609,
+                    "date_published": "2026-03-17T17:15:58.487Z"
                 }
             ]
         },
