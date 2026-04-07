@@ -17382,7 +17382,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "voicechat-fabric-1.20.1-2.6.12.jar",
+                    "file_name": "voicechat-fabric-1.20.1-2.6.15.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17390,20 +17390,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/9Qnm9xU7/voicechat-fabric-1.20.1-2.6.12.jar",
-                    "id": "9Qnm9xU7",
+                    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/6Sovh5Kl/voicechat-fabric-1.20.1-2.6.15.jar",
+                    "id": "6Sovh5Kl",
                     "parent_id": "9eGKb6K1",
                     "hashes": {
-                        "sha512": "04769e94caaa7dab8a738bfbac36b057abd2754622b229346abd778c01ee5e51405d959e83ea00b7845ff2e0d3dbe3401eeaf8fc3dd438d891520ac0e7ff26af",
-                        "sha1": "10d85fe22af43d6bfde61b188dfce45c2d13fe7f"
+                        "sha512": "d92aa0794df7e18e16029ccba159b080eec5ec72f07d31df1dafe41ab3615e89c69ec85c2cc91f1e035341afffa57ba5c09e6478b568e785f605616ed1d743bd",
+                        "sha1": "e85ab79787514fbed6c542d0e2e6e765b8534568"
                     },
                     "required_dependencies": [],
-                    "size": 5251627,
-                    "date_published": "2026-02-12T12:28:13.584751Z"
+                    "size": 5262118,
+                    "date_published": "2026-04-04T11:29:19.684348Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "voicechat-fabric-1.20.1-2.6.12.jar",
+                    "file_name": "voicechat-fabric-1.20.1-2.6.15.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17411,16 +17411,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7614/4/voicechat-fabric-1.20.1-2.6.12.jar",
-                    "id": "7614004",
+                    "url": "https://edge.forgecdn.net/files/7872/437/voicechat-fabric-1.20.1-2.6.15.jar",
+                    "id": "7872437",
                     "parent_id": "416089",
                     "hashes": {
-                        "sha1": "326316767ee3ac883f231c382e53d50d95147dbd",
-                        "md5": "d905b848501981024dd1369fa904c3c6"
+                        "sha1": "0018e78ae37592336355e673c5461f2d6931a7e5",
+                        "md5": "265d7954a03b38cc79d11230be0639b0"
                     },
                     "required_dependencies": [],
-                    "size": 5251627,
-                    "date_published": "2026-02-12T12:27:51.117Z"
+                    "size": 5262118,
+                    "date_published": "2026-04-04T11:28:57.027Z"
                 }
             ]
         },
