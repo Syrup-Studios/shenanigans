@@ -15600,32 +15600,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "puddleflood-1.1.0+1.20.1-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7743/448/puddleflood-1.1.0+1.20.1-fabric.jar",
-                    "id": "7743448",
-                    "parent_id": "1450615",
-                    "hashes": {
-                        "sha1": "fa804eff05f83d35a552ba3a4c1c313681ad268f",
-                        "md5": "b51261e38de2806c11168b242e2b203a"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 213813,
-                    "date_published": "2026-03-11T16:21:24.957Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "puddleflood-1.1.0+1.20.1-fabric.jar",
+                    "file_name": "puddleflood-1.1.4+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -15634,18 +15610,42 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/xeRVd78z/versions/elbfar4m/puddleflood-1.1.0+1.20.1-fabric.jar",
-                    "id": "elbfar4m",
+                    "url": "https://cdn.modrinth.com/data/xeRVd78z/versions/FRPnkVRR/puddleflood-1.1.4+1.20.1-fabric.jar",
+                    "id": "FRPnkVRR",
                     "parent_id": "xeRVd78z",
                     "hashes": {
-                        "sha512": "ed8e3192d1170285543f0afc7146a22da842324fb7f7bff2374a357ceb812e21a0fff6ca1e5d1fccc6909b5d2e60e46a1723a045fd42e6e0e92bff15be8489ae",
-                        "sha1": "fa804eff05f83d35a552ba3a4c1c313681ad268f"
+                        "sha512": "0391c50d6c07013d1a0acaf873a5355bc8d051ba0dfbe939f8c6e2e1c96c6de8966c101173f0ad13cc7c5522e784c0c31f5ba115e44ec2a7214bb47be6ba42ce",
+                        "sha1": "bec51986185ecee23edcf5113910a86fac2390c8"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 213813,
-                    "date_published": "2026-03-11T16:21:27.326568Z"
+                    "size": 207955,
+                    "date_published": "2026-04-01T20:47:13.190168Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "puddleflood-1.1.4+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7858/230/puddleflood-1.1.4+1.20.1-fabric.jar",
+                    "id": "7858230",
+                    "parent_id": "1450615",
+                    "hashes": {
+                        "sha1": "bec51986185ecee23edcf5113910a86fac2390c8",
+                        "md5": "2951be8842e295993e0e8dd55184afa1"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 207955,
+                    "date_published": "2026-04-01T20:47:12.093Z"
                 }
             ]
         },
