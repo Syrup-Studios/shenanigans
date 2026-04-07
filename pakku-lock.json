@@ -21000,6 +21000,7 @@
                 "curseforge": "235577",
                 "modrinth": "vRYk0bv7"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
@@ -23128,23 +23129,19 @@
             ]
         },
         {
-            "pakku_id": "1xPykMayMe6da3Cb",
+            "pakku_id": "pkczsDQapr8JyjBX",
             "pakku_links": [
                 "AwRq1sYnLjT3JZ2i"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "do-api",
-                "modrinth": "do-api"
+                "curseforge": "do-api"
             },
             "name": {
-                "curseforge": "[Let's Do] API ",
-                "modrinth": "[Let's Do] API"
+                "curseforge": "[Let's Do] API "
             },
             "id": {
-                "curseforge": "864599",
-                "modrinth": "4XJZeZbM"
+                "curseforge": "864599"
             },
             "files": [
                 {
@@ -23170,30 +23167,6 @@
                     ],
                     "size": 1702813,
                     "date_published": "2024-06-24T15:22:01.887Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "letsdo-API-fabric-1.2.14-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4XJZeZbM/versions/UXpmGhse/letsdo-API-fabric-1.2.14-fabric.jar",
-                    "id": "UXpmGhse",
-                    "parent_id": "4XJZeZbM",
-                    "hashes": {
-                        "sha512": "12ba0eace23ddc2512ee35e5eaeab9b1fddd04589740542c72d4c65114fffc400bbcaad3fa3f990730b6e7c4ff31a8e2f6e37966c22bdc84e9c1355912c2d8c4",
-                        "sha1": "047bc030f4e0ae40b1439fb33a852e44fbdcb505"
-                    },
-                    "required_dependencies": [
-                        "lhGA9TYQ"
-                    ],
-                    "size": 1702807,
-                    "date_published": "2024-06-24T09:51:32.639277Z"
                 }
             ]
         },
@@ -23349,7 +23322,7 @@
             "pakku_links": [
                 "nziiIR5mfr9ev1my",
                 "AwRq1sYnLjT3JZ2i",
-                "1xPykMayMe6da3Cb"
+                "pkczsDQapr8JyjBX"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -23557,7 +23530,7 @@
             "pakku_id": "harFIfsY7iPphdol",
             "pakku_links": [
                 "AwRq1sYnLjT3JZ2i",
-                "1xPykMayMe6da3Cb"
+                "pkczsDQapr8JyjBX"
             ],
             "type": "MOD",
             "side": "BOTH",
