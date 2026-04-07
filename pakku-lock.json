@@ -14992,7 +14992,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+                    "file_name": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
                     "mc_versions": [
                         "1.18",
                         "1.18.1",
@@ -15015,20 +15015,20 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/96y8nmkX/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
-                    "id": "96y8nmkX",
+                    "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/9F4NGhGR/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+                    "id": "9F4NGhGR",
                     "parent_id": "c7m1mi73",
                     "hashes": {
-                        "sha512": "e098addf143dafa9e516ad07cb0ddaa489035e19c306e6f78b0afef6f776ce27d2386f2ede1879bb477e420ca8a00831f099f1a92a508e3085a45fbb87103405",
-                        "sha1": "0bef29023c8cadb2934d78a8b0066b49d4460974"
+                        "sha512": "916501acefab2a33f7b5438375dec0c3d523975d82c807c98496227c107c1efd57c95d9e1501d657513324a9ad617eb8ef7e963921263389af896da55dc707a9",
+                        "sha1": "79ebc5e66a5ee3ce92afb340e693d506e97361a0"
                     },
                     "required_dependencies": [],
-                    "size": 188673,
-                    "date_published": "2025-11-14T17:34:13.517155Z"
+                    "size": 188661,
+                    "date_published": "2026-04-04T11:16:12.792796Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "packetfixer-3.3.1-1.18-1.20.4-merged.jar",
+                    "file_name": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.1",
@@ -15043,16 +15043,16 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7221/527/packetfixer-3.3.1-1.18-1.20.4-merged.jar",
-                    "id": "7221527",
+                    "url": "https://edge.forgecdn.net/files/7872/374/packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+                    "id": "7872374",
                     "parent_id": "689467",
                     "hashes": {
-                        "sha1": "0bef29023c8cadb2934d78a8b0066b49d4460974",
-                        "md5": "da8492dc74813d847ba128c23253c376"
+                        "sha1": "79ebc5e66a5ee3ce92afb340e693d506e97361a0",
+                        "md5": "494234194e4ce530719281d558510cf5"
                     },
                     "required_dependencies": [],
-                    "size": 188673,
-                    "date_published": "2025-11-14T17:30:18.777Z"
+                    "size": 188661,
+                    "date_published": "2026-04-04T11:15:26.597Z"
                 }
             ]
         },
