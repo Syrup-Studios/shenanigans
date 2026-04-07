@@ -14649,7 +14649,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.5.0.jar",
+                    "file_name": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.6.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14658,22 +14658,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/g8NOG5OR/versions/n7L7yapo/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.5.0.jar",
-                    "id": "n7L7yapo",
+                    "url": "https://cdn.modrinth.com/data/g8NOG5OR/versions/TmUbrHZV/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.6.0.jar",
+                    "id": "TmUbrHZV",
                     "parent_id": "g8NOG5OR",
                     "hashes": {
-                        "sha512": "9f9dd29272aeaa17f1088f6ab615d4e301b1b82f9e216b2966a7c8e67614f6e766c23d6cc1eb248376bc2cf5b81ba357daec55306d62dff0c44d0b81528aea91",
-                        "sha1": "f9189abe91e4fca167c78be53e4f447245f74fa2"
+                        "sha512": "7045238123ed4c597b1ed75bdca44ff596c29bf12b0616c904b574d868612e669837d5f06d6f94e1ce1d2f5a1e57e65d8f182ef7e89ccbc872d7a3da75323858",
+                        "sha1": "98e9ff7c6fa1e64780abd7e7ad8462ee394f3d49"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 166639,
-                    "date_published": "2026-01-19T22:35:07.660652Z"
+                    "size": 165847,
+                    "date_published": "2026-04-02T21:09:45.246338Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.5.0.jar",
+                    "file_name": "Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.6.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14682,18 +14682,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7491/127/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.5.0.jar",
-                    "id": "7491127",
+                    "url": "https://edge.forgecdn.net/files/7864/93/Oh-The-Trees-Youll-Grow-fabric-1.20.1-1.6.0.jar",
+                    "id": "7864093",
                     "parent_id": "962544",
                     "hashes": {
-                        "sha1": "f9189abe91e4fca167c78be53e4f447245f74fa2",
-                        "md5": "8e262bbf84491f6778af5aeac0ec1d5f"
+                        "sha1": "98e9ff7c6fa1e64780abd7e7ad8462ee394f3d49",
+                        "md5": "f19864af4b55ca6b6e8d1d366822b6f7"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 166639,
-                    "date_published": "2026-01-19T22:35:03.967Z"
+                    "size": 165847,
+                    "date_published": "2026-04-02T21:09:41.403Z"
                 }
             ]
         },
