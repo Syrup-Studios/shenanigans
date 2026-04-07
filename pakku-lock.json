@@ -7014,32 +7014,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "everycomp-1.20-2.9.17-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7597/911/everycomp-1.20-2.9.17-fabric.jar",
-                    "id": "7597911",
-                    "parent_id": "628539",
-                    "hashes": {
-                        "sha1": "7d6514e0dd69f17c52e967c10c9de2fe74ea14ab",
-                        "md5": "83833136b15e2f4945f68af7c7060819"
-                    },
-                    "required_dependencies": [
-                        "499980",
-                        "306612"
-                    ],
-                    "size": 2633101,
-                    "date_published": "2026-02-09T04:43:24.910Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "everycomp-1.20-2.9.17-fabric.jar",
+                    "file_name": "everycomp-1.20-2.9.19-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7047,19 +7023,43 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/wG2XYdpH/everycomp-1.20-2.9.17-fabric.jar",
-                    "id": "wG2XYdpH",
+                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/E2jhPX76/everycomp-1.20-2.9.19-fabric.jar",
+                    "id": "E2jhPX76",
                     "parent_id": "eiktJyw1",
                     "hashes": {
-                        "sha512": "f3a2e498381ad456d53f13c7823b9802f6890ceb83aba91829979b5544c8f585048df34c21aab3ae6bc9ca33f7df0671dae64d2908564e99cb35a57ab71cc3c5",
-                        "sha1": "7d6514e0dd69f17c52e967c10c9de2fe74ea14ab"
+                        "sha512": "f32bf9e438f6a425d81a8450f6d1b892facb9bb78f1a4b0b0d06c47813ea2c2d15a4de3bf1e14893571afc2e6912f21673b166c706f80eec19d70815b713a055",
+                        "sha1": "f47f4a8b719c86c657a24d621de8c157ef7810a9"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "twkfQtEc"
                     ],
-                    "size": 2633101,
-                    "date_published": "2026-02-09T04:43:42.558Z"
+                    "size": 2640578,
+                    "date_published": "2026-04-02T08:00:08.222020Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "everycomp-1.20-2.9.19-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7860/228/everycomp-1.20-2.9.19-fabric.jar",
+                    "id": "7860228",
+                    "parent_id": "628539",
+                    "hashes": {
+                        "sha1": "f47f4a8b719c86c657a24d621de8c157ef7810a9",
+                        "md5": "ee43cc1903b62aa961035f8f7ca127f7"
+                    },
+                    "required_dependencies": [
+                        "499980",
+                        "306612"
+                    ],
+                    "size": 2640578,
+                    "date_published": "2026-04-02T07:57:00.540Z"
                 }
             ]
         },
