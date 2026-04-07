@@ -19500,7 +19500,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.0.jar",
+                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -19508,23 +19508,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/WTqLfWX0/SubtleEffects-fabric-1.20.1-1.14.0.jar",
-                    "id": "WTqLfWX0",
+                    "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/YeUdmceu/SubtleEffects-fabric-1.20.1-1.14.1.jar",
+                    "id": "YeUdmceu",
                     "parent_id": "4q8UOK1d",
                     "hashes": {
-                        "sha512": "6f5e96f99ccc727a35891d9121b333d3d68f0fa6ad6e961081a51d41f8d4b6e7d32920f3547981131013a4f21aebebe1a3718d0814b104908aef77d14d3a1817",
-                        "sha1": "501d4f93e612875affb27fef253029c357c46ea8"
+                        "sha512": "fef196815aa15e675d39282ee33d07e80478cd358ea67860dd3fe09cf8b9a0267fdcc5e2b74f40ba8b17f2547110662b29cc8b27b0c1d7002a163a7810024530",
+                        "sha1": "00f613c69fe45a3c513db4c7c150c2698638189f"
                     },
                     "required_dependencies": [
                         "hYykXjDp",
                         "P7dR8mSH"
                     ],
-                    "size": 3301142,
-                    "date_published": "2026-03-16T21:08:31.792659Z"
+                    "size": 3303358,
+                    "date_published": "2026-04-01T00:12:30.150911Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.0.jar",
+                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -19532,19 +19532,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7768/641/SubtleEffects-fabric-1.20.1-1.14.0.jar",
-                    "id": "7768641",
+                    "url": "https://edge.forgecdn.net/files/7853/624/SubtleEffects-fabric-1.20.1-1.14.1.jar",
+                    "id": "7853624",
                     "parent_id": "1023913",
                     "hashes": {
-                        "sha1": "501d4f93e612875affb27fef253029c357c46ea8",
-                        "md5": "090e6ad81ebf4cc2aec42d6a922a4d97"
+                        "sha1": "00f613c69fe45a3c513db4c7c150c2698638189f",
+                        "md5": "46e273a0ecbb5022c159606b076522a7"
                     },
                     "required_dependencies": [
                         "1005914",
                         "306612"
                     ],
-                    "size": 3301142,
-                    "date_published": "2026-03-16T20:59:19.653Z"
+                    "size": 3303358,
+                    "date_published": "2026-04-01T00:04:30.053Z"
                 }
             ]
         },
