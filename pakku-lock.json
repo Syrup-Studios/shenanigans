@@ -12148,7 +12148,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "mcw-paintings-1.0.5-1.20.1fabric.jar",
+                    "file_name": "mcw-paintings-1.1.0-mc1.20.1fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -12156,41 +12156,41 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/okE6QVAY/versions/CwHvP3Pz/mcw-paintings-1.0.5-1.20.1fabric.jar",
-                    "id": "CwHvP3Pz",
+                    "url": "https://cdn.modrinth.com/data/okE6QVAY/versions/gg2uzN5K/mcw-paintings-1.1.0-mc1.20.1fabric.jar",
+                    "id": "gg2uzN5K",
                     "parent_id": "okE6QVAY",
                     "hashes": {
-                        "sha512": "17f928fb5365fd0315fe284b3b3213f5ec0ff14ea70a89c16be8376dd9a1f6ba7faed78a18a674436b78a63df1c8d6de7b04e3e99f8c84d95d4c8a66ae4f2bf8",
-                        "sha1": "dde22454bdccd63aefbd26d96b7f644ce576cf9c"
+                        "sha512": "a806b511c556c75d0ff409abb77838553432f0311929bd94f34bc1c425d0abd5a79fc8e66fb1a09ce3ea76719ce943cc071d89cfb4a01315ad6936442e182b86",
+                        "sha1": "678428986790d5787cf0ec3b19ab0965ccb84db4"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 58164,
-                    "date_published": "2023-11-07T16:59:47.744559Z"
+                    "size": 155072,
+                    "date_published": "2026-03-30T11:07:31.214676Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "mcw-paintings-1.0.5-1.20.1fabric.jar",
+                    "file_name": "mcw-paintings-1.1.0-mc1.20.1fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4848/131/mcw-paintings-1.0.5-1.20.1fabric.jar",
-                    "id": "4848131",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7844/984/mcw-paintings-1.1.0-mc1.20.1fabric.jar",
+                    "id": "7844984",
                     "parent_id": "438116",
                     "hashes": {
-                        "sha1": "dde22454bdccd63aefbd26d96b7f644ce576cf9c",
-                        "md5": "fa5fe9c3931d2c8c0737f51e19a4da9d"
+                        "sha1": "678428986790d5787cf0ec3b19ab0965ccb84db4",
+                        "md5": "4621ced68ba7933d3a17598ca526ea52"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 58164,
-                    "date_published": "2023-11-07T16:50:16.263Z"
+                    "size": 155072,
+                    "date_published": "2026-03-30T10:14:22.847Z"
                 }
             ]
         },
