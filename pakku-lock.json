@@ -838,7 +838,7 @@
             "pakku_links": [
                 "RjGdALOn8S9NpH6I",
                 "8XXJmG3GCel9lR3Q",
-                "JF6FKF1u7X4j8nIu"
+                "tLXl9sKwxFFIkD6P"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -1044,6 +1044,9 @@
         },
         {
             "pakku_id": "dgDaqhX3LX2R0c1o",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1539,23 +1542,19 @@
             ]
         },
         {
-            "pakku_id": "HJ3Hwwkj7dm9pASw",
+            "pakku_id": "GMmoqDoAuRzosIC6",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "better-compatibility-checker",
-                "modrinth": "better-compatibility-checker"
+                "curseforge": "better-compatibility-checker"
             },
             "name": {
-                "curseforge": "Better Compatibility Checker",
-                "modrinth": "Better Compatibility Checker"
+                "curseforge": "Better Compatibility Checker"
             },
             "id": {
-                "curseforge": "551894",
-                "modrinth": "KJhXPbHQ"
+                "curseforge": "551894"
             },
             "files": [
                 {
@@ -1580,29 +1579,6 @@
                     ],
                     "size": 26886,
                     "date_published": "2023-08-08T16:32:58.143Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/KJhXPbHQ/versions/gatP97QZ/BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
-                    "id": "gatP97QZ",
-                    "parent_id": "KJhXPbHQ",
-                    "hashes": {
-                        "sha512": "b6b042dde4d58d858dc7dbad95c40020ad1f9e54e6c078f4534b1df1253f3f339e32d55d83f3796030b0f11a495cfcf872ef5c48750591121ce4bb32147709f4",
-                        "sha1": "0c4dda5c9ebe5fcedd829996a272009f3122630a"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 26039,
-                    "date_published": "2023-09-16T14:39:59.295390Z"
                 }
             ]
         },
@@ -5450,6 +5426,9 @@
         },
         {
             "pakku_id": "VIWqc9tVud9Ztb09",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5519,6 +5498,9 @@
         },
         {
             "pakku_id": "mKNZj3EHOKlRdZ4J",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -5588,6 +5570,9 @@
         },
         {
             "pakku_id": "10hHT1ZmAlKhBpUs",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -6256,47 +6241,23 @@
             ]
         },
         {
-            "pakku_id": "JYl2YLF1zZLw7USH",
+            "pakku_id": "DO0rNMPaGgXM75wl",
             "pakku_links": [
-                "RjGdALOn8S9NpH6I",
-                "dTu7TaNVOh9i7W8L"
+                "dTu7TaNVOh9i7W8L",
+                "RjGdALOn8S9NpH6I"
             ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
-                "curseforge": "emiffect-status-effects-emi-plugin",
                 "modrinth": "emiffect"
             },
             "name": {
-                "curseforge": "EMIffect (Status Effects EMI Plugin)",
                 "modrinth": "EMIffect"
             },
             "id": {
-                "curseforge": "735528",
                 "modrinth": "705gWllI"
             },
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "emiffect-fabric-2.1.5+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6840/839/emiffect-fabric-2.1.5+mc1.20.1.jar",
-                    "id": "6840839",
-                    "parent_id": "735528",
-                    "hashes": {
-                        "sha1": "18711c0138626c1087836796074cc3a6bd83a0ca",
-                        "md5": "3aa21b4a340ea6cef21033ae09250d36"
-                    },
-                    "required_dependencies": [],
-                    "size": 39666,
-                    "date_published": "2025-08-02T21:22:15.857Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "emiffect-fabric-2.1.6+mc1.20.1.jar",
@@ -6316,8 +6277,8 @@
                         "sha1": "7de05772cfca09567f82b5dd7de90077977429d7"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "fRiHVvU7"
+                        "fRiHVvU7",
+                        "P7dR8mSH"
                     ],
                     "size": 38744,
                     "date_published": "2025-09-27T11:26:50.909111Z"
@@ -8255,11 +8216,14 @@
             ]
         },
         {
-            "pakku_id": "JF6FKF1u7X4j8nIu",
+            "pakku_id": "tLXl9sKwxFFIkD6P",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "forge-config-api-port-fabric",
+                "curseforge": "forge-config-api-port",
                 "modrinth": "forge-config-api-port"
             },
             "name": {
@@ -8271,6 +8235,29 @@
                 "modrinth": "ohNO6lps"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7260/491/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+                    "id": "7260491",
+                    "parent_id": "547434",
+                    "hashes": {
+                        "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec",
+                        "md5": "17d4d761778f33c006551cf9ecc78798"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 396628,
+                    "date_published": "2025-11-25T10:09:37.400Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
@@ -8293,29 +8280,6 @@
                     ],
                     "size": 396628,
                     "date_published": "2025-11-25T10:09:42.997713Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6325/13/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
-                    "id": "6325013",
-                    "parent_id": "547434",
-                    "hashes": {
-                        "sha1": "106c03ff115c30bce8a3e0d7557ad74b7ee00530",
-                        "md5": "7dd3394a0da1c3b768631d7c7ec47a30"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 397239,
-                    "date_published": "2025-03-20T11:16:13.187Z"
                 }
             ]
         },
@@ -8944,7 +8908,7 @@
         {
             "pakku_id": "wyjw0BVKp10f44L3",
             "pakku_links": [
-                "JF6FKF1u7X4j8nIu"
+                "tLXl9sKwxFFIkD6P"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -9997,6 +9961,9 @@
         },
         {
             "pakku_id": "ZyNiSCIqi22lcQLz",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -13167,6 +13134,9 @@
         },
         {
             "pakku_id": "7QugUQ6QvuJlyKfq",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -13238,23 +13208,19 @@
             ]
         },
         {
-            "pakku_id": "pcmyyUnPYSz9Bpx9",
+            "pakku_id": "QXGASLykrmM224ds",
             "pakku_links": [
                 "U6WPiwKc8f6lXIvN"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "naturalist",
-                "modrinth": "naturalist"
+                "curseforge": "naturalist"
             },
             "name": {
-                "curseforge": "Naturalist Lite",
-                "modrinth": "Naturalist"
+                "curseforge": "Naturalist Lite"
             },
             "id": {
-                "curseforge": "627986",
-                "modrinth": "F8BQNPWX"
+                "curseforge": "627986"
             },
             "files": [
                 {
@@ -13279,29 +13245,6 @@
                     ],
                     "size": 4770880,
                     "date_published": "2025-08-08T16:12:14.347Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "naturalist-5.0pre3+fabric-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/F8BQNPWX/versions/tx891fzz/naturalist-5.0pre3+fabric-1.20.1.jar",
-                    "id": "tx891fzz",
-                    "parent_id": "F8BQNPWX",
-                    "hashes": {
-                        "sha512": "873845d3b5c85d9acb5750a46119cb92e18bc0101857ee081283f88fb1204eda418818b9a833a1e664cdbc61d770afa355bd1aa4ba3d4639d0913dcb3a5ed257",
-                        "sha1": "64e82b5d2a2f57c6888b5c307959c5630015262a"
-                    },
-                    "required_dependencies": [
-                        "8BmcQJ2H"
-                    ],
-                    "size": 4770347,
-                    "date_published": "2025-05-08T19:04:44.619585Z"
                 }
             ]
         },
@@ -13748,6 +13691,9 @@
         },
         {
             "pakku_id": "pZNDIIO3hsLsacjr",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -15650,6 +15596,9 @@
         },
         {
             "pakku_id": "8XXJmG3GCel9lR3Q",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -15986,7 +15935,8 @@
         {
             "pakku_id": "Y8JLaPIY8JfBT7SR",
             "pakku_links": [
-                "q10fPkhW5FLd1lnV"
+                "q10fPkhW5FLd1lnV",
+                "tLXl9sKwxFFIkD6P"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -16768,8 +16718,8 @@
         {
             "pakku_id": "UbeJtwSk3KM2IdSb",
             "pakku_links": [
-                "JF6FKF1u7X4j8nIu",
-                "RjGdALOn8S9NpH6I"
+                "RjGdALOn8S9NpH6I",
+                "tLXl9sKwxFFIkD6P"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -17425,46 +17375,21 @@
             ]
         },
         {
-            "pakku_id": "BWpBpq3dvq8FTzta",
+            "pakku_id": "r5tJ6Xi99RJw2jvS",
             "pakku_links": [
                 "U6WPiwKc8f6lXIvN"
             ],
             "type": "MOD",
-            "side": "BOTH",
             "slug": {
-                "curseforge": "simply-tents",
-                "modrinth": "simply-tents"
+                "curseforge": "simply-tents"
             },
             "name": {
-                "curseforge": "Simply Tents",
-                "modrinth": "Simply Tents"
+                "curseforge": "Simply Tents"
             },
             "id": {
-                "curseforge": "1152882",
-                "modrinth": "yWY7WWmg"
+                "curseforge": "1152882"
             },
             "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "simplytents-1.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/yWY7WWmg/versions/LUpq7Mcw/simplytents-1.0.0.jar",
-                    "id": "LUpq7Mcw",
-                    "parent_id": "yWY7WWmg",
-                    "hashes": {
-                        "sha512": "4b97b3b1b04a264dd10a87efac06455add7830c5cec5cead4676002134222bb673054e5e6d1862a455da39c7b8cbeeeba7bfa6823f7fb030ab948bfe76c3d7c6",
-                        "sha1": "3431200f2191d60a419c534e0a282efbe8d499dd"
-                    },
-                    "required_dependencies": [],
-                    "size": 1143612,
-                    "date_published": "2026-03-13T14:47:19.320328Z"
-                },
                 {
                     "type": "curseforge",
                     "file_name": "simplytents-1.0.1.jar",
@@ -18105,7 +18030,7 @@
             "pakku_id": "AE4FpKevc4RUOrJa",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I",
-                "JF6FKF1u7X4j8nIu"
+                "tLXl9sKwxFFIkD6P"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -18175,9 +18100,9 @@
         {
             "pakku_id": "JBG1AoWrVhfREOuQ",
             "pakku_links": [
-                "JF6FKF1u7X4j8nIu",
                 "RjGdALOn8S9NpH6I",
-                "MAnluoHVCQ4pQmYz"
+                "MAnluoHVCQ4pQmYz",
+                "tLXl9sKwxFFIkD6P"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -18250,7 +18175,7 @@
             "pakku_id": "MAnluoHVCQ4pQmYz",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I",
-                "JF6FKF1u7X4j8nIu"
+                "tLXl9sKwxFFIkD6P"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -18320,9 +18245,9 @@
         {
             "pakku_id": "aAA3NP8cW9COXXXt",
             "pakku_links": [
-                "JF6FKF1u7X4j8nIu",
                 "MAnluoHVCQ4pQmYz",
-                "RjGdALOn8S9NpH6I"
+                "RjGdALOn8S9NpH6I",
+                "tLXl9sKwxFFIkD6P"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -21343,6 +21268,9 @@
         },
         {
             "pakku_id": "f5sJeKb2A64HxnfQ",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
