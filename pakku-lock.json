@@ -19637,7 +19637,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "supplementaries-1.20-3.1.42-fabric.jar",
+                    "file_name": "supplementaries-1.20-3.1.43-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -19645,23 +19645,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/xZP8KbxH/supplementaries-1.20-3.1.42-fabric.jar",
-                    "id": "xZP8KbxH",
+                    "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/i7ejA878/supplementaries-1.20-3.1.43-fabric.jar",
+                    "id": "i7ejA878",
                     "parent_id": "fFEIiSDQ",
                     "hashes": {
-                        "sha512": "5db0dab975ef613cc81d27c80a96a704ab88cd34c1dcd8df1b3efcc629a7eb8c7c6ab309ad21f7b4b8a55a74b5f7b91354dfe56f97c6d873df2b14af17b5b63a",
-                        "sha1": "ba19170e8d9a3aa436ecfdfbb7b1030c0151b18c"
+                        "sha512": "141b8c1358083b3804f4cd43c825050a32f0d96fd1502d6f880cf4f85dc8a79d781ab521dd30154d2ea4d7cae30c9e781ecd0b9138295fb2ca2513b667cf36de",
+                        "sha1": "e297cedaf6d64e80579bd6974260ef8759a911c3"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "twkfQtEc"
                     ],
-                    "size": 13484325,
-                    "date_published": "2026-01-08T01:05:39.927729Z"
+                    "size": 13493444,
+                    "date_published": "2026-04-06T12:12:16.566396Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "supplementaries-1.20-3.1.42-fabric.jar",
+                    "file_name": "supplementaries-1.20-3.1.43-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -19669,19 +19669,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7431/872/supplementaries-1.20-3.1.42-fabric.jar",
-                    "id": "7431872",
+                    "url": "https://edge.forgecdn.net/files/7884/612/supplementaries-1.20-3.1.43-fabric.jar",
+                    "id": "7884612",
                     "parent_id": "412082",
                     "hashes": {
-                        "sha1": "ba19170e8d9a3aa436ecfdfbb7b1030c0151b18c",
-                        "md5": "555096b4be68e8e01561f7c37ff87693"
+                        "sha1": "e297cedaf6d64e80579bd6974260ef8759a911c3",
+                        "md5": "0ba3b6e6f7cab46347f4f1d366e85a32"
                     },
                     "required_dependencies": [
                         "306612",
                         "499980"
                     ],
-                    "size": 13484325,
-                    "date_published": "2026-01-08T00:41:19.070Z"
+                    "size": 13493444,
+                    "date_published": "2026-04-06T12:12:05.543Z"
                 }
             ]
         },
