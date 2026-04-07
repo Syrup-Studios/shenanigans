@@ -2589,7 +2589,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "chat_heads-0.15.0-fabric-1.20.jar",
+                    "file_name": "chat_heads-0.15.1-fabric-1.20.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -2598,20 +2598,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/Nfb15p2T/chat_heads-0.15.0-fabric-1.20.jar",
-                    "id": "Nfb15p2T",
+                    "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/rNyAVIhR/chat_heads-0.15.1-fabric-1.20.jar",
+                    "id": "rNyAVIhR",
                     "parent_id": "Wb5oqrBJ",
                     "hashes": {
-                        "sha512": "6609950f77ff6cc450ab93449d40671899c91d49c17abca4111e730c6b7b0a2b8a6eb2c4851a48dfd011e575e3d0042ab0345494fde40b81c01d87626262b496",
-                        "sha1": "d6e2d160ee5c91bf5ead70fb0ce4e600e0888439"
+                        "sha512": "c8382e00049ca0daeffdab429bae22b66268f570f2b4d5e22433a9736e413e0e181a8d5a34736ab353efe84c4864b9133bf72650a97b5109ea455c2cf231c806",
+                        "sha1": "29bb1110ebeca34e07b18ffc82926b78dae33812"
                     },
                     "required_dependencies": [],
-                    "size": 84380,
-                    "date_published": "2026-02-07T22:29:32.672390Z"
+                    "size": 84192,
+                    "date_published": "2026-04-04T18:20:12.872124Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "chat_heads-0.15.0-fabric-1.20.jar",
+                    "file_name": "chat_heads-0.15.1-fabric-1.20.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -2620,16 +2620,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7591/238/chat_heads-0.15.0-fabric-1.20.jar",
-                    "id": "7591238",
+                    "url": "https://edge.forgecdn.net/files/7875/200/chat_heads-0.15.1-fabric-1.20.jar",
+                    "id": "7875200",
                     "parent_id": "407206",
                     "hashes": {
-                        "sha1": "d6e2d160ee5c91bf5ead70fb0ce4e600e0888439",
-                        "md5": "729e23d3239c1df0f6cd0e4866265d08"
+                        "sha1": "29bb1110ebeca34e07b18ffc82926b78dae33812",
+                        "md5": "395af553f0f373d93615be8caf3a2bf6"
                     },
                     "required_dependencies": [],
-                    "size": 84380,
-                    "date_published": "2026-02-07T22:29:34.917Z"
+                    "size": 84192,
+                    "date_published": "2026-04-04T18:20:15.237Z"
                 }
             ]
         },
