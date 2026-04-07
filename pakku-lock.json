@@ -17445,29 +17445,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "simplytents-1.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7751/152/simplytents-1.0.0.jar",
-                    "id": "7751152",
-                    "parent_id": "1152882",
-                    "hashes": {
-                        "sha1": "3431200f2191d60a419c534e0a282efbe8d499dd",
-                        "md5": "6c6c97666dbfde78744d6ed96cfeadf4"
-                    },
-                    "required_dependencies": [
-                        "388172"
-                    ],
-                    "size": 1143612,
-                    "date_published": "2026-03-13T13:34:25.047Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "simplytents-1.0.0.jar",
                     "mc_versions": [
@@ -17487,6 +17464,29 @@
                     "required_dependencies": [],
                     "size": 1143612,
                     "date_published": "2026-03-13T14:47:19.320328Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "simplytents-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7871/181/simplytents-1.0.1.jar",
+                    "id": "7871181",
+                    "parent_id": "1152882",
+                    "hashes": {
+                        "sha1": "8411367a8100505cb126c55e33c38c8a8ef97ffd",
+                        "md5": "bbf4ea1da7239da7aa3f026c926641fb"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 1143608,
+                    "date_published": "2026-04-04T03:32:11.573Z"
                 }
             ]
         },
