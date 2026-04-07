@@ -14,6 +14,17 @@
 
     "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!",
 
-    "tooltip.shenanigans.auroraslanters.amethyst_lantern.range": "Has a range up to 32 blocks!"
+    "tooltip.shenanigans.auroraslanters.amethyst_lantern.range": "Has a range up to 32 blocks!",
+
+    "tooltip.shenanigans.arcanelanterns.life_lantern": "Makes crops around the lantern grow faster.",
+    "tooltip.shenanigans.arcanelanterns.feral_lantern": "Lights up a giant area around it by spawning sparks. When the area is lit up and enough sparks have been spawned the lantern vanishes.",
+    "tooltip.shenanigans.arcanelanterns.love_lantern": "Makes nearby mobs fall in love.",
+    "tooltip.shenanigans.arcanelanterns.wailing_lantern": "Cries if you get close, screams and applies nausea if you get even closer.",
+    "tooltip.shenanigans.arcanelanterns.boreal_lantern": "Slows nearby mobs and players down, also extinguishes burning mobs.",
+    "tooltip.shenanigans.arcanelanterns.brilliant_lantern": "Turns nearby animals directly into experience.",
+    "tooltip.shenanigans.arcanelanterns.warding_lantern": "Pushes all living entities except players away.",
+    "tooltip.shenanigans.arcanelanterns.containing_lantern": "Keeps all living entities except the player confined to an area.",
+    "tooltip.shenanigans.arcanelanterns.withering_lantern": "Applies the wither effect in the area around it.",
+    "tooltip.shenanigans.arcanelanterns.cloud_lantern": "Applies the slow fall effect in the area around it."
 
 }

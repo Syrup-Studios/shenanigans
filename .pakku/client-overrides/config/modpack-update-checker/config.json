@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "@version@",
+  "modpackName": "@name@",
+  "modpackAuthor": "@author@",
+  "modpackReleaseType": "alpha",
+  "updateCheckerId": "https://raw.githubusercontent.com/Syrup-Studios/shenanigans/refs/heads/main/update-checker/",
+  "advanced": {
+    "bccEnabled": true,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}
