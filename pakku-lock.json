@@ -21543,6 +21543,72 @@
             ]
         },
         {
+            "pakku_id": "uumqypjYZJ3yxfA4",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "flw-vanillin",
+                "curseforge": "vanillin"
+            },
+            "name": {
+                "modrinth": "Vanillin",
+                "curseforge": "Vanillin"
+            },
+            "id": {
+                "modrinth": "6qTrsXCy",
+                "curseforge": "965702"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "vanillin-fabric-1.20.1-1.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6qTrsXCy/versions/8D4rKWc2/vanillin-fabric-1.20.1-1.1.3.jar",
+                    "id": "8D4rKWc2",
+                    "parent_id": "6qTrsXCy",
+                    "hashes": {
+                        "sha512": "de235440eaa2038a442859cde6e3b02855215ae9fd575031797b0bd4b435228efd6cfc542d415d9df9c3d98787f4706f220cf01205e98d35ccd50b45acf2273a",
+                        "sha1": "99dcb702260de06267bd9e71480df570033ba15b"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 876071,
+                    "date_published": "2025-04-21T04:21:18.495670Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "vanillin-fabric-1.20.1-1.1.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6446/557/vanillin-fabric-1.20.1-1.1.3.jar",
+                    "id": "6446557",
+                    "parent_id": "965702",
+                    "hashes": {
+                        "sha1": "99dcb702260de06267bd9e71480df570033ba15b",
+                        "md5": "c667c837cec9eaea032a4bfd37cff8e0"
+                    },
+                    "required_dependencies": [],
+                    "size": 876071,
+                    "date_published": "2025-04-21T04:27:21.123Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "MSzBlKcZV9xp1sdG",
             "type": "MOD",
             "side": "BOTH",
