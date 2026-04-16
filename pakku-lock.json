@@ -8106,6 +8106,77 @@
             ]
         },
         {
+            "pakku_id": "chhtNuhq3a332vMU",
+            "pakku_links": [
+                "VeVpUVJ9hZfIh70m",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fast-paintings",
+                "modrinth": "fast-paintings"
+            },
+            "name": {
+                "curseforge": "Fast Paintings",
+                "modrinth": "Fast Paintings"
+            },
+            "id": {
+                "curseforge": "883287",
+                "modrinth": "z3TzcquW"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fastpaintings-1.20-1.2.7-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5324/823/fastpaintings-1.20-1.2.7-fabric.jar",
+                    "id": "5324823",
+                    "parent_id": "883287",
+                    "hashes": {
+                        "sha1": "cc967836211a3e3b511486670bba712aab43df91",
+                        "md5": "e61772ca2b2660fe881de126c8f4ed7f"
+                    },
+                    "required_dependencies": [
+                        "499980",
+                        "306612"
+                    ],
+                    "size": 304738,
+                    "date_published": "2024-05-07T22:02:12.163Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fastpaintings-1.20-1.2.7-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/z3TzcquW/versions/1SN7K6ZX/fastpaintings-1.20-1.2.7-fabric.jar",
+                    "id": "1SN7K6ZX",
+                    "parent_id": "z3TzcquW",
+                    "hashes": {
+                        "sha512": "c6df07545bb67192a37d7cca8d089260bb4cfaa9e47a842336e379ebc1031f487fbca0e82148a829b2000f389531bea83d85c3197eebd66cda421e8d70aa3b14",
+                        "sha1": "cc967836211a3e3b511486670bba712aab43df91"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "twkfQtEc"
+                    ],
+                    "size": 304738,
+                    "date_published": "2024-05-07T22:02:18.064533Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fDZhhIweVH833kCB",
             "pakku_links": [
                 "HRXoJC9K1dHCKlrs"
