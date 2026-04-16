@@ -16799,6 +16799,90 @@
             ]
         },
         {
+            "pakku_id": "RBosgp1ITvB0WTKL",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "screenshot-to-clipboard-fabric",
+                "modrinth": "screenshot-to-clipboard"
+            },
+            "name": {
+                "curseforge": "Screenshot to Clipboard (Fabric)",
+                "modrinth": "Screenshot to Clipboard"
+            },
+            "id": {
+                "curseforge": "327154",
+                "modrinth": "1KiJRrTg"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "screenshot-to-clipboard-1.0.9-fabric.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3643/25/screenshot-to-clipboard-1.0.9-fabric.jar",
+                    "id": "3643025",
+                    "parent_id": "327154",
+                    "hashes": {
+                        "sha1": "39c55d7e0ebe4a7f626e0d4bc85b8d2bea353092",
+                        "md5": "dcfe430639b2540ca604feba131af89d"
+                    },
+                    "required_dependencies": [],
+                    "size": 16539,
+                    "date_published": "2022-02-10T14:19:12.983Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "screenshot-to-clipboard-1.0.9-fabric.jar",
+                    "mc_versions": [
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.9+fabric/screenshot-to-clipboard-1.0.9-fabric.jar",
+                    "id": "rObP72r1",
+                    "parent_id": "1KiJRrTg",
+                    "hashes": {
+                        "sha512": "d74c132c4d4f77019edf6e1b7d522cea78ec78a17c96bd04290ab1df5caf37b6fe7d94069afffd385750d257ffe427ece55f13137ee765ec1a56ec255d389812",
+                        "sha1": "39c55d7e0ebe4a7f626e0d4bc85b8d2bea353092"
+                    },
+                    "required_dependencies": [],
+                    "size": 16539,
+                    "date_published": "2022-02-10T14:19:13.838917Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "lzahxvUKOajGzSSO",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
