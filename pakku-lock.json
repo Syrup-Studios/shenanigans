@@ -2755,6 +2755,48 @@
             ]
         },
         {
+            "pakku_id": "h8B2qmWDI7LlFgZK",
+            "pakku_links": [
+                "bnbnYJ78Qqbr1Mzt"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "chunk-sending-forge-fabric"
+            },
+            "name": {
+                "curseforge": "Chunk Sending[Forge/Fabric]"
+            },
+            "id": {
+                "curseforge": "831663"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "chunksending-fabric-1.20.1-2.8.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4894/794/chunksending-fabric-1.20.1-2.8.jar",
+                    "id": "4894794",
+                    "parent_id": "831663",
+                    "hashes": {
+                        "sha1": "7dcbf4ad0e571fd5b86af0262197305f2067481b",
+                        "md5": "e0754cf0c89a2362d9cb91c897604cad"
+                    },
+                    "required_dependencies": [
+                        "326652"
+                    ],
+                    "size": 11318,
+                    "date_published": "2023-11-23T20:24:39.867Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zJdHaMqgv1dOR3pR",
             "type": "MOD",
             "side": "BOTH",
@@ -5052,6 +5094,42 @@
                     ],
                     "size": 27086,
                     "date_published": "2024-10-25T15:26:45.094323Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bnbnYJ78Qqbr1Mzt",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cupboard"
+            },
+            "name": {
+                "curseforge": "Cupboard"
+            },
+            "id": {
+                "curseforge": "326652"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cupboard-fabric-1.20.1-3.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7906/355/cupboard-fabric-1.20.1-3.7.jar",
+                    "id": "7906355",
+                    "parent_id": "326652",
+                    "hashes": {
+                        "sha1": "e9edd7de12cee080f1bc367e9b31d47ca4660f31",
+                        "md5": "5867b46642c47f8769b46d4c175a0dad"
+                    },
+                    "required_dependencies": [],
+                    "size": 34053,
+                    "date_published": "2026-04-10T19:14:40.450Z"
                 }
             ]
         },
