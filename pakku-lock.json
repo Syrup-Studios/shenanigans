@@ -12818,6 +12818,77 @@
             ]
         },
         {
+            "pakku_id": "NUmuru8T51wqvi5O",
+            "pakku_links": [
+                "BI4lCoFDs1wqWNaV",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "modern-world-creation",
+                "curseforge": "modernworldcreation"
+            },
+            "name": {
+                "modrinth": "Modern World Creation",
+                "curseforge": "Modern World Creation"
+            },
+            "id": {
+                "modrinth": "xHskr2cS",
+                "curseforge": "485245"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/xHskr2cS/versions/nBbtnbel/modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+                    "id": "nBbtnbel",
+                    "parent_id": "xHskr2cS",
+                    "hashes": {
+                        "sha512": "bafd6c8cc82652a7607484e156697f3c8cb989ab3168c192a97994f055e7f59197dd50e94457abd3f68e09f4fa835909df54c37902e6f37372446e4a29249517",
+                        "sha1": "381303752404a4cea8a21e16e60970518cc08af0"
+                    },
+                    "required_dependencies": [
+                        "J81TRJWm",
+                        "P7dR8mSH"
+                    ],
+                    "size": 679401,
+                    "date_published": "2025-03-11T16:32:18.043188Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6292/692/modernworldcreation_fabric_2.0.1_MC_1.20.1.jar",
+                    "id": "6292692",
+                    "parent_id": "485245",
+                    "hashes": {
+                        "sha1": "381303752404a4cea8a21e16e60970518cc08af0",
+                        "md5": "fe8fc5add97b168435ed5de5158658bc"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "416797"
+                    ],
+                    "size": 679401,
+                    "date_published": "2025-03-11T16:32:11.937Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "afcSVWKbQrIyrych",
             "type": "MOD",
             "side": "BOTH",
