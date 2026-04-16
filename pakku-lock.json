@@ -7836,6 +7836,52 @@
             ]
         },
         {
+            "pakku_id": "aKntoPCo2kIAjuQZ",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "explosive-enhancement"
+            },
+            "name": {
+                "modrinth": "Explosive Enhancement"
+            },
+            "id": {
+                "modrinth": "OSQ8mw2r"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "explosive-enhancement-1.3.2-1.20-1.20.4.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OSQ8mw2r/versions/t5vUyiRo/explosive-enhancement-1.3.2-1.20-1.20.4.jar",
+                    "id": "t5vUyiRo",
+                    "parent_id": "OSQ8mw2r",
+                    "hashes": {
+                        "sha512": "8ec4c24a4f20e3d5d06842c0fa355914d49ddcb119ddd89ceab77085c90245424bb225bcd35523951f9b0e2c19a2f5843255877e8cb82cdd2438c86067534636",
+                        "sha1": "c6323b020a1d36b319d474c908e5eeb4e802bd93"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 114604,
+                    "date_published": "2024-12-21T02:46:30.915197Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "d9jhI1gg4YLILU86",
             "type": "MOD",
             "side": "BOTH",
