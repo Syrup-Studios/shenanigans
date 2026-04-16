@@ -8373,6 +8373,9 @@
         },
         {
             "pakku_id": "eUy96eVFW0Tf25mX",
+            "pakku_links": [
+                "jfLbEv3EIM2psWhO"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -9832,6 +9835,74 @@
                     ],
                     "size": 5516803,
                     "date_published": "2025-07-08T15:27:16.465529Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jfLbEv3EIM2psWhO",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "immersive-overlays",
+                "modrinth": "immersive-overlays"
+            },
+            "name": {
+                "curseforge": "Immersive Overlays",
+                "modrinth": "Immersive Overlays"
+            },
+            "id": {
+                "curseforge": "1245453",
+                "modrinth": "PKoLkD98"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersiveoverlays-1.6.1+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7843/48/immersiveoverlays-1.6.1+1.20.1-fabric.jar",
+                    "id": "7843048",
+                    "parent_id": "1245453",
+                    "hashes": {
+                        "sha1": "ed898fbfc76abd8236abe388c9285c1716735a4f",
+                        "md5": "63494e43ea28dcb2c1d92c1024e8a0e7"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 295728,
+                    "date_published": "2026-03-29T21:44:52.100Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersiveoverlays-1.6.1+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PKoLkD98/versions/WGU7A1Hf/immersiveoverlays-1.6.1+1.20.1-fabric.jar",
+                    "id": "WGU7A1Hf",
+                    "parent_id": "PKoLkD98",
+                    "hashes": {
+                        "sha512": "062140a0a8e0597240b76155156a77ed3737567616e429802e47d95567483d7bba2f6bcac65fbae800698c2960a361d23d79329069953d0f17c9c79f44553903",
+                        "sha1": "ed898fbfc76abd8236abe388c9285c1716735a4f"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 295728,
+                    "date_published": "2026-03-29T21:44:52.422098Z"
                 }
             ]
         },
