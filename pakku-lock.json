@@ -15833,6 +15833,76 @@
             ]
         },
         {
+            "pakku_id": "kmJvnc2QG6csXmcG",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "raised",
+                "modrinth": "raised"
+            },
+            "name": {
+                "curseforge": "Raised",
+                "modrinth": "Raised"
+            },
+            "id": {
+                "curseforge": "570368",
+                "modrinth": "nCQRBEiR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "raised-fabric-1.20.1-5.1.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7379/924/raised-fabric-1.20.1-5.1.2.jar",
+                    "id": "7379924",
+                    "parent_id": "570368",
+                    "hashes": {
+                        "sha1": "689e4a2070d682a194b2ff7481ab5bad734b805d",
+                        "md5": "33ebc58c0a14f9e1dd913bdbf75689a2"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 76776,
+                    "date_published": "2025-12-26T10:17:32.540Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "raised-fabric-1.20.1-5.1.2.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nCQRBEiR/versions/BdDqlMae/raised-fabric-1.20.1-5.1.2.jar",
+                    "id": "BdDqlMae",
+                    "parent_id": "nCQRBEiR",
+                    "hashes": {
+                        "sha512": "fad94c4ae8f93950cbf739f504ebd26095fdbda96e7a955b9209a1ecbcea875d358f63fa6b6cd1f652aaa0f5e3f60620b4c51fabb70555829dedfc9713cbe985",
+                        "sha1": "689e4a2070d682a194b2ff7481ab5bad734b805d"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 76776,
+                    "date_published": "2025-12-26T10:16:22.211309Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ihZ21ToRS9re5wLB",
             "type": "MOD",
             "side": "BOTH",
