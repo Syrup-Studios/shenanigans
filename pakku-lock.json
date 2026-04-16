@@ -20775,6 +20775,67 @@
             ]
         },
         {
+            "pakku_id": "lb33ScP6sNxeLG09",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "treeplacer",
+                "modrinth": "treeplacer"
+            },
+            "name": {
+                "curseforge": "Treeplacer",
+                "modrinth": "Treeplacer"
+            },
+            "id": {
+                "curseforge": "840202",
+                "modrinth": "4im8hCxA"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "treeplacer-fabric-1.20.1-1.3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6584/769/treeplacer-fabric-1.20.1-1.3.0.jar",
+                    "id": "6584769",
+                    "parent_id": "840202",
+                    "hashes": {
+                        "sha1": "2b472aa8222e183b47eb02a55936ebecba3eb576",
+                        "md5": "eae8328708ce021807670a4ccf673230"
+                    },
+                    "required_dependencies": [],
+                    "size": 24266,
+                    "date_published": "2025-05-27T18:07:51.147Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "treeplacer-fabric-1.20.1-1.3.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4im8hCxA/versions/Tbn8LuPt/treeplacer-fabric-1.20.1-1.3.0.jar",
+                    "id": "Tbn8LuPt",
+                    "parent_id": "4im8hCxA",
+                    "hashes": {
+                        "sha512": "dceef0346dc8bec98e40453f84e936d2d0dc4db00f3604317b10fa8105c78b7f35521943175d7b795c5f72019be1c42c2c3ce5aaee40e23103b067372f50e600",
+                        "sha1": "2b472aa8222e183b47eb02a55936ebecba3eb576"
+                    },
+                    "required_dependencies": [],
+                    "size": 24266,
+                    "date_published": "2025-05-27T18:06:51.171613Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hyr8badempTmouXm",
             "type": "MOD",
             "side": "BOTH",
