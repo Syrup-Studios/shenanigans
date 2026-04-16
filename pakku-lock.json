@@ -16799,6 +16799,69 @@
             ]
         },
         {
+            "pakku_id": "W5gp0qbcRcYZ46sE",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "screenshot-viewer",
+                "modrinth": "screenshot-viewer"
+            },
+            "name": {
+                "curseforge": "Screenshot Viewer",
+                "modrinth": "Screenshot Viewer"
+            },
+            "id": {
+                "curseforge": "693961",
+                "modrinth": "laNoi025"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "screenshot_viewer-1.3.1-fabric-mc1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5324/551/screenshot_viewer-1.3.1-fabric-mc1.20.jar",
+                    "id": "5324551",
+                    "parent_id": "693961",
+                    "hashes": {
+                        "sha1": "752db7ccd6325e55341d940fe6ea625d16ec435d",
+                        "md5": "f1c7e1d4b5c1ed38db95309d1446e13c"
+                    },
+                    "required_dependencies": [],
+                    "size": 270052,
+                    "date_published": "2024-05-07T20:46:40.857Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "screenshot_viewer-1.3.1-fabric-mc1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/laNoi025/versions/OyLhWReL/screenshot_viewer-1.3.1-fabric-mc1.20.jar",
+                    "id": "OyLhWReL",
+                    "parent_id": "laNoi025",
+                    "hashes": {
+                        "sha512": "1998e3a4cef3d9cd703f2833a01e0a8b070f45320a5506b068838c682b869f499aa6cc83137f27251e4f6af773746b643a7e76c0cbf7490806f1b5b701bcbd55",
+                        "sha1": "752db7ccd6325e55341d940fe6ea625d16ec435d"
+                    },
+                    "required_dependencies": [],
+                    "size": 270052,
+                    "date_published": "2024-05-07T18:12:29.884401Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "RBosgp1ITvB0WTKL",
             "type": "MOD",
             "side": "CLIENT",
