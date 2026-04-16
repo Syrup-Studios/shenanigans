@@ -6578,6 +6578,67 @@
             ]
         },
         {
+            "pakku_id": "MiFZk4Sf5JzMoRtE",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ecologics",
+                "modrinth": "ecologics"
+            },
+            "name": {
+                "curseforge": "Ecologics",
+                "modrinth": "Ecologics"
+            },
+            "id": {
+                "curseforge": "570463",
+                "modrinth": "NCKpPR0Z"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ecologics-fabric-1.20.1-2.2.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7479/469/ecologics-fabric-1.20.1-2.2.4.jar",
+                    "id": "7479469",
+                    "parent_id": "570463",
+                    "hashes": {
+                        "sha1": "c595fcf2279977b87623462a492ca8ec357b65e7",
+                        "md5": "d6784d152613458e3159a12b3300fea4"
+                    },
+                    "required_dependencies": [],
+                    "size": 2831307,
+                    "date_published": "2026-01-18T07:58:48.047Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ecologics-fabric-1.20.1-2.2.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NCKpPR0Z/versions/76Zti2GN/ecologics-fabric-1.20.1-2.2.4.jar",
+                    "id": "76Zti2GN",
+                    "parent_id": "NCKpPR0Z",
+                    "hashes": {
+                        "sha512": "699d13e96a0644d023945919adb1e19e7c00775ad5a7b7ba38388bef4798acdb3fba84a7fe17139e6f27fe14af4e942058d9c87b17601fbae92f0107dc5a2eef",
+                        "sha1": "c595fcf2279977b87623462a492ca8ec357b65e7"
+                    },
+                    "required_dependencies": [],
+                    "size": 2831307,
+                    "date_published": "2026-01-18T08:04:28.190259Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "2qo0Qtqy9jkERBAW",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
