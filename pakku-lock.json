@@ -2686,6 +2686,76 @@
             ]
         },
         {
+            "pakku_id": "9tM8FFiSKs6QFVEu",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "cherished-worlds",
+                "modrinth": "cherished-worlds"
+            },
+            "name": {
+                "curseforge": "Cherished Worlds",
+                "modrinth": "Cherished Worlds"
+            },
+            "id": {
+                "curseforge": "308240",
+                "modrinth": "3azQ6p0W"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cherishedworlds-fabric-6.1.7+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5955/877/cherishedworlds-fabric-6.1.7+1.20.1.jar",
+                    "id": "5955877",
+                    "parent_id": "308240",
+                    "hashes": {
+                        "sha1": "da9ecf9e350accf60a2f428217f336631b03d603",
+                        "md5": "9b1acfd847ddfdbaa3a84b06c3a07115"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 65739,
+                    "date_published": "2024-12-02T08:22:29.567Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cherishedworlds-fabric-6.1.7+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/K58Y722e/cherishedworlds-fabric-6.1.7+1.20.1.jar",
+                    "id": "K58Y722e",
+                    "parent_id": "3azQ6p0W",
+                    "hashes": {
+                        "sha512": "1472b333e65e40d447e2967a83949d32daa68a008b52248117b825b763784872aefc29709c6c67e1175c1d8706710a2e48f8510f291f53562371fb3cf1c4e65f",
+                        "sha1": "da9ecf9e350accf60a2f428217f336631b03d603"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 65739,
+                    "date_published": "2024-12-02T08:22:25.384958Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "P3cbUQnkXMYxknhk",
             "type": "MOD",
             "side": "BOTH",
