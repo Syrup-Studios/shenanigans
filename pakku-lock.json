@@ -9370,6 +9370,77 @@
             ]
         },
         {
+            "pakku_id": "ZeDvrYn3lo5e78z8",
+            "pakku_links": [
+                "VeVpUVJ9hZfIh70m",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "heartstone",
+                "modrinth": "heartstone"
+            },
+            "name": {
+                "curseforge": "Heartstone",
+                "modrinth": "Heartstone"
+            },
+            "id": {
+                "curseforge": "573152",
+                "modrinth": "NBY6AFje"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "heartstone-1.20-1.3.0-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6173/170/heartstone-1.20-1.3.0-fabric.jar",
+                    "id": "6173170",
+                    "parent_id": "573152",
+                    "hashes": {
+                        "sha1": "c2aac6eaa64a97104dfc6ef66ded27373f40a3ca",
+                        "md5": "fb539d9f008b8a1ed88f85645ff240d1"
+                    },
+                    "required_dependencies": [
+                        "499980",
+                        "306612"
+                    ],
+                    "size": 248428,
+                    "date_published": "2025-02-09T00:05:05.297Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "heartstone-1.20-1.3.0-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NBY6AFje/versions/BBtgfQk1/heartstone-1.20-1.3.0-fabric.jar",
+                    "id": "BBtgfQk1",
+                    "parent_id": "NBY6AFje",
+                    "hashes": {
+                        "sha512": "cd5de23407eff4fe5f749460546c7787ff8c4bef7e93fe4d606f934abba7ef23e3d19b43a62f4aa0f959ae9544e56575e19bd85392b1962f2295f518e1916d38",
+                        "sha1": "c2aac6eaa64a97104dfc6ef66ded27373f40a3ca"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "twkfQtEc"
+                    ],
+                    "size": 248428,
+                    "date_published": "2025-02-09T00:05:20.090786Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "oazPXJAGAng836wy",
             "type": "MOD",
             "side": "BOTH",
