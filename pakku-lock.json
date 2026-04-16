@@ -14944,6 +14944,80 @@
             ]
         },
         {
+            "pakku_id": "tWqhSTviRlMTvBgH",
+            "pakku_links": [
+                "8XXJmG3GCel9lR3Q",
+                "RjGdALOn8S9NpH6I",
+                "tLXl9sKwxFFIkD6P"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "overflowing-bars",
+                "modrinth": "overflowing-bars"
+            },
+            "name": {
+                "curseforge": "Overflowing Bars",
+                "modrinth": "Overflowing Bars"
+            },
+            "id": {
+                "curseforge": "852662",
+                "modrinth": "XD7XOrAF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5763/975/OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+                    "id": "5763975",
+                    "parent_id": "852662",
+                    "hashes": {
+                        "sha1": "1c713ab088c71082cfab392df602f45cdd6efbc0",
+                        "md5": "4f48ba31e427904d96bca3293bd3ed3c"
+                    },
+                    "required_dependencies": [
+                        "495476",
+                        "306612",
+                        "547434"
+                    ],
+                    "size": 73821,
+                    "date_published": "2024-09-28T08:14:25.097Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XD7XOrAF/versions/oswQSU19/OverflowingBars-v8.0.1-1.20.1-Fabric.jar",
+                    "id": "oswQSU19",
+                    "parent_id": "XD7XOrAF",
+                    "hashes": {
+                        "sha512": "5ba1a000edd779bf06597c43d55bd448f2202eee40e95dea852e5a7459d07af513d76174ae758614bf00536b1dc434fb02d8e706438054219620fd8d3a3f5045",
+                        "sha1": "1c713ab088c71082cfab392df602f45cdd6efbc0"
+                    },
+                    "required_dependencies": [
+                        "QAGBst4M",
+                        "ohNO6lps",
+                        "P7dR8mSH"
+                    ],
+                    "size": 73821,
+                    "date_published": "2024-09-28T08:14:29.510426Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LJHDxHKnnQTn6rC8",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I",
