@@ -2797,6 +2797,74 @@
             ]
         },
         {
+            "pakku_id": "xygPflc7w3mW9b4h",
+            "pakku_links": [
+                "tLXl9sKwxFFIkD6P"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "clean-tooltips",
+                "modrinth": "clean-tooltips"
+            },
+            "name": {
+                "curseforge": "Clean Tooltips",
+                "modrinth": "Clean Tooltips"
+            },
+            "id": {
+                "curseforge": "855017",
+                "modrinth": "vMoHe8uI"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "clean_tooltips-1.0-fabric-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4703/393/clean_tooltips-1.0-fabric-1.20.1.jar",
+                    "id": "4703393",
+                    "parent_id": "855017",
+                    "hashes": {
+                        "sha1": "4658cdf42077ef8627199f66f2c59e70c85531e1",
+                        "md5": "4cefd18b7338911bdbd1b822080b5ddd"
+                    },
+                    "required_dependencies": [
+                        "547434"
+                    ],
+                    "size": 23063,
+                    "date_published": "2023-08-13T21:10:48.040Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "clean_tooltips-1.0-fabric-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vMoHe8uI/versions/7jTuPvl5/clean_tooltips-1.0-fabric-1.20.1.jar",
+                    "id": "7jTuPvl5",
+                    "parent_id": "vMoHe8uI",
+                    "hashes": {
+                        "sha512": "464e710226bd064451c8465b5cf908757517b33b8037e746e4c9f01d7aa2ccfb1d9b2cc56feee893b1f67165a408cc1596041ff6c53f652746eec68a7eb78048",
+                        "sha1": "4658cdf42077ef8627199f66f2c59e70c85531e1"
+                    },
+                    "required_dependencies": [
+                        "ohNO6lps"
+                    ],
+                    "size": 23063,
+                    "date_published": "2023-08-13T21:12:12.925855Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "NyBNxfcnMM161oZV",
             "pakku_links": [
                 "bnbnYJ78Qqbr1Mzt"
