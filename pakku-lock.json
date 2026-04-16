@@ -16979,6 +16979,67 @@
             ]
         },
         {
+            "pakku_id": "mU2WMbdQUAMlZadE",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "shield-expansion",
+                "modrinth": "shield-expansion"
+            },
+            "name": {
+                "curseforge": "Shield Expansion",
+                "modrinth": "Shield Expansion"
+            },
+            "id": {
+                "curseforge": "583318",
+                "modrinth": "sjxWxSao"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "shieldexp-fabric-1.20.1-1.3.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7742/38/shieldexp-fabric-1.20.1-1.3.7.jar",
+                    "id": "7742038",
+                    "parent_id": "583318",
+                    "hashes": {
+                        "sha1": "e5f8827f9b36705334c2e95e97298b5ab8d82b51",
+                        "md5": "8d2ab1923a9008ee153ed6409f8f2cb6"
+                    },
+                    "required_dependencies": [],
+                    "size": 261574,
+                    "date_published": "2026-03-11T08:46:07.767Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "shieldexp-fabric-1.20.1-1.3.7.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/sjxWxSao/versions/uYsK77Fw/shieldexp-fabric-1.20.1-1.3.7.jar",
+                    "id": "uYsK77Fw",
+                    "parent_id": "sjxWxSao",
+                    "hashes": {
+                        "sha512": "f7bf72cac826d3a94bd4bf2f8a8cda665af947632e74fa123b61058fd5431b89b5a3ff91345d82fccda675cd211d337009ea8bb765b3d71dd2dbf0c1e5b667a4",
+                        "sha1": "e5f8827f9b36705334c2e95e97298b5ab8d82b51"
+                    },
+                    "required_dependencies": [],
+                    "size": 261574,
+                    "date_published": "2026-03-11T08:46:07.955616Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QntiXr1txsRL2ajE",
             "type": "MOD",
             "side": "SERVER",
