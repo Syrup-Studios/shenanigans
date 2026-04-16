@@ -14245,6 +14245,93 @@
             ]
         },
         {
+            "pakku_id": "jV8ugQk9Xkyyq7Gh",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "no-shield-delay",
+                "modrinth": "no-shield-delay"
+            },
+            "name": {
+                "curseforge": "No Shield Delay",
+                "modrinth": "No Shield Delay"
+            },
+            "id": {
+                "curseforge": "641059",
+                "modrinth": "pOf4Y6Oo"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "no-shield-delay-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5676/51/no-shield-delay-1.0.1.jar",
+                    "id": "5676051",
+                    "parent_id": "641059",
+                    "hashes": {
+                        "sha1": "baceed2cc4e4a5be88542f4d397fe82e4e730036",
+                        "md5": "58aaec63ab749737bfe22a72eedc9ce5"
+                    },
+                    "required_dependencies": [],
+                    "size": 511465,
+                    "date_published": "2024-08-30T01:29:13.680Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "no-shield-delay-1.0.1.jar",
+                    "mc_versions": [
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/pOf4Y6Oo/versions/v8Mc0O6d/no-shield-delay-1.0.1.jar",
+                    "id": "v8Mc0O6d",
+                    "parent_id": "pOf4Y6Oo",
+                    "hashes": {
+                        "sha512": "294d1abc67b87245f5755aefeebde1d92d91981fa355074c443d09b991253e0592e9b3601f92f9d5509fcae6e15a536a1a59e332872f18f56a5e903cef559a2f",
+                        "sha1": "baceed2cc4e4a5be88542f4d397fe82e4e730036"
+                    },
+                    "required_dependencies": [],
+                    "size": 511465,
+                    "date_published": "2024-08-30T01:31:05.973404Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "0QP1L0PGdpW9tY5x",
             "type": "MOD",
             "side": "CLIENT",
