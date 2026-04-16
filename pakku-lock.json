@@ -24621,6 +24621,43 @@
             ]
         },
         {
+            "pakku_id": "DQQw1IEQFbZ9BpQX",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fix-gpu-memory-leak"
+            },
+            "name": {
+                "curseforge": "fix GPU memory leak[Forge/Fabric]"
+            },
+            "id": {
+                "curseforge": "882495"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gpumemleakfix-fabric-1.20.1-1.8.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4884/979/gpumemleakfix-fabric-1.20.1-1.8.jar",
+                    "id": "4884979",
+                    "parent_id": "882495",
+                    "hashes": {
+                        "sha1": "f3cda542199d4344c317c464256a2a499a596431",
+                        "md5": "166ae7ae556227b7cfb74856b171ec74"
+                    },
+                    "required_dependencies": [],
+                    "size": 6949,
+                    "date_published": "2023-11-20T20:56:32.627Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pLKdTKnmEaPdjG60",
             "pakku_links": [
                 "iZd7RRFKfDzPtaiB",
