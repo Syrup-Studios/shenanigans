@@ -15965,6 +15965,47 @@
             ]
         },
         {
+            "pakku_id": "fRUAD3YCnYXxvOaa",
+            "pakku_links": [
+                "bnbnYJ78Qqbr1Mzt"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "recipe-essentials-forge-fabric"
+            },
+            "name": {
+                "curseforge": "Recipe Essentials[Forge/Fabric]"
+            },
+            "id": {
+                "curseforge": "907856"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "recipeessentials-fabric-1.20.1-4.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6202/570/recipeessentials-fabric-1.20.1-4.1.jar",
+                    "id": "6202570",
+                    "parent_id": "907856",
+                    "hashes": {
+                        "sha1": "e70aa0db46209c7c69bca58b2e701bed007aed99",
+                        "md5": "5fe353670e8bec17c068fe82b63c6b96"
+                    },
+                    "required_dependencies": [
+                        "326652"
+                    ],
+                    "size": 51639,
+                    "date_published": "2025-02-17T09:52:55.157Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ObUjFv5WWyDJvGVL",
             "type": "MOD",
             "side": "CLIENT",
