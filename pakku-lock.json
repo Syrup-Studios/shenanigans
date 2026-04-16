@@ -5994,6 +5994,87 @@
             ]
         },
         {
+            "pakku_id": "xEU4pqOftOMpp0BL",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "p3B5b25NcO3LvDI3"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "durability-tooltip",
+                "modrinth": "durability-tooltip"
+            },
+            "name": {
+                "curseforge": "Durability Tooltip",
+                "modrinth": "Durability Tooltip"
+            },
+            "id": {
+                "curseforge": "511040",
+                "modrinth": "smUP7V3r"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "durabilitytooltip-1.1.6-fabric-mc1.20.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6833/268/durabilitytooltip-1.1.6-fabric-mc1.20.4.jar",
+                    "id": "6833268",
+                    "parent_id": "511040",
+                    "hashes": {
+                        "sha1": "5f330edddd6cf60413f4532c26f9f851db2a102d",
+                        "md5": "d68f7146a433f0186f595c39d5eb41c5"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "438332"
+                    ],
+                    "size": 21282,
+                    "date_published": "2025-07-31T18:01:55.530Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "durabilitytooltip-1.1.6-fabric-mc1.20.4.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/smUP7V3r/versions/FwvzZjWQ/durabilitytooltip-1.1.6-fabric-mc1.20.4.jar",
+                    "id": "FwvzZjWQ",
+                    "parent_id": "smUP7V3r",
+                    "hashes": {
+                        "sha512": "fe918d13a83558874db9b8bf4a269ba1a1b40fb15a47ee5f4c56feb9370a26e2ff485dbcac1001fa57459a09bbb78f395a70ed14439b62596dce6612aa5dc8ff",
+                        "sha1": "5f330edddd6cf60413f4532c26f9f851db2a102d"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "LN9BxssP"
+                    ],
+                    "size": 21282,
+                    "date_published": "2025-07-31T18:01:55.349729Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "rJIFxKjxR4uVvVjT",
             "type": "MOD",
             "side": "BOTH",
@@ -20769,6 +20850,78 @@
                     ],
                     "size": 3303358,
                     "date_published": "2026-04-01T00:04:30.053Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "p3B5b25NcO3LvDI3",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "supermartijn642s-config-lib",
+                "modrinth": "supermartijn642s-config-lib"
+            },
+            "name": {
+                "curseforge": "SuperMartijn642's Config Lib",
+                "modrinth": "SuperMartijn642's Config Lib"
+            },
+            "id": {
+                "curseforge": "438332",
+                "modrinth": "LN9BxssP"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4785/838/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+                    "id": "4785838",
+                    "parent_id": "438332",
+                    "hashes": {
+                        "sha1": "964df96c16afe775efd467b22f24458915805ad8",
+                        "md5": "b8e27e4c98a70e3034774f5b31a3044e"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 207990,
+                    "date_published": "2023-10-07T09:55:21.693Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/Ur02nrUT/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+                    "id": "Ur02nrUT",
+                    "parent_id": "LN9BxssP",
+                    "hashes": {
+                        "sha512": "bccd2d3e55a70c7d4c1aedaa9e85d6d0039e982ebdab40bc2aeba4b27a5112859f7a05c342c3c9575ff5d8ced769d1feffb104ecdd4d19cac8afba9ea2017c52",
+                        "sha1": "964df96c16afe775efd467b22f24458915805ad8"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 207990,
+                    "date_published": "2023-10-07T09:55:26.183207Z"
                 }
             ]
         },
