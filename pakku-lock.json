@@ -6509,6 +6509,80 @@
             ]
         },
         {
+            "pakku_id": "50aiOmlClzkzgyL6",
+            "pakku_links": [
+                "8XXJmG3GCel9lR3Q",
+                "tLXl9sKwxFFIkD6P",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "easy-shulker-boxes",
+                "modrinth": "easy-shulker-boxes"
+            },
+            "name": {
+                "curseforge": "Easy Shulker Boxes",
+                "modrinth": "Easy Shulker Boxes"
+            },
+            "id": {
+                "curseforge": "594006",
+                "modrinth": "gA5euN8S"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5157/56/EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar",
+                    "id": "5157056",
+                    "parent_id": "594006",
+                    "hashes": {
+                        "sha1": "2cdab4e9cddbe73387bce5e7effd29544e0cb0f0",
+                        "md5": "ce884c3d4041b34bf0a77249ebcb9e9c"
+                    },
+                    "required_dependencies": [
+                        "495476",
+                        "547434",
+                        "306612"
+                    ],
+                    "size": 616123,
+                    "date_published": "2024-03-04T12:51:06.127Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gA5euN8S/versions/4lqXxnhw/EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar",
+                    "id": "4lqXxnhw",
+                    "parent_id": "gA5euN8S",
+                    "hashes": {
+                        "sha512": "24c6c9f6ffc7ac456f9056ff0bd2c23e47d40aa4951b297ea711ec7fe062afce0837a4464addf2577be7222e8857443decac1fd63f23246a0c85bd526231e581",
+                        "sha1": "2cdab4e9cddbe73387bce5e7effd29544e0cb0f0"
+                    },
+                    "required_dependencies": [
+                        "ohNO6lps",
+                        "P7dR8mSH",
+                        "QAGBst4M"
+                    ],
+                    "size": 616123,
+                    "date_published": "2024-03-04T12:51:11.030514Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zdArj3wqpRDzG2zf",
             "type": "MOD",
             "side": "CLIENT",
