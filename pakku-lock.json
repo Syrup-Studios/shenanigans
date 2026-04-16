@@ -13869,6 +13869,76 @@
             ]
         },
         {
+            "pakku_id": "c0FkP4Bfb4eCqUYC",
+            "pakku_links": [
+                "4e2jUr6RItZIExwL"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "netherportalfix",
+                "modrinth": "netherportalfix"
+            },
+            "name": {
+                "curseforge": "NetherPortalFix",
+                "modrinth": "NetherPortalFix"
+            },
+            "id": {
+                "curseforge": "241160",
+                "modrinth": "nPZr02ET"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "netherportalfix-fabric-1.20-13.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6203/998/netherportalfix-fabric-1.20-13.0.2.jar",
+                    "id": "6203998",
+                    "parent_id": "241160",
+                    "hashes": {
+                        "sha1": "251c1d4c487589bd97e60f85f1d19c62d5f52b63",
+                        "md5": "96c232af0efa2236ada3f0f261e8cd14"
+                    },
+                    "required_dependencies": [
+                        "500525"
+                    ],
+                    "size": 215534,
+                    "date_published": "2025-02-17T18:22:52.480Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "netherportalfix-fabric-1.20-13.0.2.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/SL5baWpT/netherportalfix-fabric-1.20-13.0.2.jar",
+                    "id": "SL5baWpT",
+                    "parent_id": "nPZr02ET",
+                    "hashes": {
+                        "sha512": "21b3ed4ad098eaaff2cf13248bb9defc285c1c7e90314d2aada9aa7a4276b6f756d63dd633774fdb2920976f66d7902ad9073526ed278677a62a6fc42b340dd8",
+                        "sha1": "cc484ef398aa288dff2d61e732f80ae2a433b3ef"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 215533,
+                    "date_published": "2025-02-17T18:22:48.787509Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fbic2F8GTD0Z0OnU",
             "pakku_links": [
                 "nziiIR5mfr9ev1my",
