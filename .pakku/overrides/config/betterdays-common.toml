@@ -67,7 +67,7 @@
 		#use the baseRandomTickSpeed setting instead of changing the game rule directly.
 		#This effect has a minimum randomTickSpeed of 1 if time speed is less than 1.0.
 		#Allowed Values: NEVER, ALWAYS, SLEEPING
-		randomTickEffect = "NEVER"
+		randomTickEffect = "SLEEPING"
 		#The base random tick speed used by the randomTickEffect time effect.
 		#Range: > 0
 		baseRandomTickSpeed = 3
