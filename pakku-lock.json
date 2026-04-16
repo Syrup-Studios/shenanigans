@@ -2208,6 +2208,153 @@
             ]
         },
         {
+            "pakku_id": "etkxCNU1Yr7dLSAz",
+            "pakku_links": [
+                "etkxCNU1Yr7dLSAz",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cerbons-api",
+                "modrinth": "cerbons-api"
+            },
+            "name": {
+                "curseforge": "CERBON's API [Forge | Fabric | NeoForge]",
+                "modrinth": "CERBON's API"
+            },
+            "id": {
+                "curseforge": "955605",
+                "modrinth": "GkIc6rRo"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CerbonsAPI-Fabric-1.20.1-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5050/79/CerbonsAPI-Fabric-1.20.1-1.1.0.jar",
+                    "id": "5050079",
+                    "parent_id": "955605",
+                    "hashes": {
+                        "sha1": "b02aa8137f6807974b2200eeb0856a9462616a4d",
+                        "md5": "15a67ecb9cb96d20b611dbe1fd1c3804"
+                    },
+                    "required_dependencies": [
+                        "955605",
+                        "306612"
+                    ],
+                    "size": 308944,
+                    "date_published": "2024-01-21T15:48:27.420Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CerbonsAPI-Fabric-1.20.1-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GkIc6rRo/versions/15NpMum1/CerbonsAPI-Fabric-1.20.1-1.1.0.jar",
+                    "id": "15NpMum1",
+                    "parent_id": "GkIc6rRo",
+                    "hashes": {
+                        "sha512": "0b94b6a9fc2361c335cb6e0e9f5779e6aeab1a6d4f75bc6b62a54fb8c15ab24cdced4821648060b33a1a9989aa50cf970b14837a1e008d38cc296281a177a5d1",
+                        "sha1": "b02aa8137f6807974b2200eeb0856a9462616a4d"
+                    },
+                    "required_dependencies": [
+                        "GkIc6rRo",
+                        "P7dR8mSH"
+                    ],
+                    "size": 308944,
+                    "date_published": "2024-01-21T15:48:24.407364Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Vzm2N2e8KiYoicqQ",
+            "pakku_links": [
+                "zJdHaMqgv1dOR3pR",
+                "etkxCNU1Yr7dLSAz",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cerbons-better-beacons",
+                "modrinth": "cerbons-better-beacons"
+            },
+            "name": {
+                "curseforge": "CERBON's Better Beacons [Forge | Fabric | NeoForge]",
+                "modrinth": "CERBON's Better Beacons"
+            },
+            "id": {
+                "curseforge": "921066",
+                "modrinth": "gSeQTNSE"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BetterBeacons-Fabric-1.20.1-2.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5065/760/BetterBeacons-Fabric-1.20.1-2.0.0.jar",
+                    "id": "5065760",
+                    "parent_id": "921066",
+                    "hashes": {
+                        "sha1": "06bb9ab8fda1e37db6061a7cfba754ae1ef8df66",
+                        "md5": "42152b3fa38693a1025f86f164a4a2dc"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "955605",
+                        "306612"
+                    ],
+                    "size": 429753,
+                    "date_published": "2024-01-28T19:56:33.463Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BetterBeacons-Fabric-1.20.1-2.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/gSeQTNSE/versions/a45FQ0tG/BetterBeacons-Fabric-1.20.1-2.0.0.jar",
+                    "id": "a45FQ0tG",
+                    "parent_id": "gSeQTNSE",
+                    "hashes": {
+                        "sha512": "69d58a5dbfac89b586c8d98564064970905130bc46d9874749c02fcbf366ce2e2297a3629e8a1b6e08925d93b1d4187e56309625cde53060965f1c0bdf977394",
+                        "sha1": "06bb9ab8fda1e37db6061a7cfba754ae1ef8df66"
+                    },
+                    "required_dependencies": [
+                        "GkIc6rRo",
+                        "9s6osm5g",
+                        "P7dR8mSH"
+                    ],
+                    "size": 429753,
+                    "date_published": "2024-01-28T19:56:28.657720Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "vWZncBGw8BhKjUnx",
             "type": "MOD",
             "side": "BOTH",
