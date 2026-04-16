@@ -3260,6 +3260,75 @@
             ]
         },
         {
+            "pakku_id": "j9uKkCm04PpupT0R",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "comfortable-campfires",
+                "modrinth": "comfortable-campfires"
+            },
+            "name": {
+                "curseforge": "Comfortable Campfires",
+                "modrinth": "Comfortable Campfires"
+            },
+            "id": {
+                "curseforge": "1172718",
+                "modrinth": "lOZBoyio"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "comfortable_campfires-2.0.1+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7678/510/comfortable_campfires-2.0.1+1.20.1-fabric.jar",
+                    "id": "7678510",
+                    "parent_id": "1172718",
+                    "hashes": {
+                        "sha1": "cd46ac7750b6aecb2110429e04cbb755137f59cd",
+                        "md5": "cef4798729ccb26d71e79059c307fba1"
+                    },
+                    "required_dependencies": [],
+                    "size": 322418,
+                    "date_published": "2026-02-25T21:36:19.067Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "comfortable_campfires-2.0.1+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lOZBoyio/versions/z2sKTaR4/comfortable_campfires-2.0.1+1.20.1-fabric.jar",
+                    "id": "z2sKTaR4",
+                    "parent_id": "lOZBoyio",
+                    "hashes": {
+                        "sha512": "6beeb1869c4c4f6829c65da559dd9c7af97b69453e108b0fbbd8a4894d16f34cb71e97fd32cb53d31cf0ca0f73c62e240d4c97df66a5a3b631b9ac1ebcbeb58b",
+                        "sha1": "cd46ac7750b6aecb2110429e04cbb755137f59cd"
+                    },
+                    "required_dependencies": [],
+                    "size": 322418,
+                    "date_published": "2026-02-25T21:35:49.686287Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "u742i0R1iF3NVORt",
             "type": "MOD",
             "side": "BOTH",
