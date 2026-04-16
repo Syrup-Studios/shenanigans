@@ -8106,6 +8106,83 @@
             ]
         },
         {
+            "pakku_id": "fDZhhIweVH833kCB",
+            "pakku_links": [
+                "HRXoJC9K1dHCKlrs"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fast-scrolling",
+                "modrinth": "fast-scrolling"
+            },
+            "name": {
+                "curseforge": "Fast Scrolling",
+                "modrinth": "Fast Scrolling"
+            },
+            "id": {
+                "curseforge": "701437",
+                "modrinth": "JZKbCCSk"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "FastScrolling-2.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5601/879/FastScrolling-2.0.1.jar",
+                    "id": "5601879",
+                    "parent_id": "701437",
+                    "hashes": {
+                        "sha1": "9bf623e6bdab123daa9400a09315949cb87d3b7f",
+                        "md5": "2b17a1f8aa41d53d9712cb3c8f13f173"
+                    },
+                    "required_dependencies": [
+                        "549404",
+                        "303657"
+                    ],
+                    "size": 1381,
+                    "date_published": "2024-08-06T14:42:28.993Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "FastScrolling-2.0.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JZKbCCSk/versions/3SSvWbqw/FastScrolling-2.0.1.jar",
+                    "id": "3SSvWbqw",
+                    "parent_id": "JZKbCCSk",
+                    "hashes": {
+                        "sha512": "43348a43b2e6bc98446b5b3ec499f4d7831b840ef1f2905da6817fbba132bd01cd4914ccbd86514c1439f483f8d3e81dedac864e64902b21972931763bac1afe",
+                        "sha1": "9bf623e6bdab123daa9400a09315949cb87d3b7f"
+                    },
+                    "required_dependencies": [
+                        "ufdDoWPd"
+                    ],
+                    "size": 1381,
+                    "date_published": "2024-08-06T14:51:33.145571Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "mWK1Z9lwnWofId8o",
             "type": "MOD",
             "side": "CLIENT",
@@ -11194,6 +11271,49 @@
                     ],
                     "size": 16312,
                     "date_published": "2022-11-17T22:59:33.608897Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "HRXoJC9K1dHCKlrs",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "kiwi-fabric"
+            },
+            "name": {
+                "curseforge": "Kiwi 🥝 (Fabric)"
+            },
+            "id": {
+                "curseforge": "549404"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Kiwi-1.20.1-Fabric-11.10.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7514/252/Kiwi-1.20.1-Fabric-11.10.2.jar",
+                    "id": "7514252",
+                    "parent_id": "549404",
+                    "hashes": {
+                        "sha1": "2609b9d0396112bd695c9ecc97f0bdb19b64a16b",
+                        "md5": "a7d1376b610c946e691ae8d779ab21a6"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1548893,
+                    "date_published": "2026-01-23T22:37:16.467Z"
                 }
             ]
         },
