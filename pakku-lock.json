@@ -5401,6 +5401,73 @@
             ]
         },
         {
+            "pakku_id": "NhmAOxmGnYmvLNq4",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "death-knell",
+                "modrinth": "death-knell"
+            },
+            "name": {
+                "curseforge": "Death Knell",
+                "modrinth": "Death Knell"
+            },
+            "id": {
+                "curseforge": "538316",
+                "modrinth": "WNdd2blX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DeathKnell-Fabric-1.20.1-10.0.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7612/529/DeathKnell-Fabric-1.20.1-10.0.6.jar",
+                    "id": "7612529",
+                    "parent_id": "538316",
+                    "hashes": {
+                        "sha1": "0c6cddf9e4962614875de5906e76b78b4594eb48",
+                        "md5": "dca38781d5d617409deb81bcc49cfb41"
+                    },
+                    "required_dependencies": [],
+                    "size": 21195,
+                    "date_published": "2026-02-12T02:52:04.893Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "DeathKnell-Fabric-1.20.1-10.0.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WNdd2blX/versions/gqNeSd9T/DeathKnell-Fabric-1.20.1-10.0.6.jar",
+                    "id": "gqNeSd9T",
+                    "parent_id": "WNdd2blX",
+                    "hashes": {
+                        "sha512": "42e61aad345b333f24fff8e260d46c66f1214c5ef6805be03b75b3857b7c55f480dc14dc25f997a1f27bdd13653d17b3007d4cd1f64b953b699841f30387d962",
+                        "sha1": "0c6cddf9e4962614875de5906e76b78b4594eb48"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 21195,
+                    "date_published": "2026-02-12T02:52:08.413598Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "aEvIyRWdssODyHg7",
             "type": "MOD",
             "side": "BOTH",
