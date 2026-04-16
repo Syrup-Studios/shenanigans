@@ -9435,6 +9435,98 @@
             ]
         },
         {
+            "pakku_id": "dYONU9LAPfSDCjDj",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "horse-stonks",
+                "modrinth": "horse-stonks"
+            },
+            "name": {
+                "curseforge": "Horse Stonks [Fabric/Forge]",
+                "modrinth": "Horse Stonks"
+            },
+            "id": {
+                "curseforge": "497378",
+                "modrinth": "Vj70oKlA"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "horse-stonks-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/3781/155/horse-stonks-1.0.1.jar",
+                    "id": "3781155",
+                    "parent_id": "497378",
+                    "hashes": {
+                        "sha1": "6b24fa888ef741f19b7d06b4bc9b36d91f20f921",
+                        "md5": "7bd0f94f8c73c9be570b11390e6320b5"
+                    },
+                    "required_dependencies": [],
+                    "size": 14126,
+                    "date_published": "2022-05-05T19:59:24.117Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "horse-stonks-1.0.1.jar",
+                    "mc_versions": [
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Vj70oKlA/versions/1.0.1/horse-stonks-1.0.1.jar",
+                    "id": "XBg4RmNj",
+                    "parent_id": "Vj70oKlA",
+                    "hashes": {
+                        "sha512": "8a5bff1be5364f6f56882e48e61c49f1bd0c7383a2917243759f5135448f84e38e0b9d01350bbb6b3cc067b2c9eea334d1c8cab07b6f4909cfa932fbac120219",
+                        "sha1": "6b24fa888ef741f19b7d06b4bc9b36d91f20f921"
+                    },
+                    "required_dependencies": [],
+                    "size": 14126,
+                    "date_published": "2022-05-05T20:03:14.586859Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5ioXrwY0DlMgrqTw",
             "type": "MOD",
             "side": "CLIENT",
