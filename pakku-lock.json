@@ -2491,6 +2491,70 @@
             ]
         },
         {
+            "pakku_id": "LcShDYqkFgjfYXm1",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "cardinal-components-api",
+                "modrinth": "cardinal-components-api"
+            },
+            "name": {
+                "curseforge": "Cardinal Components API",
+                "modrinth": "Cardinal Components API"
+            },
+            "id": {
+                "curseforge": "318449",
+                "modrinth": "K01OU20C"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cardinal-components-api-5.2.3.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6064/429/cardinal-components-api-5.2.3.jar",
+                    "id": "6064429",
+                    "parent_id": "318449",
+                    "hashes": {
+                        "sha1": "d0d687d8fc3f367bf696fa0059bccdf0591c51f4",
+                        "md5": "b902397d35fbbf6df232f46fb483024a"
+                    },
+                    "required_dependencies": [],
+                    "size": 228709,
+                    "date_published": "2025-01-08T01:33:51.737Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cardinal-components-api-5.2.3.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/K01OU20C/versions/Ielhod3p/cardinal-components-api-5.2.3.jar",
+                    "id": "Ielhod3p",
+                    "parent_id": "K01OU20C",
+                    "hashes": {
+                        "sha512": "f20484d5bc780bee9b388ff6075e7c3bd130c7f8cae75a425bfd1fb68d03ca19288c09b0729992987fd32f3a2433b49c25162e086de82abd8d06ee45e4e3c917",
+                        "sha1": "d0d687d8fc3f367bf696fa0059bccdf0591c51f4"
+                    },
+                    "required_dependencies": [],
+                    "size": 228709,
+                    "date_published": "2025-01-08T01:34:02.528276Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "A1k209otdJJNYjmV",
             "type": "MOD",
             "side": "BOTH",
@@ -13464,6 +13528,79 @@
                     ],
                     "size": 769476,
                     "date_published": "2025-09-24T15:53:22.903Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "frtZ6eXEWSZutXjs",
+            "pakku_links": [
+                "LcShDYqkFgjfYXm1",
+                "VeVpUVJ9hZfIh70m",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "map-atlases",
+                "modrinth": "map-atlases"
+            },
+            "name": {
+                "curseforge": "Map Atlases [Fabric]",
+                "modrinth": "Map Atlases"
+            },
+            "id": {
+                "curseforge": "436298",
+                "modrinth": "C255PPUX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "map_atlases-1.20-6.0.19-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7660/143/map_atlases-1.20-6.0.19-fabric.jar",
+                    "id": "7660143",
+                    "parent_id": "436298",
+                    "hashes": {
+                        "sha1": "8d3652c7865c86fd8bfc8356880b609ce6ec9054",
+                        "md5": "1042848b7939ef544bffe15b116c336f"
+                    },
+                    "required_dependencies": [
+                        "318449",
+                        "499980",
+                        "306612"
+                    ],
+                    "size": 731422,
+                    "date_published": "2026-02-21T21:10:46.177Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "map_atlases-1.20-6.0.19-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/C255PPUX/versions/m9xLqiR9/map_atlases-1.20-6.0.19-fabric.jar",
+                    "id": "m9xLqiR9",
+                    "parent_id": "C255PPUX",
+                    "hashes": {
+                        "sha512": "0cff0932fd8ea8b92070f5f853477409a0317d0d5c45af4d0ccf171aa511b9c997df6108a9659bebfb97b7f32090fe39d7a63470cddefc6a54cc045850e61d30",
+                        "sha1": "8d3652c7865c86fd8bfc8356880b609ce6ec9054"
+                    },
+                    "required_dependencies": [
+                        "twkfQtEc",
+                        "P7dR8mSH"
+                    ],
+                    "size": 731422,
+                    "date_published": "2026-02-21T21:10:52.196266Z"
                 }
             ]
         },
