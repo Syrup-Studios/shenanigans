@@ -16057,31 +16057,8 @@
             "redistributable": false,
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "OnlyHammersAndExcavators-1.20.1-0.4.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7250/527/OnlyHammersAndExcavators-1.20.1-0.4.jar",
-                    "id": "7250527",
-                    "parent_id": "939215",
-                    "hashes": {
-                        "sha1": "cc6bca75b6a20ca9429dee90a8049bbe7d7d4db2",
-                        "md5": "85121f70dfca731b60100f5a84a7926b"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 110656,
-                    "date_published": "2025-11-22T20:03:44.417Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "OnlyHammersAndExcavators-1.20.1-0.4.jar",
+                    "file_name": "OnlyHammersAndExcavators-1.20.1-0.5.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -16089,18 +16066,41 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OwtcCsNI/versions/Yk64J738/OnlyHammersAndExcavators-1.20.1-0.4.jar",
-                    "id": "Yk64J738",
+                    "url": "https://cdn.modrinth.com/data/OwtcCsNI/versions/W4VuoO06/OnlyHammersAndExcavators-1.20.1-0.5.jar",
+                    "id": "W4VuoO06",
                     "parent_id": "OwtcCsNI",
                     "hashes": {
-                        "sha512": "71656d0563009aaef1880a2a6b0f130c1e2f41818a16840e42b47cee89713bfa1f56062dd46e32e5bede70c7b9cca942a84bf5ce26359e34a459906e5f3c7952",
-                        "sha1": "cc6bca75b6a20ca9429dee90a8049bbe7d7d4db2"
+                        "sha512": "94dff489503759cdc13d22f5e6722712919091bc00939ab9d71b76850c0c4663456c84b9262f4c0dce93c90269fd7e7d777b694f4ca48648801b4e1115ba8aad",
+                        "sha1": "c5c018c71cfadce7099b683f2228279b9af64c91"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 110656,
-                    "date_published": "2025-11-22T20:03:44.383534Z"
+                    "size": 112441,
+                    "date_published": "2026-04-07T19:17:19.384769Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "OnlyHammersAndExcavators-1.20.1-0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7891/515/OnlyHammersAndExcavators-1.20.1-0.5.jar",
+                    "id": "7891515",
+                    "parent_id": "939215",
+                    "hashes": {
+                        "sha1": "c5c018c71cfadce7099b683f2228279b9af64c91",
+                        "md5": "5e060e7616e793388bdb8632211280a3"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 112441,
+                    "date_published": "2026-04-07T19:17:19.857Z"
                 }
             ]
         },
