@@ -7724,7 +7724,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "everycomp-1.20-2.9.19-fabric.jar",
+                    "file_name": "everycomp-1.20-2.9.20-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7732,19 +7732,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/E2jhPX76/everycomp-1.20-2.9.19-fabric.jar",
-                    "id": "E2jhPX76",
+                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/eKKOPxRC/everycomp-1.20-2.9.20-fabric.jar",
+                    "id": "eKKOPxRC",
                     "parent_id": "eiktJyw1",
                     "hashes": {
-                        "sha512": "f32bf9e438f6a425d81a8450f6d1b892facb9bb78f1a4b0b0d06c47813ea2c2d15a4de3bf1e14893571afc2e6912f21673b166c706f80eec19d70815b713a055",
-                        "sha1": "f47f4a8b719c86c657a24d621de8c157ef7810a9"
+                        "sha512": "44c396e99cfbc6327c894a5c0b0350e3e1f30e1d15017e110b3209a38adcb9a958edd722ca7139797609c0525b8826d72268af64826ea55ce10dd25b22767a15",
+                        "sha1": "e59714e5c8a880e356ed772314118c8b496067c1"
                     },
                     "required_dependencies": [
-                        "P7dR8mSH",
-                        "twkfQtEc"
+                        "twkfQtEc",
+                        "P7dR8mSH"
                     ],
-                    "size": 2640578,
-                    "date_published": "2026-04-02T08:00:08.222020Z"
+                    "size": 2641016,
+                    "date_published": "2026-04-15T05:04:30.099640Z"
                 },
                 {
                     "type": "curseforge",
