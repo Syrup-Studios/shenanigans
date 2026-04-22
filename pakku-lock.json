@@ -8189,7 +8189,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+                    "file_name": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
                     "mc_versions": [
                         "1.14",
                         "1.14.1",
@@ -8233,26 +8233,29 @@
                         "1.21.8",
                         "1.21.9",
                         "1.21.10",
-                        "1.21.11"
+                        "1.21.11",
+                        "26.1",
+                        "26.1.1",
+                        "26.1.2"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/ViT4gucI/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
-                    "id": "ViT4gucI",
+                    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/21TRTKmh/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+                    "id": "21TRTKmh",
                     "parent_id": "Ha28R6CL",
                     "hashes": {
-                        "sha512": "498672ee88cf703685026e74f82a85e30d980c62a1c8cc14744cb73add09a857db8d585b405e19f558ec490613642750eb00e09d8ef5a3c9578bc52b53568d51",
-                        "sha1": "20b2200961e11994595ebb2d5f6624f232d13751"
+                        "sha512": "e4eaf7594de08eb4f3ea8af2e939f3ee61d07597afb4d5f420c3fbadcb381c7bbad4b1afd5919b3087b73ed9636fb018b1c978858a112bd4f6acdcb42e9eedaa",
+                        "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb"
                     },
                     "required_dependencies": [],
-                    "size": 7642216,
-                    "date_published": "2026-02-06T09:24:24.664865Z"
+                    "size": 7796348,
+                    "date_published": "2026-03-26T08:54:12.652592Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+                    "file_name": "fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
                     "mc_versions": [
                         "1.20.2",
                         "1.20.5",
@@ -8266,16 +8269,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7583/523/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
-                    "id": "7583523",
+                    "url": "https://edge.forgecdn.net/files/7815/918/fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar",
+                    "id": "7815918",
                     "parent_id": "308769",
                     "hashes": {
-                        "sha1": "20b2200961e11994595ebb2d5f6624f232d13751",
-                        "md5": "5a82c29fbbfdd3acbb9da9229ae0e32d"
+                        "sha1": "9873294abf498f509453d37b0a5ba019f4570ffb",
+                        "md5": "ab31a7c6fdfeb7f5dca011dcfa88ff08"
                     },
                     "required_dependencies": [],
-                    "size": 7642216,
-                    "date_published": "2026-02-06T09:24:21.213Z"
+                    "size": 7796348,
+                    "date_published": "2026-03-26T08:54:11.307Z"
                 }
             ]
         },
