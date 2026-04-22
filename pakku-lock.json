@@ -10225,7 +10225,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "hexalia-1.2.82-1.20.1+fabric.jar",
+                    "file_name": "hexalia-1.3.1-1.20.1+fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -10233,22 +10233,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/bkz5C0dQ/versions/pvyjH3Rg/hexalia-1.2.82-1.20.1+fabric.jar",
-                    "id": "pvyjH3Rg",
+                    "url": "https://cdn.modrinth.com/data/bkz5C0dQ/versions/y6jMw87L/hexalia-1.3.1-1.20.1+fabric.jar",
+                    "id": "y6jMw87L",
                     "parent_id": "bkz5C0dQ",
                     "hashes": {
-                        "sha512": "5172b101e7faf862b8de6aa0b1709027236e7882577a7bc55cdeafb712ddfff52103edd442bd59c9f8ab3a45c7aa339900febe243780479beffe45daa3d68b19",
-                        "sha1": "7420db3d65b2bf3c702e88ede47e44f4c3dfdab0"
+                        "sha512": "383f672a62314af58b5b48d37c3b91a9e5c952bd0389721da4432135d0cbcb36ba0b0a844fbf7b27716a7da978b652837c5c7d9f9791620e63d69223360ecb79",
+                        "sha1": "7112bdf6becc4b00ce5f1f93d9522d5243337ae1"
                     },
-                    "required_dependencies": [
-                        "8BmcQJ2H"
-                    ],
-                    "size": 1407726,
-                    "date_published": "2025-11-19T23:13:48.377716Z"
+                    "required_dependencies": [],
+                    "size": 1921634,
+                    "date_published": "2026-04-21T12:42:15.692863Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "hexalia-1.2.82-1.20.1+fabric.jar",
+                    "file_name": "hexalia-1.3.1-1.20.1+fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -10256,18 +10254,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7240/531/hexalia-1.2.82-1.20.1+fabric.jar",
-                    "id": "7240531",
+                    "url": "https://edge.forgecdn.net/files/7960/679/hexalia-1.3.1-1.20.1+fabric.jar",
+                    "id": "7960679",
                     "parent_id": "962878",
                     "hashes": {
-                        "sha1": "7420db3d65b2bf3c702e88ede47e44f4c3dfdab0",
-                        "md5": "f6111b349694574db961699eb17eeaec"
+                        "sha1": "7112bdf6becc4b00ce5f1f93d9522d5243337ae1",
+                        "md5": "7e61d3617875861f42090970e77e02e8"
                     },
                     "required_dependencies": [
                         "388172"
                     ],
-                    "size": 1407726,
-                    "date_published": "2025-11-19T23:05:10.560Z"
+                    "size": 1921634,
+                    "date_published": "2026-04-21T12:39:43.273Z"
                 }
             ]
         },
