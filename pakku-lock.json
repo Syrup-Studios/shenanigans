@@ -3459,29 +3459,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7397/575/colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar",
-                    "id": "7397575",
-                    "parent_id": "1285475",
-                    "hashes": {
-                        "sha1": "edea4ba488f796c59656342a1073843ea0982f4b",
-                        "md5": "7033cc889e3bffe87b02e2eb67e171cc"
-                    },
-                    "required_dependencies": [],
-                    "size": 206913,
-                    "date_published": "2025-12-30T19:53:17.740Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar",
+                    "file_name": "colorwheel_patcher-fabric-1.0.5+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3489,16 +3468,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/KPsw5jDu/versions/DVaZpyHc/colorwheel_patcher-fabric-1.0.4+mc1.20.1.jar",
-                    "id": "DVaZpyHc",
+                    "url": "https://cdn.modrinth.com/data/KPsw5jDu/versions/Y2YtN7G7/colorwheel_patcher-fabric-1.0.5+mc1.20.1.jar",
+                    "id": "Y2YtN7G7",
                     "parent_id": "KPsw5jDu",
                     "hashes": {
-                        "sha512": "3c155408363708a2d70df30e9890a627d1133755c9995a2b5603429958ba4e6c0e50fcc1c9f13ac925a05f5fd621440f7f923c08615efc749c346d5009258e69",
-                        "sha1": "edea4ba488f796c59656342a1073843ea0982f4b"
+                        "sha512": "f1de05067d215e3f6e388f17e2f21628e79eaae1aa417e59295ddee73273f3120a01654971c553045dafa68525b4fe5ba7325faadccf6b21843022c6e51053d9",
+                        "sha1": "7476a6e3670e3490a43e343c3be77752e86337c5"
                     },
                     "required_dependencies": [],
-                    "size": 206913,
-                    "date_published": "2025-12-30T19:53:19.061305Z"
+                    "size": 210711,
+                    "date_published": "2026-04-14T09:29:22.296331Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "colorwheel_patcher-fabric-1.0.5+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7924/939/colorwheel_patcher-fabric-1.0.5+mc1.20.1.jar",
+                    "id": "7924939",
+                    "parent_id": "1285475",
+                    "hashes": {
+                        "sha1": "7476a6e3670e3490a43e343c3be77752e86337c5",
+                        "md5": "d686758678106b76e24865411227a19c"
+                    },
+                    "required_dependencies": [],
+                    "size": 210711,
+                    "date_published": "2026-04-14T09:29:21.130Z"
                 }
             ]
         },
