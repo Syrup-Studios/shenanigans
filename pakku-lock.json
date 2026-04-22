@@ -11713,7 +11713,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "jei-1.20.1-fabric-15.20.0.129.jar",
+                    "file_name": "jei-1.20.1-fabric-15.20.0.130.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -11721,20 +11721,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/wbPLxn0B/jei-1.20.1-fabric-15.20.0.129.jar",
-                    "id": "wbPLxn0B",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/46OW9urw/jei-1.20.1-fabric-15.20.0.130.jar",
+                    "id": "46OW9urw",
                     "parent_id": "u6dRKJwZ",
                     "hashes": {
-                        "sha512": "c236643fec7dab72a68d772c0739bc95e2b8b59dbe082b68cafac5457bfd0e87f611fef9b7e973dbe377d6dd76b538327da2a595183b2a3808cc5fe0006cef0f",
-                        "sha1": "5f3633e768fabe6a9a99d1fb536b730f7c038b04"
+                        "sha512": "b054ba08c4a04690c97f265a5b480443acae0f68352c7eeaaa438e3abe183b620001130b6580fdbbee90f66c6d0dd306311a887579cfd7d66a17f1442d593b86",
+                        "sha1": "3a39a843fba06b51f56094750770503f613a2731"
                     },
                     "required_dependencies": [],
-                    "size": 1422496,
-                    "date_published": "2025-12-29T08:42:58.267993Z"
+                    "size": 1422556,
+                    "date_published": "2026-04-13T13:50:11.329516Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "jei-1.20.1-fabric-15.20.0.129.jar",
+                    "file_name": "jei-1.20.1-fabric-15.20.0.130.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -11742,16 +11742,16 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7391/694/jei-1.20.1-fabric-15.20.0.129.jar",
-                    "id": "7391694",
+                    "url": "https://edge.forgecdn.net/files/7920/913/jei-1.20.1-fabric-15.20.0.130.jar",
+                    "id": "7920913",
                     "parent_id": "238222",
                     "hashes": {
-                        "sha1": "5f3633e768fabe6a9a99d1fb536b730f7c038b04",
-                        "md5": "671230c2f0a89f79a22a99b4c1d1b0e1"
+                        "sha1": "3a39a843fba06b51f56094750770503f613a2731",
+                        "md5": "91ebdab534cf3367291f08d8f680fea8"
                     },
                     "required_dependencies": [],
-                    "size": 1422496,
-                    "date_published": "2025-12-29T08:42:45.477Z"
+                    "size": 1422556,
+                    "date_published": "2026-04-13T13:49:57.293Z"
                 }
             ]
         },
