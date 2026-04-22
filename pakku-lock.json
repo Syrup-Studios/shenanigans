@@ -19115,7 +19115,7 @@
                         "1.21.9",
                         "1.21.10",
                         "1.21.11",
-                        "26.1"
+                        "26.1.2"
                     ],
                     "loaders": [
                         "fabric",
@@ -21259,7 +21259,11 @@
             ]
         },
         {
-            "pakku_id": "72UoggUfvmqYohlj",
+            "pakku_id": "t7Rnr46vnc1Ez0bt",
+            "pakku_links": [
+                "kglsrucrv4VkaVwv",
+                "RjGdALOn8S9NpH6I"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -21277,32 +21281,8 @@
             "redistributable": false,
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/CJxCjYt8/SubtleEffects-fabric-1.20.1-1.14.2.jar",
-                    "id": "CJxCjYt8",
-                    "parent_id": "4q8UOK1d",
-                    "hashes": {
-                        "sha512": "1f33bc28ec74fd0b39445c1b904021d50a4cabc49a85392f225296dc8bef10589ae6ff19bae22b8ef5f1c9af904d88ae2868da271663bb31e942146c27283ec7",
-                        "sha1": "7c73fbc7755011630f5004698d386b3b9d21729a"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "hYykXjDp"
-                    ],
-                    "size": 3340613,
-                    "date_published": "2026-04-21T04:45:59.051506Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.2.jar",
+                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21310,19 +21290,43 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7959/248/SubtleEffects-fabric-1.20.1-1.14.2.jar",
-                    "id": "7959248",
+                    "url": "https://edge.forgecdn.net/files/7853/624/SubtleEffects-fabric-1.20.1-1.14.1.jar",
+                    "id": "7853624",
                     "parent_id": "1023913",
                     "hashes": {
-                        "sha1": "7c73fbc7755011630f5004698d386b3b9d21729a",
-                        "md5": "925116905011d1766b3831167e8383c8"
+                        "sha1": "00f613c69fe45a3c513db4c7c150c2698638189f",
+                        "md5": "46e273a0ecbb5022c159606b076522a7"
                     },
                     "required_dependencies": [
                         "1005914",
                         "306612"
                     ],
-                    "size": 3340613,
-                    "date_published": "2026-04-21T04:38:51.307Z"
+                    "size": 3303358,
+                    "date_published": "2026-04-01T00:04:30.053Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "SubtleEffects-fabric-1.20.1-1.14.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4q8UOK1d/versions/YeUdmceu/SubtleEffects-fabric-1.20.1-1.14.1.jar",
+                    "id": "YeUdmceu",
+                    "parent_id": "4q8UOK1d",
+                    "hashes": {
+                        "sha512": "fef196815aa15e675d39282ee33d07e80478cd358ea67860dd3fe09cf8b9a0267fdcc5e2b74f40ba8b17f2547110662b29cc8b27b0c1d7002a163a7810024530",
+                        "sha1": "00f613c69fe45a3c513db4c7c150c2698638189f"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "hYykXjDp"
+                    ],
+                    "size": 3303358,
+                    "date_published": "2026-04-01T00:12:30.150911Z"
                 }
             ]
         },
