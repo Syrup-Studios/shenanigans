@@ -9045,7 +9045,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fetzisdisplays-fabric-1.0.1-1.20.1.jar",
+                    "file_name": "fetzisdisplays-fabric-1.1.0-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9053,22 +9053,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NeiloyHm/versions/4t1JxJ9O/fetzisdisplays-fabric-1.0.1-1.20.1.jar",
-                    "id": "4t1JxJ9O",
+                    "url": "https://cdn.modrinth.com/data/NeiloyHm/versions/KZvvCG9s/fetzisdisplays-fabric-1.1.0-1.20.1.jar",
+                    "id": "KZvvCG9s",
                     "parent_id": "NeiloyHm",
                     "hashes": {
-                        "sha512": "6d10a3f1c94ed91f036f5042609475a36680c11a3f365358b7aa63b8fad233dddaeab0f1afda0250887e09c301b59ca83aac21effe47e8d6a0b5ff4beece8726",
-                        "sha1": "0e979f87efc6417d7ea3b22ec0cca91c13c755eb"
+                        "sha512": "7aa7aa48781726e3d50b559c990761e24e5acdea03e142211f1cd58f6e3c0d889a3703cff13552c273f8363f7f53969408ec8c6ad5eccb898d6c8db9817d8d8a",
+                        "sha1": "bd99367a029c32b61de1274328779600cb02322f"
                     },
-                    "required_dependencies": [
-                        "lhGA9TYQ"
-                    ],
-                    "size": 1296914,
-                    "date_published": "2025-08-25T09:04:11.873059Z"
+                    "required_dependencies": [],
+                    "size": 1358776,
+                    "date_published": "2026-04-20T15:28:53.079420Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fetzisdisplays-fabric-1.0.1-1.20.1.jar",
+                    "file_name": "fetzisdisplays-fabric-1.1.0-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9076,18 +9074,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6926/0/fetzisdisplays-fabric-1.0.1-1.20.1.jar",
-                    "id": "6926000",
+                    "url": "https://edge.forgecdn.net/files/7956/555/fetzisdisplays-fabric-1.1.0-1.20.1.jar",
+                    "id": "7956555",
                     "parent_id": "1257994",
                     "hashes": {
-                        "sha1": "0e979f87efc6417d7ea3b22ec0cca91c13c755eb",
-                        "md5": "593a7b0dcfb18ca6aa2147f96992361a"
+                        "sha1": "bd99367a029c32b61de1274328779600cb02322f",
+                        "md5": "383b2dd67d484fe6c733c4ecc06a838c"
                     },
                     "required_dependencies": [
                         "419699"
                     ],
-                    "size": 1296914,
-                    "date_published": "2025-08-25T09:05:30.700Z"
+                    "size": 1358776,
+                    "date_published": "2026-04-20T15:26:33.920Z"
                 }
             ]
         },
