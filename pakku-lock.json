@@ -15646,7 +15646,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "notenoughanimations-fabric-1.12.0-mc1.20.1.jar",
+                    "file_name": "notenoughanimations-fabric-1.12.2-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -15654,22 +15654,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/GfmInMgJ/notenoughanimations-fabric-1.12.0-mc1.20.1.jar",
-                    "id": "GfmInMgJ",
+                    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/itzOtil4/notenoughanimations-fabric-1.12.2-mc1.20.1.jar",
+                    "id": "itzOtil4",
                     "parent_id": "MPCX6s5C",
                     "hashes": {
-                        "sha512": "15a04dedda7c28348d63b2b996c7b34c909aeb3ebf7bc4732e7b239cba7b33aad5a583931c4d998be306804d46172ca727a46250889e7f4021b449b6be67946d",
-                        "sha1": "7d03123b68db4b03c33cd20ed1ac4ef22c4c66cf"
+                        "sha512": "ada68451100b66c65d3de62ed95cf09f2ec410a2fee51929702f83daf72f8b006d6e47851512261a1b1a3d0a872be39e5e5d8e01eb969d9b117a11a4d53cc469",
+                        "sha1": "d8b21318f9d8781be749e2f13022356097d2c50d"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1927789,
-                    "date_published": "2026-03-26T20:02:59.308448Z"
+                    "size": 1928340,
+                    "date_published": "2026-04-14T21:52:34.238126Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "notenoughanimations-fabric-1.12.0-mc1.20.1.jar",
+                    "file_name": "notenoughanimations-fabric-1.12.2-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -15677,18 +15677,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7818/947/notenoughanimations-fabric-1.12.0-mc1.20.1.jar",
-                    "id": "7818947",
+                    "url": "https://edge.forgecdn.net/files/7927/744/notenoughanimations-fabric-1.12.2-mc1.20.1.jar",
+                    "id": "7927744",
                     "parent_id": "433760",
                     "hashes": {
-                        "sha1": "7d03123b68db4b03c33cd20ed1ac4ef22c4c66cf",
-                        "md5": "cbb11a21a1584bf0c97deb9ed216f0c6"
+                        "sha1": "d8b21318f9d8781be749e2f13022356097d2c50d",
+                        "md5": "1292886c9a4da1b45cd320841c944fb8"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 1927789,
-                    "date_published": "2026-03-26T20:02:58.060Z"
+                    "size": 1928340,
+                    "date_published": "2026-04-14T21:52:33.303Z"
                 }
             ]
         },
