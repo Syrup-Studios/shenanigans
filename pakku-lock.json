@@ -7857,7 +7857,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+                    "file_name": "ExplorersCompass-1.20.1-2.6.0-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7865,20 +7865,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/9ntdShFb/ExplorersCompass-1.20.1-2.2.3-fabric.jar",
-                    "id": "9ntdShFb",
+                    "url": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/qD2j03H6/ExplorersCompass-1.20.1-2.6.0-fabric.jar",
+                    "id": "qD2j03H6",
                     "parent_id": "RV1qfVQ8",
                     "hashes": {
-                        "sha512": "c8aa25fd1567a24ebfee6d187f306961e63b64b498613e43838f88d08bbe7522db0ed8cc1c75fd2a2baa0701fe5d550d5f609f388596a60f143fa0e1d10a8113",
-                        "sha1": "65a0f6e2f7253d325696766342956a6c94b9cfc6"
+                        "sha512": "91679584c85dc4583996bb47202bbaaf93abf9678526d8a4360ae7b8c708508dfe5abc5cefc26f63a4211fef80d2aa8005bc97a244690e78f903e11a035d4161",
+                        "sha1": "b24709f8ac486a5107532a9f572cefcf28298598"
                     },
                     "required_dependencies": [],
-                    "size": 168187,
-                    "date_published": "2023-09-15T23:13:09.892166Z"
+                    "size": 179781,
+                    "date_published": "2026-04-08T01:42:45.881714Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+                    "file_name": "ExplorersCompass-1.20.1-2.6.0-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -7886,16 +7886,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4712/192/ExplorersCompass-1.20.1-2.2.3-fabric.jar",
-                    "id": "4712192",
+                    "url": "https://edge.forgecdn.net/files/7892/929/ExplorersCompass-1.20.1-2.6.0-fabric.jar",
+                    "id": "7892929",
                     "parent_id": "491794",
                     "hashes": {
-                        "sha1": "65a0f6e2f7253d325696766342956a6c94b9cfc6",
-                        "md5": "317f8a883e97b969d0c567cf9ad06722"
+                        "sha1": "b24709f8ac486a5107532a9f572cefcf28298598",
+                        "md5": "46ffec6fe0866cc4b4db79da55669d1d"
                     },
                     "required_dependencies": [],
-                    "size": 168187,
-                    "date_published": "2023-08-19T14:01:34.503Z"
+                    "size": 179781,
+                    "date_published": "2026-04-08T01:31:55.257Z"
                 }
             ]
         },
