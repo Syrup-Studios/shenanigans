@@ -14715,7 +14715,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "NaturesCompass-1.20.1-2.2.3-fabric.jar",
+                    "file_name": "NaturesCompass-1.20.1-2.6.0-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14723,20 +14723,20 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/NovIXDxY/NaturesCompass-1.20.1-2.2.3-fabric.jar",
-                    "id": "NovIXDxY",
+                    "url": "https://cdn.modrinth.com/data/fPetb5Kh/versions/3dox9JXF/NaturesCompass-1.20.1-2.6.0-fabric.jar",
+                    "id": "3dox9JXF",
                     "parent_id": "fPetb5Kh",
                     "hashes": {
-                        "sha512": "b57dabd55010b598a66fe13644380c452ea75d4717b6acb7cd4f7718d6d535920cf7e216491bde427066d7e68dfaee5ef7226b7c8322b4f8771cf0dc9416e56e",
-                        "sha1": "0734579799a17b9662b833cc21399521b09161ff"
+                        "sha512": "d43c93dd476803bba76ab2efe16ff0df199c2dae425be513c0a35561c209bfac781062ee3f8cfab2a9987a6758aa04b5d7d2f9f2cb222aba70fceb59af786eb9",
+                        "sha1": "632368dbfe05d11addc7e6bb6a7a5cc7e60e7828"
                     },
                     "required_dependencies": [],
-                    "size": 230344,
-                    "date_published": "2023-09-15T23:01:33.377657Z"
+                    "size": 238575,
+                    "date_published": "2026-04-08T01:46:21.578562Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "NaturesCompass-1.20.1-2.2.3-fabric.jar",
+                    "file_name": "NaturesCompass-1.20.1-2.6.0-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14744,16 +14744,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4712/188/NaturesCompass-1.20.1-2.2.3-fabric.jar",
-                    "id": "4712188",
+                    "url": "https://edge.forgecdn.net/files/7892/950/NaturesCompass-1.20.1-2.6.0-fabric.jar",
+                    "id": "7892950",
                     "parent_id": "252848",
                     "hashes": {
-                        "sha1": "0734579799a17b9662b833cc21399521b09161ff",
-                        "md5": "9a7621b925ff3f502ea690ffc4cdd774"
+                        "sha1": "632368dbfe05d11addc7e6bb6a7a5cc7e60e7828",
+                        "md5": "222ea6c90dca8fbb550299ded36e4b0e"
                     },
                     "required_dependencies": [],
-                    "size": 230344,
-                    "date_published": "2023-08-19T13:56:51.770Z"
+                    "size": 238575,
+                    "date_published": "2026-04-08T01:38:47.603Z"
                 }
             ]
         },
