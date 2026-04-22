@@ -18978,7 +18978,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Stfu-2.9.0-1.20.1.jar",
+                    "file_name": "Stfu-2.9.1-1.20.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -18988,23 +18988,23 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Rg9WdvvR/versions/tJwIgmf0/Stfu-2.9.0-1.20.1.jar",
-                    "id": "tJwIgmf0",
+                    "url": "https://cdn.modrinth.com/data/Rg9WdvvR/versions/dBIeQKfb/Stfu-2.9.1-1.20.1.jar",
+                    "id": "dBIeQKfb",
                     "parent_id": "Rg9WdvvR",
                     "hashes": {
-                        "sha512": "a4a6e8583095ca500a013f8746f4432140a3468719a6b3a2c199d734d39a2745d9fcc3a5525bea21c57aff891c28fcd935f6882ea707df31fb4ff7e93e978364",
-                        "sha1": "0ec8ed3f141b30138c022335e3812112eb54d45a"
+                        "sha512": "1c858226272425912c2f3abe1855b533b7de7e61fb585bf54663d288bded6a0bf5e21624e58ddbb60c91634773f62becd9ac1aaae18ca75e2f659a79c5260c9f",
+                        "sha1": "c8e4aab095cf40821979bff3687569ab3fe10058"
                     },
                     "required_dependencies": [
                         "P7dR8mSH",
                         "1eAoo2KR"
                     ],
-                    "size": 99881,
-                    "date_published": "2026-02-08T14:57:29.925821Z"
+                    "size": 101081,
+                    "date_published": "2026-04-16T13:10:28.294637Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Stfu-2.9.0-1.20.1.jar",
+                    "file_name": "Stfu-2.9.1-1.20.1.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -19014,19 +19014,19 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7594/638/Stfu-2.9.0-1.20.1.jar",
-                    "id": "7594638",
+                    "url": "https://edge.forgecdn.net/files/7935/107/Stfu-2.9.1-1.20.1.jar",
+                    "id": "7935107",
                     "parent_id": "1111802",
                     "hashes": {
-                        "sha1": "0ec8ed3f141b30138c022335e3812112eb54d45a",
-                        "md5": "9ec735996b2d2cd6d0a8456c385aa2e0"
+                        "sha1": "c8e4aab095cf40821979bff3687569ab3fe10058",
+                        "md5": "2c5004639b90e53bf2d4d24fccff572e"
                     },
                     "required_dependencies": [
-                        "667299",
-                        "306612"
+                        "306612",
+                        "667299"
                     ],
-                    "size": 99881,
-                    "date_published": "2026-02-08T14:57:29.440Z"
+                    "size": 101081,
+                    "date_published": "2026-04-16T13:10:24.093Z"
                 }
             ]
         },
