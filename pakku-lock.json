@@ -14193,7 +14193,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "moonlight-1.20-2.16.28-fabric.jar",
+                    "file_name": "moonlight-1.20-2.16.30-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14201,22 +14201,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/rUJa4T7C/moonlight-1.20-2.16.28-fabric.jar",
-                    "id": "rUJa4T7C",
+                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/O8mAslrg/moonlight-1.20-2.16.30-fabric.jar",
+                    "id": "O8mAslrg",
                     "parent_id": "twkfQtEc",
                     "hashes": {
-                        "sha512": "17ae8f4ab84131a0e13d2484b8e9569dc3d449e3338933b8b0c668430166555a4eedc077bde1b726f8fd7399520b744b6ab4b31700058732221820ca8837dc11",
-                        "sha1": "bf9286b0eef1f2c9cca327bc25d4be3c6b240a83"
+                        "sha512": "f71e67f9f507869c93ffaf1ea9fe5790c8d4d59c01cc3af47e72cfb24ae26995ec6badcc91a35c094778e619f87dde698a4781ae41a08d8fcc43193e95264bed",
+                        "sha1": "e773fc6f22d50ac9dfd59e096bec1bb93447bd92"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1364979,
-                    "date_published": "2026-02-22T19:36:07.750434Z"
+                    "size": 1361407,
+                    "date_published": "2026-04-18T15:39:44.275812Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "moonlight-1.20-2.16.28-fabric.jar",
+                    "file_name": "moonlight-1.20-2.16.30-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -14224,18 +14224,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7664/873/moonlight-1.20-2.16.28-fabric.jar",
-                    "id": "7664873",
+                    "url": "https://edge.forgecdn.net/files/7945/701/moonlight-1.20-2.16.30-fabric.jar",
+                    "id": "7945701",
                     "parent_id": "499980",
                     "hashes": {
-                        "sha1": "bf9286b0eef1f2c9cca327bc25d4be3c6b240a83",
-                        "md5": "0c7379a9c01691f2c8a13ad1484aee5c"
+                        "sha1": "e773fc6f22d50ac9dfd59e096bec1bb93447bd92",
+                        "md5": "56ba527b34ae5b760591747025f793d1"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 1364979,
-                    "date_published": "2026-02-22T19:33:10.837Z"
+                    "size": 1361407,
+                    "date_published": "2026-04-18T15:39:13.633Z"
                 }
             ]
         },
