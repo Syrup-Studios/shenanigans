@@ -3325,7 +3325,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "collective-1.20.1-8.13.jar",
+                    "file_name": "collective-1.20.1-8.20.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3336,40 +3336,40 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/9fUQXa48/collective-1.20.1-8.13.jar",
-                    "id": "9fUQXa48",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/27IPdmJc/collective-1.20.1-8.20.jar",
+                    "id": "27IPdmJc",
                     "parent_id": "e0M1UDsY",
                     "hashes": {
-                        "sha512": "bc6136fbec7447ef3d7ecd150dc3f531f7980e8dea95c638cbb06ddef1f28aeadd72a214baff0232fd2fd28f931061b7571f4f1fb7acf6fc1c08965ea481cfda",
-                        "sha1": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad"
+                        "sha512": "87bb6daae9f27ada34298d79a42475bee03877af6a6ddf38d11f371d369de32955d7a7d8b894bd98069e7c4cba1be258728eea07ee5ba3d59a564d6586865f3b",
+                        "sha1": "32618db0efc36b45dbcdcdaa9768c507c4264f66"
                     },
                     "required_dependencies": [],
-                    "size": 665169,
-                    "date_published": "2025-10-25T16:54:48.509861Z"
+                    "size": 662457,
+                    "date_published": "2026-04-14T10:03:54.057539Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "collective-1.20.1-8.13.jar",
+                    "file_name": "collective-1.20.1-8.20.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric",
-                        "neoforge",
                         "forge",
+                        "neoforge",
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7148/968/collective-1.20.1-8.13.jar",
-                    "id": "7148968",
+                    "url": "https://edge.forgecdn.net/files/7925/29/collective-1.20.1-8.20.jar",
+                    "id": "7925029",
                     "parent_id": "342584",
                     "hashes": {
-                        "sha1": "74b917dd99cd97b2f0480628a1b56958f5e0f5ad",
-                        "md5": "abe112af460bf8befe26605a5e4c4248"
+                        "sha1": "32618db0efc36b45dbcdcdaa9768c507c4264f66",
+                        "md5": "80e67f3d34f970a5594b03da7a6771f2"
                     },
                     "required_dependencies": [],
-                    "size": 665169,
-                    "date_published": "2025-10-25T16:54:33.643Z"
+                    "size": 662457,
+                    "date_published": "2026-04-14T10:03:38.967Z"
                 }
             ]
         },
@@ -17666,7 +17666,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "repurposed_structures-7.1.21+1.20.1-fabric.jar",
+                    "file_name": "repurposed_structures-7.1.22+1.20.1-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17674,41 +17674,38 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/muf0XoRe/versions/27yUYgkT/repurposed_structures-7.1.21+1.20.1-fabric.jar",
-                    "id": "27yUYgkT",
+                    "url": "https://cdn.modrinth.com/data/muf0XoRe/versions/hZnYyLGu/repurposed_structures-7.1.22+1.20.1-fabric.jar",
+                    "id": "hZnYyLGu",
                     "parent_id": "muf0XoRe",
                     "hashes": {
-                        "sha512": "1f9d2354a1a94051f7393b0904dfe53c146bde973408702c219254d3271ba2434e2e12074bf5a46e66e9eff1e590e9ee188aad06083b91b37f7aef86b0defbf9",
-                        "sha1": "ac8be9a1fd29d2215d92f4e060fd87b021e50e3f"
+                        "sha512": "498a4351d4aab395028dd547938cc7050f130e83c1e335394092f4957fdb175113d56ddf1e16c6b29ba9b585aaa4b72042e94aae430b5caca27236179104042a",
+                        "sha1": "d477f518055f8dbb4f5c14ab7304fc5fee241490"
                     },
                     "required_dependencies": [
                         "M1953qlQ"
                     ],
-                    "size": 8173392,
-                    "date_published": "2026-02-24T12:17:36.116377Z"
+                    "size": 8173430,
+                    "date_published": "2026-04-19T21:51:06.573596Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "repurposed_structures-7.1.21+1.20.1-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
+                    "file_name": "repurposed_structures-7.1.22+1.20.1-fabric.jar",
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7672/1/repurposed_structures-7.1.21+1.20.1-fabric.jar",
-                    "id": "7672001",
+                    "url": "https://edge.forgecdn.net/files/7952/851/repurposed_structures-7.1.22+1.20.1-fabric.jar",
+                    "id": "7952851",
                     "parent_id": "391366",
                     "hashes": {
-                        "sha1": "ac8be9a1fd29d2215d92f4e060fd87b021e50e3f",
-                        "md5": "a71eebd2997db960b6f47d2bc1f9451f"
+                        "sha1": "d477f518055f8dbb4f5c14ab7304fc5fee241490",
+                        "md5": "0dba41acc97f2704a7230bb63cf5909e"
                     },
                     "required_dependencies": [
                         "714059"
                     ],
-                    "size": 8173392,
-                    "date_published": "2026-02-24T12:17:32.343Z"
+                    "size": 8173430,
+                    "date_published": "2026-04-19T21:51:06.033Z"
                 }
             ]
         },
