@@ -4521,7 +4521,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CraterLib-Fabric-1.20-3.1.0.jar",
+                    "file_name": "CraterLib-Fabric-1.20-3.1.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -4531,22 +4531,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/lC5Dbusn/CraterLib-Fabric-1.20-3.1.0.jar",
-                    "id": "lC5Dbusn",
+                    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2F7EZd1L/CraterLib-Fabric-1.20-3.1.1.jar",
+                    "id": "2F7EZd1L",
                     "parent_id": "Nn8Wasaq",
                     "hashes": {
-                        "sha512": "4145d3fc8927efd317114c7e6c02ec231eb7cac26062c6f86aca92c0737fbd54535fb31f3839adee0c4ad4be18550ca08b33ec84d9e42e5e0baad27a5da2fa7c",
-                        "sha1": "bb06a0ca715bb1046a493c050a633a9432b00d89"
+                        "sha512": "d9c2d29d94e97559a1312baf52d2ab5f8a25be0f54d854d22d2f55a909cf9a268a30060ba03a022338844f7af12cca4c744dae2827db17469ecedfa100fcf723",
+                        "sha1": "b31cfab1c9011adf5a2de06bd1c8e3aa17f28d9e"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1357672,
-                    "date_published": "2026-03-25T12:03:45.170046Z"
+                    "size": 1357593,
+                    "date_published": "2026-04-19T11:27:19.607832Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "CraterLib-Fabric-1.20-3.1.0.jar",
+                    "file_name": "CraterLib-Fabric-1.20-3.1.1.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -4556,18 +4556,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7810/699/CraterLib-Fabric-1.20-3.1.0.jar",
-                    "id": "7810699",
+                    "url": "https://edge.forgecdn.net/files/7949/711/CraterLib-Fabric-1.20-3.1.1.jar",
+                    "id": "7949711",
                     "parent_id": "867099",
                     "hashes": {
-                        "sha1": "bb06a0ca715bb1046a493c050a633a9432b00d89",
-                        "md5": "7da822e9e2561e2618b2b947f6004a58"
+                        "sha1": "b31cfab1c9011adf5a2de06bd1c8e3aa17f28d9e",
+                        "md5": "afbe2430c7dc5c1b765f9c0c14dd925e"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 1357672,
-                    "date_published": "2026-03-25T12:03:40.723Z"
+                    "size": 1357593,
+                    "date_published": "2026-04-19T11:27:14.153Z"
                 }
             ]
         },
