@@ -13858,7 +13858,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "dummmmmmy-1.20-2.0.8-fabric.jar",
+                    "file_name": "dummmmmmy-1.20-2.0.12-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13866,23 +13866,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Adega8YN/versions/ARuuU3Qq/dummmmmmy-1.20-2.0.8-fabric.jar",
-                    "id": "ARuuU3Qq",
+                    "url": "https://cdn.modrinth.com/data/Adega8YN/versions/6VosBxNt/dummmmmmy-1.20-2.0.12-fabric.jar",
+                    "id": "6VosBxNt",
                     "parent_id": "Adega8YN",
                     "hashes": {
-                        "sha512": "15f88a31e359c4bfa71a347440449b696c002f49b996832fa652ea8a65447344a543842753c61568eee959c5ff95d987cf4c079f879e5b5e03f096498fe2763b",
-                        "sha1": "dc8efc52f45f36ad23a8ce9143eaa2e521e34daf"
+                        "sha512": "5a31ebfb432b5354dd25777d4984fce06277fae0d82c757b399ef9d99b1d3a34b7c0e51ef6cdbc36d99c2ece6df3849bee683c7b58297795d15daeb03d75eea5",
+                        "sha1": "4d34137a8bd1d8f6dd95473b6d15b75c417c269e"
                     },
                     "required_dependencies": [
                         "twkfQtEc",
                         "P7dR8mSH"
                     ],
-                    "size": 354023,
-                    "date_published": "2025-07-29T20:17:10.286025Z"
+                    "size": 832956,
+                    "date_published": "2026-04-21T21:47:50.882199Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "dummmmmmy-1.20-2.0.8-fabric.jar",
+                    "file_name": "dummmmmmy-1.20-2.0.12-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13890,19 +13890,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6826/546/dummmmmmy-1.20-2.0.8-fabric.jar",
-                    "id": "6826546",
+                    "url": "https://edge.forgecdn.net/files/7963/207/dummmmmmy-1.20-2.0.12-fabric.jar",
+                    "id": "7963207",
                     "parent_id": "225738",
                     "hashes": {
-                        "sha1": "dc8efc52f45f36ad23a8ce9143eaa2e521e34daf",
-                        "md5": "4adcdc0fa2f46345646fc80f3e36a110"
+                        "sha1": "4d34137a8bd1d8f6dd95473b6d15b75c417c269e",
+                        "md5": "9842a806cc03aa6c360a62abcdf5ef83"
                     },
                     "required_dependencies": [
                         "499980",
                         "306612"
                     ],
-                    "size": 354023,
-                    "date_published": "2025-07-29T20:16:58.200Z"
+                    "size": 832956,
+                    "date_published": "2026-04-21T21:47:43.433Z"
                 }
             ]
         },
