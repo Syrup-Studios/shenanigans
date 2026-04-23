@@ -2999,47 +2999,6 @@
             ]
         },
         {
-            "pakku_id": "NyBNxfcnMM161oZV",
-            "pakku_links": [
-                "bnbnYJ78Qqbr1Mzt"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "client-crafting"
-            },
-            "name": {
-                "curseforge": "Client Crafting"
-            },
-            "id": {
-                "curseforge": "888790"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "clientcrafting-fabric-1.20.1-2.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7920/132/clientcrafting-fabric-1.20.1-2.1.jar",
-                    "id": "7920132",
-                    "parent_id": "888790",
-                    "hashes": {
-                        "sha1": "eb72ae939e89f7f5ad6419af0ca02cf92ea3ca53",
-                        "md5": "94e64ad9f3136cda971fd681d6a651ee"
-                    },
-                    "required_dependencies": [
-                        "326652"
-                    ],
-                    "size": 7285,
-                    "date_published": "2026-04-13T09:46:46.087Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "zJdHaMqgv1dOR3pR",
             "type": "MOD",
             "side": "BOTH",

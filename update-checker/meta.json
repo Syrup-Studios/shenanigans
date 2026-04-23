@@ -78,6 +78,17 @@
           "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.5.1-alpha"
         }
       }
+    },
+    {
+      "id": "0.5.2-alpha",
+      "releasedAt": 1776902344,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/shenanigans/version/0.5.2-alpha",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition",
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.5.2-alpha"
+        }
+      }
     }
   ]
 }
