@@ -12008,69 +12008,6 @@
             ]
         },
         {
-            "pakku_id": "bksS4rZS1hDAYykY",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "krypton",
-                "modrinth": "krypton"
-            },
-            "name": {
-                "curseforge": "Krypton",
-                "modrinth": "Krypton"
-            },
-            "id": {
-                "curseforge": "428912",
-                "modrinth": "fQEb0iXm"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "krypton-0.2.3.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4577/300/krypton-0.2.3.jar",
-                    "id": "4577300",
-                    "parent_id": "428912",
-                    "hashes": {
-                        "sha1": "4d499819effd8afe811e5d93952fcc46765a00df",
-                        "md5": "3bf353c1ab576b57c003109c079e2ec8"
-                    },
-                    "required_dependencies": [],
-                    "size": 185895,
-                    "date_published": "2023-06-10T03:24:16.597Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "krypton-0.2.3.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fQEb0iXm/versions/jiDwS0W1/krypton-0.2.3.jar",
-                    "id": "jiDwS0W1",
-                    "parent_id": "fQEb0iXm",
-                    "hashes": {
-                        "sha512": "92b73a70737cfc1daebca211bd1525de7684b554be392714ee29cbd558f2a27a8bdda22accbe9176d6e531d74f9bf77798c28c3e8559c970f607422b6038bc9e",
-                        "sha1": "4d499819effd8afe811e5d93952fcc46765a00df"
-                    },
-                    "required_dependencies": [],
-                    "size": 185895,
-                    "date_published": "2023-06-10T03:25:18.657621Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "qnwURr6stvRJf7cl",
             "type": "MOD",
             "side": "BOTH",
