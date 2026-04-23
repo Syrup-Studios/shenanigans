@@ -7900,22 +7900,53 @@
             ]
         },
         {
-            "pakku_id": "aKntoPCo2kIAjuQZ",
+            "pakku_id": "4XcuVgGSJd917Y3Z",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
             ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
+                "curseforge": "explosive-enhancement",
                 "modrinth": "explosive-enhancement"
             },
             "name": {
+                "curseforge": "Explosive Enhancement",
                 "modrinth": "Explosive Enhancement"
             },
             "id": {
+                "curseforge": "1318792",
                 "modrinth": "OSQ8mw2r"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "explosive-enhancement-1.3.2-1.20-1.20.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.2-Snapshot",
+                        "1.20.3-Snapshot",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20-Snapshot"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7108/696/explosive-enhancement-1.3.2-1.20-1.20.4.jar",
+                    "id": "7108696",
+                    "parent_id": "1318792",
+                    "hashes": {
+                        "sha1": "c6323b020a1d36b319d474c908e5eeb4e802bd93",
+                        "md5": "83cf2e950a99ff268dc90e97aaca4f75"
+                    },
+                    "required_dependencies": [],
+                    "size": 114604,
+                    "date_published": "2025-10-15T06:29:18.010Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "explosive-enhancement-1.3.2-1.20-1.20.4.jar",
@@ -8399,19 +8430,43 @@
             ]
         },
         {
-            "pakku_id": "ogjL5jcDht3xBygn",
+            "pakku_id": "juPqHyrbvKrEtasY",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "fairy-lights-fabric",
                 "modrinth": "fairy-lights-fabric"
             },
             "name": {
+                "curseforge": "Fairy Lights (Fabric)",
                 "modrinth": "Fairy Lights"
             },
             "id": {
+                "curseforge": "1510773",
                 "modrinth": "OuLVx5LM"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fairylights-1.1.4_fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7909/505/fairylights-1.1.4_fabric.jar",
+                    "id": "7909505",
+                    "parent_id": "1510773",
+                    "hashes": {
+                        "sha1": "6de36088818fa945b027450a83edbe593381e715",
+                        "md5": "4dd5e77ca57a149186b8d83649c327ae"
+                    },
+                    "required_dependencies": [],
+                    "size": 762660,
+                    "date_published": "2026-04-11T10:40:50.613Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "fairylights-1.1.4_fabric.jar",
