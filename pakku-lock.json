@@ -21417,7 +21417,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar",
+                    "file_name": "supermartijn642corelib-1.1.21-fabric-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21426,22 +21426,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/iyGIoibJ/supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar",
-                    "id": "iyGIoibJ",
+                    "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/VfNphaSv/supermartijn642corelib-1.1.21-fabric-mc1.20.1.jar",
+                    "id": "VfNphaSv",
                     "parent_id": "rOUBggPv",
                     "hashes": {
-                        "sha512": "04fe7154a777af4e441b771e3148747b7fd04fc2f3116801a50303f80d4ac6799a1706f2ded39a58d6bfb3efbe658ab76a0921012124a63f4b0ef8b09390318f",
-                        "sha1": "7b6d505539c5f342ab31d5dcbf0cde05b0782c47"
+                        "sha512": "6445f4c16cc120fb2fb4feb70de9f9cc0a303570dc5b2b330b8dd767807a90e04afd2c7cb6f512fad26707819dc9476f203ffd971b2af8c04fa53f8d0dce1391",
+                        "sha1": "824c8d015c1f4823ae543c970016d77eea31c52d"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 602735,
-                    "date_published": "2026-01-25T02:14:40.878994Z"
+                    "size": 602733,
+                    "date_published": "2026-03-20T03:38:20.559981Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar",
+                    "file_name": "supermartijn642corelib-1.1.21-fabric-mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21450,18 +21450,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7521/819/supermartijn642corelib-1.1.20-fabric-mc1.20.1.jar",
-                    "id": "7521819",
+                    "url": "https://edge.forgecdn.net/files/7783/356/supermartijn642corelib-1.1.21-fabric-mc1.20.1.jar",
+                    "id": "7783356",
                     "parent_id": "454372",
                     "hashes": {
-                        "sha1": "7b6d505539c5f342ab31d5dcbf0cde05b0782c47",
-                        "md5": "94372a09a51868247f88a1679aa0fed4"
+                        "sha1": "824c8d015c1f4823ae543c970016d77eea31c52d",
+                        "md5": "8748a6540d8ade8b534697cceaf1948f"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 602735,
-                    "date_published": "2026-01-25T02:14:40.573Z"
+                    "size": 602733,
+                    "date_published": "2026-03-20T03:38:20.210Z"
                 }
             ]
         },
