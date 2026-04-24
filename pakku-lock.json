@@ -7702,6 +7702,52 @@
             ]
         },
         {
+            "pakku_id": "1LOTQlGqvJGlNdVM",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "epic-structures-witch-huts"
+            },
+            "name": {
+                "modrinth": "Epic Structures: Witch Huts"
+            },
+            "id": {
+                "modrinth": "7KOwcKlK"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Epic Witch Huts v1.2.0 DATAPACK 1.19+.zip",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7KOwcKlK/versions/YwLwvGZ1/Epic Witch Huts v1.2.0 DATAPACK 1.19+.zip",
+                    "id": "YwLwvGZ1",
+                    "parent_id": "7KOwcKlK",
+                    "hashes": {
+                        "sha512": "8d17f091e9a901128be74e686e2633e07249ad736a2bbb01f74790e9fcc171b1077687f63b02564e5b587d1bdeefe9d94f41579be7c8204faf10512ab985449a",
+                        "sha1": "e6d2e810e7a47ae5339047583e2c036e046c0e29"
+                    },
+                    "required_dependencies": [],
+                    "size": 735376,
+                    "date_published": "2025-12-10T14:45:34.503164Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "srs9UVOpaBCd3WBX",
             "pakku_links": [
                 "VeVpUVJ9hZfIh70m",
@@ -24468,77 +24514,6 @@
                     ],
                     "size": 611598,
                     "date_published": "2023-09-25T20:59:31.213Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "ORaUo2yjjaRBvPfq",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "yungs-better-witch-huts-fabric",
-                "modrinth": "yungs-better-witch-huts"
-            },
-            "name": {
-                "curseforge": "YUNG's Better Witch Huts (Fabric)",
-                "modrinth": "YUNG's Better Witch Huts"
-            },
-            "id": {
-                "curseforge": "631403",
-                "modrinth": "t5FRdP87"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/t5FRdP87/versions/lYpHN3iF/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
-                    "id": "lYpHN3iF",
-                    "parent_id": "t5FRdP87",
-                    "hashes": {
-                        "sha512": "4182c4b580ac0446968d28561088807a5fc96c4ad792401bf918b2e693f7eb343237f2887d63121469af8a120c4ccc8c84d7add731ea1a45cb429f49092bd6ac",
-                        "sha1": "2803abcf20bf150aa735faa409a23406da69415c"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH",
-                        "Ua7DFN59",
-                        "9s6osm5g"
-                    ],
-                    "size": 307196,
-                    "date_published": "2023-09-26T04:52:38.721036Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4769/490/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
-                    "id": "4769490",
-                    "parent_id": "631403",
-                    "hashes": {
-                        "sha1": "2803abcf20bf150aa735faa409a23406da69415c",
-                        "md5": "afa25b703d976cde3d62c8f8d8a980a0"
-                    },
-                    "required_dependencies": [
-                        "421649",
-                        "306612",
-                        "348521"
-                    ],
-                    "size": 307196,
-                    "date_published": "2023-09-26T04:52:34.480Z"
                 }
             ]
         },
