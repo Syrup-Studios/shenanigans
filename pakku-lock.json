@@ -7661,6 +7661,47 @@
             ]
         },
         {
+            "pakku_id": "p3a6OuUSh5pGAe3M",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "epic-structures-villages"
+            },
+            "name": {
+                "modrinth": "Epic Structures: Villages"
+            },
+            "id": {
+                "modrinth": "4OeMBkiG"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Epic Villages v1.2.0 (1.20+).zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4OeMBkiG/versions/i3SCNDuP/Epic Villages v1.2.0 (1.20+).zip",
+                    "id": "i3SCNDuP",
+                    "parent_id": "4OeMBkiG",
+                    "hashes": {
+                        "sha512": "eea9826c4eef239b1c990e13f46ce78752bec037d068a026e67dd95d15ba244ef176a7ffe6f605890f43fad94cf5074c2ab14a5518bee4f00652284ed37f514e",
+                        "sha1": "5f08ffadb0c1359298b0a93040a2ab876d1d17b4"
+                    },
+                    "required_dependencies": [],
+                    "size": 3152896,
+                    "date_published": "2026-01-30T12:13:52.235885Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "srs9UVOpaBCd3WBX",
             "pakku_links": [
                 "VeVpUVJ9hZfIh70m",
