@@ -7661,6 +7661,47 @@
             ]
         },
         {
+            "pakku_id": "UrrE2i9LQvQeG8wB",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "epic-structures-dungeons"
+            },
+            "name": {
+                "modrinth": "Epic Structures: Dungeons"
+            },
+            "id": {
+                "modrinth": "t0YT91nL"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Epic Structures Dungeons V1.1 (1.20+).zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/t0YT91nL/versions/fED3czOw/Epic Structures Dungeons V1.1 (1.20+).zip",
+                    "id": "fED3czOw",
+                    "parent_id": "t0YT91nL",
+                    "hashes": {
+                        "sha512": "5b1edd495906e32065d3a6354c5a3451f5535e51ff06016f77122e7a97c97f11716277be4e98d6c8db746020fd2b54c40db6e5ba3ca9449487610163e4025d48",
+                        "sha1": "1bc63e96c6a9ece485d4c1665d0cb80efc58b167"
+                    },
+                    "required_dependencies": [],
+                    "size": 5020299,
+                    "date_published": "2026-04-05T17:40:13.388905Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "oJiTGLx3cYc2Ath3",
             "type": "DATA_PACK",
             "side": "SERVER",
