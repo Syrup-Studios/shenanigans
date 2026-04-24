@@ -7661,6 +7661,47 @@
             ]
         },
         {
+            "pakku_id": "oJiTGLx3cYc2Ath3",
+            "type": "DATA_PACK",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "epic-structures-igloo"
+            },
+            "name": {
+                "modrinth": "Epic Structures: Igloo"
+            },
+            "id": {
+                "modrinth": "r5cwIwhb"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "epic igloo (1.20+).zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "datapack"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/r5cwIwhb/versions/oaMjiD9T/epic igloo (1.20+).zip",
+                    "id": "oaMjiD9T",
+                    "parent_id": "r5cwIwhb",
+                    "hashes": {
+                        "sha512": "528bd0fb966853651f1bf54c911a8f27e112a5357e4d563a0e8a12f00908ec27b26c1799fb4853ab6fa23038ca37c1b1a655bfa26c16146bb3551864f5f9c162",
+                        "sha1": "ea3fae3988d0e50195de57d49f244454d1df8bc9"
+                    },
+                    "required_dependencies": [],
+                    "size": 1731095,
+                    "date_published": "2026-04-22T10:28:40.025665Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "p3a6OuUSh5pGAe3M",
             "type": "DATA_PACK",
             "side": "SERVER",
