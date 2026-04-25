@@ -23174,69 +23174,6 @@
             ]
         },
         {
-            "pakku_id": "mXB1twxoezD0vRhn",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "ultimate-chess",
-                "modrinth": "ultimate-chess"
-            },
-            "name": {
-                "curseforge": "Ultimate Chess",
-                "modrinth": "Ultimate Chess"
-            },
-            "id": {
-                "curseforge": "634998",
-                "modrinth": "CXKUu3x4"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "chessmod-fabric-1.1.3-1.20.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4687/634/chessmod-fabric-1.1.3-1.20.jar",
-                    "id": "4687634",
-                    "parent_id": "634998",
-                    "hashes": {
-                        "sha1": "9dad69e757f2f2e070da064a11b29a7e462d6725",
-                        "md5": "c1cd6d3d594eca23cd88bc2e7a3d623e"
-                    },
-                    "required_dependencies": [],
-                    "size": 252643,
-                    "date_published": "2023-08-07T21:21:50.147Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "chessmod-fabric-1.1.3-1.20.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/CXKUu3x4/versions/Vgs0Ogkf/chessmod-fabric-1.1.3-1.20.jar",
-                    "id": "Vgs0Ogkf",
-                    "parent_id": "CXKUu3x4",
-                    "hashes": {
-                        "sha512": "288273e02f1f7e0b1dd0c577bae5da4e4156490a962cd03cd4e0832d46f0ee96ecd50b8c041fb94a24496a87b7f62804fce015e6b9adf4074dc8fc9cc6c48529",
-                        "sha1": "9dad69e757f2f2e070da064a11b29a7e462d6725"
-                    },
-                    "required_dependencies": [],
-                    "size": 252643,
-                    "date_published": "2023-09-14T03:09:50.208278Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "f5sJeKb2A64HxnfQ",
             "pakku_links": [
                 "tLXl9sKwxFFIkD6P"
