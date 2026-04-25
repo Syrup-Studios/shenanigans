@@ -21943,6 +21943,78 @@
             ]
         },
         {
+            "pakku_id": "3UYUFKCvSABNVqCq",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "table-top-craft-fabric",
+                "modrinth": "table-top-craft"
+            },
+            "name": {
+                "curseforge": "Table Top Craft (Fabric)",
+                "modrinth": "Table Top Craft"
+            },
+            "id": {
+                "curseforge": "729535",
+                "modrinth": "IO0hAHwQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "table_top_craft-1.20.1-5.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5319/819/table_top_craft-1.20.1-5.0.2.jar",
+                    "id": "5319819",
+                    "parent_id": "729535",
+                    "hashes": {
+                        "sha1": "7d28f1806703541fd99f8fa641910b4e172782b8",
+                        "md5": "d7e361f5c393e059696c64d7afee6a6e"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1432625,
+                    "date_published": "2024-05-06T04:38:25.473Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "table_top_craft-fabric-1.20.1-5.0.2.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IO0hAHwQ/versions/cVszRa3Y/table_top_craft-fabric-1.20.1-5.0.2.jar",
+                    "id": "cVszRa3Y",
+                    "parent_id": "IO0hAHwQ",
+                    "hashes": {
+                        "sha512": "b5b7a6b564be8f25d57be608f788e1be32db47a53ca542f6a74107a90bf2b098e4f1b4f4541e50fbd157e56ca23d9c1d95526d6e09fe4d6a0f4f7a2c0e57a170",
+                        "sha1": "7d28f1806703541fd99f8fa641910b4e172782b8"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1432625,
+                    "date_published": "2024-09-14T15:08:00.703739Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UXuIhctWFtV3Qw73",
             "type": "MOD",
             "side": "BOTH",
