@@ -1829,7 +1829,6 @@
             "id": {
                 "curseforge": "1066390"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "curseforge",
@@ -23265,6 +23264,74 @@
                     ],
                     "size": 322358,
                     "date_published": "2025-03-10T23:40:51.403505Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "oFkjIEIY8DvEMZet",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "the-roads-more-travelled",
+                "modrinth": "the-roads-more-travelled"
+            },
+            "name": {
+                "curseforge": "The Roads More Travelled [TRMT]",
+                "modrinth": "The Roads More Travelled [TRMT]"
+            },
+            "id": {
+                "curseforge": "1512955",
+                "modrinth": "74oZhrEe"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "trmt-0.4-1.20+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8002/73/trmt-0.4-1.20+1.20.1.jar",
+                    "id": "8002073",
+                    "parent_id": "1512955",
+                    "hashes": {
+                        "sha1": "176e608edc64638449b971e21f398a940ce58f5b",
+                        "md5": "460cee056b2d2aa01877423606712360"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 100729,
+                    "date_published": "2026-04-27T19:59:41.693Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "trmt-0.4-1.20+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/74oZhrEe/versions/q9KHDcoE/trmt-0.4-1.20+1.20.1.jar",
+                    "id": "q9KHDcoE",
+                    "parent_id": "74oZhrEe",
+                    "hashes": {
+                        "sha512": "89ecef6c2256beb8cbf687e1425e599e5554d48c3c3ef72dc72a6e0c9618c1406e217cbdda1c863f9b556da9ec1cec01c496eeef25cd3f0a24d4cf0814ded2c8",
+                        "sha1": "176e608edc64638449b971e21f398a940ce58f5b"
+                    },
+                    "required_dependencies": [],
+                    "size": 100729,
+                    "date_published": "2026-04-27T19:29:24.969885Z"
                 }
             ]
         },
