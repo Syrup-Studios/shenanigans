@@ -4459,6 +4459,76 @@
             ]
         },
         {
+            "pakku_id": "jLAxxq1zrQQXMYGc",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "crash-assistant",
+                "modrinth": "crash-assistant"
+            },
+            "name": {
+                "curseforge": "Crash Assistant",
+                "modrinth": "Crash Assistant"
+            },
+            "id": {
+                "curseforge": "1154099",
+                "modrinth": "ix1qq8Ux"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CrashAssistant-fabric-1.19-1.20.1-1.11.8.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7913/29/CrashAssistant-fabric-1.19-1.20.1-1.11.8.jar",
+                    "id": "7913029",
+                    "parent_id": "1154099",
+                    "hashes": {
+                        "sha1": "3a6cded66cc058e607715475b80715bbe543938a",
+                        "md5": "063beb24a4a8a23f168889483925c4fc"
+                    },
+                    "required_dependencies": [],
+                    "size": 3168047,
+                    "date_published": "2026-04-12T00:14:57.627Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CrashAssistant-fabric-1.19-1.20.1-1.11.8.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ix1qq8Ux/versions/aM93Lbbm/CrashAssistant-fabric-1.19-1.20.1-1.11.8.jar",
+                    "id": "aM93Lbbm",
+                    "parent_id": "ix1qq8Ux",
+                    "hashes": {
+                        "sha512": "0043019baabe749c9b5c020158b170db453331ff09a0d29d6e2359726c77dd12473bb6571f3ef3a83de064c59d89cc50b81f74d83d07353ea969875e887bc57b",
+                        "sha1": "3a6cded66cc058e607715475b80715bbe543938a"
+                    },
+                    "required_dependencies": [],
+                    "size": 3168047,
+                    "date_published": "2026-04-12T00:15:01.103371Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gnAUl9e4p1Wkbsgx",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
