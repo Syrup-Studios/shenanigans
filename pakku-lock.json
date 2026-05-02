@@ -14281,6 +14281,74 @@
             ]
         },
         {
+            "pakku_id": "59yYlBRSR9X0t1Nx",
+            "pakku_links": [
+                "jV0StdiLsdRGs9I1"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mobtimizations",
+                "modrinth": "mobtimizations"
+            },
+            "name": {
+                "curseforge": "Mobtimizations - Entity Performance Fixes",
+                "modrinth": "Mobtimizations - Entity Performance Fixes"
+            },
+            "id": {
+                "curseforge": "974401",
+                "modrinth": "Kbz7UydC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mobtimizations-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5136/0/mobtimizations-fabric-1.20.1-1.0.0.jar",
+                    "id": "5136000",
+                    "parent_id": "974401",
+                    "hashes": {
+                        "sha1": "3fc5279c915292e7ffbfa5c89848592403ee17fe",
+                        "md5": "ea5af65f7e6c01cb7f288d26041f9b58"
+                    },
+                    "required_dependencies": [
+                        "237749"
+                    ],
+                    "size": 505747,
+                    "date_published": "2024-02-25T17:53:30.490Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mobtimizations-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Kbz7UydC/versions/Q8aBGBRu/mobtimizations-fabric-1.20.1-1.0.0.jar",
+                    "id": "Q8aBGBRu",
+                    "parent_id": "Kbz7UydC",
+                    "hashes": {
+                        "sha512": "972ab7947d920035c03cc5c05357a405f276b5d9e291b74280f67906185f8e8475dd41dc3df6f99f83fc22c9a831627ddf720de074c78b9c024094f594979e18",
+                        "sha1": "3fc5279c915292e7ffbfa5c89848592403ee17fe"
+                    },
+                    "required_dependencies": [
+                        "rLLJ1OZM"
+                    ],
+                    "size": 505747,
+                    "date_published": "2024-02-25T18:02:23.420363Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "JkgKxZJhYKLBMxzg",
             "type": "MOD",
             "side": "CLIENT",
