@@ -2975,6 +2975,79 @@
             ]
         },
         {
+            "pakku_id": "QGIO82bYseWkrJqA",
+            "pakku_links": [
+                "9OtyaOmASc4lRVXE",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "chunk-activity-tracker",
+                "modrinth": "chunk-activity-tracker"
+            },
+            "name": {
+                "curseforge": "Chunk Activity Tracker",
+                "modrinth": "Chunk Activity Tracker"
+            },
+            "id": {
+                "curseforge": "1193454",
+                "modrinth": "BNuR43mM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "chunkactivitytracker-fabric-1.0.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6164/362/chunkactivitytracker-fabric-1.0.1-1.20.1.jar",
+                    "id": "6164362",
+                    "parent_id": "1193454",
+                    "hashes": {
+                        "sha1": "68169bc579b9fb275156fd2bd1dbf96fc0ef2bfe",
+                        "md5": "03101caec337d91d5d60c75e75225321"
+                    },
+                    "required_dependencies": [
+                        "1104882",
+                        "306612"
+                    ],
+                    "size": 740998,
+                    "date_published": "2025-02-06T14:53:47.207Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "chunkactivitytracker-fabric-1.0.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/BNuR43mM/versions/Fq2p40zU/chunkactivitytracker-fabric-1.0.1-1.20.1.jar",
+                    "id": "Fq2p40zU",
+                    "parent_id": "BNuR43mM",
+                    "hashes": {
+                        "sha512": "0ada6c9156fe0d32f02dec7738d4c248930008087958504fd421196636699f773bb813194715a882ebbe8540b8de6072a862d55530be933713c47bfef3b93c85",
+                        "sha1": "68169bc579b9fb275156fd2bd1dbf96fc0ef2bfe"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "vBbPDuOs"
+                    ],
+                    "size": 740998,
+                    "date_published": "2025-02-06T14:53:49.985515Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "h8B2qmWDI7LlFgZK",
             "pakku_links": [
                 "bnbnYJ78Qqbr1Mzt"
@@ -6285,6 +6358,82 @@
                     ],
                     "size": 167797,
                     "date_published": "2024-11-18T23:21:27.223Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "jkEKppoh4mqHzU9j",
+            "pakku_links": [
+                "QGIO82bYseWkrJqA",
+                "RjGdALOn8S9NpH6I",
+                "9OtyaOmASc4lRVXE"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "does-it-tick",
+                "modrinth": "does-it-tick"
+            },
+            "name": {
+                "curseforge": "Does It Tick?",
+                "modrinth": "Does It Tick?"
+            },
+            "id": {
+                "curseforge": "543308",
+                "modrinth": "vmg6jaPW"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "does_it_tick-fabric-1.1.4-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6353/651/does_it_tick-fabric-1.1.4-1.20.1.jar",
+                    "id": "6353651",
+                    "parent_id": "543308",
+                    "hashes": {
+                        "sha1": "b01303bdc0be9ed6e253b9d72dcd390725c1e548",
+                        "md5": "5ac74793765d63ccf2a0ee24a7c3c6cf"
+                    },
+                    "required_dependencies": [
+                        "1193454",
+                        "306612",
+                        "1104882"
+                    ],
+                    "size": 446033,
+                    "date_published": "2025-03-27T00:35:38.980Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "does_it_tick-fabric-1.1.4-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vmg6jaPW/versions/B77nTlT0/does_it_tick-fabric-1.1.4-1.20.1.jar",
+                    "id": "B77nTlT0",
+                    "parent_id": "vmg6jaPW",
+                    "hashes": {
+                        "sha512": "181f22c37eea35fe16e927ef53c12824f6d781f5cc66bc277833fede6f92810c51ac6b15c70cbe6ff15c366131a7a15b39eae71ce84f1219e00b081205691618",
+                        "sha1": "b01303bdc0be9ed6e253b9d72dcd390725c1e548"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "BNuR43mM",
+                        "vBbPDuOs"
+                    ],
+                    "size": 446033,
+                    "date_published": "2025-03-27T00:35:40.113979Z"
                 }
             ]
         },
