@@ -17889,6 +17889,79 @@
             ]
         },
         {
+            "pakku_id": "PixH33qeuFP7TMDk",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "9OtyaOmASc4lRVXE"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "redirected",
+                "modrinth": "redirected"
+            },
+            "name": {
+                "curseforge": "Redirected",
+                "modrinth": "Redirected"
+            },
+            "id": {
+                "curseforge": "1191845",
+                "modrinth": "hhnR8xqU"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "redirected-fabric-1.0.0-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6148/846/redirected-fabric-1.0.0-1.20.1.jar",
+                    "id": "6148846",
+                    "parent_id": "1191845",
+                    "hashes": {
+                        "sha1": "3f7ced13e94394b12cb6d6092aba7cf0d884b748",
+                        "md5": "55020dd2421663b32e4dc63e6ba853f4"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "1104882"
+                    ],
+                    "size": 222956,
+                    "date_published": "2025-02-02T07:04:31.323Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "redirected-fabric-1.0.0-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hhnR8xqU/versions/QkgWbSnA/redirected-fabric-1.0.0-1.20.1.jar",
+                    "id": "QkgWbSnA",
+                    "parent_id": "hhnR8xqU",
+                    "hashes": {
+                        "sha512": "f3822cb6f2337b0d0bdccde74ccc823fc46af09847265ce43e184e7fe89f6176b415d490d25001bd97324500c8baad665cdc8301ebf60a6ba8df640978939de3",
+                        "sha1": "3f7ced13e94394b12cb6d6092aba7cf0d884b748"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "vBbPDuOs"
+                    ],
+                    "size": 222956,
+                    "date_published": "2025-02-02T07:04:32.706877Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ObUjFv5WWyDJvGVL",
             "type": "MOD",
             "side": "CLIENT",
