@@ -16590,6 +16590,82 @@
             ]
         },
         {
+            "pakku_id": "CV1l4JuLtjIpJFt4",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "3FpAARvZ6uHWZyzN",
+                "kglsrucrv4VkaVwv"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "particle-core",
+                "modrinth": "particle-core"
+            },
+            "name": {
+                "curseforge": "Particle Core",
+                "modrinth": "Particle Core"
+            },
+            "id": {
+                "curseforge": "985426",
+                "modrinth": "RSeLon5O"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "particle_core-0.3.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7581/167/particle_core-0.3.3+1.20.1.jar",
+                    "id": "7581167",
+                    "parent_id": "985426",
+                    "hashes": {
+                        "sha1": "d4ae5e3b9583106782e2bb009ff3d426f381f493",
+                        "md5": "ca3084116c6743c9df6906172bfb2548"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "308769",
+                        "1005914"
+                    ],
+                    "size": 148084,
+                    "date_published": "2026-02-05T20:24:37.673Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "particle_core-0.3.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RSeLon5O/versions/6es9W10B/particle_core-0.3.3+1.20.1.jar",
+                    "id": "6es9W10B",
+                    "parent_id": "RSeLon5O",
+                    "hashes": {
+                        "sha512": "80c841acdf2931ba0d4c367e235928d9476e69199974311ce429ec4f12bacb7c121d7655abe9bdc117f1f46d2ec18647068ee251f661210859d2a3c771d9073b",
+                        "sha1": "d4ae5e3b9583106782e2bb009ff3d426f381f493"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "Ha28R6CL",
+                        "hYykXjDp"
+                    ],
+                    "size": 148084,
+                    "date_published": "2026-02-05T20:24:42.270185Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "BlYHdryr8hDb6Ocv",
             "type": "MOD",
             "side": "CLIENT",
