@@ -9613,52 +9613,6 @@
             ]
         },
         {
-            "pakku_id": "ztuAw1fCoiKQUVn2",
-            "pakku_links": [
-                "1bLF1Yac7fxo4DTa",
-                "RjGdALOn8S9NpH6I"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "gputape"
-            },
-            "name": {
-                "modrinth": "GPUBooster"
-            },
-            "id": {
-                "modrinth": "5CTSrY8X"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "GPUBooster-1.20-1.20.1-1.1.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/5CTSrY8X/versions/LKcV4Zt9/GPUBooster-1.20-1.20.1-1.1.1.jar",
-                    "id": "LKcV4Zt9",
-                    "parent_id": "5CTSrY8X",
-                    "hashes": {
-                        "sha512": "f129890460dc1ebb4671036dc3033e8267d37a6cb1b7133592b8432de73f91c36b65b4786eb523a15d5c67589e07c7a44dd2a432264e6406e46c7004dbab4922",
-                        "sha1": "f697a754e4ac6a9e29ef2d7f95963fe7d2dc15d8"
-                    },
-                    "required_dependencies": [
-                        "CYQ7VYrM",
-                        "P7dR8mSH"
-                    ],
-                    "size": 65804,
-                    "date_published": "2025-12-17T16:26:10.323776Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "U6WPiwKc8f6lXIvN",
             "type": "MOD",
             "side": "BOTH",
@@ -22505,53 +22459,6 @@
                     "required_dependencies": [],
                     "size": 18492,
                     "date_published": "2023-06-21T17:25:11.945552Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "1bLF1Yac7fxo4DTa",
-            "pakku_links": [
-                "RjGdALOn8S9NpH6I"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "toadlib",
-                "modrinth": "toadlib"
-            },
-            "name": {
-                "curseforge": "ToadLib",
-                "modrinth": "ToadLib"
-            },
-            "id": {
-                "curseforge": "1105516",
-                "modrinth": "CYQ7VYrM"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "ToadLib-1.20-1.20.1-1.3.7.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/CYQ7VYrM/versions/xAoUP27h/ToadLib-1.20-1.20.1-1.3.7.1.jar",
-                    "id": "xAoUP27h",
-                    "parent_id": "CYQ7VYrM",
-                    "hashes": {
-                        "sha512": "77ddb09529f2568d62ac8df595a50125df91f0d9b2f48809694a4bf62c10ae6e267a38bef2d5b3d65b292a7abede1ecee1f0682142f014725cbd116b3772aa68",
-                        "sha1": "7ffcfe7eab23fc063201e837e9095b25eaa1edd3"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 479398,
-                    "date_published": "2025-12-06T13:39:37.131045Z"
                 }
             ]
         },
