@@ -8864,6 +8864,75 @@
             ]
         },
         {
+            "pakku_id": "pqjnDEi0PYXTcrEm",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fast-ip-ping",
+                "modrinth": "fast-ip-ping"
+            },
+            "name": {
+                "curseforge": "Fast IP Ping",
+                "modrinth": "Fast IP Ping"
+            },
+            "id": {
+                "curseforge": "904356",
+                "modrinth": "9mtu0sUO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fast-ip-ping-v1.0.8-mc1.20.4-fabric.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7317/256/fast-ip-ping-v1.0.8-mc1.20.4-fabric.jar",
+                    "id": "7317256",
+                    "parent_id": "904356",
+                    "hashes": {
+                        "sha1": "847a3adacb1d69703098ca4f35c9bd67c096a2fa",
+                        "md5": "d60358e1374736970da2d707edb73f5c"
+                    },
+                    "required_dependencies": [],
+                    "size": 10378,
+                    "date_published": "2025-12-10T19:52:14.400Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fast-ip-ping-v1.0.8-mc1.20.4-fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9mtu0sUO/versions/orESoHrJ/fast-ip-ping-v1.0.8-mc1.20.4-fabric.jar",
+                    "id": "orESoHrJ",
+                    "parent_id": "9mtu0sUO",
+                    "hashes": {
+                        "sha512": "679fad0008e7f62d93f017215d93213dde373b3f758f25172c745d4401dcdcbf22265eb68dec32027f01a5e68582646907c689690d9435d68910b187513a7801",
+                        "sha1": "847a3adacb1d69703098ca4f35c9bd67c096a2fa"
+                    },
+                    "required_dependencies": [],
+                    "size": 10378,
+                    "date_published": "2025-12-10T19:52:15.908449Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "chhtNuhq3a332vMU",
             "pakku_links": [
                 "VeVpUVJ9hZfIh70m",
