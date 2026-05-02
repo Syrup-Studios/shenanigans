@@ -11352,6 +11352,74 @@
             ]
         },
         {
+            "pakku_id": "PK8LDrpc5Oboakby",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "immersive-optimization",
+                "modrinth": "immersive-optimization"
+            },
+            "name": {
+                "curseforge": "Immersive Optimization",
+                "modrinth": "Immersive Optimization"
+            },
+            "id": {
+                "curseforge": "1163206",
+                "modrinth": "vNZgQmjg"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_optimization-fabric-1.20.1-0.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7695/473/immersive_optimization-fabric-1.20.1-0.1.4.jar",
+                    "id": "7695473",
+                    "parent_id": "1163206",
+                    "hashes": {
+                        "sha1": "41ce497b43f1c2578f48a299087f0f5c092e240c",
+                        "md5": "b4a603974ca2c83916f33022aadc019e"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 51713,
+                    "date_published": "2026-03-01T11:19:52.470Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "immersive_optimization-fabric-1.20.1-0.1.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vNZgQmjg/versions/Dr61lGRR/immersive_optimization-fabric-1.20.1-0.1.4.jar",
+                    "id": "Dr61lGRR",
+                    "parent_id": "vNZgQmjg",
+                    "hashes": {
+                        "sha512": "e9cd53676e0f33c64638d1f404989da959ee86b4145991882ec77b96c4aaa4296139496bdd1a7416352dcbe69c6a8c1fdaa935ce5d3eebc3ba14e29eea00b802",
+                        "sha1": "41ce497b43f1c2578f48a299087f0f5c092e240c"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 51713,
+                    "date_published": "2026-03-01T11:19:53.713735Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "jfLbEv3EIM2psWhO",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
