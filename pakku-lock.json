@@ -1818,6 +1818,51 @@
             ]
         },
         {
+            "pakku_id": "klWLMX5N0eQnMyou",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "blended-compat"
+            },
+            "name": {
+                "curseforge": "Blended Compat"
+            },
+            "id": {
+                "curseforge": "1066390"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "blended-compat-1.1.2.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6915/988/blended-compat-1.1.2.jar",
+                    "id": "6915988",
+                    "parent_id": "1066390",
+                    "hashes": {
+                        "sha1": "98bbd93ec132f00cd70d6b65f4002bfda3b8d433",
+                        "md5": "6cf661ce6f4718730e907bae2c35dc58"
+                    },
+                    "required_dependencies": [],
+                    "size": 155918,
+                    "date_published": "2025-08-22T18:46:37.743Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "yxhKT22aJtb4Rq5y",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
