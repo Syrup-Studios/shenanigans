@@ -16055,6 +16055,76 @@
             ]
         },
         {
+            "pakku_id": "8rq8rmiHrOHi4NA5",
+            "pakku_links": [
+                "qrPITSwijkUpf7XG",
+                "AwRq1sYnLjT3JZ2i"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "notenoughrecipebook",
+                "modrinth": "notenoughrecipebook"
+            },
+            "name": {
+                "curseforge": "Not Enough Recipe Book [NERB]",
+                "modrinth": "Not Enough Recipe Book [NERB]"
+            },
+            "id": {
+                "curseforge": "738663",
+                "modrinth": "bQh7xzFq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5759/900/Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar",
+                    "id": "5759900",
+                    "parent_id": "738663",
+                    "hashes": {
+                        "sha1": "9088cb96c16372b339ca7f5b6e928938ebf97442",
+                        "md5": "3664206f700cbabaa599d45823989fd2"
+                    },
+                    "required_dependencies": [
+                        "916747",
+                        "419699"
+                    ],
+                    "size": 21366,
+                    "date_published": "2024-09-26T21:11:54.110Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bQh7xzFq/versions/hiLb6QFe/Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar",
+                    "id": "hiLb6QFe",
+                    "parent_id": "bQh7xzFq",
+                    "hashes": {
+                        "sha512": "e972943266e7b11d346864e1805636e6287e1554a3f4feaa68af0b3a0c5d87c308ebc80d24199b44c49b3130fd582355f5c2f9b64aa27edde54c4995f0d50591",
+                        "sha1": "9088cb96c16372b339ca7f5b6e928938ebf97442"
+                    },
+                    "required_dependencies": [
+                        "RH2KUdKJ"
+                    ],
+                    "size": 21366,
+                    "date_published": "2024-09-26T21:17:33.764704Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "YpqAGqnBuysRoGfd",
             "type": "MOD",
             "side": "BOTH",
@@ -19152,6 +19222,72 @@
                     "required_dependencies": [],
                     "size": 815594,
                     "date_published": "2024-11-22T21:48:01.880057Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qrPITSwijkUpf7XG",
+            "pakku_links": [
+                "AwRq1sYnLjT3JZ2i"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "octo-lib",
+                "modrinth": "octo-lib"
+            },
+            "name": {
+                "curseforge": "ShatterLib | OctoLib",
+                "modrinth": "ShatterLib | OctoLib"
+            },
+            "id": {
+                "curseforge": "916747",
+                "modrinth": "RH2KUdKJ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6274/626/OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+                    "id": "6274626",
+                    "parent_id": "916747",
+                    "hashes": {
+                        "sha1": "ea6763c11aac7635d9812dbccccba0d10b797a1d",
+                        "md5": "b70ed986b744612bbe4904eca17a73d4"
+                    },
+                    "required_dependencies": [],
+                    "size": 424020,
+                    "date_published": "2025-03-07T11:55:24.573Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RH2KUdKJ/versions/5UfjvE8g/OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+                    "id": "5UfjvE8g",
+                    "parent_id": "RH2KUdKJ",
+                    "hashes": {
+                        "sha512": "3034571cb8ee833c10cd04d66709d98bea406d276102e7c0ecc6b9485942e755ceac92d24a10fbe98af69f9400430fae9319569d8fca71bf6829b18dfd0789c5",
+                        "sha1": "ea6763c11aac7635d9812dbccccba0d10b797a1d"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 424020,
+                    "date_published": "2025-03-07T11:55:54.040065Z"
                 }
             ]
         },
