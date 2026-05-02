@@ -5144,6 +5144,74 @@
             ]
         },
         {
+            "pakku_id": "FJ48bBwHba98mZUv",
+            "pakku_links": [
+                "uAfFWm2rEb2ggpg4"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "create-threaded-trains",
+                "modrinth": "create-threaded-trains"
+            },
+            "name": {
+                "curseforge": "Create: Threaded Trains",
+                "modrinth": "Create: Threaded Trains"
+            },
+            "id": {
+                "curseforge": "1381890",
+                "modrinth": "RYJzdkDr"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "createthreadedtrains-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7208/552/createthreadedtrains-fabric-1.20.1-1.0.0.jar",
+                    "id": "7208552",
+                    "parent_id": "1381890",
+                    "hashes": {
+                        "sha1": "8a14e2c88b3dda004c4aa6f1c4502a165478349d",
+                        "md5": "da96fd2aa6f00358efb6544a0d96c6c2"
+                    },
+                    "required_dependencies": [
+                        "624165"
+                    ],
+                    "size": 77441,
+                    "date_published": "2025-11-10T23:26:24.213Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "createthreadedtrains-fabric-1.20.1-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RYJzdkDr/versions/x5kjKmOk/createthreadedtrains-fabric-1.20.1-1.0.0.jar",
+                    "id": "x5kjKmOk",
+                    "parent_id": "RYJzdkDr",
+                    "hashes": {
+                        "sha512": "be7058a94279c76ef70062490270e4f6dc2c0cc9aed045080cce3336def3bf934844f9fb2e14b590e44a467cda00954d6b86412d42fe7692ab1ba7ba718691be",
+                        "sha1": "8a14e2c88b3dda004c4aa6f1c4502a165478349d"
+                    },
+                    "required_dependencies": [
+                        "Xbc0uyRg"
+                    ],
+                    "size": 77441,
+                    "date_published": "2025-11-10T23:30:00.338679Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "rFkF77VEzwsTFSGw",
             "type": "MOD",
             "side": "CLIENT",
