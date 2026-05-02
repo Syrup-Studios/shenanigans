@@ -17,6 +17,9 @@
         },
         "puddles-floods": {
             "side": "CLIENT"
+        },
+        "blended-compat": {
+            "redistributable": true
         }
     }
 }
