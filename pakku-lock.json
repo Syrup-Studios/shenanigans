@@ -18503,6 +18503,67 @@
             ]
         },
         {
+            "pakku_id": "6Qqmx0woo0lUaAVH",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "redstonepen",
+                "curseforge": "redstone-pen"
+            },
+            "name": {
+                "modrinth": "Redstone Pen",
+                "curseforge": "Redstone Pen"
+            },
+            "id": {
+                "modrinth": "DwE83ioX",
+                "curseforge": "461710"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "redstonepen-1.20.1-fabric-1.5.31.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DwE83ioX/versions/VaQ60bvD/redstonepen-1.20.1-fabric-1.5.31.jar",
+                    "id": "VaQ60bvD",
+                    "parent_id": "DwE83ioX",
+                    "hashes": {
+                        "sha512": "0e1d73ac4fb8e5e9b165305a18d7b1c11a6f49b8fba591285715a1497163aba626e55954dc8fc374d2f1dc38df8954fa3d0df1240f6592489dabedc4ace065b0",
+                        "sha1": "956ae8626d2f585bbeb9408c0362e98774a27aee"
+                    },
+                    "required_dependencies": [],
+                    "size": 487298,
+                    "date_published": "2024-04-06T23:22:25.212054Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "redstonepen-1.20.1-fabric-1.5.31.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5241/814/redstonepen-1.20.1-fabric-1.5.31.jar",
+                    "id": "5241814",
+                    "parent_id": "461710",
+                    "hashes": {
+                        "sha1": "956ae8626d2f585bbeb9408c0362e98774a27aee",
+                        "md5": "19765511875f39e3781c70481ab5dfd4"
+                    },
+                    "required_dependencies": [],
+                    "size": 487298,
+                    "date_published": "2024-04-06T23:23:39.533Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ObUjFv5WWyDJvGVL",
             "type": "MOD",
             "side": "CLIENT",
