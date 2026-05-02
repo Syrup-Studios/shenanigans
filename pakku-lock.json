@@ -23634,6 +23634,67 @@
             ]
         },
         {
+            "pakku_id": "KdSxEHfKEcX3M6eK",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "vmp-fabric",
+                "modrinth": "vmp-fabric"
+            },
+            "name": {
+                "curseforge": "Very Many Players (Fabric)",
+                "modrinth": "Very Many Players (Fabric)"
+            },
+            "id": {
+                "curseforge": "552542",
+                "modrinth": "wnEe9KBa"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/4754/74/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+                    "id": "4754074",
+                    "parent_id": "552542",
+                    "hashes": {
+                        "sha1": "46e896cabf7813275413c97e6dd2f48ef534057d",
+                        "md5": "00831c52f753614a2f33bb288235ace1"
+                    },
+                    "required_dependencies": [],
+                    "size": 487043,
+                    "date_published": "2023-09-16T01:42:49.770Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/wnEe9KBa/versions/sV8lIBhJ/vmp-fabric-mc1.20.1-0.2.0+beta.7.102-all.jar",
+                    "id": "sV8lIBhJ",
+                    "parent_id": "wnEe9KBa",
+                    "hashes": {
+                        "sha512": "38ba14d870ddbcef233c9baa399005aaccde95d7b77175aa3a795eb9fed1086492b4ac5c6bbc05909dd76dce1b19b5c26613585161c2f3d20f2494beb8b23fe4",
+                        "sha1": "46e896cabf7813275413c97e6dd2f48ef534057d"
+                    },
+                    "required_dependencies": [],
+                    "size": 487043,
+                    "date_published": "2023-09-16T01:42:48.311988Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "chAaWd7pWYSUoRr6",
             "pakku_links": [
                 "VeVpUVJ9hZfIh70m"
