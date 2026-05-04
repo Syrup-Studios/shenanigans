@@ -773,6 +773,67 @@
             ]
         },
         {
+            "pakku_id": "8IdzaRUMDdBVK8Az",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "apathy-mod",
+                "modrinth": "apathy"
+            },
+            "name": {
+                "curseforge": "Apathy Mod",
+                "modrinth": "Apathy"
+            },
+            "id": {
+                "curseforge": "499846",
+                "modrinth": "fvtFPg1k"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "apathy-fabric-1.20.1-2.7.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6709/795/apathy-fabric-1.20.1-2.7.2.jar",
+                    "id": "6709795",
+                    "parent_id": "499846",
+                    "hashes": {
+                        "sha1": "ec69a71c1bb4be1f015bcdb60879e78b754d6dc7",
+                        "md5": "a58443f41ca6cfde20b85122b05cce38"
+                    },
+                    "required_dependencies": [],
+                    "size": 237555,
+                    "date_published": "2025-06-29T22:42:35.810Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "apathy-fabric-1.20.1-2.7.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fvtFPg1k/versions/Szwl5syc/apathy-fabric-1.20.1-2.7.2.jar",
+                    "id": "Szwl5syc",
+                    "parent_id": "fvtFPg1k",
+                    "hashes": {
+                        "sha512": "fb1b1bc834d1e38e15cf0d0438d4b4a6f8c214e6bd1894f8245f80395914ea7069d4ce1316e4aabaffcc4853ab9ae58789d2f244be8b0b5d5630d0c23961ef71",
+                        "sha1": "ec69a71c1bb4be1f015bcdb60879e78b754d6dc7"
+                    },
+                    "required_dependencies": [],
+                    "size": 237555,
+                    "date_published": "2025-06-29T22:38:35.294589Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "MdKrXmIH7FsUbi64",
             "type": "MOD",
             "side": "BOTH",
