@@ -1453,6 +1453,67 @@
             ]
         },
         {
+            "pakku_id": "jsmzZr9k6wHesSQF",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "better-advancements",
+                "modrinth": "better-advancements"
+            },
+            "name": {
+                "curseforge": "Better Advancements",
+                "modrinth": "Better Advancements"
+            },
+            "id": {
+                "curseforge": "272515",
+                "modrinth": "Q2OqKxDG"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/6010/301/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
+                    "id": "6010301",
+                    "parent_id": "272515",
+                    "hashes": {
+                        "sha1": "22964ac6041bd356e40658eb50425ae730f1b071",
+                        "md5": "aab265e80bbf0269996062ce1ba9822a"
+                    },
+                    "required_dependencies": [],
+                    "size": 97597,
+                    "date_published": "2024-12-21T12:20:46.683Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/g2QPj5Kb/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
+                    "id": "g2QPj5Kb",
+                    "parent_id": "Q2OqKxDG",
+                    "hashes": {
+                        "sha512": "e3111771d6b16639757d562c1714ae1ee2cdb0e14a923c8be87ab87db2a2848dba9b0c40f5f83495140045d2aa5c8bc8e4a9273f1b1470fe71398267aa668816",
+                        "sha1": "22964ac6041bd356e40658eb50425ae730f1b071"
+                    },
+                    "required_dependencies": [],
+                    "size": 97597,
+                    "date_published": "2024-12-21T12:21:10.536780Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4YU8xCRJlhpT5WiW",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I"
