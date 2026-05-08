@@ -9267,6 +9267,80 @@
             ]
         },
         {
+            "pakku_id": "E06nZraSiPR8J1R5",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "WmLYiuDUotw6SRz1",
+                "BI4lCoFDs1wqWNaV"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fancymenu",
+                "modrinth": "fancymenu"
+            },
+            "name": {
+                "curseforge": "FancyMenu",
+                "modrinth": "FancyMenu"
+            },
+            "id": {
+                "curseforge": "367706",
+                "modrinth": "Wq5SjeWM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fancymenu_fabric_3.9.0_MC_1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8032/686/fancymenu_fabric_3.9.0_MC_1.20.1.jar",
+                    "id": "8032686",
+                    "parent_id": "367706",
+                    "hashes": {
+                        "sha1": "dffb316761f098a3a7958acc05285ac85b839508",
+                        "md5": "12c205e2515ee14a8db9c2399a5463b1"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "938643",
+                        "416797"
+                    ],
+                    "size": 25647530,
+                    "date_published": "2026-05-03T14:40:47.077Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fancymenu_fabric_3.9.0_MC_1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/mMuzW4FM/fancymenu_fabric_3.9.0_MC_1.20.1.jar",
+                    "id": "mMuzW4FM",
+                    "parent_id": "Wq5SjeWM",
+                    "hashes": {
+                        "sha512": "ccbaaf7ba05d8f548a73974d6c68fd53a4c58ccf53a1677b2fdbaa6d0991115a2836d755a8be83b9209b83d4e4fa225b9407e8a99f919e4e44f921b80f993b8c",
+                        "sha1": "dffb316761f098a3a7958acc05285ac85b839508"
+                    },
+                    "required_dependencies": [
+                        "J81TRJWm",
+                        "CVT4pFB2",
+                        "P7dR8mSH"
+                    ],
+                    "size": 25647530,
+                    "date_published": "2026-05-03T14:41:39.773451Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "61IZVaATFOgui7PU",
             "type": "MOD",
             "side": "BOTH",
@@ -14464,6 +14538,80 @@
                     "required_dependencies": [],
                     "size": 330607,
                     "date_published": "2023-11-29T19:37:54.524938Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WmLYiuDUotw6SRz1",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "melody",
+                "modrinth": "melody"
+            },
+            "name": {
+                "curseforge": "Melody",
+                "modrinth": "Melody"
+            },
+            "id": {
+                "curseforge": "938643",
+                "modrinth": "CVT4pFB2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5139/711/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+                    "id": "5139711",
+                    "parent_id": "938643",
+                    "hashes": {
+                        "sha1": "15eeff0c0fd8b4734492915c656077592b2d9e67",
+                        "md5": "8095b46d324586b3cf3d2f5bffe8b417"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 39696,
+                    "date_published": "2024-02-27T04:49:03.980Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+                    "id": "2o0oW8Yv",
+                    "parent_id": "CVT4pFB2",
+                    "hashes": {
+                        "sha512": "3d3379e07eae001860aa71379abe310cda6642965cd55a8d274dacef1b63d8c85fd0663abeec2d247ac1a631bd08b12dace8758f4a035d344e27db5edfe581c5",
+                        "sha1": "15eeff0c0fd8b4734492915c656077592b2d9e67"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 39696,
+                    "date_published": "2024-02-27T04:49:07.808485Z"
                 }
             ]
         },
