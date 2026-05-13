@@ -11545,31 +11545,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "immersive_gateways-fabric-0.0.4+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7740/127/immersive_gateways-fabric-0.0.4+1.20.1.jar",
-                    "id": "7740127",
-                    "parent_id": "1307924",
-                    "hashes": {
-                        "sha1": "cfb747ae09eb8b97fb49812793eed583332c2093",
-                        "md5": "2bd9f2c633c4fd79eb07d4be9e4b2f42"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 495117,
-                    "date_published": "2026-03-10T21:03:13.700Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "immersive_gateways-fabric-0.0.4+1.20.1.jar",
+                    "file_name": "immersive_gateways-fabric-0.0.5+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -11577,18 +11554,41 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3hZmBMYA/versions/nRyEOsj3/immersive_gateways-fabric-0.0.4+1.20.1.jar",
-                    "id": "nRyEOsj3",
+                    "url": "https://cdn.modrinth.com/data/3hZmBMYA/versions/i1WLRY7a/immersive_gateways-fabric-0.0.5+1.20.1.jar",
+                    "id": "i1WLRY7a",
                     "parent_id": "3hZmBMYA",
                     "hashes": {
-                        "sha512": "4ed2f2e0f249243ba9bb782874dd7fa40ef554ca83688f0c1295ee9937665e7ffff4f6766c84169b7c4b6901a9596df284b6091933e9cbbc8bf8179727b2ec33",
-                        "sha1": "cfb747ae09eb8b97fb49812793eed583332c2093"
+                        "sha512": "ccd8da68dc057c89dcbc9e2b81174a94518b40068110274d2fe9c1156dbb4e0ce0f64f2b4a434c58c456485790e827897ff042cb0559bf49aea24d3c7f4ad2d2",
+                        "sha1": "a7342af8bc8cd81c84f927d3715562302db0a9a0"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 495117,
-                    "date_published": "2026-03-10T21:03:16.715990Z"
+                    "size": 501170,
+                    "date_published": "2026-05-12T19:18:59.571538Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "immersive_gateways-fabric-0.0.5+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8079/369/immersive_gateways-fabric-0.0.5+1.20.1.jar",
+                    "id": "8079369",
+                    "parent_id": "1307924",
+                    "hashes": {
+                        "sha1": "a7342af8bc8cd81c84f927d3715562302db0a9a0",
+                        "md5": "a2ac0b66d7ef09514ce952ad9595888f"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 501170,
+                    "date_published": "2026-05-12T19:18:58.490Z"
                 }
             ]
         },
