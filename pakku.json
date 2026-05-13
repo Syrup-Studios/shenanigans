@@ -20,6 +20,9 @@
         },
         "blended-compat": {
             "redistributable": true
+        },
+        "explosive-enhancement": {
+            "update_strategy": "NONE"
         }
     }
 }

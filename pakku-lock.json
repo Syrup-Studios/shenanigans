@@ -8585,6 +8585,7 @@
                 "curseforge": "1318792",
                 "modrinth": "OSQ8mw2r"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "curseforge",
@@ -24610,7 +24611,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "VanillaBackport-fabric-1.20.1-1.1.6.3.jar",
+                    "file_name": "VanillaBackport-fabric-1.20.1-1.1.7.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -24618,20 +24619,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/K05NuQon/VanillaBackport-fabric-1.20.1-1.1.6.3.jar",
-                    "id": "K05NuQon",
+                    "url": "https://cdn.modrinth.com/data/6xwxDTgf/versions/FvOd8ept/VanillaBackport-fabric-1.20.1-1.1.7.1.jar",
+                    "id": "FvOd8ept",
                     "parent_id": "6xwxDTgf",
                     "hashes": {
-                        "sha512": "67cc57bbedbf8d5b222a0bd9d55dcf688c968074a61dbb7d6af86c8027b64dd8f3eb7365f77f1851ff721135f4924fed96617527c11ed41969730a36972b8423",
-                        "sha1": "62a337fd180dbdea7fd7b989ca2f2376db859320"
+                        "sha512": "af5bc3c6cd7ec920128692f4c7c09cd70169a3381bbd4faf94f54a53726b94e902571d9cedbdf0686d22824832078cbdb76da34e660df4672c49e1e895939221",
+                        "sha1": "eb17360885cff252ca2f134dfe7b20af3b31058d"
                     },
-                    "required_dependencies": [],
-                    "size": 28488024,
-                    "date_published": "2026-03-28T18:50:44.684058Z"
+                    "required_dependencies": [
+                        "i6fiqm5y"
+                    ],
+                    "size": 55361540,
+                    "date_published": "2026-05-13T01:50:34.760359Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "VanillaBackport-fabric-1.20.1-1.1.6.3.jar",
+                    "file_name": "VanillaBackport-fabric-1.20.1-1.1.7.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -24639,18 +24642,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7830/644/VanillaBackport-fabric-1.20.1-1.1.6.3.jar",
-                    "id": "7830644",
+                    "url": "https://edge.forgecdn.net/files/8080/720/VanillaBackport-fabric-1.20.1-1.1.7.1.jar",
+                    "id": "8080720",
                     "parent_id": "417430",
                     "hashes": {
-                        "sha1": "62a337fd180dbdea7fd7b989ca2f2376db859320",
-                        "md5": "2a477641fe710a285f74646e1d042044"
+                        "sha1": "eb17360885cff252ca2f134dfe7b20af3b31058d",
+                        "md5": "c6c0465d5d35358c89fef66898d6cdf7"
                     },
                     "required_dependencies": [
                         "997634"
                     ],
-                    "size": 28488024,
-                    "date_published": "2026-03-28T18:44:02.630Z"
+                    "size": 55361540,
+                    "date_published": "2026-05-13T01:44:57.687Z"
                 }
             ]
         },
