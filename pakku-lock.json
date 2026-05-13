@@ -17803,7 +17803,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "Platform-fabric-1.20.1-1.3.jar",
+                    "file_name": "Platform-fabric-1.20.1-1.3.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17811,20 +17811,22 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/oI6bDY42/Platform-fabric-1.20.1-1.3.jar",
-                    "id": "oI6bDY42",
+                    "url": "https://cdn.modrinth.com/data/i6fiqm5y/versions/bzUnKsaY/Platform-fabric-1.20.1-1.3.3.jar",
+                    "id": "bzUnKsaY",
                     "parent_id": "i6fiqm5y",
                     "hashes": {
-                        "sha512": "e5097b076143749de4cdbc30fd886a9085cb812cf7d78cf55e759dc1d0fa34008673c2c93d89a012e38f0e8c0e01e524c5a2297130bca9e2eb155bb673fa3620",
-                        "sha1": "06f332806aa5b05d5f6e1b5ec980e93257944850"
+                        "sha512": "3c4069de18bf9efa25d6f7d47faa5e3230273fd6fa169bd0489354c7b4186cdf94db448e790ef6b83242c3a182d85e71f52cbb402fcc7a920f1a337edbdfb7dd",
+                        "sha1": "ba55ef32ff56501fc64a9714c2e90c53f723c7b1"
                     },
-                    "required_dependencies": [],
-                    "size": 923044,
-                    "date_published": "2026-03-25T14:22:09.064767Z"
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 939640,
+                    "date_published": "2026-05-12T01:10:11.417494Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "Platform-fabric-1.20.1-1.3.jar",
+                    "file_name": "Platform-fabric-1.20.1-1.3.3.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -17832,18 +17834,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7811/409/Platform-fabric-1.20.1-1.3.jar",
-                    "id": "7811409",
+                    "url": "https://edge.forgecdn.net/files/8075/940/Platform-fabric-1.20.1-1.3.3.jar",
+                    "id": "8075940",
                     "parent_id": "997634",
                     "hashes": {
-                        "sha1": "06f332806aa5b05d5f6e1b5ec980e93257944850",
-                        "md5": "f770a594575eb188d5a998f03f2d4f66"
+                        "sha1": "ba55ef32ff56501fc64a9714c2e90c53f723c7b1",
+                        "md5": "11991cf973e4f7d0e182db2905e6dc58"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 923044,
-                    "date_published": "2026-03-25T14:25:24.757Z"
+                    "size": 939640,
+                    "date_published": "2026-05-12T01:07:03.140Z"
                 }
             ]
         },
