@@ -1,0 +1,1 @@
+quick patch to remove client crafting

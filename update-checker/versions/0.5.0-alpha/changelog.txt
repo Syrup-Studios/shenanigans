@@ -1,0 +1,93 @@
+## Loaders
+
+### Updated
+
+- Fabric
+
+### Changed
+
+- Made tick speed move faster when sleeping
+- Switched out Journeymap with Map Atlases
+- Removed Journeymap configs and such since not needed anylonger
+
+## Projects
+
+### Added
+
+- CERBON's API [Forge | Fabric | NeoForge]
+- CERBON's Better Beacons [Forge | Fabric | NeoForge]
+- Cardinal Components API
+- Cherished Worlds
+- Chunk Sending[Forge/Fabric]
+- Clean Tooltips
+- Client Crafting
+- Comfortable Campfires
+- Cupboard
+- Death Knell
+- Durability Tooltip
+- Easy Shulker Boxes
+- Ecologics
+- Explosive Enhancement
+- Fast Paintings
+- Fast Scrolling
+- GPUBooster
+- Heartstone
+- Horse Stonks [Fabric/Forge]
+- Immersive Overlays
+- Improved Trident
+- Kiwi 🥝 (Fabric)
+- Krypton
+- Map Atlases [Fabric]
+- Modern World Creation
+- NetherPortalFix
+- No Shield Delay
+- Overflowing Bars
+- Raised
+- Recipe Essentials[Forge/Fabric]
+- Resource Pack Overrides
+- Screenshot Viewer
+- Screenshot to Clipboard (Fabric)
+- Shield Expansion
+- SuperMartijn642's Config Lib
+- ToadLib
+- Treeplacer
+- Vanillin
+- fix GPU memory leak[Forge/Fabric]
+
+### Removed
+
+- Accessories
+- JourneyMap
+- Odyssey Allies
+- Odyssey Claims
+- Odyssey Quests
+- The Aether
+- Tinkerer's Smithing
+- Tinkerer's Smithing: KubeJS Compat
+- [Let's Do] Camping
+
+### Updated
+
+- Collective
+- Colorwheel
+- Colorwheel Patcher
+- CraterLib
+- Entity Culling Fabric/Forge
+- Every Compat (Wood Good)
+- Explorer's Compass
+- Fabric API
+- Fabric Language Kotlin
+- Fetzi's Displays
+- Field Guide
+- Hexalia
+- Just Enough Items (JEI)
+- MmmMmmMmmMmm (Target Dummy)
+- Moonlight Lib
+- Nature's Compass
+- Not Enough Animations
+- Only Hammers And Excavators
+- Platform
+- Repurposed Structures (Fabric)
+- Shuttfup
+- Simple Voice Chat
+- SuperMartijn642's Core Lib
