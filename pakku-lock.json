@@ -20615,7 +20615,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "simplytents-1.0.1.jar",
+                    "file_name": "simplytents-2.0.1-1.20.1.fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -20623,18 +20623,18 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7871/181/simplytents-1.0.1.jar",
-                    "id": "7871181",
+                    "url": "https://edge.forgecdn.net/files/8061/645/simplytents-2.0.1-1.20.1.fabric.jar",
+                    "id": "8061645",
                     "parent_id": "1152882",
                     "hashes": {
-                        "sha1": "8411367a8100505cb126c55e33c38c8a8ef97ffd",
-                        "md5": "bbf4ea1da7239da7aa3f026c926641fb"
+                        "sha1": "a4257606523842edb16680c905b7a53e507fb463",
+                        "md5": "1b7f9ec527bcbd6cd345f134debdccd2"
                     },
                     "required_dependencies": [
                         "388172"
                     ],
-                    "size": 1143608,
-                    "date_published": "2026-04-04T03:32:11.573Z"
+                    "size": 1358114,
+                    "date_published": "2026-05-09T06:18:41.560Z"
                 }
             ]
         },
