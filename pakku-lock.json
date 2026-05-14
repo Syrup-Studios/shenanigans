@@ -8369,7 +8369,7 @@
             ]
         },
         {
-            "pakku_id": "srs9UVOpaBCd3WBX",
+            "pakku_id": "fvZY37Gh1Yqg8EM0",
             "pakku_links": [
                 "VeVpUVJ9hZfIh70m",
                 "RjGdALOn8S9NpH6I"
@@ -8377,15 +8377,12 @@
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "every-compat",
                 "modrinth": "every-compat"
             },
             "name": {
-                "curseforge": "Every Compat (Wood Good)",
                 "modrinth": "Every Compat (Wood Good)"
             },
             "id": {
-                "curseforge": "628539",
                 "modrinth": "eiktJyw1"
             },
             "files": [
@@ -8412,30 +8409,6 @@
                     ],
                     "size": 2641016,
                     "date_published": "2026-04-15T05:04:30.099640Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "everycomp-1.20-2.9.19-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7860/228/everycomp-1.20-2.9.19-fabric.jar",
-                    "id": "7860228",
-                    "parent_id": "628539",
-                    "hashes": {
-                        "sha1": "f47f4a8b719c86c657a24d621de8c157ef7810a9",
-                        "md5": "ee43cc1903b62aa961035f8f7ca127f7"
-                    },
-                    "required_dependencies": [
-                        "499980",
-                        "306612"
-                    ],
-                    "size": 2640578,
-                    "date_published": "2026-04-02T07:57:00.540Z"
                 }
             ]
         },
