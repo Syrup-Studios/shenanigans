@@ -7398,6 +7398,69 @@
             ]
         },
         {
+            "pakku_id": "kwOcEZjxhlgULFsc",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "early-loading-screen",
+                "modrinth": "early-loading-screen"
+            },
+            "name": {
+                "curseforge": "Early Loading Screen",
+                "modrinth": "Early Loading Screen"
+            },
+            "id": {
+                "curseforge": "880147",
+                "modrinth": "JVIyMkGt"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "earlyloadingscreen-mc1.20.1-0.1.5-all.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4998/392/earlyloadingscreen-mc1.20.1-0.1.5-all.jar",
+                    "id": "4998392",
+                    "parent_id": "880147",
+                    "hashes": {
+                        "sha1": "009096322caf7474a68e8b60662cd5ae449b496c",
+                        "md5": "f440eaf078584056f5596e17d48573fd"
+                    },
+                    "required_dependencies": [],
+                    "size": 434127,
+                    "date_published": "2024-01-01T04:34:13.397Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "earlyloadingscreen-mc1.20.1-0.1.5-all.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JVIyMkGt/versions/RtLPvt5z/earlyloadingscreen-mc1.20.1-0.1.5-all.jar",
+                    "id": "RtLPvt5z",
+                    "parent_id": "JVIyMkGt",
+                    "hashes": {
+                        "sha512": "eab7fc276786c02253aa35fefffae4fe2b792eca60fb10d79660b58697fe8b3d08972eb947f5439d714a0b79b96ac2fecb7100c7c9ba9f1d8987ba75f4d0c4c4",
+                        "sha1": "009096322caf7474a68e8b60662cd5ae449b496c"
+                    },
+                    "required_dependencies": [],
+                    "size": 434127,
+                    "date_published": "2024-01-01T04:27:28.180867Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "50aiOmlClzkzgyL6",
             "pakku_links": [
                 "8XXJmG3GCel9lR3Q",
