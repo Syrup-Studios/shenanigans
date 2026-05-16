@@ -8018,175 +8018,6 @@
             ]
         },
         {
-            "pakku_id": "UrrE2i9LQvQeG8wB",
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "epic-structures-dungeons"
-            },
-            "name": {
-                "modrinth": "Epic Structures: Dungeons"
-            },
-            "id": {
-                "modrinth": "t0YT91nL"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Epic Structures Dungeons V1.1 (1.20+).zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/t0YT91nL/versions/fED3czOw/Epic Structures Dungeons V1.1 (1.20+).zip",
-                    "id": "fED3czOw",
-                    "parent_id": "t0YT91nL",
-                    "hashes": {
-                        "sha512": "5b1edd495906e32065d3a6354c5a3451f5535e51ff06016f77122e7a97c97f11716277be4e98d6c8db746020fd2b54c40db6e5ba3ca9449487610163e4025d48",
-                        "sha1": "1bc63e96c6a9ece485d4c1665d0cb80efc58b167"
-                    },
-                    "required_dependencies": [],
-                    "size": 5020299,
-                    "date_published": "2026-04-05T17:40:13.388905Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "oJiTGLx3cYc2Ath3",
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "epic-structures-igloo"
-            },
-            "name": {
-                "modrinth": "Epic Structures: Igloo"
-            },
-            "id": {
-                "modrinth": "r5cwIwhb"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "epic igloo (1.20+).zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/r5cwIwhb/versions/oaMjiD9T/epic igloo (1.20+).zip",
-                    "id": "oaMjiD9T",
-                    "parent_id": "r5cwIwhb",
-                    "hashes": {
-                        "sha512": "528bd0fb966853651f1bf54c911a8f27e112a5357e4d563a0e8a12f00908ec27b26c1799fb4853ab6fa23038ca37c1b1a655bfa26c16146bb3551864f5f9c162",
-                        "sha1": "ea3fae3988d0e50195de57d49f244454d1df8bc9"
-                    },
-                    "required_dependencies": [],
-                    "size": 1731095,
-                    "date_published": "2026-04-22T10:28:40.025665Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "p3a6OuUSh5pGAe3M",
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "epic-structures-villages"
-            },
-            "name": {
-                "modrinth": "Epic Structures: Villages"
-            },
-            "id": {
-                "modrinth": "4OeMBkiG"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Epic Villages v1.2.0 (1.20+).zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4OeMBkiG/versions/i3SCNDuP/Epic Villages v1.2.0 (1.20+).zip",
-                    "id": "i3SCNDuP",
-                    "parent_id": "4OeMBkiG",
-                    "hashes": {
-                        "sha512": "eea9826c4eef239b1c990e13f46ce78752bec037d068a026e67dd95d15ba244ef176a7ffe6f605890f43fad94cf5074c2ab14a5518bee4f00652284ed37f514e",
-                        "sha1": "5f08ffadb0c1359298b0a93040a2ab876d1d17b4"
-                    },
-                    "required_dependencies": [],
-                    "size": 3152896,
-                    "date_published": "2026-01-30T12:13:52.235885Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "1LOTQlGqvJGlNdVM",
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "epic-structures-witch-huts"
-            },
-            "name": {
-                "modrinth": "Epic Structures: Witch Huts"
-            },
-            "id": {
-                "modrinth": "7KOwcKlK"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Epic Witch Huts v1.2.0 DATAPACK 1.19+.zip",
-                    "mc_versions": [
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/7KOwcKlK/versions/YwLwvGZ1/Epic Witch Huts v1.2.0 DATAPACK 1.19+.zip",
-                    "id": "YwLwvGZ1",
-                    "parent_id": "7KOwcKlK",
-                    "hashes": {
-                        "sha512": "8d17f091e9a901128be74e686e2633e07249ad736a2bbb01f74790e9fcc171b1077687f63b02564e5b587d1bdeefe9d94f41579be7c8204faf10512ab985449a",
-                        "sha1": "e6d2e810e7a47ae5339047583e2c036e046c0e29"
-                    },
-                    "required_dependencies": [],
-                    "size": 735376,
-                    "date_published": "2025-12-10T14:45:34.503164Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "fvZY37Gh1Yqg8EM0",
             "pakku_links": [
                 "VeVpUVJ9hZfIh70m",
@@ -15813,50 +15644,6 @@
             ]
         },
         {
-            "pakku_id": "fbic2F8GTD0Z0OnU",
-            "pakku_links": [
-                "nziiIR5mfr9ev1my",
-                "pZNDIIO3hsLsacjr"
-            ],
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "nifty-carts-x-farm-and-charm"
-            },
-            "name": {
-                "modrinth": "Nifty Carts x Farm & Charm"
-            },
-            "id": {
-                "modrinth": "DDUhwDmz"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "NiftyCarts x Farm & Charm.zip",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/DDUhwDmz/versions/MVcG96rL/NiftyCarts x Farm & Charm.zip",
-                    "id": "MVcG96rL",
-                    "parent_id": "DDUhwDmz",
-                    "hashes": {
-                        "sha512": "72af9330085f6d4860d6db5352b877840a95b094cd6bfb6eb52fda0fcb5e171cb913c867e708b5fe52c94d34e4249a5888788d26d58ff09b0e14e6433b5aaab0",
-                        "sha1": "f9436dcc1295a5bcfc116adc63b3a7e5e16deb38"
-                    },
-                    "required_dependencies": [
-                        "HJetCzWo",
-                        "CXd6g9xp"
-                    ],
-                    "size": 11465,
-                    "date_published": "2025-09-19T14:12:14.100089Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "pZNDIIO3hsLsacjr",
             "pakku_links": [
                 "tLXl9sKwxFFIkD6P"
@@ -15923,50 +15710,6 @@
                     ],
                     "size": 575758,
                     "date_published": "2025-09-16T20:40:20.987Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "ywYy42IVAYNfFQ8Z",
-            "pakku_links": [
-                "pZNDIIO3hsLsacjr",
-                "Y8JLaPIY8JfBT7SR"
-            ],
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "niftycarts-x-regions-unexplored"
-            },
-            "name": {
-                "modrinth": "NiftyCarts x Regions Unexplored"
-            },
-            "id": {
-                "modrinth": "SUxgYFgZ"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "NiftyCarts x Regions Unexplored.zip",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/SUxgYFgZ/versions/V0e4Q62Q/NiftyCarts x Regions Unexplored.zip",
-                    "id": "V0e4Q62Q",
-                    "parent_id": "SUxgYFgZ",
-                    "hashes": {
-                        "sha512": "ed68acd352549efdfa7281720f87fb8b50587ab3e999bcc3c6048c06f71b0949d9118a4f3081042020a437f0896a5227e5d5e5868e6c8228cae2c7817e7e7574",
-                        "sha1": "1ac50a146e7f098ae8f55ac86d6c2db531cddee6"
-                    },
-                    "required_dependencies": [
-                        "CXd6g9xp",
-                        "Tkikq67H"
-                    ],
-                    "size": 7228,
-                    "date_published": "2025-09-19T13:34:54.184581Z"
                 }
             ]
         },
@@ -19634,44 +19377,6 @@
             ]
         },
         {
-            "pakku_id": "VuemEvVAa9jzkMXa",
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "shenanigans-datapack"
-            },
-            "name": {
-                "modrinth": "Shenanigans Datapack"
-            },
-            "id": {
-                "modrinth": "SJv2PKMA"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Shenanigans.zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/SJv2PKMA/versions/GjxOiahm/Shenanigans.zip",
-                    "id": "GjxOiahm",
-                    "parent_id": "SJv2PKMA",
-                    "hashes": {
-                        "sha512": "03350e7c55dd9eaadb5baf6a5a917c93f80a9e8478298fbf77cef42a8b1fcc9627b86aee0f00b082c0cc3bbabf2f4c6baaa8292377c0a682edfb7c0db72a5f8b",
-                        "sha1": "f83bca65c04be00234886497b658c4157a70c5b9"
-                    },
-                    "required_dependencies": [],
-                    "size": 54630,
-                    "date_published": "2026-03-08T22:30:26.816971Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "mU2WMbdQUAMlZadE",
             "type": "MOD",
             "side": "SERVER",
@@ -23011,47 +22716,6 @@
             ]
         },
         {
-            "pakku_id": "GA91GwkG1YlRxbuA",
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "tidal-towns"
-            },
-            "name": {
-                "modrinth": "Tidal Towns"
-            },
-            "id": {
-                "modrinth": "EEIwvQVo"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "tidal_1.3.4.zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/wSiPniLg/tidal_1.3.4.zip",
-                    "id": "wSiPniLg",
-                    "parent_id": "EEIwvQVo",
-                    "hashes": {
-                        "sha512": "ddc626d00f26c40069c39875a4c5a8cffc2e66dd2c88891a624a14288f7c49babf8b213587eab3e8590c462d7846b853722d6a54d8d5ec3248b39b129073ab70",
-                        "sha1": "d66480674a9f3e1b4fb9472bc77de54fd8297e30"
-                    },
-                    "required_dependencies": [],
-                    "size": 56300,
-                    "date_published": "2024-11-28T17:03:12.332603Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "7D6kPwe9CypyW1lz",
             "type": "MOD",
             "side": "CLIENT",
@@ -23801,66 +23465,6 @@
             ]
         },
         {
-            "pakku_id": "Fd6k0DMhryv4YI8h",
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "typewriter-daycounter"
-            },
-            "name": {
-                "modrinth": "Typewriter Day Counter"
-            },
-            "id": {
-                "modrinth": "j6YEKDZd"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "vr_typewriter_daycounter_v1.1.zip",
-                    "mc_versions": [
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/j6YEKDZd/versions/QjGr2L89/vr_typewriter_daycounter_v1.1.zip",
-                    "id": "QjGr2L89",
-                    "parent_id": "j6YEKDZd",
-                    "hashes": {
-                        "sha512": "c8257af81c06df73e69d4c74d8d900dbd20bd857a9f54a3c641f6a0581cfcbfb9e391b3fde23bc9317645b181d3cec80ee999f7a3e35fbf796f7c1b66e86191b",
-                        "sha1": "4c279ee4beeacb5f1e50bf341fb04b13c32b076d"
-                    },
-                    "required_dependencies": [],
-                    "size": 56277,
-                    "date_published": "2026-01-11T03:09:14.794121Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "f5sJeKb2A64HxnfQ",
             "pakku_links": [
                 "tLXl9sKwxFFIkD6P"
@@ -23994,50 +23598,6 @@
                     ],
                     "size": 55361540,
                     "date_published": "2026-05-13T01:44:57.687Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "FXahxTuUKQp09uYl",
-            "pakku_links": [
-                "Y8JLaPIY8JfBT7SR",
-                "KlKb0REbyIvzZh9x"
-            ],
-            "type": "DATA_PACK",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "vb-x-ru"
-            },
-            "name": {
-                "modrinth": "Vanilla Backport x Regions Unexplored"
-            },
-            "id": {
-                "modrinth": "y4VzLoNa"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Vanilla Backport x Regions Unexplored.zip",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "datapack"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/y4VzLoNa/versions/f1RSHc6Y/Vanilla Backport x Regions Unexplored.zip",
-                    "id": "f1RSHc6Y",
-                    "parent_id": "y4VzLoNa",
-                    "hashes": {
-                        "sha512": "87e3b42021c48cba3200297408b925989cedbd7720ee1510637a57dca24b0786ba64c0ad22a304edf7477c683a4cf13c1288c84d0dc030b7ee61832d887faa1a",
-                        "sha1": "e8a72957d7c6b0095c5efe0457736c246349ff83"
-                    },
-                    "required_dependencies": [
-                        "Tkikq67H",
-                        "6xwxDTgf"
-                    ],
-                    "size": 210157,
-                    "date_published": "2025-12-12T00:01:02.282663Z"
                 }
             ]
         },
