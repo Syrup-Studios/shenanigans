@@ -137,6 +137,77 @@
             ]
         },
         {
+            "pakku_id": "642lDWJh9rItgU0G",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "zJdHaMqgv1dOR3pR"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "accessories",
+                "modrinth": "accessories"
+            },
+            "name": {
+                "curseforge": "Accessories",
+                "modrinth": "Accessories"
+            },
+            "id": {
+                "curseforge": "938917",
+                "modrinth": "jtmvUHXj"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "accessories-fabric-1.0.0-beta.48+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7164/886/accessories-fabric-1.0.0-beta.48+1.20.1.jar",
+                    "id": "7164886",
+                    "parent_id": "938917",
+                    "hashes": {
+                        "sha1": "38e3d368d97914966bdda5c6719f77c7f1f9a58d",
+                        "md5": "221b4a22e0d96453c949bcd7d913ad62"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "348521"
+                    ],
+                    "size": 769376,
+                    "date_published": "2025-10-29T23:02:02.813Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "accessories-fabric-1.0.0-beta.48+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/A7wwzJ0e/accessories-fabric-1.0.0-beta.48+1.20.1.jar",
+                    "id": "A7wwzJ0e",
+                    "parent_id": "jtmvUHXj",
+                    "hashes": {
+                        "sha512": "f426c9b12e0c196d859a99fce76a1fbce92efceb09915dda4b160520390a94427b8203186f2fb3e2469f0938599f332a57f52dbc25d89111e3f5de1174de0d16",
+                        "sha1": "38e3d368d97914966bdda5c6719f77c7f1f9a58d"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "P7dR8mSH"
+                    ],
+                    "size": 769376,
+                    "date_published": "2025-10-29T23:02:00.915084Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "GbtnWHbIrjsUTrV7",
             "type": "MOD",
             "side": "BOTH",
@@ -19779,6 +19850,77 @@
                     ],
                     "size": 714318,
                     "date_published": "2026-03-26T16:42:52.257Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qb0avZqpzQiRI4S1",
+            "pakku_links": [
+                "642lDWJh9rItgU0G",
+                "zJdHaMqgv1dOR3pR"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "simple-hats",
+                "curseforge": "simplehats"
+            },
+            "name": {
+                "modrinth": "Simple Hats",
+                "curseforge": "Simple Hats"
+            },
+            "id": {
+                "modrinth": "iSkQCp6b",
+                "curseforge": "631990"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "simplehats-fabric-1.20.1-0.4.0a.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/iSkQCp6b/versions/vcsAZ7Ma/simplehats-fabric-1.20.1-0.4.0a.jar",
+                    "id": "vcsAZ7Ma",
+                    "parent_id": "iSkQCp6b",
+                    "hashes": {
+                        "sha512": "d14044c4741329a8981458018a4a49c1ea32c0c6676466f01f00e4227e075c137b585615f51198343fe80d7da8051ed424a84385f5961fd7067624a7c1eecfee",
+                        "sha1": "5dc5560bf3d63d741eae94d82c183cc4e66c5f1d"
+                    },
+                    "required_dependencies": [
+                        "jtmvUHXj",
+                        "9s6osm5g"
+                    ],
+                    "size": 1400092,
+                    "date_published": "2026-02-09T08:19:13.989306Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "simplehats-fabric-1.20.1-0.4.0a.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7598/406/simplehats-fabric-1.20.1-0.4.0a.jar",
+                    "id": "7598406",
+                    "parent_id": "631990",
+                    "hashes": {
+                        "sha1": "5dc5560bf3d63d741eae94d82c183cc4e66c5f1d",
+                        "md5": "2125a1855dba654fb264eda33fcafedd"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "938917"
+                    ],
+                    "size": 1400092,
+                    "date_published": "2026-02-09T08:17:19.043Z"
                 }
             ]
         },
