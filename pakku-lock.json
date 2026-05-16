@@ -21067,22 +21067,21 @@
             ]
         },
         {
-            "pakku_id": "X1AQ13Z1y1fsW3pj",
+            "pakku_id": "LLNI1mdxHbeLkdji",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
-                "curseforge": "spyglass-astronomy",
                 "modrinth": "spyglass-astronomy"
             },
             "name": {
-                "curseforge": "Spyglass Astronomy",
                 "modrinth": "Spyglass Astronomy"
             },
             "id": {
-                "curseforge": "822372",
                 "modrinth": "EdBSdqge"
             },
-            "redistributable": false,
             "files": [
                 {
                     "type": "modrinth",
@@ -21107,28 +21106,6 @@
                     ],
                     "size": 279469,
                     "date_published": "2024-11-08T11:54:41.829603Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "spyglass_astronomy-1.0.15-mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5884/900/spyglass_astronomy-1.0.15-mc1.20.1.jar",
-                    "id": "5884900",
-                    "parent_id": "822372",
-                    "hashes": {
-                        "sha1": "812fd26feff8a2329711841a1ade7074d5a95882",
-                        "md5": "ef66fa1a1381ae1040f8d676b7d451cb"
-                    },
-                    "required_dependencies": [],
-                    "size": 279469,
-                    "date_published": "2024-11-08T12:00:35.927Z"
                 }
             ]
         },
