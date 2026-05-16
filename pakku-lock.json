@@ -9304,6 +9304,76 @@
             ]
         },
         {
+            "pakku_id": "9ZxlE7VN19vm02dr",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fwa",
+                "modrinth": "fwa"
+            },
+            "name": {
+                "curseforge": "Fancy World Animations",
+                "modrinth": "Fancy World Animations"
+            },
+            "id": {
+                "curseforge": "1452982",
+                "modrinth": "IAzUFvS6"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fwa+1.20.1-1.2.20.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8075/207/fwa+1.20.1-1.2.20.jar",
+                    "id": "8075207",
+                    "parent_id": "1452982",
+                    "hashes": {
+                        "sha1": "e71c370a61852d7da517ccad89fbf5a3b24ca787",
+                        "md5": "c96900af140787eb6103b7ee28d7d4b1"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 368666,
+                    "date_published": "2026-05-11T20:42:10.913Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fwa+1.20.1-1.2.20.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IAzUFvS6/versions/B9p0jYiO/fwa+1.20.1-1.2.20.jar",
+                    "id": "B9p0jYiO",
+                    "parent_id": "IAzUFvS6",
+                    "hashes": {
+                        "sha512": "16ce2c7a047622593fcb62d13d11429695885ec919f783f7e1db977397d6477177041e924e45e67de412c656582ae37ff277b7bdde28476bb01ae54cb5597a83",
+                        "sha1": "e71c370a61852d7da517ccad89fbf5a3b24ca787"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 368666,
+                    "date_published": "2026-05-11T20:29:16.529997Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "E06nZraSiPR8J1R5",
             "pakku_links": [
                 "RjGdALOn8S9NpH6I",
@@ -23031,77 +23101,6 @@
                     "required_dependencies": [],
                     "size": 22347,
                     "date_published": "2024-08-22T01:50:08.021631Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "RGHTeEZW4JSw4cuo",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "swinging-lanterns",
-                "modrinth": "swinging-lanterns"
-            },
-            "name": {
-                "curseforge": "Swinging Lanterns",
-                "modrinth": "Swinging Lanterns"
-            },
-            "id": {
-                "curseforge": "1477733",
-                "modrinth": "3IOcW74j"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "swinginglanterns-1.20.1-1.20.6-1.4.0.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.1",
-                        "1.20.6",
-                        "1.20.4",
-                        "1.20.3"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7711/413/swinginglanterns-1.20.1-1.20.6-1.4.0.jar",
-                    "id": "7711413",
-                    "parent_id": "1477733",
-                    "hashes": {
-                        "sha1": "417f1a27e7ef1aa3899eca2d32865f4ef4df2603",
-                        "md5": "f2145a22bb1cbfe7357dc4fdbab302ea"
-                    },
-                    "required_dependencies": [],
-                    "size": 381359,
-                    "date_published": "2026-03-04T19:46:58.107Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "swinginglanterns-1.20.1-1.20.6-1.4.0.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/3IOcW74j/versions/vVbep1ie/swinginglanterns-1.20.1-1.20.6-1.4.0.jar",
-                    "id": "vVbep1ie",
-                    "parent_id": "3IOcW74j",
-                    "hashes": {
-                        "sha512": "d410c39109d25df1b94ac847fc851064a11213edccaf924d1047df555054469b13d33b86009487a6164cae734705b3035af945efa2541d4a14f268088ab7b6e5",
-                        "sha1": "417f1a27e7ef1aa3899eca2d32865f4ef4df2603"
-                    },
-                    "required_dependencies": [],
-                    "size": 381359,
-                    "date_published": "2026-02-04T00:53:56.626182Z"
                 }
             ]
         },
