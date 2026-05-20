@@ -17271,7 +17271,7 @@
             ]
         },
         {
-            "pakku_id": "czuzkgRP3TZ92kFy",
+            "pakku_id": "geZSAoMouzbJ11FM",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -25533,6 +25533,76 @@
                     ],
                     "size": 2030105,
                     "date_published": "2025-08-04T18:10:55.643Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tNqeGSlIhn33as4r",
+            "pakku_links": [
+                "AwRq1sYnLjT3JZ2i",
+                "nziiIR5mfr9ev1my"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lets-do-candlelight-farmcharm-compat",
+                "curseforge": "lets-do-candlelight-farm-charm-compat"
+            },
+            "name": {
+                "modrinth": "[Let's Do] Candlelight - Farm&Charm compat",
+                "curseforge": "[Let's Do] Candlelight - Farm&Charm Compat"
+            },
+            "id": {
+                "modrinth": "qwbArkQk",
+                "curseforge": "1038117"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "letsdo-candlelight-fabric-2.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/qwbArkQk/versions/RUk2PHO1/letsdo-candlelight-fabric-2.0.5.jar",
+                    "id": "RUk2PHO1",
+                    "parent_id": "qwbArkQk",
+                    "hashes": {
+                        "sha512": "6a2daf556a3f0a665d45e9ee560551e955d2e340dd05e5d778db8d371d320f9a629e4a813465d378e5ac9ca07e63b96a2eaaa01f3079dbc7455b274559497a56",
+                        "sha1": "fda38107a8fbf90fc4208be0f996b8f81f28b5e8"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ",
+                        "HJetCzWo"
+                    ],
+                    "size": 2494711,
+                    "date_published": "2025-08-05T10:54:56.980623Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "letsdo-candlelight-fabric-2.0.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6850/363/letsdo-candlelight-fabric-2.0.5.jar",
+                    "id": "6850363",
+                    "parent_id": "1038117",
+                    "hashes": {
+                        "sha1": "fda38107a8fbf90fc4208be0f996b8f81f28b5e8",
+                        "md5": "bc761bade4680157dd1b3b70cecfd424"
+                    },
+                    "required_dependencies": [],
+                    "size": 2494711,
+                    "date_published": "2025-08-05T10:44:39.647Z"
                 }
             ]
         },
