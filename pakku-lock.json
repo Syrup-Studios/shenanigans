@@ -1891,6 +1891,49 @@
             ]
         },
         {
+            "pakku_id": "KWJu8naUOOMRAY0w",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "blocky-bass"
+            },
+            "name": {
+                "modrinth": "Blocky Bass"
+            },
+            "id": {
+                "modrinth": "6GAOA2BU"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "blocky_bass-1.0.18.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6GAOA2BU/versions/Lsh7dFyZ/blocky_bass-1.0.18.jar",
+                    "id": "Lsh7dFyZ",
+                    "parent_id": "6GAOA2BU",
+                    "hashes": {
+                        "sha512": "292d449d8a67642f4f812d11b5a264c83c4ba92d06c5c4888e81a6c2f4b1d9194c5c7f02dbce5bdf39f043f014cae876dcd3c96ddc47a938d9acd3fbf4565c59",
+                        "sha1": "c2459f1d705f5168467fffbc3d75c782f9cb4beb"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 36669,
+                    "date_published": "2024-01-12T07:42:40.740873Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uqlbF2jav39LNsOt",
             "type": "MOD",
             "side": "CLIENT",
