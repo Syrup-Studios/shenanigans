@@ -24043,6 +24043,71 @@
             ]
         },
         {
+            "pakku_id": "4NHrL81akcYfqfx9",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "vivecraft",
+                "modrinth": "vivecraft"
+            },
+            "name": {
+                "curseforge": "Vivecraft",
+                "modrinth": "Vivecraft"
+            },
+            "id": {
+                "curseforge": "667903",
+                "modrinth": "wGoQDPN5"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "vivecraft-1.20.1-1.3.8-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8119/808/vivecraft-1.20.1-1.3.8-fabric.jar",
+                    "id": "8119808",
+                    "parent_id": "667903",
+                    "hashes": {
+                        "sha1": "8b56b0e550d237c2671642bd243f80770fc666e9",
+                        "md5": "87bbab8bc0da01c485b753923989769a"
+                    },
+                    "required_dependencies": [],
+                    "size": 6179732,
+                    "date_published": "2026-05-20T18:18:41.397Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "vivecraft-1.20.1-1.3.8-fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/wGoQDPN5/versions/2aCgbrwx/vivecraft-1.20.1-1.3.8-fabric.jar",
+                    "id": "2aCgbrwx",
+                    "parent_id": "wGoQDPN5",
+                    "hashes": {
+                        "sha512": "26bdf2932bb251f4bd83e2052d3bc56bee53b260a700f3e628004a3a4620df4bbcd8a93715e460beffe0011a5461d4eab415ab17d78b66005e6d7e26152f62f9",
+                        "sha1": "8b56b0e550d237c2671642bd243f80770fc666e9"
+                    },
+                    "required_dependencies": [],
+                    "size": 6179732,
+                    "date_published": "2026-05-20T18:18:45.080344Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9Xrv5myJm3SnRtKr",
             "pakku_links": [
                 "wNyv433bs0BhCrbg"
