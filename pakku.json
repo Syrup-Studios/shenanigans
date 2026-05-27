@@ -23,6 +23,9 @@
         },
         "explosive-enhancement": {
             "update_strategy": "NONE"
+        },
+        "chunk-sending-forge-fabric": {
+            "side": "SERVER"
         }
     }
 }
