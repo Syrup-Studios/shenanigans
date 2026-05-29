@@ -11240,67 +11240,6 @@
             ]
         },
         {
-            "pakku_id": "rr8QKi0WNDexbtc8",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "immersive-paintings",
-                "modrinth": "immersive-paintings"
-            },
-            "name": {
-                "curseforge": "Immersive Paintings [Fabric/Forge]",
-                "modrinth": "Immersive Paintings"
-            },
-            "id": {
-                "curseforge": "639584",
-                "modrinth": "6txNkua3"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "immersive_paintings-0.6.11+1.20.1-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/6txNkua3/versions/b4Eb0rf1/immersive_paintings-0.6.11+1.20.1-fabric.jar",
-                    "id": "b4Eb0rf1",
-                    "parent_id": "6txNkua3",
-                    "hashes": {
-                        "sha512": "9be52f56f22853847b9f3132e12a026d921002201a78e24305e559054ed5d19b111cb5d7650a6fb1670d990fdaecd1008de70c433d778dfa7da700e0f7b13dac",
-                        "sha1": "6468c87bae03d2a19aef7ae67d2bd8be356062de"
-                    },
-                    "required_dependencies": [],
-                    "size": 4853363,
-                    "date_published": "2026-03-25T07:53:14.458678Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "immersive_paintings-0.6.11+1.20.1-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7809/907/immersive_paintings-0.6.11+1.20.1-fabric.jar",
-                    "id": "7809907",
-                    "parent_id": "639584",
-                    "hashes": {
-                        "sha1": "6468c87bae03d2a19aef7ae67d2bd8be356062de",
-                        "md5": "7f29a559a46fdd4408afebe5d610e2fd"
-                    },
-                    "required_dependencies": [],
-                    "size": 4853363,
-                    "date_published": "2026-03-25T07:53:12.577Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "smwfo13XAtj2DYRk",
             "type": "MOD",
             "slug": {
