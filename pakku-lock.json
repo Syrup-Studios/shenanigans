@@ -9807,67 +9807,6 @@
             ]
         },
         {
-            "pakku_id": "cET4H1KrA4qOpIYd",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "froglightsreimagined",
-                "modrinth": "froglightsreimagined"
-            },
-            "name": {
-                "curseforge": "FroglightsReimagined",
-                "modrinth": "FroglightsReimagined"
-            },
-            "id": {
-                "curseforge": "1361021",
-                "modrinth": "t9byj1DE"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "froglightsreimagined-0.3-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/t9byj1DE/versions/zB7lMIyZ/froglightsreimagined-0.3-1.20.1.jar",
-                    "id": "zB7lMIyZ",
-                    "parent_id": "t9byj1DE",
-                    "hashes": {
-                        "sha512": "97d8b39d34be5b25b64d0e4ca56823af834004d7240b2f01e3d38cbd7b415314ec10031966186baa0112475acf66c85e64cc9c590305377afccd972aaf87987c",
-                        "sha1": "01bb18490ab335ecd11f3488b9f5dd4985e9286c"
-                    },
-                    "required_dependencies": [],
-                    "size": 691015,
-                    "date_published": "2025-11-26T00:14:26.763550Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "froglightsreimagined-0.3-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7262/718/froglightsreimagined-0.3-1.20.1.jar",
-                    "id": "7262718",
-                    "parent_id": "1361021",
-                    "hashes": {
-                        "sha1": "01bb18490ab335ecd11f3488b9f5dd4985e9286c",
-                        "md5": "d012b3342ecd2f048bea997891b9d858"
-                    },
-                    "required_dependencies": [],
-                    "size": 691015,
-                    "date_published": "2025-11-26T00:14:46.643Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "kglsrucrv4VkaVwv",
             "type": "MOD",
             "side": "BOTH",
@@ -10665,69 +10604,6 @@
                     ],
                     "size": 248428,
                     "date_published": "2025-02-09T00:05:20.090786Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "oazPXJAGAng836wy",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "hexalia",
-                "modrinth": "hexalia"
-            },
-            "name": {
-                "curseforge": "Hexalia",
-                "modrinth": "Hexalia"
-            },
-            "id": {
-                "curseforge": "962878",
-                "modrinth": "bkz5C0dQ"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "hexalia-1.3.1-1.20.1+fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/bkz5C0dQ/versions/y6jMw87L/hexalia-1.3.1-1.20.1+fabric.jar",
-                    "id": "y6jMw87L",
-                    "parent_id": "bkz5C0dQ",
-                    "hashes": {
-                        "sha512": "383f672a62314af58b5b48d37c3b91a9e5c952bd0389721da4432135d0cbcb36ba0b0a844fbf7b27716a7da978b652837c5c7d9f9791620e63d69223360ecb79",
-                        "sha1": "7112bdf6becc4b00ce5f1f93d9522d5243337ae1"
-                    },
-                    "required_dependencies": [],
-                    "size": 1921634,
-                    "date_published": "2026-04-21T12:42:15.692863Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "hexalia-1.3.1-1.20.1+fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7960/679/hexalia-1.3.1-1.20.1+fabric.jar",
-                    "id": "7960679",
-                    "parent_id": "962878",
-                    "hashes": {
-                        "sha1": "7112bdf6becc4b00ce5f1f93d9522d5243337ae1",
-                        "md5": "7e61d3617875861f42090970e77e02e8"
-                    },
-                    "required_dependencies": [
-                        "388172"
-                    ],
-                    "size": 1921634,
-                    "date_published": "2026-04-21T12:39:43.273Z"
                 }
             ]
         },
