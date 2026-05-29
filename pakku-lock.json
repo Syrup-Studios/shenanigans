@@ -22678,67 +22678,6 @@
             ]
         },
         {
-            "pakku_id": "lb33ScP6sNxeLG09",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "treeplacer",
-                "modrinth": "treeplacer"
-            },
-            "name": {
-                "curseforge": "Treeplacer",
-                "modrinth": "Treeplacer"
-            },
-            "id": {
-                "curseforge": "840202",
-                "modrinth": "4im8hCxA"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "treeplacer-fabric-1.20.1-2.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4im8hCxA/versions/GIhztact/treeplacer-fabric-1.20.1-2.0.0.jar",
-                    "id": "GIhztact",
-                    "parent_id": "4im8hCxA",
-                    "hashes": {
-                        "sha512": "b50e47abff741fb07f3b3b9c2b73f1c474ac46fc89693b1779f0ed1a558d52f331b503e589bc62ad0722af9557150a7adb51c06729d00313efa567783116afa7",
-                        "sha1": "2eaa16e0a6952deebf3a85c0a8017604061de789"
-                    },
-                    "required_dependencies": [],
-                    "size": 29151,
-                    "date_published": "2026-04-22T19:45:18.681087Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "treeplacer-fabric-1.20.1-2.0.0.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7968/721/treeplacer-fabric-1.20.1-2.0.0.jar",
-                    "id": "7968721",
-                    "parent_id": "840202",
-                    "hashes": {
-                        "sha1": "2eaa16e0a6952deebf3a85c0a8017604061de789",
-                        "md5": "7b5447e4d60d117e5bbf61faae82932b"
-                    },
-                    "required_dependencies": [],
-                    "size": 29151,
-                    "date_published": "2026-04-22T19:38:49.013Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "hyr8badempTmouXm",
             "type": "MOD",
             "side": "BOTH",
