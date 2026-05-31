@@ -13755,33 +13755,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "map_atlases-1.20-6.0.19-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7660/143/map_atlases-1.20-6.0.19-fabric.jar",
-                    "id": "7660143",
-                    "parent_id": "436298",
-                    "hashes": {
-                        "sha1": "8d3652c7865c86fd8bfc8356880b609ce6ec9054",
-                        "md5": "1042848b7939ef544bffe15b116c336f"
-                    },
-                    "required_dependencies": [
-                        "318449",
-                        "499980",
-                        "306612"
-                    ],
-                    "size": 731422,
-                    "date_published": "2026-02-21T21:10:46.177Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "map_atlases-1.20-6.0.19-fabric.jar",
+                    "file_name": "map_atlases-1.20-6.0.20-fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -13789,19 +13764,44 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/C255PPUX/versions/m9xLqiR9/map_atlases-1.20-6.0.19-fabric.jar",
-                    "id": "m9xLqiR9",
+                    "url": "https://cdn.modrinth.com/data/C255PPUX/versions/vVuqrskW/map_atlases-1.20-6.0.20-fabric.jar",
+                    "id": "vVuqrskW",
                     "parent_id": "C255PPUX",
                     "hashes": {
-                        "sha512": "0cff0932fd8ea8b92070f5f853477409a0317d0d5c45af4d0ccf171aa511b9c997df6108a9659bebfb97b7f32090fe39d7a63470cddefc6a54cc045850e61d30",
-                        "sha1": "8d3652c7865c86fd8bfc8356880b609ce6ec9054"
+                        "sha512": "c7edc427fb03c9fe620310d555dfe2cac57f0b925bf8a5d1bf467a000200549f0e65a98fcca76016a96e1a3cdbb4cd9ddd779d47a84a1416cde3d2af38d24f16",
+                        "sha1": "3007a0d4f5531accf1b9624583f04409b7446e81"
                     },
                     "required_dependencies": [
-                        "twkfQtEc",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "twkfQtEc"
                     ],
-                    "size": 731422,
-                    "date_published": "2026-02-21T21:10:52.196266Z"
+                    "size": 734187,
+                    "date_published": "2026-05-25T23:39:35.210025Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "map_atlases-1.20-6.0.20-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8146/281/map_atlases-1.20-6.0.20-fabric.jar",
+                    "id": "8146281",
+                    "parent_id": "436298",
+                    "hashes": {
+                        "sha1": "3007a0d4f5531accf1b9624583f04409b7446e81",
+                        "md5": "db18f7995d8cf785d848ca51ce395443"
+                    },
+                    "required_dependencies": [
+                        "499980",
+                        "318449",
+                        "306612"
+                    ],
+                    "size": 734187,
+                    "date_published": "2026-05-25T23:39:27.937Z"
                 }
             ]
         },
