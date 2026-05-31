@@ -21668,8 +21668,29 @@
             },
             "files": [
                 {
+                    "type": "modrinth",
+                    "file_name": "syrup-essentials-0.2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/A4arghrF/syrup-essentials-0.2.0.jar",
+                    "id": "A4arghrF",
+                    "parent_id": "5ilOuE0e",
+                    "hashes": {
+                        "sha512": "2fd87d7f9d9b0219659762b5565c857f31a009114d8debd5a03fdab398d6f20c64f777de96e1252c4ce07e4eb48dcc5b5b1f7793594cf213898c18ca658212a7",
+                        "sha1": "033ae54bc92399b5679d4f8c0e3df00e0544f21f"
+                    },
+                    "required_dependencies": [],
+                    "size": 48914,
+                    "date_published": "2026-05-31T08:15:47.222860Z"
+                },
+                {
                     "type": "curseforge",
-                    "file_name": "syrup-essentials-0.0.1-1.20.1.jar",
+                    "file_name": "syrup-essentials-0.2.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21677,37 +21698,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7712/556/syrup-essentials-0.0.1-1.20.1.jar",
-                    "id": "7712556",
+                    "url": "https://edge.forgecdn.net/files/8173/608/syrup-essentials-0.2.0.jar",
+                    "id": "8173608",
                     "parent_id": "1477901",
                     "hashes": {
-                        "sha1": "499a93b9f2ae96cd4c03adddc99678cfd1f6ab1d",
-                        "md5": "a1f240244769f4e0efc2fd39b92b308c"
+                        "sha1": "033ae54bc92399b5679d4f8c0e3df00e0544f21f",
+                        "md5": "8cfe865f42ed40382c2e9df0fe5f8dab"
                     },
                     "required_dependencies": [],
-                    "size": 16991,
-                    "date_published": "2026-03-05T00:23:08.247Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "syrup-essentials-0.0.1-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/3jWuS8Sj/syrup-essentials-0.0.1-1.20.1.jar",
-                    "id": "3jWuS8Sj",
-                    "parent_id": "5ilOuE0e",
-                    "hashes": {
-                        "sha512": "54d0ef2bb5eadcfc7f33c25baccf4ec740cb41fc4be2845c1da7959a1c1db72250aa031d9d8ee66f6ae979855837fefd858042ec563e07eac0b69f9e4b7bc49c",
-                        "sha1": "499a93b9f2ae96cd4c03adddc99678cfd1f6ab1d"
-                    },
-                    "required_dependencies": [],
-                    "size": 16991,
-                    "date_published": "2026-01-29T22:20:28.252056Z"
+                    "size": 48914,
+                    "date_published": "2026-05-31T08:16:34.427Z"
                 }
             ]
         },
