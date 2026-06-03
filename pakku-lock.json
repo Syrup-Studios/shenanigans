@@ -8133,50 +8133,6 @@
             ]
         },
         {
-            "pakku_id": "fvZY37Gh1Yqg8EM0",
-            "pakku_links": [
-                "VeVpUVJ9hZfIh70m",
-                "RjGdALOn8S9NpH6I"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "every-compat"
-            },
-            "name": {
-                "modrinth": "Every Compat (Wood Good)"
-            },
-            "id": {
-                "modrinth": "eiktJyw1"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "everycomp-1.20-2.9.20-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/eiktJyw1/versions/eKKOPxRC/everycomp-1.20-2.9.20-fabric.jar",
-                    "id": "eKKOPxRC",
-                    "parent_id": "eiktJyw1",
-                    "hashes": {
-                        "sha512": "44c396e99cfbc6327c894a5c0b0350e3e1f30e1d15017e110b3209a38adcb9a958edd722ca7139797609c0525b8826d72268af64826ea55ce10dd25b22767a15",
-                        "sha1": "e59714e5c8a880e356ed772314118c8b496067c1"
-                    },
-                    "required_dependencies": [
-                        "twkfQtEc",
-                        "P7dR8mSH"
-                    ],
-                    "size": 2641016,
-                    "date_published": "2026-04-15T05:04:30.099640Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "O5bvavz1BFrfHxjH",
             "type": "MOD",
             "side": "BOTH",
