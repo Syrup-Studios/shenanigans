@@ -210,12 +210,13 @@
       "keys": ""
     },
     "zoomActivate": {
-      "keys": ""
+      "keys": "C"
     }
   },
   "Internal": {
     "flySpeedPreset": 0,
     "gammaValueOriginal": 0.5,
+    "hotbarScrollCurrentRow": 2,
     "slimeBlockSlipperinessOriginal": 0.800000011920929,
     "snapAimLastYaw": 0.0
   },
@@ -781,7 +782,7 @@
     "tweakToolSwitch": true,
     "tweakWeaponSwitch": false,
     "tweakYMirror": false,
-    "tweakZoom": false
+    "tweakZoom": true
   },
   "TweakHotkeys": {
     "tweakAccurateBlockPlacement": {
