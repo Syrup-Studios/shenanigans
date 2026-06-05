@@ -23202,31 +23202,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "vivecraft-1.20.1-1.3.8-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8119/808/vivecraft-1.20.1-1.3.8-fabric.jar",
-                    "id": "8119808",
-                    "parent_id": "667903",
-                    "hashes": {
-                        "sha1": "8b56b0e550d237c2671642bd243f80770fc666e9",
-                        "md5": "87bbab8bc0da01c485b753923989769a"
-                    },
-                    "required_dependencies": [],
-                    "size": 6179732,
-                    "date_published": "2026-05-20T18:18:41.397Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "vivecraft-1.20.1-1.3.8-fabric.jar",
+                    "file_name": "vivecraft-1.20.1-1.3.9-fabric.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -23236,16 +23213,39 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/wGoQDPN5/versions/2aCgbrwx/vivecraft-1.20.1-1.3.8-fabric.jar",
-                    "id": "2aCgbrwx",
+                    "url": "https://cdn.modrinth.com/data/wGoQDPN5/versions/9GoTLKaL/vivecraft-1.20.1-1.3.9-fabric.jar",
+                    "id": "9GoTLKaL",
                     "parent_id": "wGoQDPN5",
                     "hashes": {
-                        "sha512": "26bdf2932bb251f4bd83e2052d3bc56bee53b260a700f3e628004a3a4620df4bbcd8a93715e460beffe0011a5461d4eab415ab17d78b66005e6d7e26152f62f9",
-                        "sha1": "8b56b0e550d237c2671642bd243f80770fc666e9"
+                        "sha512": "92f764b072907a48f4067852f59795151b1c731f5de160e32148578ce0ea020448eacf84d3d6ce7b7547051e6c71cb24df8f680838b27ead7c431ecf9ec75efa",
+                        "sha1": "e3b245a89e5a0187e1f3f88ba3a2d18444179440"
                     },
                     "required_dependencies": [],
-                    "size": 6179732,
-                    "date_published": "2026-05-20T18:18:45.080344Z"
+                    "size": 6180973,
+                    "date_published": "2026-05-28T21:08:33.436814Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "vivecraft-1.20.1-1.3.9-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8161/558/vivecraft-1.20.1-1.3.9-fabric.jar",
+                    "id": "8161558",
+                    "parent_id": "667903",
+                    "hashes": {
+                        "sha1": "e3b245a89e5a0187e1f3f88ba3a2d18444179440",
+                        "md5": "4fddc6eabb68d4e956591a397b15014d"
+                    },
+                    "required_dependencies": [],
+                    "size": 6180973,
+                    "date_published": "2026-05-28T21:08:30.363Z"
                 }
             ]
         },
