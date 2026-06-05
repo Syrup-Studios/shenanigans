@@ -21975,50 +21975,48 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "trmt-0.4-1.20+1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8002/73/trmt-0.4-1.20+1.20.1.jar",
-                    "id": "8002073",
-                    "parent_id": "1512955",
-                    "hashes": {
-                        "sha1": "176e608edc64638449b971e21f398a940ce58f5b",
-                        "md5": "460cee056b2d2aa01877423606712360"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 100729,
-                    "date_published": "2026-04-27T19:59:41.693Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "trmt-0.4-1.20+1.20.1.jar",
+                    "file_name": "trmt-0.5.1-1.20.1-fabric.jar",
                     "mc_versions": [
-                        "1.20",
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/74oZhrEe/versions/q9KHDcoE/trmt-0.4-1.20+1.20.1.jar",
-                    "id": "q9KHDcoE",
+                    "url": "https://cdn.modrinth.com/data/74oZhrEe/versions/z3JgD6i1/trmt-0.5.1-1.20.1-fabric.jar",
+                    "id": "z3JgD6i1",
                     "parent_id": "74oZhrEe",
                     "hashes": {
-                        "sha512": "89ecef6c2256beb8cbf687e1425e599e5554d48c3c3ef72dc72a6e0c9618c1406e217cbdda1c863f9b556da9ec1cec01c496eeef25cd3f0a24d4cf0814ded2c8",
-                        "sha1": "176e608edc64638449b971e21f398a940ce58f5b"
+                        "sha512": "d699c54f7313e01e18b419918f29e2ebd43d06dafa5d1958ec14eb3db650df91050463e69726c2c766273fb2029a796cdd80da8f8248f64bcf5e282bfe8a86a0",
+                        "sha1": "c85bd52edf7756c858c379443de357cdd3fdfe3d"
                     },
                     "required_dependencies": [],
-                    "size": 100729,
-                    "date_published": "2026-04-27T19:29:24.969885Z"
+                    "size": 128041,
+                    "date_published": "2026-05-31T11:57:55.814182Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "trmt-0.5.1-1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8174/484/trmt-0.5.1-1.20.1-fabric.jar",
+                    "id": "8174484",
+                    "parent_id": "1512955",
+                    "hashes": {
+                        "sha1": "c85bd52edf7756c858c379443de357cdd3fdfe3d",
+                        "md5": "7a54e8929818af245383378575c35566"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 128041,
+                    "date_published": "2026-05-31T12:04:46.077Z"
                 }
             ]
         },
