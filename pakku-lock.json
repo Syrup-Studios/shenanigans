@@ -21554,7 +21554,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "syrup-essentials-0.2.0.jar",
+                    "file_name": "syrup-essentials-0.2.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21562,20 +21562,20 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/A4arghrF/syrup-essentials-0.2.0.jar",
-                    "id": "A4arghrF",
+                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/eouCJxL6/syrup-essentials-0.2.1.jar",
+                    "id": "eouCJxL6",
                     "parent_id": "5ilOuE0e",
                     "hashes": {
-                        "sha512": "2fd87d7f9d9b0219659762b5565c857f31a009114d8debd5a03fdab398d6f20c64f777de96e1252c4ce07e4eb48dcc5b5b1f7793594cf213898c18ca658212a7",
-                        "sha1": "033ae54bc92399b5679d4f8c0e3df00e0544f21f"
+                        "sha512": "f2c26154a701a9b5ae59e66f22e3a946f4ea1c51a7cda37343e7b669757b995e3e349d82c2e672653283d5779d00866796b67d8285189a1c876ddf0bfeab91f2",
+                        "sha1": "3cbfdeadad09ea7c23cc3ae9777e8002b135667a"
                     },
                     "required_dependencies": [],
-                    "size": 48914,
-                    "date_published": "2026-05-31T08:15:47.222860Z"
+                    "size": 48980,
+                    "date_published": "2026-05-31T09:23:00.357294Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "syrup-essentials-0.2.0.jar",
+                    "file_name": "syrup-essentials-0.2.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21583,16 +21583,16 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8173/608/syrup-essentials-0.2.0.jar",
-                    "id": "8173608",
+                    "url": "https://edge.forgecdn.net/files/8173/872/syrup-essentials-0.2.1.jar",
+                    "id": "8173872",
                     "parent_id": "1477901",
                     "hashes": {
-                        "sha1": "033ae54bc92399b5679d4f8c0e3df00e0544f21f",
-                        "md5": "8cfe865f42ed40382c2e9df0fe5f8dab"
+                        "sha1": "3cbfdeadad09ea7c23cc3ae9777e8002b135667a",
+                        "md5": "790638c37ff4d414d03dda29cdd283d8"
                     },
                     "required_dependencies": [],
-                    "size": 48914,
-                    "date_published": "2026-05-31T08:16:34.427Z"
+                    "size": 48980,
+                    "date_published": "2026-05-31T09:23:22.363Z"
                 }
             ]
         },
