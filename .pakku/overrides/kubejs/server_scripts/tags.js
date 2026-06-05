@@ -90,3 +90,21 @@ ServerEvents.tags('item', event => {
         'clutter:deepslate_silver_ore'
     ]);
 })
+
+
+ServerEvents.tags('block', event => {
+
+    event.remove('minecraft:needs_stone_tool', [
+        'minecraft:copper_ore',
+        'natures_spirit:chert_copper_ore',
+        'minecraft:deepslate_copper_ore',
+        'meadow:alpine_copper_ore',
+        'spelunkery:diorite_copper_ore',
+        'spelunkery:granite_copper_ore',
+        'spelunkery:tuff_copper_ore',
+        'deeperdarker:sculk_stone_copper_ore',
+        'deeperdarker:gloomslate_copper_ore',
+        'meadow:alpine_copper_ore'
+    ]);
+
+})
