@@ -19368,24 +19368,28 @@
             ]
         },
         {
-            "pakku_id": "r5tJ6Xi99RJw2jvS",
+            "pakku_id": "w1zhLWlsp7L0NZsO",
             "pakku_links": [
                 "U6WPiwKc8f6lXIvN"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "simply-tents"
+                "curseforge": "simply-tents",
+                "modrinth": "simply-tents"
             },
             "name": {
-                "curseforge": "Simply Tents"
+                "curseforge": "Simply Tents",
+                "modrinth": "Simply Tents"
             },
             "id": {
-                "curseforge": "1152882"
+                "curseforge": "1152882",
+                "modrinth": "yWY7WWmg"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "simplytents-3.0-1.20.1.fabric.jar",
+                    "file_name": "simplytents-3.6-1.20.1.fabric.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -19393,18 +19397,39 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8171/620/simplytents-3.0-1.20.1.fabric.jar",
-                    "id": "8171620",
+                    "url": "https://edge.forgecdn.net/files/8198/26/simplytents-3.6-1.20.1.fabric.jar",
+                    "id": "8198026",
                     "parent_id": "1152882",
                     "hashes": {
-                        "sha1": "3635f2dd2b108c25e2dabaaf2881bd0eb515fe92",
-                        "md5": "9520d2272387eafbcfc386666830e66c"
+                        "sha1": "8bbbf7c130b56e4a564a21e621515ad0d96b3c3a",
+                        "md5": "6e0514dc33945e98f25911953d8e085c"
                     },
                     "required_dependencies": [
                         "388172"
                     ],
-                    "size": 1895575,
-                    "date_published": "2026-05-30T20:45:19.903Z"
+                    "size": 968135,
+                    "date_published": "2026-06-04T21:22:24.863Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "simplytents-3.6-1.20.1.fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yWY7WWmg/versions/kldAQ2gM/simplytents-3.6-1.20.1.fabric.jar",
+                    "id": "kldAQ2gM",
+                    "parent_id": "yWY7WWmg",
+                    "hashes": {
+                        "sha512": "ea376e955e51639703daf574e0f8353f9375604c1f92353de9a3b61bfb5fe596e0429277ff466878f80dc807c023a244388e48dc6265b60df5340f544943bc7f",
+                        "sha1": "8bbbf7c130b56e4a564a21e621515ad0d96b3c3a"
+                    },
+                    "required_dependencies": [],
+                    "size": 968135,
+                    "date_published": "2026-06-04T21:25:17.824087Z"
                 }
             ]
         },
@@ -22522,24 +22547,28 @@
             ]
         },
         {
-            "pakku_id": "zb8mtahsmW4caFXt",
+            "pakku_id": "B9xxI2LiDIw0iGCR",
             "pakku_links": [
                 "4e2jUr6RItZIExwL"
             ],
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "trashslot"
+                "curseforge": "trashslot",
+                "modrinth": "trashslot"
             },
             "name": {
-                "curseforge": "TrashSlot"
+                "curseforge": "TrashSlot",
+                "modrinth": "TrashSlot"
             },
             "id": {
-                "curseforge": "235577"
+                "curseforge": "235577",
+                "modrinth": "vRYk0bv7"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "trashslot-fabric-1.20.1-15.1.4.jar",
+                    "file_name": "trashslot-fabric-1.20.1-15.1.5.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -22547,18 +22576,41 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7772/356/trashslot-fabric-1.20.1-15.1.4.jar",
-                    "id": "7772356",
+                    "url": "https://edge.forgecdn.net/files/8019/425/trashslot-fabric-1.20.1-15.1.5.jar",
+                    "id": "8019425",
                     "parent_id": "235577",
                     "hashes": {
-                        "sha1": "7005c959dc083a2154fde73355bbbb260ce81db6",
-                        "md5": "198c5503dab4832944d80039109e4063"
+                        "sha1": "2d974e659ddb6faff4bd9d58a4712d56d001aa92",
+                        "md5": "9587a85e386bf9e2bbf9cd1b57d38ee2"
                     },
                     "required_dependencies": [
                         "500525"
                     ],
-                    "size": 118609,
-                    "date_published": "2026-03-17T17:15:58.487Z"
+                    "size": 118660,
+                    "date_published": "2026-05-01T06:44:30.303Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "trashslot-fabric-1.20.1-15.1.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/rvZNAUdl/trashslot-fabric-1.20.1-15.1.5.jar",
+                    "id": "rvZNAUdl",
+                    "parent_id": "vRYk0bv7",
+                    "hashes": {
+                        "sha512": "16ced4bdf4d405474dac441d98ddde16a1bb23eae9b4eae004e55a720e7786e44ad00a6c60d2cc4ff499ef73f9b413f2bc6489d16c0eea4481ddd3eae4295c7f",
+                        "sha1": "fcce2b91e2c714d106fa4a3db565d8f816481ddf"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 118660,
+                    "date_published": "2026-05-01T06:44:29.117033Z"
                 }
             ]
         },
