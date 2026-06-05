@@ -1,0 +1,19 @@
+## Changelog 0.4.0-alpha
+its missing a bunch of things, i *might* do it later or ill just use the generated one from pakku if im too lazy
+
+### Changed:
+- Default Keybinds and removed the Aether Accessories keybind because it interfered with Toms storage search bar
+- Made the puddles mod be client side only for now, because of crashes when on server (already talked to the dev about it)
+
+### Updated:
+- Field Guide
+- Subtle Effects
+- Trashslot
+- Oh the Biomes Weve Gone
+- Create: Steam n Rails
+- Colorwheel
+- Jamlib
+- 
+
+### Removed:
+- Inventory Particles and Mossylib

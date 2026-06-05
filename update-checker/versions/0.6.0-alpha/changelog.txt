@@ -1,0 +1,117 @@
+this was made automatically, probably not the most accurate, will work on it
+
+## Projects
+
+### Changed
+- Added a Server Icon
+- Made some RPC tweaks
+- Did some kubejs stuff to make some recipes better compatible with other mods
+- Added the plushie datapack, still gotta work on some peoples texts
+- Replaced a bunch of functionality with tweakeroo, like zoom, freecam, toolswap and more
+
+
+### Added
+
+- Accessories
+- Alternate Current
+- Apathy Mod
+- Better Advancements
+- Better Beds
+- Blended Compat
+- Blocky Bass
+- Chunk Activity Tracker
+- Crash Assistant
+- Create: Threaded Trains
+- Does It Tick?
+- Early Loading Screen
+- Fancy World Animations
+- FancyMenu
+- Fast IP Ping
+- Fast Item Frames
+- Immersive Optimization
+- Melody
+- Mobtimizations - Entity Performance Fixes
+- Naturalist
+- Not Enough Recipe Book [NERB]
+- Particle Core
+- Plushie Friends
+- Redstone Pen
+- ServerCore
+- ShatterLib | OctoLib
+- Simple Hats
+- Table Top Craft (Fabric)
+- The Roads More Travelled [TRMT]
+- Very Many Players (Fabric)
+- Vivecraft
+- [EMF] Entity Model Features [Fabric & Forge]
+- [ETF] Entity Texture Features
+- [Let's Do] Candlelight - Farm&Charm compat
+
+### Removed
+
+- (Bee's) Fancy Crops
+- (Bee's) Fine Armory
+- Bedspreads
+- Blinking Ender Eyes
+- Every Compat (Wood Good)
+- Excalibur | Lootr Support
+- Fancy Beds
+- Fetzi's Asian Decoration
+- FroglightsReimagined
+- GPUBooster
+- Hexalia
+- Immersive Paintings [Fabric/Forge]
+- Incendium
+- Motor Assistance
+- Mythic Upgrades
+- Naturalist Lite
+- Nifty Carts x Farm & Charm
+- NiftyCarts x Regions Unexplored
+- Pack Analytics
+- Puddles & Floods
+- Raised
+- Resource Pack Overrides
+- Round's Invisible Frames
+- Shenanigans Datapack
+- Slightly Improved Font (32x)
+- Spirit Walker
+- Stack Refill
+- Stay True
+- Swinging Lanterns
+- Tidal Towns
+- ToadLib
+- Treeplacer
+- Typewriter Day Counter
+- Ultimate Chess
+- Vanilla Backport x Regions Unexplored
+- Vanillin
+- Visual Traveler's Titles
+- YUNG's Better Caves (Fabric)
+- YUNG's Better Desert Temples (Fabric)
+- YUNG's Better Dungeons (Fabric)
+- YUNG's Better End Island (Fabric)
+- YUNG's Better Jungle Temples (Fabric)
+- YUNG's Better Mineshafts (Fabric)
+- YUNG's Better Nether Fortresses (Fabric)
+- YUNG's Better Ocean Monuments (Fabric)
+- YUNG's Better Strongholds (Fabric)
+- YUNG's Better Witch Huts (Fabric)
+- YUNG's Bridges (Fabric)
+- YUNG's Cave Biomes (Fabric)
+- YUNG's Extras (Fabric)
+- guita's Woodworks
+- macu lib
+
+### Updated
+
+- CraterLib
+- Immersive Gateways
+- KubeJS
+- Map Atlases [Fabric]
+- Platform
+- Simple Discord RPC
+- Simply Tents
+- Subtle Effects
+- Syrup Essentials
+- TrashSlot
+- Vanilla Backport

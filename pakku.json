@@ -1,6 +1,6 @@
 {
     "name": "Shenanigans",
-    "version": "0.5.2-alpha",
+    "version": "0.6.0-alpha",
     "author": "Syrup Studios",
     "paths": {
         "shader_packs": "./shaderpacks/"
@@ -17,6 +17,15 @@
         },
         "puddles-floods": {
             "side": "CLIENT"
+        },
+        "blended-compat": {
+            "redistributable": true
+        },
+        "explosive-enhancement": {
+            "update_strategy": "NONE"
+        },
+        "chunk-sending-forge-fabric": {
+            "side": "SERVER"
         }
     }
 }
