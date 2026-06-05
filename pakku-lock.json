@@ -23621,6 +23621,143 @@
             ]
         },
         {
+            "pakku_id": "3EwvpGgIIMJNGiLd",
+            "pakku_links": [
+                "8kafTXuWw9xA8IgC"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "entity-model-features",
+                "modrinth": "entity-model-features"
+            },
+            "name": {
+                "curseforge": "[EMF] Entity Model Features [Fabric & Forge]",
+                "modrinth": "[EMF] Entity Model Features"
+            },
+            "id": {
+                "curseforge": "844662",
+                "modrinth": "4I1XuqiY"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "entity_model_features-3.2.4-1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8063/553/entity_model_features-3.2.4-1.20.1-fabric.jar",
+                    "id": "8063553",
+                    "parent_id": "844662",
+                    "hashes": {
+                        "sha1": "648a454bb671322811ba204331d975cde88d22e1",
+                        "md5": "acf8be2c98a642058ea128701e737291"
+                    },
+                    "required_dependencies": [
+                        "568563"
+                    ],
+                    "size": 565302,
+                    "date_published": "2026-05-09T15:21:37.293Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "entity_model_features-3.2.4-1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/HLnLv1St/entity_model_features-3.2.4-1.20.1-fabric.jar",
+                    "id": "HLnLv1St",
+                    "parent_id": "4I1XuqiY",
+                    "hashes": {
+                        "sha512": "d6d71b77b8afb1bed5a3046db06f6eb3e91302ad338db8d190cdf00b1f93ab55ded4d70f06bf3b815e762031c023faa46de03e89383aba12af4289e35b6365e1",
+                        "sha1": "648a454bb671322811ba204331d975cde88d22e1"
+                    },
+                    "required_dependencies": [
+                        "BVzZfTc1"
+                    ],
+                    "size": 565302,
+                    "date_published": "2026-05-09T15:21:39.031513Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "8kafTXuWw9xA8IgC",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "entitytexturefeatures",
+                "curseforge": "entity-texture-features-fabric"
+            },
+            "name": {
+                "modrinth": "[ETF] Entity Texture Features",
+                "curseforge": "[ETF] Entity Texture Features - [Fabric & Forge]"
+            },
+            "id": {
+                "modrinth": "BVzZfTc1",
+                "curseforge": "568563"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "entity_texture_features_1.20.1-fabric-7.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/v0btz5GE/entity_texture_features_1.20.1-fabric-7.1.jar",
+                    "id": "v0btz5GE",
+                    "parent_id": "BVzZfTc1",
+                    "hashes": {
+                        "sha512": "d6fb0516c0049a826f84888d49798a9194b2049b13851b0cb393832b6abe62ad618d9421e4f07f5b6a5bb1b1f15b89de108333cbfc63ed2b9efda0b4275da9df",
+                        "sha1": "481aa5c55f237b525b3d8aef11b56274910d92b2"
+                    },
+                    "required_dependencies": [],
+                    "size": 753298,
+                    "date_published": "2026-04-15T13:06:19.669465Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "entity_texture_features_1.20.1-fabric-7.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7930/618/entity_texture_features_1.20.1-fabric-7.1.jar",
+                    "id": "7930618",
+                    "parent_id": "568563",
+                    "hashes": {
+                        "sha1": "481aa5c55f237b525b3d8aef11b56274910d92b2",
+                        "md5": "5c25f2d43852c8a8bbd47bec371dfe9a"
+                    },
+                    "required_dependencies": [],
+                    "size": 753298,
+                    "date_published": "2026-04-15T13:06:17.527Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "pkczsDQapr8JyjBX",
             "pakku_links": [
                 "AwRq1sYnLjT3JZ2i"
