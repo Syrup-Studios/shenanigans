@@ -4745,7 +4745,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "CraterLib-Fabric-1.20-3.1.1.jar",
+                    "file_name": "CraterLib-Fabric-1.20-3.1.2.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -4755,22 +4755,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/2F7EZd1L/CraterLib-Fabric-1.20-3.1.1.jar",
-                    "id": "2F7EZd1L",
+                    "url": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/QNenSECF/CraterLib-Fabric-1.20-3.1.2.jar",
+                    "id": "QNenSECF",
                     "parent_id": "Nn8Wasaq",
                     "hashes": {
-                        "sha512": "d9c2d29d94e97559a1312baf52d2ab5f8a25be0f54d854d22d2f55a909cf9a268a30060ba03a022338844f7af12cca4c744dae2827db17469ecedfa100fcf723",
-                        "sha1": "b31cfab1c9011adf5a2de06bd1c8e3aa17f28d9e"
+                        "sha512": "08056d2b10adeaa0fcaf88b212184f8fc2254e06f6a84cc5a34b2ad340fcc95709c75c76f8debf0a0f29eee240292d0e18fa667fdd8aeb9745bf47c1d7b307e9",
+                        "sha1": "d611d23340332af30f57f7b427a3fb702a9ccd6c"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1357593,
-                    "date_published": "2026-04-19T11:27:19.607832Z"
+                    "size": 1485893,
+                    "date_published": "2026-05-20T09:02:31.998097Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "CraterLib-Fabric-1.20-3.1.1.jar",
+                    "file_name": "CraterLib-Fabric-1.20-3.1.2.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -4780,18 +4780,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7949/711/CraterLib-Fabric-1.20-3.1.1.jar",
-                    "id": "7949711",
+                    "url": "https://edge.forgecdn.net/files/8117/827/CraterLib-Fabric-1.20-3.1.2.jar",
+                    "id": "8117827",
                     "parent_id": "867099",
                     "hashes": {
-                        "sha1": "b31cfab1c9011adf5a2de06bd1c8e3aa17f28d9e",
-                        "md5": "afbe2430c7dc5c1b765f9c0c14dd925e"
+                        "sha1": "d611d23340332af30f57f7b427a3fb702a9ccd6c",
+                        "md5": "3a1c1f23021f3816355e10d68a65826e"
                     },
                     "required_dependencies": [
                         "306612"
                     ],
-                    "size": 1357593,
-                    "date_published": "2026-04-19T11:27:14.153Z"
+                    "size": 1485893,
+                    "date_published": "2026-05-20T09:02:27.263Z"
                 }
             ]
         },
@@ -19166,7 +19166,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "SimpleRPC-4.1.0+hotfix.1.jar",
+                    "file_name": "SimpleRPC-4.1.2.jar",
                     "mc_versions": [
                         "1.18.2",
                         "1.19.2",
@@ -19193,22 +19193,22 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ObXSoyrn/versions/lLHXLt53/SimpleRPC-4.1.0+hotfix.1.jar",
-                    "id": "lLHXLt53",
+                    "url": "https://cdn.modrinth.com/data/ObXSoyrn/versions/K1WFXmS7/SimpleRPC-4.1.2.jar",
+                    "id": "K1WFXmS7",
                     "parent_id": "ObXSoyrn",
                     "hashes": {
-                        "sha512": "847ff6f1ae7a27279a7dc10362c47d79a6c4018cd5677a4b6f7f29149fec17ac980dd21374448cb21a988797f865b0d17043dfa59910620e913fc91d0f5f2967",
-                        "sha1": "7477678e20649b2177de64de967b72525fa3556e"
+                        "sha512": "2e0c82bf663ea64c15a860af58af57e3a15faae48d277390cfcfdd9b54e1f6a19f58ff9d6a51547265fd268317caec208779728549faaa7d127e89f352141a1d",
+                        "sha1": "f7ad42c0b82a9ef4af20d0023b941255e2d12a7a"
                     },
                     "required_dependencies": [
                         "Nn8Wasaq"
                     ],
-                    "size": 714317,
-                    "date_published": "2026-03-26T16:43:06.144977Z"
+                    "size": 715529,
+                    "date_published": "2026-05-20T16:37:18.267300Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "SimpleRPC-4.1.0+hotfix.1.jar",
+                    "file_name": "SimpleRPC-4.1.2.jar",
                     "mc_versions": [
                         "1.20.1",
                         "1.20"
@@ -19220,18 +19220,18 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7817/789/SimpleRPC-4.1.0+hotfix.1.jar",
-                    "id": "7817789",
+                    "url": "https://edge.forgecdn.net/files/8119/384/SimpleRPC-4.1.2.jar",
+                    "id": "8119384",
                     "parent_id": "411816",
                     "hashes": {
-                        "sha1": "68cad6db795edc2be4f1c567909b931eefd91b36",
-                        "md5": "e0214d27a566ff470a93a81c728cafdf"
+                        "sha1": "f7ad42c0b82a9ef4af20d0023b941255e2d12a7a",
+                        "md5": "06a6f6799f58a374eb64bee71c521f21"
                     },
                     "required_dependencies": [
                         "867099"
                     ],
-                    "size": 714318,
-                    "date_published": "2026-03-26T16:42:52.257Z"
+                    "size": 715529,
+                    "date_published": "2026-05-20T16:37:10.933Z"
                 }
             ]
         },
