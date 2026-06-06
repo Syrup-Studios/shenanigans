@@ -77,7 +77,7 @@
     "structureBlockMaxSize": 128,
     "toolSwitchableSlots": "1-9",
     "toolSwitchIgnoredSlots": "",
-    "zoomFov": 30.0
+    "zoomFov": 21.0
   },
   "GenericHotkeys": {
     "accurateBlockPlacementInto": {
@@ -779,7 +779,7 @@
     "tweakStructureBlockLimit": false,
     "tweakSwapAlmostBrokenTools": false,
     "tweakTabCompleteCoordinate": false,
-    "tweakToolSwitch": true,
+    "tweakToolSwitch": false,
     "tweakWeaponSwitch": false,
     "tweakYMirror": false,
     "tweakZoom": true
