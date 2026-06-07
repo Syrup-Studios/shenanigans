@@ -2141,30 +2141,6 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "bountifulfares-1.2.1-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6987/920/bountifulfares-1.2.1-1.20.1.jar",
-                    "id": "6987920",
-                    "parent_id": "972289",
-                    "hashes": {
-                        "sha1": "6a70eadded00ef59ef5f74a5aeebacfa0c3a16ec",
-                        "md5": "29d6a1fec75b340ead3845317f78097e"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 4829694,
-                    "date_published": "2025-09-12T00:15:33.743Z"
-                },
-                {
                     "type": "modrinth",
                     "file_name": "bountifulfares-1.2.1-1.20.1.jar",
                     "mc_versions": [
@@ -2173,7 +2149,7 @@
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "release",
+                    "release_type": "beta",
                     "url": "https://cdn.modrinth.com/data/YgrSDjlb/versions/H4COb7fF/bountifulfares-1.2.1-1.20.1.jar",
                     "id": "H4COb7fF",
                     "parent_id": "YgrSDjlb",
@@ -2186,6 +2162,31 @@
                     ],
                     "size": 4829694,
                     "date_published": "2024-06-01T23:13:57.972433Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "bountifulfares-1.2.1-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/6987/920/bountifulfares-1.2.1-1.20.1.jar",
+                    "id": "6987920",
+                    "parent_id": "972289",
+                    "hashes": {
+                        "sha1": "6a70eadded00ef59ef5f74a5aeebacfa0c3a16ec",
+                        "md5": "29d6a1fec75b340ead3845317f78097e"
+                    },
+                    "required_dependencies": [
+                        "1279113",
+                        "306612"
+                    ],
+                    "size": 4829694,
+                    "date_published": "2025-09-12T00:15:33.743Z"
                 }
             ]
         },
