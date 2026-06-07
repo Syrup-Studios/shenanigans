@@ -1377,46 +1377,46 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://edge.forgecdn.net/files/6010/301/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
-                    "id": "6010301",
-                    "parent_id": "272515",
-                    "hashes": {
-                        "sha1": "22964ac6041bd356e40658eb50425ae730f1b071",
-                        "md5": "aab265e80bbf0269996062ce1ba9822a"
-                    },
-                    "required_dependencies": [],
-                    "size": 97597,
-                    "date_published": "2024-12-21T12:20:46.683Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
+                    "file_name": "BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
                     "loaders": [
                         "fabric"
                     ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/g2QPj5Kb/BetterAdvancements-Fabric-1.20.1-0.4.2.25.jar",
-                    "id": "g2QPj5Kb",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/vNHwWDLM/BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
+                    "id": "vNHwWDLM",
                     "parent_id": "Q2OqKxDG",
                     "hashes": {
-                        "sha512": "e3111771d6b16639757d562c1714ae1ee2cdb0e14a923c8be87ab87db2a2848dba9b0c40f5f83495140045d2aa5c8bc8e4a9273f1b1470fe71398267aa668816",
-                        "sha1": "22964ac6041bd356e40658eb50425ae730f1b071"
+                        "sha512": "1f183ef5d5fe0a1412bc58d9f572308c2407538d4e44d91bf0773183c9bd6599303a45c6ef332b3a6234ab6ff3eb2337fa16ca4e76e837a3754f0c43b9e5633a",
+                        "sha1": "b21a37c0686de09d6a5c7b1a405d8a2d7e7263de"
                     },
                     "required_dependencies": [],
-                    "size": 97597,
-                    "date_published": "2024-12-21T12:21:10.536780Z"
+                    "size": 97692,
+                    "date_published": "2026-05-22T19:13:07.787351Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8129/39/BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
+                    "id": "8129039",
+                    "parent_id": "272515",
+                    "hashes": {
+                        "sha1": "b21a37c0686de09d6a5c7b1a405d8a2d7e7263de",
+                        "md5": "70179b8cebbb666110f744d25b1f3b55"
+                    },
+                    "required_dependencies": [],
+                    "size": 97692,
+                    "date_published": "2026-05-22T19:12:39.097Z"
                 }
             ]
         },
