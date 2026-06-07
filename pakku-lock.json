@@ -5755,30 +5755,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7192/336/CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
-                    "id": "7192336",
-                    "parent_id": "440597",
-                    "hashes": {
-                        "sha1": "f242df01fe9517ee0b4fce325ee803413ed4a6fc",
-                        "md5": "2fe71521f19af9c844cda8f774091846"
-                    },
-                    "required_dependencies": [],
-                    "size": 2834332,
-                    "date_published": "2025-11-06T15:14:12.860Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
+                    "file_name": "CustomPlayerModels-Fabric-1.20-0.6.26a.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -5787,16 +5765,38 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/j29ss5C6/CustomPlayerModels-Fabric-1.20-0.6.25a.jar",
-                    "id": "j29ss5C6",
+                    "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/322eTnkj/CustomPlayerModels-Fabric-1.20-0.6.26a.jar",
+                    "id": "322eTnkj",
                     "parent_id": "h1E7sQNL",
                     "hashes": {
-                        "sha512": "6c152ff7706c3e8db89236de83085fbfb2f4caddeb82697e20d42dc4cc2e107acb66d467161c0f0467d8e3aea0326f308938933cdd640760a8e8f327260f6997",
-                        "sha1": "f242df01fe9517ee0b4fce325ee803413ed4a6fc"
+                        "sha512": "4f8b2415310915e186c578341aa4a6690f4e6a9ce4432a7894cacaee716b60831a5e746f41e517e33641419f10300525c7bd8d2c6fe4645f2b4c734942f1d3cc",
+                        "sha1": "d69fa82ad9fcb6807549b95f8322d0f4be25e1d6"
                     },
                     "required_dependencies": [],
-                    "size": 2834332,
-                    "date_published": "2025-11-06T15:14:17.221283Z"
+                    "size": 2847706,
+                    "date_published": "2026-05-22T16:40:05.724999Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "CustomPlayerModels-Fabric-1.20-0.6.26a.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8128/388/CustomPlayerModels-Fabric-1.20-0.6.26a.jar",
+                    "id": "8128388",
+                    "parent_id": "440597",
+                    "hashes": {
+                        "sha1": "d69fa82ad9fcb6807549b95f8322d0f4be25e1d6",
+                        "md5": "43cf104bde2c675c2bb00b4a33be7a08"
+                    },
+                    "required_dependencies": [],
+                    "size": 2847706,
+                    "date_published": "2026-05-22T16:40:02.633Z"
                 }
             ]
         },
