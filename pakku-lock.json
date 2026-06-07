@@ -9577,7 +9577,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fieldguide-fabric-1.20.1-1.6.9.jar",
+                    "file_name": "fieldguide-fabric-1.20.1-1.8.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9585,23 +9585,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/72RRCWM6/versions/NpHDafuu/fieldguide-fabric-1.20.1-1.6.9.jar",
-                    "id": "NpHDafuu",
+                    "url": "https://cdn.modrinth.com/data/72RRCWM6/versions/RBXa94wo/fieldguide-fabric-1.20.1-1.8.0.jar",
+                    "id": "RBXa94wo",
                     "parent_id": "72RRCWM6",
                     "hashes": {
-                        "sha512": "1d3c7663dec2cf0a067a2f24b4a9fcd021a8d97562b07fd6f041c4168f2e71c68f17f9dec08af556bfcdefac6f4abdc5f3152311685dd5b83103af31c3d56a07",
-                        "sha1": "0f6fa6c946dd823a9bf8d9dea6316aac7eaf65df"
+                        "sha512": "0142b3881ef4916a18aed50a77717058587b9e37d941dbc950ade135210677b6624ccfc5cf1d3ee1b2c2de1227944beafdbf4fd59afbf9467a5be39412eca667",
+                        "sha1": "77ba0d69487f4568646a32bad5253a05a11d2437"
                     },
                     "required_dependencies": [
                         "UaizcMKP",
                         "PKoLkD98"
                     ],
-                    "size": 1060217,
-                    "date_published": "2026-04-09T22:32:50.850514Z"
+                    "size": 1073249,
+                    "date_published": "2026-06-07T03:05:50.278373Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fieldguide-fabric-1.20.1-1.6.9.jar",
+                    "file_name": "fieldguide-fabric-1.20.1-1.8.0.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -9609,19 +9609,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7901/862/fieldguide-fabric-1.20.1-1.6.9.jar",
-                    "id": "7901862",
+                    "url": "https://edge.forgecdn.net/files/8208/649/fieldguide-fabric-1.20.1-1.8.0.jar",
+                    "id": "8208649",
                     "parent_id": "1470590",
                     "hashes": {
-                        "sha1": "0f6fa6c946dd823a9bf8d9dea6316aac7eaf65df",
-                        "md5": "1ac51c6569aa42c1ca1be2f3bff11bfc"
+                        "sha1": "77ba0d69487f4568646a32bad5253a05a11d2437",
+                        "md5": "f40a48c02aaf5239618c44258343a013"
                     },
                     "required_dependencies": [
                         "1245453",
                         "1101501"
                     ],
-                    "size": 1060217,
-                    "date_published": "2026-04-09T22:32:50.367Z"
+                    "size": 1073249,
+                    "date_published": "2026-06-07T03:05:50.380Z"
                 }
             ]
         },
