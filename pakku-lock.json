@@ -496,7 +496,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar",
+                    "file_name": "AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -504,23 +504,23 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/fM515JnW/versions/Y8F6BpQg/AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar",
-                    "id": "Y8F6BpQg",
+                    "url": "https://cdn.modrinth.com/data/fM515JnW/versions/cAyLWFYE/AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
+                    "id": "cAyLWFYE",
                     "parent_id": "fM515JnW",
                     "hashes": {
-                        "sha512": "3d047c3b8fa124089459a93951c9bca07da58bf07f2b63ed80e3abf69b6fe8d62bd6c991bf9beaa5deabbaf84ab40349c68a9e090d851c5e4a0356aefed09ad1",
-                        "sha1": "69e884eb154223eac6c85d120b217a5856b5b6a5"
+                        "sha512": "10d413c5ca086624d96a2a59faa770049012a383366fc632507503bdad4a95c8e8b150bd91f06a338763c355562acfe72f077021dd305127f67e85fe55db14f3",
+                        "sha1": "1d37e21d373256a7bd7fec82670e80b0430bcfa2"
                     },
                     "required_dependencies": [
-                        "OsZiaDHq",
-                        "P7dR8mSH"
+                        "P7dR8mSH",
+                        "OsZiaDHq"
                     ],
-                    "size": 53432098,
-                    "date_published": "2026-01-30T11:54:52.777867Z"
+                    "size": 53432488,
+                    "date_published": "2026-05-05T12:22:40.216759Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar",
+                    "file_name": "AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -528,19 +528,19 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7550/236/AmbientSounds_FABRIC_v6.3.4_mc1.20.1.jar",
-                    "id": "7550236",
+                    "url": "https://edge.forgecdn.net/files/8043/2/AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
+                    "id": "8043002",
                     "parent_id": "254284",
                     "hashes": {
-                        "sha1": "69e884eb154223eac6c85d120b217a5856b5b6a5",
-                        "md5": "baf11c7689ff96e99e54037144394665"
+                        "sha1": "1d37e21d373256a7bd7fec82670e80b0430bcfa2",
+                        "md5": "6ec4b509427d58346b18ae9abf620854"
                     },
                     "required_dependencies": [
-                        "257814",
-                        "306612"
+                        "306612",
+                        "257814"
                     ],
-                    "size": 53432098,
-                    "date_published": "2026-01-30T11:54:29.187Z"
+                    "size": 53432488,
+                    "date_published": "2026-05-05T12:22:19.073Z"
                 }
             ]
         },
