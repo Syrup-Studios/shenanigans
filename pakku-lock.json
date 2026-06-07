@@ -6183,6 +6183,76 @@
             ]
         },
         {
+            "pakku_id": "saZA4rd0l05n0bMl",
+            "pakku_links": [
+                "4e2jUr6RItZIExwL"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "default-options",
+                "modrinth": "default-options"
+            },
+            "name": {
+                "curseforge": "Default Options",
+                "modrinth": "Default Options"
+            },
+            "id": {
+                "curseforge": "232131",
+                "modrinth": "WEg59z5b"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "defaultoptions-fabric-1.20.1-18.0.4.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6972/468/defaultoptions-fabric-1.20.1-18.0.4.jar",
+                    "id": "6972468",
+                    "parent_id": "232131",
+                    "hashes": {
+                        "sha1": "cd193e02621a599dedf5f07bba761e59a2bff29a",
+                        "md5": "c19af13aee8fe4c1f71045ca2c51dc1d"
+                    },
+                    "required_dependencies": [
+                        "500525"
+                    ],
+                    "size": 92486,
+                    "date_published": "2025-09-07T12:28:02.950Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "defaultoptions-fabric-1.20.1-18.0.4.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/cxuTtrVx/defaultoptions-fabric-1.20.1-18.0.4.jar",
+                    "id": "cxuTtrVx",
+                    "parent_id": "WEg59z5b",
+                    "hashes": {
+                        "sha512": "68fb7bb9b5ed182c600bab3daf795f6eae2f1f2dc5c748042dc4a45d18d7942b96abb224bde14f1c2523e33fcaf29e3249e3e5183e2aa643b1c3f1ecac4ba8e5",
+                        "sha1": "df4c94330d69547282902677c03b0a21456eb5dd"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 92486,
+                    "date_published": "2025-09-07T12:28:16.403270Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8Vd34PC5Gdg9X03n",
             "type": "MOD",
             "side": "CLIENT",
