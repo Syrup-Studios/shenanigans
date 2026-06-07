@@ -54,21 +54,6 @@ ServerEvents.tags('item', event => {
         'naturalist:duck'
     ]);
 
-
-    event.remove('minecraft:needs_stone_tool', [
-        'minecraft:copper_ore',
-        'natures_spirit:chert_copper_ore',
-        'minecraft:deepslate_copper_ore',
-        'meadow:alpine_copper_ore',
-        'spelunkery:diorite_copper_ore',
-        'spelunkery:granite_copper_ore',
-        'spelunkery:tuff_copper_ore',
-        'deeperdarker:sculk_stone_copper_ore',
-        'deeperdarker:gloomslate_copper_ore',
-        'meadow:alpine_copper_ore'
-    ]);
-
-
     event.add('c:raw_ores', [
         'clutter:raw_silver'
     ]);
@@ -104,7 +89,11 @@ ServerEvents.tags('block', event => {
         'spelunkery:tuff_copper_ore',
         'deeperdarker:sculk_stone_copper_ore',
         'deeperdarker:gloomslate_copper_ore',
-        'meadow:alpine_copper_ore'
+        'meadow:alpine_copper_ore',
+        'spelunkery:andesite_coal_ore',
+        'spelunkery:diorite_coal_ore',
+        'spelunkery:granite_coal_ore',
+        'spelunkery:tuff_coal_ore'
     ]);
 
 })
