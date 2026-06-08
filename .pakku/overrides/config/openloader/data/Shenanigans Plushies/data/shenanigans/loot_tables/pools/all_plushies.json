@@ -10,26 +10,6 @@
           "functions": [
             {
               "function": "plushie-friends:set_plushie",
-              "id": "shenanigans:amandine56"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
-          "functions": [
-            {
-              "function": "plushie-friends:set_plushie",
-              "id": "shenanigans:soleilk"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
-          "functions": [
-            {
-              "function": "plushie-friends:set_plushie",
               "id": "shenanigans:berrrrrrrrrrrryy"
             }
           ]
@@ -40,57 +20,7 @@
           "functions": [
             {
               "function": "plushie-friends:set_plushie",
-              "id": "shenanigans:astrom4rs"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
-          "functions": [
-            {
-              "function": "plushie-friends:set_plushie",
-              "id": "shenanigans:duskru"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
-          "functions": [
-            {
-              "function": "plushie-friends:set_plushie",
-              "id": "shenanigans:jellybeanka"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
-          "functions": [
-            {
-              "function": "plushie-friends:set_plushie",
               "id": "shenanigans:jibbily27"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
-          "functions": [
-            {
-              "function": "plushie-friends:set_plushie",
-              "id": "shenanigans:katcamari"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
-          "functions": [
-            {
-              "function": "plushie-friends:set_plushie",
-              "id": "shenanigans:notaelvys"
             }
           ]
         },
