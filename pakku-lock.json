@@ -16792,12 +16792,12 @@
             ]
         },
         {
-            "pakku_id": "jnf0bcU2QTPqqkk8",
+            "pakku_id": "AJMRaJd5ISpUrDSR",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "plushie-friends",
-                "modrinth": "plushie-friend"
+                "curseforge": "plushiefriends",
+                "modrinth": "plushiefriends"
             },
             "name": {
                 "curseforge": "Plushie Friends",
@@ -16809,29 +16809,8 @@
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "plushie-friends-0.1.2.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/NHLxGUiZ/plushie-friends-0.1.2.jar",
-                    "id": "NHLxGUiZ",
-                    "parent_id": "dcPq78Za",
-                    "hashes": {
-                        "sha512": "eee48db51487567fea7b52c13dcc0a229da96929a2b35c6c7f60c9b5ff1b3f1804f494974a135d5c2fd89925b01af85ec7c5c0595c83c07d1b73f14a1ec203e0",
-                        "sha1": "f7337c3e0d40584c3875208479b4f364841c1ee6"
-                    },
-                    "required_dependencies": [],
-                    "size": 282310,
-                    "date_published": "2026-05-26T07:55:44.701205Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "plushie-friends-0.1.2.jar",
+                    "file_name": "plushie_friends-0.4.0+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -16839,16 +16818,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8147/711/plushie-friends-0.1.2.jar",
-                    "id": "8147711",
+                    "url": "https://edge.forgecdn.net/files/8307/436/plushie_friends-0.4.0+1.20.1.jar",
+                    "id": "8307436",
                     "parent_id": "1545772",
                     "hashes": {
-                        "sha1": "f7337c3e0d40584c3875208479b4f364841c1ee6",
-                        "md5": "f6d8a7440f54076dcfbbd7ba3239aefc"
+                        "sha1": "8515f0e68a26343acae3571b792b117121f36b67",
+                        "md5": "d97b9660598f33a2a982562deb29bbbe"
                     },
                     "required_dependencies": [],
-                    "size": 282310,
-                    "date_published": "2026-05-26T07:55:59.280Z"
+                    "size": 283800,
+                    "date_published": "2026-06-23T16:45:56.910Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "plushie_friends-0.4.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/pORJnmqD/plushie_friends-0.4.0+1.20.1.jar",
+                    "id": "pORJnmqD",
+                    "parent_id": "dcPq78Za",
+                    "hashes": {
+                        "sha512": "dcfaad6cbc61d1283bd9524a73e2b7655d28ba744ff8897e71cdaf9ff559ba09220dcfe42a161a0429c0121bda0de4ea45057f9755da95f85cbe50c2401acead",
+                        "sha1": "8515f0e68a26343acae3571b792b117121f36b67"
+                    },
+                    "required_dependencies": [],
+                    "size": 283800,
+                    "date_published": "2026-06-23T16:45:24.329817Z"
                 }
             ]
         },
