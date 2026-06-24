@@ -1360,67 +1360,6 @@
             ]
         },
         {
-            "pakku_id": "jsmzZr9k6wHesSQF",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "better-advancements",
-                "modrinth": "better-advancements"
-            },
-            "name": {
-                "curseforge": "Better Advancements",
-                "modrinth": "Better Advancements"
-            },
-            "id": {
-                "curseforge": "272515",
-                "modrinth": "Q2OqKxDG"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/vNHwWDLM/BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
-                    "id": "vNHwWDLM",
-                    "parent_id": "Q2OqKxDG",
-                    "hashes": {
-                        "sha512": "1f183ef5d5fe0a1412bc58d9f572308c2407538d4e44d91bf0773183c9bd6599303a45c6ef332b3a6234ab6ff3eb2337fa16ca4e76e837a3754f0c43b9e5633a",
-                        "sha1": "b21a37c0686de09d6a5c7b1a405d8a2d7e7263de"
-                    },
-                    "required_dependencies": [],
-                    "size": 97692,
-                    "date_published": "2026-05-22T19:13:07.787351Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8129/39/BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
-                    "id": "8129039",
-                    "parent_id": "272515",
-                    "hashes": {
-                        "sha1": "b21a37c0686de09d6a5c7b1a405d8a2d7e7263de",
-                        "md5": "70179b8cebbb666110f744d25b1f3b55"
-                    },
-                    "required_dependencies": [],
-                    "size": 97692,
-                    "date_published": "2026-05-22T19:12:39.097Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "IVIjztNg3IvfVjIm",
             "type": "MOD",
             "side": "CLIENT",
@@ -17691,6 +17630,74 @@
                     ],
                     "size": 5689530,
                     "date_published": "2024-07-23T16:46:33.427Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "gZ6I8WUmUVq3ajBV",
+            "pakku_links": [
+                "zJdHaMqgv1dOR3pR"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "reliable-advancements",
+                "modrinth": "reliable-advancements"
+            },
+            "name": {
+                "curseforge": "Reliable Advancements",
+                "modrinth": "Reliable Advancements"
+            },
+            "id": {
+                "curseforge": "1527472",
+                "modrinth": "xVwaUG1g"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "reliable_advancements-fabric-1.20.1-4.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8307/553/reliable_advancements-fabric-1.20.1-4.0.2.jar",
+                    "id": "8307553",
+                    "parent_id": "1527472",
+                    "hashes": {
+                        "sha1": "05dc1a08dfe8eeab3ae34460b58c1f0f05e3e41d",
+                        "md5": "da873a6e8328924fcee2623972e45fc9"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 192951,
+                    "date_published": "2026-06-23T17:12:18.083Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "reliable_advancements-fabric-1.20.1-4.0.2.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/xVwaUG1g/versions/GnyiiqDV/reliable_advancements-fabric-1.20.1-4.0.2.jar",
+                    "id": "GnyiiqDV",
+                    "parent_id": "xVwaUG1g",
+                    "hashes": {
+                        "sha512": "3b7a682c0591d30f65bb0f46797272bdac67f29b04c43fb64caa837916ddae41f8e15bdec6c5540df675fc751d2b9114f547c28cda1dcb0c2c73bacd02782edf",
+                        "sha1": "05dc1a08dfe8eeab3ae34460b58c1f0f05e3e41d"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 192951,
+                    "date_published": "2026-06-23T17:12:17.777317Z"
                 }
             ]
         },
