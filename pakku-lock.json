@@ -21576,7 +21576,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "syrup-essentials-0.2.3.jar",
+                    "file_name": "syrup-essentials-0.2.4.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -21584,16 +21584,16 @@
                         "fabric"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/mvcVBPjc/syrup-essentials-0.2.3.jar",
-                    "id": "mvcVBPjc",
+                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/lCU9CQ5k/syrup-essentials-0.2.4.jar",
+                    "id": "lCU9CQ5k",
                     "parent_id": "5ilOuE0e",
                     "hashes": {
-                        "sha512": "da0a249c6369e6cb995f46535b371c167484dfed7f8a038cb6ea96e04ba672a0e83c1b318bd329134a36e58fe5c2a14545d880a1651715d75acc9d058be14b89",
-                        "sha1": "87af8aed1fd048cd6912f56867cd04ebb43dc786"
+                        "sha512": "d916bc8bdba4bd5b8acc923562af4f5f8d268b85b12b7970e63a65af4168dbce81c188d09d6e9991aef53d2dd52a6548b3724b043b215824fe54294c5487709b",
+                        "sha1": "dcaab11bf9ceaa74a9fa6eadcad5e21aa71c908f"
                     },
                     "required_dependencies": [],
-                    "size": 52701,
-                    "date_published": "2026-06-07T01:47:59.752392Z"
+                    "size": 56359,
+                    "date_published": "2026-06-19T02:05:46.090672Z"
                 },
                 {
                     "type": "curseforge",
