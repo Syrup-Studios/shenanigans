@@ -7850,6 +7850,46 @@
             ]
         },
         {
+            "pakku_id": "xvc53Mdnoa0xrwuM",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "ender-sender",
+                "modrinth": "ender-sender"
+            },
+            "name": {
+                "curseforge": "Ender Sender: Remote Block Depot",
+                "modrinth": "Ender Sender: Remote Block Depot"
+            },
+            "id": {
+                "curseforge": "759561",
+                "modrinth": "PDSZ55c9"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ender-sender-2.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PDSZ55c9/versions/CMHPWISF/ender-sender-2.0.0.jar",
+                    "id": "CMHPWISF",
+                    "parent_id": "PDSZ55c9",
+                    "hashes": {
+                        "sha512": "46ebc02a29c70e1a387a3f820b9107e83c74218797f525c86ab1553a6a696e59f9cba54201417becdae6c9793c0e7a5a3f3e41792c88c4ac4c4f2b06e9f4df36",
+                        "sha1": "aeab7e72f425887cb1924e452ac910ea23405cfb"
+                    },
+                    "required_dependencies": [],
+                    "size": 53408,
+                    "date_published": "2026-06-25T20:44:17.165747Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "sKcbEhbWfysF4pWB",
             "pakku_links": [
                 "nJdK28PaqDp9XFgP",
