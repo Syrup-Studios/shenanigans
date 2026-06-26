@@ -11276,6 +11276,77 @@
             ]
         },
         {
+            "pakku_id": "mpDsSpfJRNvUHAWY",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "6RbhpMe5bljcaGI4"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mc2-interactive-foliage",
+                "modrinth": "mc2-interactive-foliage"
+            },
+            "name": {
+                "curseforge": "Interactive Foliage",
+                "modrinth": "Interactive Foliage"
+            },
+            "id": {
+                "curseforge": "1560873",
+                "modrinth": "ba5MV2CF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mc2_interactivefoliage-1.1.1-fabric+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8242/647/mc2_interactivefoliage-1.1.1-fabric+1.20.1.jar",
+                    "id": "8242647",
+                    "parent_id": "1560873",
+                    "hashes": {
+                        "sha1": "892e50ff902dbb00f83ed80c3cd84fb9f7abbccb",
+                        "md5": "10bbdeb98c082dccc5eea5c31e5016e8"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "1568089"
+                    ],
+                    "size": 120931,
+                    "date_published": "2026-06-13T15:29:48.807Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mc2_interactivefoliage-1.1.1-fabric+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ba5MV2CF/versions/1SRsrdey/mc2_interactivefoliage-1.1.1-fabric+1.20.1.jar",
+                    "id": "1SRsrdey",
+                    "parent_id": "ba5MV2CF",
+                    "hashes": {
+                        "sha512": "0873cf40c9f156652d44ae6f637680bf37f4da738736b2163f7e79ca664d989fb12683ce55293392c220f205902be8a3bfbf7e3ae74a4255258dd6c0de3cd64e",
+                        "sha1": "892e50ff902dbb00f83ed80c3cd84fb9f7abbccb"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "Gj6Yce3v"
+                    ],
+                    "size": 120931,
+                    "date_published": "2026-06-13T15:29:49.795446Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "WDOCmkmPn1qjCvjC",
             "type": "MOD",
             "side": "SERVER",
@@ -18303,6 +18374,77 @@
                     ],
                     "size": 287561,
                     "date_published": "2026-01-22T20:49:19.090Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "6RbhpMe5bljcaGI4",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I",
+                "mpDsSpfJRNvUHAWY"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "sway",
+                "modrinth": "sway"
+            },
+            "name": {
+                "curseforge": "SWAY",
+                "modrinth": "SWAY"
+            },
+            "id": {
+                "curseforge": "1568089",
+                "modrinth": "Gj6Yce3v"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sway-1.1.1-fabric+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8240/546/sway-1.1.1-fabric+1.20.1.jar",
+                    "id": "8240546",
+                    "parent_id": "1568089",
+                    "hashes": {
+                        "sha1": "b0f18403b747dee82a7a1e3aad932f7e9d206aba",
+                        "md5": "e467a9cc1919c2c34b368e1d856c538b"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "1560873"
+                    ],
+                    "size": 27705,
+                    "date_published": "2026-06-13T05:58:52.327Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sway-1.1.1-fabric+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Gj6Yce3v/versions/TTdo3HYg/sway-1.1.1-fabric+1.20.1.jar",
+                    "id": "TTdo3HYg",
+                    "parent_id": "Gj6Yce3v",
+                    "hashes": {
+                        "sha512": "f3afb42919efcb74c8c343be945b2c2e78ebc4b221f0aa1db0aede16d9527045d4125e9d95def2355eb15c4a0e195ebac8442930a6c0b8b1a1967828a2ae5a23",
+                        "sha1": "b0f18403b747dee82a7a1e3aad932f7e9d206aba"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "ba5MV2CF"
+                    ],
+                    "size": 27705,
+                    "date_published": "2026-06-13T05:58:52.669994Z"
                 }
             ]
         },
