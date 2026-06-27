@@ -96,4 +96,5 @@ ServerEvents.tags('block', event => {
         'spelunkery:tuff_coal_ore'
     ]);
 
+    event.add('create:non_movable', /^sophisticatedstorage:.*/)
 })
