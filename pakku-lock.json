@@ -3387,6 +3387,42 @@
             ]
         },
         {
+            "pakku_id": "jgsbsVK5o7t6WBjS",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "colorful-armor-bar"
+            },
+            "name": {
+                "curseforge": "Colorful Armor Bar"
+            },
+            "id": {
+                "curseforge": "1587811"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "colorful_armor_bar-0.1.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8325/787/colorful_armor_bar-0.1.0+1.20.1.jar",
+                    "id": "8325787",
+                    "parent_id": "1587811",
+                    "hashes": {
+                        "sha1": "10315f888d7e437aa84105e5a9189992f722af25",
+                        "md5": "53a7b5d17a0fc839406caa013908d4be"
+                    },
+                    "required_dependencies": [],
+                    "size": 317353,
+                    "date_published": "2026-06-26T20:48:04.980Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "xAvRMYdrNBjeRzHH",
             "pakku_links": [
                 "4A2d62Dn4rlQ6Ige"
@@ -6107,74 +6143,6 @@
                     ],
                     "size": 92486,
                     "date_published": "2025-09-07T12:28:16.403270Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "8Vd34PC5Gdg9X03n",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "detail-armor-bar",
-                "modrinth": "detail-armor-bar"
-            },
-            "name": {
-                "curseforge": "Detail Armor Bar [Fabric]",
-                "modrinth": "Detail Armor Bar"
-            },
-            "id": {
-                "curseforge": "506898",
-                "modrinth": "hAt6ty93"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "DetailArmorBar-2.6.3+1.20.1-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/hAt6ty93/versions/bFQ1ISy6/DetailArmorBar-2.6.3+1.20.1-fabric.jar",
-                    "id": "bFQ1ISy6",
-                    "parent_id": "hAt6ty93",
-                    "hashes": {
-                        "sha512": "b0816df8b8052cafb31a48ad277965b55f1304659f4e4433fbf69958f20a56af0843fc672d70f4a9202021212667f8e43bcbacdb2b6619fcb78cc761182696f5",
-                        "sha1": "4ebf5767f28d700583e8ee0e91eab118657101d2"
-                    },
-                    "required_dependencies": [
-                        "P7dR8mSH"
-                    ],
-                    "size": 57045,
-                    "date_published": "2023-06-13T12:44:44.153504Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "DetailArmorBar-2.6.3+1.20.1-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4584/467/DetailArmorBar-2.6.3+1.20.1-fabric.jar",
-                    "id": "4584467",
-                    "parent_id": "506898",
-                    "hashes": {
-                        "sha1": "4ebf5767f28d700583e8ee0e91eab118657101d2",
-                        "md5": "65bf41573a9920ea732beb6e9564208a"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 57045,
-                    "date_published": "2023-06-13T12:45:35.810Z"
                 }
             ]
         },
