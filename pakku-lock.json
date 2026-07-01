@@ -3387,21 +3387,25 @@
             ]
         },
         {
-            "pakku_id": "jgsbsVK5o7t6WBjS",
+            "pakku_id": "86Agg4lkoRaMIUXT",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "colorful-armor-bar"
+                "curseforge": "colorful-armor-bar",
+                "modrinth": "colorful-armor-bar"
             },
             "name": {
-                "curseforge": "Colorful Armor Bar"
+                "curseforge": "Colorful Armor Bar",
+                "modrinth": "Colorful Armor Bar"
             },
             "id": {
-                "curseforge": "1587811"
+                "curseforge": "1587811",
+                "modrinth": "kQZ7uiYu"
             },
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "colorful_armor_bar-0.1.0+1.20.1.jar",
+                    "file_name": "colorful_armor_bar-0.2.0+1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3409,16 +3413,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8325/787/colorful_armor_bar-0.1.0+1.20.1.jar",
-                    "id": "8325787",
+                    "url": "https://edge.forgecdn.net/files/8327/504/colorful_armor_bar-0.2.0+1.20.1.jar",
+                    "id": "8327504",
                     "parent_id": "1587811",
                     "hashes": {
-                        "sha1": "10315f888d7e437aa84105e5a9189992f722af25",
-                        "md5": "53a7b5d17a0fc839406caa013908d4be"
+                        "sha1": "f7bf1da12dfda4ea2642adcbc5024d46bff2088e",
+                        "md5": "9f06bcb7977519fe778e662d10ee485a"
                     },
                     "required_dependencies": [],
-                    "size": 317353,
-                    "date_published": "2026-06-26T20:48:04.980Z"
+                    "size": 317420,
+                    "date_published": "2026-06-27T04:51:15.650Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "colorful_armor_bar-0.2.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/kqyn0ztX/colorful_armor_bar-0.2.0+1.20.1.jar",
+                    "id": "kqyn0ztX",
+                    "parent_id": "kQZ7uiYu",
+                    "hashes": {
+                        "sha512": "15e610c3ea1df64cee940377f73f18927e15f4a269888d449303985fab791e04c7d3378f0b1edf352f0b6b829aebaa6ad51e68c8acdfd3a09e6a20e5f49c65b3",
+                        "sha1": "f7bf1da12dfda4ea2642adcbc5024d46bff2088e"
+                    },
+                    "required_dependencies": [],
+                    "size": 317420,
+                    "date_published": "2026-06-27T04:50:47.350433Z"
                 }
             ]
         },
