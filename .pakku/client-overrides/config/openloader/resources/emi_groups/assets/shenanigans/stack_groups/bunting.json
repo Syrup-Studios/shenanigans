@@ -1,0 +1,6 @@
+{
+  "id": "shenanigans:bunting",
+  "type": "emixx:regex",
+  "regex": "supplementaries:bunting.*",
+  "name": "Bunting"
+}

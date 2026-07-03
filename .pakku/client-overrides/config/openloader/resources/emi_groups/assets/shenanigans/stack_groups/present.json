@@ -1,0 +1,6 @@
+{
+  "id": "shenanigans:present",
+  "type": "emixx:regex",
+  "regex": "supplementaries:present.*",
+  "name": "Presents"
+}

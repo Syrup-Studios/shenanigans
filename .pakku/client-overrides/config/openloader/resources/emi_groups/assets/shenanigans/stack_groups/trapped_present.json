@@ -1,0 +1,6 @@
+{
+  "id": "shenanigans:trapped_present",
+  "type": "emixx:regex",
+  "regex": "supplementaries:trapped_present.*",
+  "name": "Trapped Presents"
+}

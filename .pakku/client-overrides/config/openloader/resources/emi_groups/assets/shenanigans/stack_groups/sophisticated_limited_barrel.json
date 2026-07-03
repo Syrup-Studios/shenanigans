@@ -1,0 +1,6 @@
+{
+  "id": "shenanigans:sophisticated_limited_barrel",
+  "type": "emixx:regex",
+  "regex": "sophisticatedstorage:limited.*barrel.*",
+  "name": "Sophisticated Limited Barrels"
+}
