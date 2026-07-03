@@ -7217,6 +7217,80 @@
             ]
         },
         {
+            "pakku_id": "JoZM4n0FeBpVjDMd",
+            "pakku_links": [
+                "dTu7TaNVOh9i7W8L",
+                "3FpAARvZ6uHWZyzN",
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "emi-plus-backport",
+                "curseforge": "emi-backport"
+            },
+            "name": {
+                "modrinth": "EMI++ Forked",
+                "curseforge": "EMI++ Forked"
+            },
+            "id": {
+                "modrinth": "N9WucjHL",
+                "curseforge": "1411826"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "emixx-fabric-1.5.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/N9WucjHL/versions/mFgv5Bdl/emixx-fabric-1.5.1.jar",
+                    "id": "mFgv5Bdl",
+                    "parent_id": "N9WucjHL",
+                    "hashes": {
+                        "sha512": "743dec3efca0f7f7aca00c4b7188d113652f00715e87f6b0a326e6bbfc716c6c4c7b3cc40713065557b67547a4a26a2a900faf0b7fd8c46194ea41ea4c0607fe",
+                        "sha1": "2438e4a8d94454fbf4c178fd38688ee3e2bbb56f"
+                    },
+                    "required_dependencies": [
+                        "fRiHVvU7",
+                        "Ha28R6CL",
+                        "P7dR8mSH"
+                    ],
+                    "size": 209387,
+                    "date_published": "2026-06-18T18:02:34.587968Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "emixx-fabric-1.5.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8274/453/emixx-fabric-1.5.1.jar",
+                    "id": "8274453",
+                    "parent_id": "1411826",
+                    "hashes": {
+                        "sha1": "2438e4a8d94454fbf4c178fd38688ee3e2bbb56f",
+                        "md5": "c9c1a9bb5d2666ce3e78a17a361f74d3"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "308769",
+                        "580555"
+                    ],
+                    "size": 209387,
+                    "date_published": "2026-06-18T18:02:34.647Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "DO0rNMPaGgXM75wl",
             "pakku_links": [
                 "dTu7TaNVOh9i7W8L",
@@ -24822,5 +24896,5 @@
             ]
         }
     ],
-    "lockfile_version": 1
+    "lockfile_version": 2
 }
