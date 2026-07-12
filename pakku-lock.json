@@ -8106,6 +8106,88 @@
             ]
         },
         {
+            "pakku_id": "nvkLo4gq8BEuO8SX",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "enderpearl-backport",
+                "modrinth": "enderpearl-backport"
+            },
+            "name": {
+                "curseforge": "Enderpearl Backport",
+                "modrinth": "Enderpearl Backport"
+            },
+            "id": {
+                "curseforge": "1367059",
+                "modrinth": "tfgqelN2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "enderpearl-backport-1.20-1.1.5.jar",
+                    "mc_versions": [
+                        "1.20.2-Snapshot",
+                        "1.20.5-Snapshot",
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20-Snapshot",
+                        "1.20.4",
+                        "1.20.3-Snapshot",
+                        "1.20.3"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7829/155/enderpearl-backport-1.20-1.1.5.jar",
+                    "id": "7829155",
+                    "parent_id": "1367059",
+                    "hashes": {
+                        "sha1": "8dc56dd0bc60309dd6a9e1ead584073159a018ee",
+                        "md5": "868f56e37118d0a16147a2949d2aa901"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 26693,
+                    "date_published": "2026-03-28T13:54:26.703Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "enderpearl-backport-1.20-1.1.5.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/tfgqelN2/versions/x4gDAOor/enderpearl-backport-1.20-1.1.5.jar",
+                    "id": "x4gDAOor",
+                    "parent_id": "tfgqelN2",
+                    "hashes": {
+                        "sha512": "9c0e4bb9c40b5f7550ed48f410ffeaf82140ad7a878b4ab8c576a200931d52d5b567a0489e8ed3d159763e9f792be459e265a3dfc02df481f7c4e0f271d2eaa9",
+                        "sha1": "8dc56dd0bc60309dd6a9e1ead584073159a018ee"
+                    },
+                    "required_dependencies": [],
+                    "size": 26693,
+                    "date_published": "2026-03-28T13:56:07.002272Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "gsuL823QfC9GNAFt",
             "type": "MOD",
             "side": "CLIENT",
