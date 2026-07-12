@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:sign_post",
-  "type": "emixx:regex",
-  "regex": "supplementaries:.*sign_post.*",
-  "name": "Sign Posts"
-}

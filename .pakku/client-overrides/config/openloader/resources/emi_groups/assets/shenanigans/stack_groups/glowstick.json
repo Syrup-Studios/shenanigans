@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:glowstick",
-  "type": "emixx:regex",
-  "regex": "spelunkery:.*glowstick",
-  "name": "Glowsticks"
-}

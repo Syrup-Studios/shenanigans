@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:sack",
-  "type": "emixx:regex",
-  "regex": ".*:sack.*",
-  "name": "Sacks"
-}

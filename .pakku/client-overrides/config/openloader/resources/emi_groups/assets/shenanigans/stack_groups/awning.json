@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:awning",
-  "type": "emixx:regex",
-  "regex": "supplementaries:awning.*",
-  "name": "Awning"
-}

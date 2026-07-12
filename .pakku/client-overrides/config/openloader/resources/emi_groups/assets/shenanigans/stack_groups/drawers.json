@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:drawers",
-  "type": "emixx:regex",
-  "regex": "storagedrawers:.*drawers.*",
-  "name": "Drawers"
-}

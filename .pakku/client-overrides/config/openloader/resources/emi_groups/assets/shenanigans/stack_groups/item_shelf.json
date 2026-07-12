@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:item_shelf",
-  "type": "emixx:regex",
-  "regex": ".*:.*item_shelf.*",
-  "name": "Item Shelves"
-}

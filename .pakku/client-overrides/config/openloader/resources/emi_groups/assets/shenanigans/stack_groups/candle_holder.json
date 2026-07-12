@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:candle_holder",
-  "type": "emixx:regex",
-  "regex": "supplementaries:candle_holder.*",
-  "name": "Candle Holder"
-}

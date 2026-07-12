@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:chess_timer",
-  "type": "emixx:regex",
-  "regex": "table_top_craft:.*chess_timer",
-  "name": "Chess Timers"
-}

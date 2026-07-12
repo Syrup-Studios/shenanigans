@@ -1,0 +1,15 @@
+{
+    "__message": "Click the config button again to load changes.",
+    "rebuildInterval": "0:00:01+00",
+    "snowyMode": "snowing",
+    "targetBlockKeys": [
+        "minecraft:acacia_leaves",
+        "minecraft:birch_leaves",
+        "minecraft:dark_oak_leaves",
+        "minecraft:jungle_leaves",
+        "minecraft:mangrove_leaves",
+        "minecraft:oak_leaves",
+        "minecraft:spruce_leaves"
+    ],
+    "transitionDuration": "0:00:20+00"
+}

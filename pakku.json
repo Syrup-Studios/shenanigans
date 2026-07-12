@@ -1,10 +1,21 @@
 {
     "name": "Shenanigans",
-    "version": "0.7.0-alpha",
+    "version": "DEV",
+    "release_type": "alpha",
+    "description": "This is my attempt on creating a nice and pleasent Vanilla++ Experience with many opiniated changes to make it feel very intuitive and comfortable.",
     "author": "Syrup Studios",
-    "paths": {
-        "shader_packs": "./shaderpacks/"
-    },
+    "overrides": [
+        "config",
+        "kubejs"
+    ],
+    "server_overrides": [
+        "!kubejs/assets",
+        "server.properties",
+        "server-icon.png"
+    ],
+    "client_overrides": [
+        "resourcepacks"
+    ],
     "projects": {
         "geckolib": {
             "side": "BOTH"

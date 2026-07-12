@@ -1,6 +1,0 @@
-{
-  "id": "shenanigans:sleeping_bag",
-  "type": "emixx:regex",
-  "regex": "comforts:sleeping_bag.*",
-  "name": "Sleeping Bags"
-}

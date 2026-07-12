@@ -1,0 +1,9 @@
+{
+  "disableOnDamage": true,
+  "disableOnDeath": true,
+  "loadDefaultAnimation": true,
+  "cameraFollow": false,
+  "modEnabled": true,
+  "debugLogEnabled": false,
+  "activationAfter": 30.0
+}
