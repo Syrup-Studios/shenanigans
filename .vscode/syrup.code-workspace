@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "name": "Root",
+            "path": "../",
+        },{
+            "name": "KubeJS",
+            "path": "../.pakku/overrides/kubejs"
+        },{
+            "name": "KubeJS Client",
+            "path": "../.pakku/client-overrides/kubejs"
+        },{
+            "name": "Configs",
+            "path": "../.pakku/overrides/config"
+        },{
+            "name": "Configs Client",
+            "path": "../.pakku/client-overrides/config"
+        },{
+            "name": "Server Overrides",
+            "path": "../.pakku/server-overrides/"
+        }
+    ],
+    "settings": {}
+}
