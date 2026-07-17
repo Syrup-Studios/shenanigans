@@ -89,7 +89,6 @@ ServerEvents.tags('block', event => {
         'spelunkery:tuff_copper_ore',
         'deeperdarker:sculk_stone_copper_ore',
         'deeperdarker:gloomslate_copper_ore',
-        'meadow:alpine_copper_ore',
         'spelunkery:andesite_coal_ore',
         'spelunkery:diorite_coal_ore',
         'spelunkery:granite_coal_ore',
