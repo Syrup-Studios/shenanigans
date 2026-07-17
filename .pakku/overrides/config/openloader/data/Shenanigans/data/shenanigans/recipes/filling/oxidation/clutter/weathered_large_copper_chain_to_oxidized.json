@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "clutter:weathered_large_copper_chain"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 20250
+    }
+  ],
+  "results": [
+    {
+      "item": "clutter:oxidized_large_copper_chain"
+    }
+  ]
+}

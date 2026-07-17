@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YZY",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:gunpowder"
+    },
+    "Y": {
+      "item": "minecraft:lime_dye"
+    },
+    "Z": {
+      "item": "minecraft:jack_o_lantern"
+    }
+  },
+  "result": {
+    "item": "minecraft:creeper_head"
+  }
+}

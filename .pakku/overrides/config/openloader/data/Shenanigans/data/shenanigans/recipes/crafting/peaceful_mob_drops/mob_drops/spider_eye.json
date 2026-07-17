@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XY",
+    "YX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:red_mushroom"
+    },
+    "Y": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "result": {
+    "item": "minecraft:spider_eye",
+    "count": 1
+  }
+}

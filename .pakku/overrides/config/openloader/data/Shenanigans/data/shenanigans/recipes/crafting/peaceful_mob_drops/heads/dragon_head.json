@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XZX",
+    "ZYZ",
+    "XZX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "Y": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "Z": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:dragon_head",
+    "count": 1
+  }
+}

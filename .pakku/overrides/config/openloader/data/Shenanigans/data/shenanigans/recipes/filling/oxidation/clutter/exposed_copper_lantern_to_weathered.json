@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "clutter:exposed_copper_lantern"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 20250
+    }
+  ],
+  "results": [
+    {
+      "item": "clutter:weathered_copper_lantern"
+    }
+  ]
+}

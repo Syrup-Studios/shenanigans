@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "friendsandfoes:exposed_copper_button"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 20250
+    }
+  ],
+  "results": [
+    {
+      "item": "friendsandfoes:weathered_copper_button"
+    }
+  ]
+}

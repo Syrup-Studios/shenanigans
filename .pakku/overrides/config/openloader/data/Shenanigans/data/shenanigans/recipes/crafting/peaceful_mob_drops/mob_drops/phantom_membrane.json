@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:beds"
+    }
+  },
+  "result": {
+    "item": "minecraft:phantom_membrane",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XZX",
+    "ZYZ",
+    "XZX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:bone"
+    },
+    "Y": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "Z": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:skeleton_skull",
+    "count": 1
+  }
+}

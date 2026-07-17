@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 1200,
+  "experience": 1,
+  "group": "iron_ingot",
+  "ingredient": {
+    "item": "minecraft:raw_gold"
+  },
+  "result": "minecraft:gold_ingot"
+}

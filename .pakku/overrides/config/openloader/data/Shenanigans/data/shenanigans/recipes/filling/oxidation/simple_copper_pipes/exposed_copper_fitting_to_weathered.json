@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "simple_copper_pipes:exposed_copper_fitting"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 20250
+    }
+  ],
+  "results": [
+    {
+      "item": "simple_copper_pipes:weathered_copper_fitting"
+    }
+  ]
+}

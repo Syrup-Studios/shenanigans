@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ZYX",
+    "ZYX",
+    "ZYX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:potato"
+    },
+    "Y": {
+      "item": "minecraft:carrot"
+    },
+    "Z": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "result": {
+    "item": "minecraft:porkchop",
+    "count": 1
+  }
+}

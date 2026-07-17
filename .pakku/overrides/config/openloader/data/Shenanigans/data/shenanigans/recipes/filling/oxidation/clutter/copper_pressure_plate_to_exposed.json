@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "clutter:copper_pressure_plate"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 20250
+    }
+  ],
+  "results": [
+    {
+      "item": "clutter:exposed_copper_pressure_plate"
+    }
+  ]
+}

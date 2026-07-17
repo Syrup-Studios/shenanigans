@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:end_stone"
+    },
+    "Y": {
+      "item": "minecraft:chorus_flower"
+    }
+  },
+  "result": {
+    "item": "minecraft:shulker_shell",
+    "count": 1
+  }
+}
