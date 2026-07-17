@@ -2,9 +2,6 @@
     "name": "Shenanigans",
     "version": "0.7.0-alpha",
     "author": "Syrup Studios",
-    "paths": {
-        "shader_packs": "./shaderpacks/"
-    },
     "projects": {
         "geckolib": {
             "side": "BOTH"
