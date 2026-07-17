@@ -23003,6 +23003,67 @@
             ]
         },
         {
+            "pakku_id": "M8mBOhMjqRbmW72D",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "twilightteleport",
+                "modrinth": "twilightteleport"
+            },
+            "name": {
+                "curseforge": "TwilightTeleport",
+                "modrinth": "TwilightTeleport"
+            },
+            "id": {
+                "curseforge": "1612349",
+                "modrinth": "gkhXMbVD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "twilightteleport-0.1.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8451/409/twilightteleport-0.1.1+1.20.1.jar",
+                    "id": "8451409",
+                    "parent_id": "1612349",
+                    "hashes": {
+                        "sha1": "727897955bfed838e5fcc373fb7c05c2f8271aae",
+                        "md5": "66542b96460d278b1e636ed4d2ef3220"
+                    },
+                    "required_dependencies": [],
+                    "size": 171147,
+                    "date_published": "2026-07-17T13:02:58.143Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "twilightteleport-0.1.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/gkhXMbVD/versions/awWGmiQB/twilightteleport-0.1.1+1.20.1.jar",
+                    "id": "awWGmiQB",
+                    "parent_id": "gkhXMbVD",
+                    "hashes": {
+                        "sha512": "6ee0b1b314529527dfff7adba78089baf9c74f91647eabd23048560c57a7b94833742424efca592b582d1a2f14a45fac332b363e3633da5aacec139bb32d0ee7",
+                        "sha1": "727897955bfed838e5fcc373fb7c05c2f8271aae"
+                    },
+                    "required_dependencies": [],
+                    "size": 171147,
+                    "date_published": "2026-07-17T12:52:17.182345Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9OtyaOmASc4lRVXE",
             "type": "MOD",
             "side": "BOTH",
