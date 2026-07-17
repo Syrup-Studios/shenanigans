@@ -1,0 +1,111 @@
+name: Feature request
+description: Suggest an improvement, integration, balance change, or addition to Shenanigans
+title: "[Suggestion]: "
+labels:
+  - suggestion
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Shenanigans!
+
+        Please search existing issues before submitting your suggestion. Keep in
+        mind that Shenanigans aims to provide a cohesive and approachable
+        Vanilla++ experience rather than simply including as many mods as possible.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Suggestion category
+      description: Choose the category that best describes your suggestion.
+      options:
+        - Gameplay or balance
+        - Add a mod
+        - Remove or replace a mod
+        - Mod compatibility or integration
+        - Configuration or default setting
+        - Quality of life or accessibility
+        - Performance or stability
+        - Visuals, audio, or interface
+        - Documentation or community
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: What would you like to change?
+      description: Clearly describe the feature, change, or addition you are suggesting.
+      placeholder: I would like Shenanigans to...
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Why would this improve the pack?
+      description: Explain the problem this solves or the experience it would improve.
+      placeholder: This would improve the pack because...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed approach
+      description: If you have a particular implementation or configuration in mind, describe it here.
+      placeholder: One possible way to implement this would be...
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Relevant links
+      description: Include links to suggested mods, documentation, related issues, or examples.
+      placeholder: |
+        Modrinth or CurseForge page:
+        Documentation or example:
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Primary area affected
+      options:
+        - Both client and server
+        - Client only
+        - Dedicated server only
+        - World generation
+        - Existing worlds or progression
+        - Unsure or not applicable
+    validations:
+      required: true
+
+  - type: textarea
+    id: compatibility
+    attributes:
+      label: Compatibility or migration concerns
+      description: Note known mod conflicts, performance costs, world-generation effects, or risks to existing worlds.
+      placeholder: Known concerns or testing that may be needed...
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Describe any other mods, settings, or solutions you considered.
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add screenshots, videos, mockups, or any other useful context.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues for similar suggestions.
+          required: true
+        - label: I have explained how this suggestion supports the pack's intended experience.
+          required: true
