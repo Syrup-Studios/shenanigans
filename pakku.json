@@ -12,9 +12,6 @@
         "continuity": {
             "update_strategy": "NONE"
         },
-        "puddles-floods": {
-            "side": "CLIENT"
-        },
         "blended-compat": {
             "redistributable": true
         },
