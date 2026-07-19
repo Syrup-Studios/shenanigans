@@ -545,6 +545,69 @@
             ]
         },
         {
+            "pakku_id": "NwG8JUjOOq90UKsm",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "amecs",
+                "modrinth": "amecs"
+            },
+            "name": {
+                "curseforge": "Amecs (Fabric)",
+                "modrinth": "Amecs"
+            },
+            "id": {
+                "curseforge": "324564",
+                "modrinth": "rcLriA4v"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "amecs-bundle-1.6.3+mc1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7806/395/amecs-bundle-1.6.3+mc1.20.jar",
+                    "id": "7806395",
+                    "parent_id": "324564",
+                    "hashes": {
+                        "sha1": "36bd030cbde20a5741fea088153c71f172ec152c",
+                        "md5": "ecde8a0ed5cec2c90c2428aea5c08966"
+                    },
+                    "required_dependencies": [],
+                    "size": 142194,
+                    "date_published": "2026-03-24T19:16:34.647Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "amecs-bundle-1.6.3+mc1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/rcLriA4v/versions/quQYWYit/amecs-bundle-1.6.3+mc1.20.jar",
+                    "id": "quQYWYit",
+                    "parent_id": "rcLriA4v",
+                    "hashes": {
+                        "sha512": "ca8f8fbd8471e005f9e3900fd01c274d2e59de9761c2dcbc7cbfc4fd2e20ec05d6ed38140d66dfe1d78d4d5c645574444203b75ce13dd3bcebd8f0176743b2c9",
+                        "sha1": "36bd030cbde20a5741fea088153c71f172ec152c"
+                    },
+                    "required_dependencies": [],
+                    "size": 142194,
+                    "date_published": "2026-03-24T19:16:40.733456Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "UJjLyuTqdLg6IYXz",
             "pakku_links": [
                 "VeVpUVJ9hZfIh70m"
