@@ -336,7 +336,7 @@
         {
             "pakku_id": "DZ4ok91diPXHZuU1",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "almanac-lib",
                 "modrinth": "almanac"
@@ -405,7 +405,7 @@
         {
             "pakku_id": "cXLYuBjE9GJaZcVx",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "alternate-current",
                 "modrinth": "alternate-current"
@@ -682,7 +682,7 @@
         {
             "pakku_id": "8IdzaRUMDdBVK8Az",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "apathy-mod",
                 "modrinth": "apathy"
@@ -1624,7 +1624,7 @@
         {
             "pakku_id": "FZOmEiRTneOaBf3K",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "better-than-mending",
                 "modrinth": "better-than-mending"
@@ -1872,7 +1872,7 @@
                 "RjGdALOn8S9NpH6I"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "boids"
             },
@@ -2473,7 +2473,7 @@
         {
             "pakku_id": "LcShDYqkFgjfYXm1",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "cardinal-components-api",
                 "modrinth": "cardinal-components-api"
@@ -2600,7 +2600,7 @@
         {
             "pakku_id": "06WhJbMozL1wGzEN",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "cerulean",
                 "modrinth": "cerulean-advancements"
@@ -2875,7 +2875,7 @@
                 "RjGdALOn8S9NpH6I"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "chunk-activity-tracker",
                 "modrinth": "chunk-activity-tracker"
@@ -3651,7 +3651,7 @@
         {
             "pakku_id": "j9uKkCm04PpupT0R",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "comfortable-campfires",
                 "modrinth": "comfortable-campfires"
@@ -3850,7 +3850,7 @@
         {
             "pakku_id": "oRJwM7U4cqdDp9a8",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "c2me",
                 "modrinth": "c2me-fabric"
@@ -5132,7 +5132,7 @@
                 "uAfFWm2rEb2ggpg4"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create-threaded-trains",
                 "modrinth": "create-threaded-trains"
@@ -5337,7 +5337,7 @@
         {
             "pakku_id": "dTba3uJdW2WoCj1N",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "cristel-lib",
                 "modrinth": "cristel-lib"
@@ -5470,7 +5470,7 @@
         {
             "pakku_id": "843QUsG7vhBRo6WK",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "crops-love-rain",
                 "modrinth": "crops-love-rain"
@@ -6467,7 +6467,7 @@
                 "9OtyaOmASc4lRVXE"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "does-it-tick",
                 "modrinth": "does-it-tick"
@@ -8111,7 +8111,7 @@
                 "RjGdALOn8S9NpH6I"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "enderpearl-backport",
                 "modrinth": "enderpearl-backport"
@@ -10087,7 +10087,7 @@
         {
             "pakku_id": "F7OM7O3zF8VqQ2ID",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "geophilic",
                 "modrinth": "geophilic"
@@ -10246,7 +10246,7 @@
         {
             "pakku_id": "fiZL2AFHbbMo76wR",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "grass-seeds",
                 "modrinth": "grass-seeds"
@@ -10317,7 +10317,7 @@
         {
             "pakku_id": "8ZBjeT2FAnTV8BcH",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "grind-enchantments",
                 "modrinth": "grind-enchantments"
@@ -10691,7 +10691,7 @@
         {
             "pakku_id": "dYONU9LAPfSDCjDj",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "horse-stonks",
                 "modrinth": "horse-stonks"
@@ -11190,7 +11190,7 @@
                 "RjGdALOn8S9NpH6I"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "immersive-optimization",
                 "modrinth": "immersive-optimization"
@@ -11505,7 +11505,7 @@
         {
             "pakku_id": "WDOCmkmPn1qjCvjC",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "inventory-totem",
                 "modrinth": "inventory-totem"
@@ -12715,7 +12715,7 @@
         {
             "pakku_id": "EmZ6Zx0RtmQ47iec",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "let-me-despawn",
                 "modrinth": "lmd"
@@ -12853,7 +12853,7 @@
         {
             "pakku_id": "xqf4syHCB5o59WCR",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "lithostitched",
                 "modrinth": "lithostitched"
@@ -12916,7 +12916,7 @@
         {
             "pakku_id": "RdYKmp8Niq2dxT1P",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "lmft",
                 "modrinth": "lmft"
@@ -13960,7 +13960,7 @@
         {
             "pakku_id": "QnV9Hd1xW3FKTeo2",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "mastercutter"
             },
@@ -15007,6 +15007,76 @@
             ]
         },
         {
+            "pakku_id": "4O1t1dd8FFrYTZk6",
+            "pakku_links": [
+                "RjGdALOn8S9NpH6I"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mouse-wheelie",
+                "modrinth": "mouse-wheelie"
+            },
+            "name": {
+                "curseforge": "Mouse Wheelie (Fabric)",
+                "modrinth": "Mouse Wheelie"
+            },
+            "id": {
+                "curseforge": "317514",
+                "modrinth": "u5Ic2U1u"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mouse-wheelie-1.16.3+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8275/963/mouse-wheelie-1.16.3+mc1.20.1.jar",
+                    "id": "8275963",
+                    "parent_id": "317514",
+                    "hashes": {
+                        "sha1": "3eba31ce742c25720cf8d608831c3437443a6e57",
+                        "md5": "40b3de9917fd90078f52aea54589ea0f"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1121853,
+                    "date_published": "2026-06-18T22:17:16.700Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mouse-wheelie-1.16.3+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/u5Ic2U1u/versions/PzpO9439/mouse-wheelie-1.16.3+mc1.20.1.jar",
+                    "id": "PzpO9439",
+                    "parent_id": "u5Ic2U1u",
+                    "hashes": {
+                        "sha512": "77930f0795afc7d21e94c2000c3426a3472bae96c9a1faa0586eedc245ed7b7db250b4032e805afd449fdf5ca589766811d577d54893b26be134b300cc171127",
+                        "sha1": "3eba31ce742c25720cf8d608831c3437443a6e57"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1121853,
+                    "date_published": "2026-06-18T22:17:31.574380Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QXGASLykrmM224ds",
             "pakku_links": [
                 "U6WPiwKc8f6lXIvN"
@@ -15450,7 +15520,7 @@
                 "4e2jUr6RItZIExwL"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "netherportalfix",
                 "modrinth": "netherportalfix"
@@ -15587,7 +15657,7 @@
         {
             "pakku_id": "RmWNqNgrVn1QUHrm",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "no-animal-tempt-delay",
                 "modrinth": "no-animal-tempt-delay"
@@ -15805,7 +15875,7 @@
         {
             "pakku_id": "jV8ugQk9Xkyyq7Gh",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "no-shield-delay",
                 "modrinth": "no-shield-delay"
@@ -16304,7 +16374,7 @@
         {
             "pakku_id": "pFnMPHr8KBoQ1pNf",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "oh-the-trees-youll-grow",
                 "modrinth": "oh-the-trees-youll-grow"
@@ -17189,7 +17259,7 @@
         {
             "pakku_id": "QCGOMdO92STiARMo",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "portfolio",
                 "modrinth": "portfolio"
@@ -17964,7 +18034,7 @@
         {
             "pakku_id": "tcEyCcDsqS6PbcaJ",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "repurposed-structures-fabric",
                 "modrinth": "repurposed-structures-fabric"
@@ -18154,7 +18224,7 @@
         {
             "pakku_id": "OXqOCmlF17i4i0ml",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "respect-my-trims",
                 "modrinth": "respect-my-trims"
@@ -18391,7 +18461,7 @@
         {
             "pakku_id": "PR1gCwIhjxiwoWnQ",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "rightclickharvest",
                 "modrinth": "rightclickharvest"
@@ -18891,7 +18961,7 @@
         {
             "pakku_id": "uwWQ0SZlKxzFV15V",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "secure-crops",
                 "modrinth": "secure-crops"
@@ -19093,7 +19163,7 @@
         {
             "pakku_id": "mU2WMbdQUAMlZadE",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "shield-expansion",
                 "modrinth": "shield-expansion"
@@ -19154,7 +19224,7 @@
         {
             "pakku_id": "QntiXr1txsRL2ajE",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "show-me-what-you-got",
                 "modrinth": "show-me-what-you-got"
@@ -19697,7 +19767,7 @@
         {
             "pakku_id": "BN3mLVGjgLIAau3j",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "sit1",
                 "modrinth": "sit!"
@@ -19835,7 +19905,7 @@
                 "VeVpUVJ9hZfIh70m"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "smarter-farmers-farmers-replant",
                 "modrinth": "smarter-farmers-farmers-replant"
@@ -20565,7 +20635,7 @@
         {
             "pakku_id": "66sjliHP9yx09VBy",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "sparse-structures",
                 "modrinth": "sparsestructures"
@@ -21323,7 +21393,7 @@
         {
             "pakku_id": "7oLjC3aCMsmK3IH0",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "structure-layout-optimizer",
                 "modrinth": "structure-layout-optimizer"
@@ -21824,7 +21894,7 @@
         {
             "pakku_id": "EgGGug4Q5559byCi",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "syrup-essentials",
                 "modrinth": "syrup-essentials"
@@ -22087,7 +22157,7 @@
         {
             "pakku_id": "fouxFMFRflV4fFil",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "tectonic",
                 "modrinth": "tectonic"
@@ -22463,7 +22533,7 @@
         {
             "pakku_id": "fYWPJd0dvifluGw7",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "too-fast",
                 "modrinth": "too-fast"
@@ -22655,7 +22725,7 @@
         {
             "pakku_id": "XQqzaBRUUFCA3Xyx",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "towns-and-towers",
                 "modrinth": "towns-and-towers"
