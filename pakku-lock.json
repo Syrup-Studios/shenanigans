@@ -16586,6 +16586,67 @@
                     "date_published": "2025-07-19T00:45:19.909132Z"
                 }
             ]
+        },
+        {
+            "pakku_id": "g2vtpkrmOUu1apzy",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "spark",
+                "modrinth": "spark"
+            },
+            "name": {
+                "curseforge": "spark",
+                "modrinth": "spark"
+            },
+            "id": {
+                "curseforge": "361579",
+                "modrinth": "l6YH9Als"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spark-1.10.124-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6225/208/spark-1.10.124-neoforge.jar",
+                    "id": "6225208",
+                    "parent_id": "361579",
+                    "hashes": {
+                        "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+                        "md5": "a61dd250e618f8fd62fc6b0943831c50"
+                    },
+                    "required_dependencies": [],
+                    "size": 3642581,
+                    "date_published": "2025-02-23T11:38:31.027Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "spark-1.10.124-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
+                    "id": "v5qtqRQi",
+                    "parent_id": "l6YH9Als",
+                    "hashes": {
+                        "sha512": "f86ce34f2759c69df82578c397ff55b666c84626229a98f598458b960c21b38c95d6bfef4772af7f963c4f4868e5e2d9aef6b99c1d51bab55bf45e0e6e6b5ed4",
+                        "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6"
+                    },
+                    "required_dependencies": [],
+                    "size": 3642581,
+                    "date_published": "2025-02-23T11:40:14.945513Z"
+                }
+            ]
         }
     ],
     "lockfile_version": 2
