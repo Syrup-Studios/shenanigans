@@ -12333,6 +12333,74 @@
             ]
         },
         {
+            "pakku_id": "yEFKcWicJHBKEp54",
+            "pakku_links": [
+                "BU7qhTi3bxhmutfW"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "reeses-sodium-options",
+                "modrinth": "reeses-sodium-options"
+            },
+            "name": {
+                "curseforge": "Reese's Sodium Options",
+                "modrinth": "Reese's Sodium Options"
+            },
+            "id": {
+                "curseforge": "511319",
+                "modrinth": "Bh37bMuy"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8410/876/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+                    "id": "8410876",
+                    "parent_id": "511319",
+                    "hashes": {
+                        "sha1": "904f815b1f5c48703c354d432fcbc3531022337f",
+                        "md5": "ffd2290753f3e5e494d04daca1b4eb13"
+                    },
+                    "required_dependencies": [
+                        "394468"
+                    ],
+                    "size": 260876,
+                    "date_published": "2026-07-11T07:24:11.513Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/KYgu9tXl/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+                    "id": "KYgu9tXl",
+                    "parent_id": "Bh37bMuy",
+                    "hashes": {
+                        "sha512": "db858f48d74258ba460234219038d75eee660bb537711f0da89fd26383533d09b9ccc2e736c02c606a9dcfd7bba04a2e7febf87b89fcee45e0817e84f3827d98",
+                        "sha1": "904f815b1f5c48703c354d432fcbc3531022337f"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI"
+                    ],
+                    "size": 260876,
+                    "date_published": "2026-07-11T07:24:18.105518Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "fdWikIiiIbnRviTf",
             "pakku_links": [
                 "WKZFe8TbzVx4bprr"
@@ -13890,6 +13958,74 @@
                     "required_dependencies": [],
                     "size": 1291418,
                     "date_published": "2026-07-06T17:19:52.451799Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "fWJ8em6Mo1Lh9ILp",
+            "pakku_links": [
+                "BU7qhTi3bxhmutfW"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "sodium-extra",
+                "modrinth": "sodium-extra"
+            },
+            "name": {
+                "curseforge": "Sodium Extra",
+                "modrinth": "Sodium Extra"
+            },
+            "id": {
+                "curseforge": "447673",
+                "modrinth": "PtjYWJkn"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8403/576/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+                    "id": "8403576",
+                    "parent_id": "447673",
+                    "hashes": {
+                        "sha1": "3aaac7712521b477acc73757459b3883c4e0bbda",
+                        "md5": "48540138881ebc454ef3a07c1bd4c250"
+                    },
+                    "required_dependencies": [
+                        "394468"
+                    ],
+                    "size": 465013,
+                    "date_published": "2026-07-10T02:17:50.530Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/iJsZtWpc/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+                    "id": "iJsZtWpc",
+                    "parent_id": "PtjYWJkn",
+                    "hashes": {
+                        "sha512": "36a7c237519c35e35300deadbdcfd1a270c507d49b9de10eea2cad1075c67567935e95d49ca9db470bd946de8e2ef7634361f912866f84570f3c367bf96d2b79",
+                        "sha1": "3aaac7712521b477acc73757459b3883c4e0bbda"
+                    },
+                    "required_dependencies": [
+                        "AANobbMI"
+                    ],
+                    "size": 465013,
+                    "date_published": "2026-07-10T02:17:54.227160Z"
                 }
             ]
         },
