@@ -1,5 +1,97 @@
 {
     "name": "Shenanigans",
     "version": "0.7.0-alpha-NEOFORGE",
-    "author": "Syrup Studios"
+    "author": "Syrup Studios",
+    "projects": {
+        "alternate-current": {
+            "side": "BOTH"
+        },
+        "does-it-tick": {
+            "side": "BOTH"
+        },
+        "almanac": {
+            "side": "BOTH"
+        },
+        "apathy-mod": {
+            "side": "BOTH"
+        },
+        "athena": {
+            "side": "BOTH"
+        },
+        "better-than-mending": {
+            "side": "BOTH"
+        },
+        "bookshelf": {
+            "side": "BOTH"
+        },
+        "cerulean": {
+            "side": "BOTH"
+        },
+        "chunk-activity-tracker": {
+            "side": "BOTH"
+        },
+        "comfortable-campfires": {
+            "side": "BOTH"
+        },
+        "c2me": {
+            "side": "BOTH"
+        },
+        "create": {
+            "side": "BOTH"
+        },
+        "create-threaded-trains": {
+            "side": "BOTH"
+        },
+        "crops-love-rain": {
+            "side": "BOTH"
+        },
+        "enderpearl-backport": {
+            "side": "BOTH"
+        },
+        "geophilic": {
+            "side": "BOTH"
+        },
+        "grass-seeds": {
+            "side": "BOTH"
+        },
+        "grind-enchantments": {
+            "side": "BOTH"
+        },
+        "immersive-optimization": {
+            "side": "BOTH"
+        },
+        "inventory-totem": {
+            "side": "BOTH"
+        },
+        "item-obliterator": {
+            "side": "BOTH"
+        },
+        "lmd": {
+            "side": "BOTH"
+        },
+        "lithostitched": {
+            "side": "BOTH"
+        },
+        "lmft": {
+            "side": "BOTH"
+        },
+        "netherportalfix": {
+            "side": "BOTH"
+        },
+        "no-animal-tempt-delay": {
+            "side": "BOTH"
+        },
+        "oh-the-trees-youll-grow": {
+            "side": "BOTH"
+        },
+        "repurposed-structures": {
+            "side": "BOTH"
+        },
+        "responsiveshields": {
+            "side": "BOTH"
+        },
+        "rightclickharvest": {
+            "side": "BOTH"
+        }
+    }
 }
