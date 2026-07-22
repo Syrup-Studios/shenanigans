@@ -269,7 +269,7 @@
         {
             "pakku_id": "Zcp9u8g9GfhRuND6",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "almanac"
             },
@@ -307,7 +307,7 @@
         {
             "pakku_id": "9f2gBwmPupJ8bzO3",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "alternate-current",
                 "modrinth": "alternate-current"
@@ -438,7 +438,7 @@
         {
             "pakku_id": "bKWHvxF1VOrGeqoS",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "apathy-mod",
                 "modrinth": "apathy"
@@ -824,7 +824,7 @@
         {
             "pakku_id": "Qkj7VmxozWZYndfD",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "athena",
                 "modrinth": "athena"
@@ -1112,7 +1112,7 @@
         {
             "pakku_id": "F8XklJvdZB6QEqB8",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "better-than-mending",
                 "modrinth": "better-than-mending"
@@ -1333,7 +1333,7 @@
         {
             "pakku_id": "YfKnnFzm5GQhjlxS",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "bookshelf",
                 "modrinth": "bookshelf"
@@ -1842,7 +1842,7 @@
                 "X53pH4teDt5MPBsz"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "cerulean-advancements",
                 "curseforge": "cerulean"
@@ -2107,7 +2107,7 @@
                 "X53pH4teDt5MPBsz"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "chunk-activity-tracker",
                 "modrinth": "chunk-activity-tracker"
@@ -2619,7 +2619,7 @@
         {
             "pakku_id": "sT1K6xiHTlMyQ3Pd",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "comfortable-campfires",
                 "modrinth": "comfortable-campfires"
@@ -2743,7 +2743,7 @@
         {
             "pakku_id": "EwiAUHiLv4nu83ay",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "c2me-neoforge",
                 "curseforge": "c2me"
@@ -2859,68 +2859,6 @@
                     "required_dependencies": [],
                     "size": 264442,
                     "date_published": "2026-06-20T15:08:45.706381Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "xyonQZH1XbwTUx5g",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "backport-copper-age",
-                "curseforge": "copper-age-backport"
-            },
-            "name": {
-                "modrinth": "Copper Age Backport",
-                "curseforge": "Copper Age Backport"
-            },
-            "id": {
-                "modrinth": "a1llHwl4",
-                "curseforge": "1386823"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "copperagebackport-neoforge-1.21.1-0.1.4.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/a1llHwl4/versions/JEPUV1lF/copperagebackport-neoforge-1.21.1-0.1.4.jar",
-                    "id": "JEPUV1lF",
-                    "parent_id": "a1llHwl4",
-                    "hashes": {
-                        "sha512": "16b232857d9319d57ff5f0b739d23507c6f7e576199d4167a933d0505967c854def97c09020c1d9f27deff8c45e063a03e29c001a838fb43518e03562fc5ff95",
-                        "sha1": "9892ad37739b62e330274ca51648b00a7ac51114"
-                    },
-                    "required_dependencies": [],
-                    "size": 2494183,
-                    "date_published": "2025-12-01T21:19:07.745627Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "copperagebackport-neoforge-1.21.1-0.1.4.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7283/478/copperagebackport-neoforge-1.21.1-0.1.4.jar",
-                    "id": "7283478",
-                    "parent_id": "1386823",
-                    "hashes": {
-                        "sha1": "9892ad37739b62e330274ca51648b00a7ac51114",
-                        "md5": "9cdd008eb820e6fada276d916eedcbc3"
-                    },
-                    "required_dependencies": [],
-                    "size": 2494183,
-                    "date_published": "2025-12-01T21:19:02.887Z"
                 }
             ]
         },
@@ -3184,7 +3122,7 @@
         {
             "pakku_id": "EeQdD3oiJjCRqQiD",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create",
                 "modrinth": "create"
@@ -3449,7 +3387,7 @@
                 "EeQdD3oiJjCRqQiD"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "create-threaded-trains",
                 "modrinth": "create-threaded-trains"
@@ -3664,7 +3602,7 @@
         {
             "pakku_id": "5CxnUHFD3AlqxAR3",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "crops-love-rain",
                 "modrinth": "crops-love-rain"
@@ -4510,7 +4448,7 @@
                 "X53pH4teDt5MPBsz"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "does-it-tick",
                 "modrinth": "does-it-tick"
@@ -5575,7 +5513,7 @@
         {
             "pakku_id": "oDNzRe16q9mjDXIn",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "enderpearl-backport",
                 "modrinth": "enderpearl-backport"
@@ -5881,67 +5819,6 @@
                     "required_dependencies": [],
                     "size": 8701,
                     "date_published": "2024-07-31T23:57:25.777466Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "m68zgEA0VlLPu15d",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "fairy-lights-fabric",
-                "modrinth": "fairy-lights-fabric"
-            },
-            "name": {
-                "curseforge": "Fairy Lights (Fabric)",
-                "modrinth": "Fairy Lights"
-            },
-            "id": {
-                "curseforge": "1510773",
-                "modrinth": "OuLVx5LM"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "fairylights-neoforge-1.21.1-1.2.2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8177/592/fairylights-neoforge-1.21.1-1.2.2.jar",
-                    "id": "8177592",
-                    "parent_id": "1510773",
-                    "hashes": {
-                        "sha1": "510adf3d1e1bf1dcc81ad6d4041e34bb7298c6dd",
-                        "md5": "230fd14d1e83a117bd0269bee3e7f652"
-                    },
-                    "required_dependencies": [],
-                    "size": 628137,
-                    "date_published": "2026-05-31T22:11:49.413Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "fairylights-neoforge-1.21.1-1.2.2.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/OuLVx5LM/versions/9oBscWZX/fairylights-neoforge-1.21.1-1.2.2.jar",
-                    "id": "9oBscWZX",
-                    "parent_id": "OuLVx5LM",
-                    "hashes": {
-                        "sha512": "3d0db3182981a635bed202d575fc8a4eb09f4c00b18ca517bd898d05dbeec8840b7e7b59ea5d496eada4bce97c511dd110c4f6bf6e448b342cad37530bd557b9",
-                        "sha1": "510adf3d1e1bf1dcc81ad6d4041e34bb7298c6dd"
-                    },
-                    "required_dependencies": [],
-                    "size": 628137,
-                    "date_published": "2026-05-31T22:06:25.701575Z"
                 }
             ]
         },
@@ -6882,7 +6759,7 @@
         {
             "pakku_id": "Y1l94hQag5LTK8i5",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "geophilic",
                 "modrinth": "geophilic"
@@ -7053,7 +6930,7 @@
                 "8XiuqoHwQsA76H7k"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "grass-seeds",
                 "modrinth": "grass-seeds"
@@ -7126,7 +7003,7 @@
         {
             "pakku_id": "dlx9kQuXEV2yYELT",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "grind-enchantments",
                 "modrinth": "grind-enchantments"
@@ -7756,7 +7633,7 @@
         {
             "pakku_id": "1AHApmBmtKxa48Xn",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "immersive-optimization",
                 "modrinth": "immersive-optimization"
@@ -7986,7 +7863,7 @@
                 "8XiuqoHwQsA76H7k"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "inventory-totem",
                 "modrinth": "inventory-totem"
@@ -8227,7 +8104,7 @@
                 "O2xiuN5X85zq6H8h"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "item-obliterator",
                 "modrinth": "item-obliterator"
@@ -8965,7 +8842,7 @@
                 "Zcp9u8g9GfhRuND6"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "lmd",
                 "curseforge": "let-me-despawn"
@@ -9105,7 +8982,7 @@
         {
             "pakku_id": "WKZFe8TbzVx4bprr",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "lithostitched",
                 "modrinth": "lithostitched"
@@ -9166,7 +9043,7 @@
         {
             "pakku_id": "xGTwQCa0dKSXsY2m",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "lmft",
                 "modrinth": "lmft"
@@ -10795,7 +10672,7 @@
                 "YSPJlDMZwSjnFdYx"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "netherportalfix",
                 "modrinth": "netherportalfix"
@@ -10926,7 +10803,7 @@
                 "8XiuqoHwQsA76H7k"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "no-animal-tempt-delay",
                 "modrinth": "no-animal-tempt-delay"
@@ -11471,7 +11348,7 @@
         {
             "pakku_id": "SvK5UeBISsHuZCJz",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "oh-the-trees-youll-grow",
                 "modrinth": "oh-the-trees-youll-grow"
@@ -12655,7 +12532,7 @@
         {
             "pakku_id": "oSLwzMZVEUUxKKzY",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "repurposed-structures-forge",
                 "curseforge": "repurposed-structures"
@@ -12820,7 +12697,7 @@
         {
             "pakku_id": "fm47abxSMWO279sg",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "responsiveshields",
                 "curseforge": "responsive-shields"
@@ -13032,7 +12909,7 @@
                 "UE6ljRrb9vlOKykF"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "rightclickharvest",
                 "modrinth": "rightclickharvest"
