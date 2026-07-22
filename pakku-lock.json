@@ -14174,6 +14174,74 @@
             ]
         },
         {
+            "pakku_id": "9GUSQa65TPSpYZnk",
+            "pakku_links": [
+                "EeQdD3oiJjCRqQiD"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "create-steam-n-rails-1.21.1",
+                "curseforge": "steam-n-rails-neoforge"
+            },
+            "name": {
+                "modrinth": "Steam 'n' Rails Neoforge",
+                "curseforge": "Steam 'n' Rails Neoforge"
+            },
+            "id": {
+                "modrinth": "L3Jv0QZI",
+                "curseforge": "1414670"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "railways-0.3.0-beta+neoforge-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/L3Jv0QZI/versions/mvE5W1r2/railways-0.3.0-beta+neoforge-mc1.21.1.jar",
+                    "id": "mvE5W1r2",
+                    "parent_id": "L3Jv0QZI",
+                    "hashes": {
+                        "sha512": "0abf3fde91d9dcb10d253e7b8b2a20188e939194c547f9f023262d74c34884ff42f873f960291e55340f77767d7bfcc601efdd9d71fe25acc6395a5031a9b9ef",
+                        "sha1": "ad4be9a8c1da84e77f8113eefa394833d6305309"
+                    },
+                    "required_dependencies": [
+                        "LNytGWDc"
+                    ],
+                    "size": 18734647,
+                    "date_published": "2026-07-11T17:55:18.818717Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "railways-0.3.0-beta+neoforge-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8413/883/railways-0.3.0-beta+neoforge-mc1.21.1.jar",
+                    "id": "8413883",
+                    "parent_id": "1414670",
+                    "hashes": {
+                        "sha1": "ad4be9a8c1da84e77f8113eefa394833d6305309",
+                        "md5": "8e5e17a2175ee0253559b42817649a25"
+                    },
+                    "required_dependencies": [
+                        "328085"
+                    ],
+                    "size": 18734647,
+                    "date_published": "2026-07-11T17:54:06.817Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "KKkEqdwaLKuNwLyM",
             "type": "MOD",
             "side": "BOTH",
