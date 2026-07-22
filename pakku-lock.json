@@ -13793,6 +13793,69 @@
             ]
         },
         {
+            "pakku_id": "2eqEx5kf9pqoRL66",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "simple-voice-chat",
+                "modrinth": "simple-voice-chat"
+            },
+            "name": {
+                "curseforge": "Simple Voice Chat",
+                "modrinth": "Simple Voice Chat"
+            },
+            "id": {
+                "curseforge": "416089",
+                "modrinth": "9eGKb6K1"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "voicechat-neoforge-1.21.1-2.6.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8464/96/voicechat-neoforge-1.21.1-2.6.21.jar",
+                    "id": "8464096",
+                    "parent_id": "416089",
+                    "hashes": {
+                        "sha1": "f72eff26b1156fdce12ef18c5792c48a54340142",
+                        "md5": "844544bf50ac62335a12283461e0a78c"
+                    },
+                    "required_dependencies": [],
+                    "size": 4913870,
+                    "date_published": "2026-07-19T11:02:43.047Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "voicechat-neoforge-1.21.1-2.6.21.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/dbzBkplC/voicechat-neoforge-1.21.1-2.6.21.jar",
+                    "id": "dbzBkplC",
+                    "parent_id": "9eGKb6K1",
+                    "hashes": {
+                        "sha512": "85b39efaab7f9b8aabd78d8a5eb80bd6964c4a3f737f6e1327d7864726e4ad1319ce51f121fb6fe2be5b3b761c51af2591b66348c4404610dc03fc458a8ea007",
+                        "sha1": "f72eff26b1156fdce12ef18c5792c48a54340142"
+                    },
+                    "required_dependencies": [],
+                    "size": 4913870,
+                    "date_published": "2026-07-19T11:03:00.720503Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "eALPF8L1HLjVFQCQ",
             "pakku_links": [
                 "5DD7laGOUHqdWWNY"
