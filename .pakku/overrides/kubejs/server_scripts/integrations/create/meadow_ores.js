@@ -12,6 +12,35 @@ ServerEvents.recipes(event => {
         type: 'create:crushing',
         ingredients: [
             {
+                item: 'meadow:alpine_copper_ore'
+            }
+        ],
+        results: [
+            {
+                id: 'create:crushed_raw_copper',
+                count: 5
+            },
+            {
+                id: 'create:crushed_raw_copper',
+                chance: 0.25
+            },
+            {
+                id: 'create:experience_nugget',
+                chance: 0.75
+            },
+            {
+                id: 'meadow:limestone',
+                chance: 0.12
+            }
+        ],
+        processingTime: 250
+    })
+        .id('shenanigans:create/crushing/alpine_copper_ore');
+
+    event.custom({
+        type: 'create:crushing',
+        ingredients: [
+            {
                 item: 'meadow:alpine_diamond_ore'
             }
         ],

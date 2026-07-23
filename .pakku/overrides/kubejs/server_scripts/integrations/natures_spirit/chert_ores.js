@@ -3,6 +3,34 @@ ServerEvents.recipes(event => {
         type: 'create:crushing',
         ingredients: [
             {
+                item: 'natures_spirit:chert_copper_ore'
+            }
+        ],
+        results: [
+            {
+                id: 'create:crushed_raw_copper',
+                count: 5
+            },
+            {
+                id: 'create:crushed_raw_copper',
+                chance: 0.25
+            },
+            {
+                id: 'create:experience_nugget',
+                chance: 0.75
+            },
+            {
+                id: 'natures_spirit:chert',
+                chance: 0.12
+            }
+        ],
+        processingTime: 250
+    }).id('shenanigans:create/crushing/chert_copper_ore');
+
+    event.custom({
+        type: 'create:crushing',
+        ingredients: [
+            {
                 item: 'natures_spirit:chert_diamond_ore'
             }
         ],

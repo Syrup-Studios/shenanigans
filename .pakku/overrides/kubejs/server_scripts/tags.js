@@ -1,6 +1,11 @@
 //priority: 0
 
 ServerEvents.tags('item', event => {
+    event.add('spelunkery:copper_ores', [
+        'meadow:alpine_copper_ore',
+        'natures_spirit:chert_copper_ore'
+    ]);
+
     event.add('spelunkery:diamond_ores', [
         'meadow:alpine_diamond_ore',
         'natures_spirit:chert_diamond_ore'
@@ -141,6 +146,4 @@ ServerEvents.tags('block', event => {
         'spelunkery:granite_coal_ore',
         'spelunkery:tuff_coal_ore'
     ]);
-
-    event.add('create:non_movable', /^sophisticatedstorage:.*/)
 })
