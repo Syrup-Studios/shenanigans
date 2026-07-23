@@ -1,6 +1,36 @@
 //priority: 0
 
 ServerEvents.tags('item', event => {
+    event.add('spelunkery:diamond_ores', [
+        'meadow:alpine_diamond_ore',
+        'natures_spirit:chert_diamond_ore'
+    ]);
+
+    event.add('spelunkery:emerald_ores', [
+        'meadow:alpine_emerald_ore',
+        'natures_spirit:chert_emerald_ore'
+    ]);
+
+    event.add('spelunkery:gold_ores', [
+        'meadow:alpine_gold_ore',
+        'natures_spirit:chert_gold_ore'
+    ]);
+
+    event.add('spelunkery:iron_ores', [
+        'meadow:alpine_iron_ore',
+        'natures_spirit:chert_iron_ore'
+    ]);
+
+    event.add('spelunkery:lapis_ores', [
+        'meadow:alpine_lapis_ore',
+        'natures_spirit:chert_lapis_ore'
+    ]);
+
+    event.add('spelunkery:redstone_ores', [
+        'meadow:alpine_redstone_ore',
+        'natures_spirit:chert_redstone_ore'
+    ]);
+
     event.add('c:stripped_logs', [
         'bountifulfares:stripped_walnut_log',
         'bountifulfares:stripped_hoary_log'
@@ -78,6 +108,23 @@ ServerEvents.tags('item', event => {
 
 
 ServerEvents.tags('block', event => {
+
+    event.add('minecraft:needs_iron_tool', [
+        'meadow:alpine_diamond_ore',
+        'meadow:alpine_emerald_ore',
+        'meadow:alpine_gold_ore',
+        'meadow:alpine_redstone_ore',
+        'natures_spirit:chert_emerald_ore',
+        'natures_spirit:chert_gold_ore',
+        'natures_spirit:chert_redstone_ore'
+    ]);
+
+    event.add('minecraft:needs_stone_tool', [
+        'meadow:alpine_iron_ore',
+        'meadow:alpine_lapis_ore',
+        'natures_spirit:chert_iron_ore',
+        'natures_spirit:chert_lapis_ore'
+    ]);
 
     event.remove('minecraft:needs_stone_tool', [
         'minecraft:copper_ore',

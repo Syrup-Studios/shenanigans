@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "regions_unexplored:blocks/apple_oak_leaves"
+    }
+  ],
+  "table": "shenanigans:inject/apple"
+}
