@@ -136,6 +136,7 @@ ServerEvents.tags('block', event => {
         'natures_spirit:chert_copper_ore',
         'minecraft:deepslate_copper_ore',
         'meadow:alpine_copper_ore',
+        'spelunkery:andesite_copper_ore',
         'spelunkery:diorite_copper_ore',
         'spelunkery:granite_copper_ore',
         'spelunkery:tuff_copper_ore',
