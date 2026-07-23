@@ -24,7 +24,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     }).id('shenanigans:create/crushing/chert_copper_ore');
 
     event.custom({
@@ -51,7 +51,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 350
+        processing_time: 350
     }).id('shenanigans:create/crushing/chert_diamond_ore');
 
     event.custom({
@@ -78,7 +78,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 350
+        processing_time: 350
     }).id('shenanigans:create/crushing/chert_emerald_ore');
 
     event.custom({
@@ -106,7 +106,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     }).id('shenanigans:create/crushing/chert_gold_ore');
 
     event.custom({
@@ -133,7 +133,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     }).id('shenanigans:create/crushing/chert_iron_ore');
 
     event.custom({
@@ -161,7 +161,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     }).id('shenanigans:create/crushing/chert_lapis_ore');
 
     event.custom({
@@ -189,6 +189,6 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     }).id('shenanigans:create/crushing/chert_redstone_ore');
 });

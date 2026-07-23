@@ -47,7 +47,7 @@ ServerEvents.recipes(event => {
                     chance: 0.12
                 }
             ],
-            processingTime: 250
+            processing_time: 250
         }).id(`shenanigans:create/crushing/${ironOre.recipe}`);
     });
 
@@ -100,7 +100,7 @@ ServerEvents.recipes(event => {
                     chance: 0.12
                 }
             ],
-            processingTime: 250
+            processing_time: 250
         }).id(`shenanigans:create/crushing/${copperOre.recipe}`);
     });
 });

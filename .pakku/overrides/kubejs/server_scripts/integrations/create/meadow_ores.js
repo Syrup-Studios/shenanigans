@@ -33,7 +33,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     })
         .id('shenanigans:create/crushing/alpine_copper_ore');
 
@@ -61,7 +61,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 350
+        processing_time: 350
     })
         .id('shenanigans:create/crushing/alpine_diamond_ore');
 
@@ -89,7 +89,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 350
+        processing_time: 350
     })
         .id('shenanigans:create/crushing/alpine_emerald_ore');
 
@@ -118,7 +118,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     })
         .id('shenanigans:create/crushing/alpine_gold_ore');
 
@@ -146,7 +146,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     })
         .id('shenanigans:create/crushing/alpine_iron_ore');
 
@@ -175,7 +175,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     })
         .id('shenanigans:create/crushing/alpine_lapis_ore');
 
@@ -204,7 +204,7 @@ ServerEvents.recipes(event => {
                 chance: 0.12
             }
         ],
-        processingTime: 250
+        processing_time: 250
     })
         .id('shenanigans:create/crushing/alpine_redstone_ore');
 });
