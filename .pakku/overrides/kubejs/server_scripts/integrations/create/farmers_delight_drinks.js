@@ -1,47 +1,102 @@
 ServerEvents.recipes(event => {
-    event.recipes.create.filling(
-        'farmersdelight:hot_cocoa',
-        [
-            'minecraft:glass_bottle',
-            Fluid.of('create:chocolate', 40500)
-        ]
-    ).id('shenanigans:create/filling/hot_cocoa');
+    const fluidIngredient = (fluid, amount) => ({
+        type: 'neoforge:single',
+        amount: amount,
+        fluid: fluid
+    });
 
-    event.recipes.create.mixing(
-        Fluid.of('kubejs:apple_cider', 81000),
-        [
-            'minecraft:sugar',
-            'minecraft:apple',
-            'minecraft:apple',
-            Fluid.of('minecraft:water', 40500)
+    event.custom({
+        type: 'create:filling',
+        ingredients: [
+            {
+                item: 'minecraft:glass_bottle'
+            },
+            fluidIngredient('create:chocolate', 250)
+        ],
+        results: [
+            {
+                id: 'farmersdelight:hot_cocoa'
+            }
         ]
-    ).id('shenanigans:create/mixing/apple_cider');
+    }).id('shenanigans:create/filling/hot_cocoa');
 
-    event.recipes.create.filling(
-        'farmersdelight:apple_cider',
-        [
-            'minecraft:glass_bottle',
-            Fluid.of('kubejs:apple_cider', 27000)
+    event.custom({
+        type: 'create:mixing',
+        ingredients: [
+            {
+                item: 'minecraft:sugar'
+            },
+            {
+                item: 'minecraft:apple'
+            },
+            {
+                item: 'minecraft:apple'
+            },
+            fluidIngredient('minecraft:water', 500)
+        ],
+        results: [
+            {
+                id: 'kubejs:apple_cider',
+                amount: 750
+            }
         ]
-    ).id('shenanigans:create/filling/apple_cider');
+    }).id('shenanigans:create/mixing/apple_cider');
 
-    event.recipes.create.mixing(
-        Fluid.of('kubejs:melon_juice', 81000),
-        [
-            'minecraft:sugar',
-            'minecraft:melon_slice',
-            'minecraft:melon_slice',
-            'minecraft:melon_slice',
-            'minecraft:melon_slice',
-            Fluid.of('minecraft:water', 40500)
+    event.custom({
+        type: 'create:filling',
+        ingredients: [
+            {
+                item: 'minecraft:glass_bottle'
+            },
+            fluidIngredient('kubejs:apple_cider', 250)
+        ],
+        results: [
+            {
+                id: 'farmersdelight:apple_cider'
+            }
         ]
-    ).id('shenanigans:create/mixing/melon_juice');
+    }).id('shenanigans:create/filling/apple_cider');
 
-    event.recipes.create.filling(
-        'farmersdelight:melon_juice',
-        [
-            'minecraft:glass_bottle',
-            Fluid.of('kubejs:melon_juice', 27000)
+    event.custom({
+        type: 'create:mixing',
+        ingredients: [
+            {
+                item: 'minecraft:sugar'
+            },
+            {
+                item: 'minecraft:melon_slice'
+            },
+            {
+                item: 'minecraft:melon_slice'
+            },
+            {
+                item: 'minecraft:melon_slice'
+            },
+            {
+                item: 'minecraft:melon_slice'
+            },
+            fluidIngredient('minecraft:water', 500)
+        ],
+        results: [
+            {
+                id: 'kubejs:melon_juice',
+                amount: 750
+            }
         ]
-    ).id('shenanigans:create/filling/melon_juice');
+    }).id('shenanigans:create/mixing/melon_juice');
+
+    event.custom({
+        type: 'create:filling',
+        ingredients: [
+            {
+                item: 'minecraft:glass_bottle'
+            },
+            fluidIngredient('kubejs:melon_juice', 250)
+        ],
+        results: [
+            {
+                id: 'farmersdelight:melon_juice'
+            }
+        ]
+    }).id('shenanigans:create/filling/melon_juice');
 });

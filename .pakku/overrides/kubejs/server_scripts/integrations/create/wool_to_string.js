@@ -9,20 +9,39 @@ ServerEvents.recipes(event => {
         type: 'create:milling'
     });
 
-    event.recipes.create.milling(
-        '2x minecraft:string',
-        '#minecraft:wool'
-    )
-        .processingTime(200)
-        .id('shenanigans:create/milling/wool_to_string');
-
-    event.recipes.create.crushing(
-        [
-            '4x minecraft:string',
-            CreateItem.of('minecraft:string', 0.5)
+    event.custom({
+        type: 'create:milling',
+        ingredients: [
+            {
+                tag: 'minecraft:wool'
+            }
         ],
-        '#minecraft:wool'
-    )
-        .processingTime(100)
-        .id('shenanigans:create/crushing/wool_to_string');
+        processing_time: 200,
+        results: [
+            {
+                id: 'minecraft:string',
+                count: 2
+            }
+        ]
+    }).id('shenanigans:create/milling/wool_to_string');
+
+    event.custom({
+        type: 'create:crushing',
+        ingredients: [
+            {
+                tag: 'minecraft:wool'
+            }
+        ],
+        processing_time: 100,
+        results: [
+            {
+                id: 'minecraft:string',
+                count: 4
+            },
+            {
+                id: 'minecraft:string',
+                chance: 0.5
+            }
+        ]
+    }).id('shenanigans:create/crushing/wool_to_string');
 });
