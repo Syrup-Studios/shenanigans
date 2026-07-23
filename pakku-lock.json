@@ -4061,50 +4061,6 @@
             ]
         },
         {
-            "pakku_id": "feJywHXsYRcqZLTW",
-            "pakku_links": [
-                "nxdzcYTQIRxghBJ0",
-                "TuM8x3CyhtI5nS7l"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "decorative-lamps"
-            },
-            "name": {
-                "modrinth": "Decorative Lamps"
-            },
-            "id": {
-                "modrinth": "B4n7BWWA"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Decorative Lamps-1.21.1-1.7.4.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/B4n7BWWA/versions/2yiiwGhD/Decorative Lamps-1.21.1-1.7.4.jar",
-                    "id": "2yiiwGhD",
-                    "parent_id": "B4n7BWWA",
-                    "hashes": {
-                        "sha512": "a4c08f1a0ef83e6d8ef1df588d517494ff74ac03ee7eaa1502456317ecf43ab96df4821c7956b4fabb4bb3ac04935d717560765f84fe2a2412629e55b143f996",
-                        "sha1": "9b222ddd004afd2fb1982681f4bae68f8dd7dde3"
-                    },
-                    "required_dependencies": [
-                        "Aqlf1Shp",
-                        "u58R1TMW"
-                    ],
-                    "size": 1223330,
-                    "date_published": "2025-07-11T11:05:29.061960Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "G8gwIvvD6dJN0GJm",
             "pakku_links": [
                 "YSPJlDMZwSjnFdYx"
