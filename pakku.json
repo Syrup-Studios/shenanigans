@@ -92,6 +92,15 @@
         },
         "rightclickharvest": {
             "side": "BOTH"
+        },
+        "geckolib": {
+            "side": "BOTH"
+        },
+        "melody": {
+            "side": "CLIENT"
+        },
+        "signtweaks": {
+            "side": "CLIENT"
         }
     }
 }

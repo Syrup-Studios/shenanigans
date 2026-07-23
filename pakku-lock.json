@@ -2490,7 +2490,7 @@
         {
             "pakku_id": "M6axvr0QGRCPaEI8",
             "pakku_links": [
-                "C1kRIXEdgzLe4Iyd"
+                "I3RjxQ30xYmfZ3Su"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -6698,7 +6698,7 @@
         {
             "pakku_id": "5DD7laGOUHqdWWNY",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "geckolib",
                 "modrinth": "geckolib"
@@ -7934,19 +7934,23 @@
             ]
         },
         {
-            "pakku_id": "C1kRIXEdgzLe4Iyd",
+            "pakku_id": "I3RjxQ30xYmfZ3Su",
             "pakku_links": [
                 "BU7qhTi3bxhmutfW"
             ],
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
-                "curseforge": "irisshaders"
+                "curseforge": "irisshaders",
+                "modrinth": "iris"
             },
             "name": {
-                "curseforge": "Iris Shaders"
+                "curseforge": "Iris Shaders",
+                "modrinth": "Iris Shaders"
             },
             "id": {
-                "curseforge": "455508"
+                "curseforge": "455508",
+                "modrinth": "YL57xq9U"
             },
             "files": [
                 {
@@ -7971,6 +7975,27 @@
                     ],
                     "size": 2540723,
                     "date_published": "2026-06-13T15:58:55.503Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+                    "id": "KduFYu4t",
+                    "parent_id": "YL57xq9U",
+                    "hashes": {
+                        "sha512": "33fddb430e16222902eac75b8b3d57c381b0f3cc729f3b56c4628df12ca108f23a0b11e2feb167923d6d14d1fc7e8ee1a977ec421b19d1951bdca74c4092b9c5",
+                        "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885"
+                    },
+                    "required_dependencies": [],
+                    "size": 2540723,
+                    "date_published": "2026-06-13T15:57:14.116693Z"
                 }
             ]
         },
