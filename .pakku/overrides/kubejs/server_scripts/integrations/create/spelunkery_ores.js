@@ -50,4 +50,57 @@ ServerEvents.recipes(event => {
             processingTime: 250
         }).id(`shenanigans:create/crushing/${ironOre.recipe}`);
     });
+
+    const copperOres = [
+        {
+            ore: 'spelunkery:andesite_copper_ore',
+            stone: 'minecraft:andesite',
+            recipe: 'andesite_copper_ore'
+        },
+        {
+            ore: 'spelunkery:diorite_copper_ore',
+            stone: 'minecraft:diorite',
+            recipe: 'diorite_copper_ore'
+        },
+        {
+            ore: 'spelunkery:granite_copper_ore',
+            stone: 'minecraft:granite',
+            recipe: 'granite_copper_ore'
+        },
+        {
+            ore: 'spelunkery:tuff_copper_ore',
+            stone: 'minecraft:tuff',
+            recipe: 'tuff_copper_ore'
+        }
+    ];
+
+    copperOres.forEach(copperOre => {
+        event.custom({
+            type: 'create:crushing',
+            ingredients: [
+                {
+                    item: copperOre.ore
+                }
+            ],
+            results: [
+                {
+                    id: 'create:crushed_raw_copper',
+                    count: 5
+                },
+                {
+                    id: 'create:crushed_raw_copper',
+                    chance: 0.25
+                },
+                {
+                    id: 'create:experience_nugget',
+                    chance: 0.75
+                },
+                {
+                    id: copperOre.stone,
+                    chance: 0.12
+                }
+            ],
+            processingTime: 250
+        }).id(`shenanigans:create/crushing/${copperOre.recipe}`);
+    });
 });
