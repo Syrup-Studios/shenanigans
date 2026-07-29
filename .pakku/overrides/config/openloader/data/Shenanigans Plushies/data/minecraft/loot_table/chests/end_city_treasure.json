@@ -2,7 +2,7 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -11,8 +11,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 7,
-                "min": 2
+                "max": 7.0,
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -27,8 +27,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 8,
-                "min": 4
+                "max": 8.0,
+                "min": 4.0
               },
               "function": "minecraft:set_count"
             }
@@ -43,8 +43,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 7,
-                "min": 2
+                "max": 7.0,
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -59,8 +59,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 6,
-                "min": 2
+                "max": 6.0,
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -75,8 +75,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 10,
-                "min": 1
+                "max": 10.0,
+                "min": 1.0
               },
               "function": "minecraft:set_count"
             }
@@ -108,10 +108,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_sword",
@@ -124,10 +124,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_boots",
@@ -140,10 +140,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_chestplate",
@@ -156,10 +156,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_leggings",
@@ -172,10 +172,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_helmet",
@@ -188,10 +188,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_pickaxe",
@@ -204,10 +204,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_shovel",
@@ -220,10 +220,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_sword",
@@ -236,10 +236,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_boots",
@@ -252,10 +252,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_chestplate",
@@ -268,10 +268,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_leggings",
@@ -284,10 +284,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_helmet",
@@ -300,10 +300,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_pickaxe",
@@ -316,10 +316,10 @@
               "function": "minecraft:enchant_with_levels",
               "levels": {
                 "type": "minecraft:uniform",
-                "max": 39,
-                "min": 20
+                "max": 39.0,
+                "min": 20.0
               },
-              "treasure": true
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:iron_shovel",
@@ -328,12 +328,12 @@
       ],
       "rolls": {
         "type": "minecraft:uniform",
-        "max": 6,
-        "min": 2
+        "max": 6.0,
+        "min": 2.0
       }
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty",
@@ -344,7 +344,7 @@
           "name": "minecraft:spire_armor_trim_smithing_template"
         }
       ],
-      "rolls": 1
+      "rolls": 1.0
     },
     {
       "rolls": 1,
@@ -357,7 +357,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "shenanigans:pools/all_plushies"
+          "value": "shenanigans:pools/all_plushies"
         }
       ]
     }

@@ -2,14 +2,14 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             }
           ],
@@ -21,7 +21,7 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             }
           ],
@@ -33,7 +33,7 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             }
           ],
@@ -45,7 +45,7 @@
           "functions": [
             {
               "add": false,
-              "count": 2,
+              "count": 2.0,
               "function": "minecraft:set_count"
             }
           ],
@@ -59,13 +59,14 @@
               "add": false,
               "damage": {
                 "type": "minecraft:uniform",
-                "max": 1,
+                "max": 1.0,
                 "min": 0.8
               },
               "function": "minecraft:set_damage"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_sword",
@@ -78,13 +79,14 @@
               "add": false,
               "damage": {
                 "type": "minecraft:uniform",
-                "max": 1,
+                "max": 1.0,
                 "min": 0.8
               },
               "function": "minecraft:set_damage"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_chestplate",
@@ -97,13 +99,14 @@
               "add": false,
               "damage": {
                 "type": "minecraft:uniform",
-                "max": 1,
+                "max": 1.0,
                 "min": 0.8
               },
               "function": "minecraft:set_damage"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_helmet",
@@ -116,13 +119,14 @@
               "add": false,
               "damage": {
                 "type": "minecraft:uniform",
-                "max": 1,
+                "max": 1.0,
                 "min": 0.8
               },
               "function": "minecraft:set_damage"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_leggings",
@@ -135,13 +139,14 @@
               "add": false,
               "damage": {
                 "type": "minecraft:uniform",
-                "max": 1,
+                "max": 1.0,
                 "min": 0.8
               },
               "function": "minecraft:set_damage"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:diamond_boots",
@@ -179,8 +184,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 6,
-                "min": 2
+                "max": 6.0,
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -193,7 +198,7 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             }
           ],
@@ -201,10 +206,10 @@
           "weight": 2
         }
       ],
-      "rolls": 3
+      "rolls": 3.0
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -213,8 +218,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 25,
-                "min": 12
+                "max": 25.0,
+                "min": 12.0
               },
               "function": "minecraft:set_count"
             }
@@ -228,8 +233,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 5,
-                "min": 2
+                "max": 5.0,
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -243,8 +248,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 5,
-                "min": 2
+                "max": 5.0,
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -258,8 +263,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 9,
-                "min": 3
+                "max": 9.0,
+                "min": 3.0
               },
               "function": "minecraft:set_count"
             }
@@ -273,8 +278,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 9,
-                "min": 3
+                "max": 9.0,
+                "min": 3.0
               },
               "function": "minecraft:set_count"
             }
@@ -288,8 +293,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 5,
-                "min": 3
+                "max": 5.0,
+                "min": 3.0
               },
               "function": "minecraft:set_count"
             }
@@ -303,8 +308,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 23,
-                "min": 8
+                "max": 23.0,
+                "min": 8.0
               },
               "function": "minecraft:set_count"
             }
@@ -318,8 +323,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 15,
-                "min": 5
+                "max": 15.0,
+                "min": 5.0
               },
               "function": "minecraft:set_count"
             }
@@ -333,8 +338,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 8,
-                "min": 3
+                "max": 8.0,
+                "min": 3.0
               },
               "function": "minecraft:set_count"
             }
@@ -344,12 +349,12 @@
       ],
       "rolls": {
         "type": "minecraft:uniform",
-        "max": 4,
-        "min": 3
+        "max": 4.0,
+        "min": 3.0
       }
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty",
@@ -360,17 +365,17 @@
           "name": "minecraft:snout_armor_trim_smithing_template"
         }
       ],
-      "rolls": 1
+      "rolls": 1.0
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
           "name": "minecraft:netherite_upgrade_smithing_template"
         }
       ],
-      "rolls": 1
+      "rolls": 1.0
     },
     {
       "rolls": 1,
@@ -383,7 +388,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "shenanigans:pools/all_plushies"
+          "value": "shenanigans:pools/all_plushies"
         }
       ]
     }

@@ -2,13 +2,13 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
           "functions": [
             {
-              "decoration": "red_x",
+              "decoration": "minecraft:red_x",
               "function": "minecraft:exploration_map",
               "skip_existing_chunks": false,
               "zoom": 1
@@ -17,16 +17,17 @@
               "function": "minecraft:set_name",
               "name": {
                 "translate": "filled_map.buried_treasure"
-              }
+              },
+              "target": "item_name"
             }
           ],
           "name": "minecraft:map"
         }
       ],
-      "rolls": 1
+      "rolls": 1.0
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -47,8 +48,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 10,
-                "min": 1
+                "max": 10.0,
+                "min": 1.0
               },
               "function": "minecraft:set_count"
             }
@@ -63,8 +64,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 5,
-                "min": 1
+                "max": 5.0,
+                "min": 1.0
               },
               "function": "minecraft:set_count"
             }
@@ -79,8 +80,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 5,
-                "min": 1
+                "max": 5.0,
+                "min": 1.0
               },
               "function": "minecraft:set_count"
             }
@@ -89,10 +90,10 @@
           "weight": 5
         }
       ],
-      "rolls": 3
+      "rolls": 3.0
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty",
@@ -103,14 +104,14 @@
           "functions": [
             {
               "add": false,
-              "count": 2,
+              "count": 2.0,
               "function": "minecraft:set_count"
             }
           ],
           "name": "minecraft:coast_armor_trim_smithing_template"
         }
       ],
-      "rolls": 1
+      "rolls": 1.0
     },
     {
       "rolls": 1,
@@ -123,7 +124,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "shenanigans:pools/all_plushies"
+          "value": "shenanigans:pools/all_plushies"
         }
       ]
     }

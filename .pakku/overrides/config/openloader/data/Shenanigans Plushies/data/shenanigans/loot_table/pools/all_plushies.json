@@ -6,80 +6,80 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
+          "name": "plushie_friends:plushie",
           "functions": [
             {
-              "function": "plushie-friends:set_plushie",
+              "function": "plushie_friends:set_plushie",
               "id": "shenanigans:berrrrrrrrrrrryy"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
+          "name": "plushie_friends:plushie",
           "functions": [
             {
-              "function": "plushie-friends:set_plushie",
+              "function": "plushie_friends:set_plushie",
               "id": "shenanigans:jibbily27"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
+          "name": "plushie_friends:plushie",
           "functions": [
             {
-              "function": "plushie-friends:set_plushie",
+              "function": "plushie_friends:set_plushie",
               "id": "shenanigans:saladsyrup"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
+          "name": "plushie_friends:plushie",
           "functions": [
             {
-              "function": "plushie-friends:set_plushie",
+              "function": "plushie_friends:set_plushie",
               "id": "shenanigans:xameryn"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
+          "name": "plushie_friends:plushie",
           "functions": [
             {
-              "function": "plushie-friends:set_plushie",
+              "function": "plushie_friends:set_plushie",
               "id": "shenanigans:uncle_toasty"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
+          "name": "plushie_friends:plushie",
           "functions": [
             {
-              "function": "plushie-friends:set_plushie",
+              "function": "plushie_friends:set_plushie",
               "id": "shenanigans:science_bird"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
+          "name": "plushie_friends:plushie",
           "functions": [
             {
-              "function": "plushie-friends:set_plushie",
+              "function": "plushie_friends:set_plushie",
               "id": "shenanigans:spekky2x"
             }
           ]
         },
         {
           "type": "minecraft:item",
-          "name": "plushie-friends:plushie",
+          "name": "plushie_friends:plushie",
           "functions": [
             {
-              "function": "plushie-friends:set_plushie",
+              "function": "plushie_friends:set_plushie",
               "id": "shenanigans:capt_de_ruyter"
             }
           ]

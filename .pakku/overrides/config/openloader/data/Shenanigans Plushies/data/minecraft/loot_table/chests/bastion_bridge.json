@@ -2,24 +2,24 @@
   "type": "minecraft:chest",
   "pools": [
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             }
           ],
           "name": "minecraft:lodestone"
         }
       ],
-      "rolls": 1
+      "rolls": 1.0
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -34,7 +34,8 @@
               "function": "minecraft:set_damage"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:crossbow"
@@ -46,8 +47,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 28,
-                "min": 10
+                "max": 28.0,
+                "min": 10.0
               },
               "function": "minecraft:set_count"
             }
@@ -61,8 +62,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 12,
-                "min": 8
+                "max": 12.0,
+                "min": 8.0
               },
               "function": "minecraft:set_count"
             }
@@ -76,8 +77,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 8,
-                "min": 3
+                "max": 8.0,
+                "min": 3.0
               },
               "function": "minecraft:set_count"
             }
@@ -89,7 +90,7 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             }
           ],
@@ -102,8 +103,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 9,
-                "min": 4
+                "max": 9.0,
+                "min": 4.0
               },
               "function": "minecraft:set_count"
             }
@@ -117,8 +118,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 9,
-                "min": 4
+                "max": 9.0,
+                "min": 4.0
               },
               "function": "minecraft:set_count"
             }
@@ -130,7 +131,7 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             }
           ],
@@ -141,11 +142,12 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:golden_chestplate"
@@ -155,11 +157,12 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:golden_helmet"
@@ -169,11 +172,12 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:golden_leggings"
@@ -183,11 +187,12 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:golden_boots"
@@ -197,11 +202,12 @@
           "functions": [
             {
               "add": false,
-              "count": 1,
+              "count": 1.0,
               "function": "minecraft:set_count"
             },
             {
-              "function": "minecraft:enchant_randomly"
+              "function": "minecraft:enchant_randomly",
+              "options": "#minecraft:on_random_loot"
             }
           ],
           "name": "minecraft:golden_axe"
@@ -209,12 +215,12 @@
       ],
       "rolls": {
         "type": "minecraft:uniform",
-        "max": 2,
-        "min": 1
+        "max": 2.0,
+        "min": 1.0
       }
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:item",
@@ -223,8 +229,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 6,
-                "min": 1
+                "max": 6.0,
+                "min": 1.0
               },
               "function": "minecraft:set_count"
             }
@@ -238,8 +244,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 3,
-                "min": 1
+                "max": 3.0,
+                "min": 1.0
               },
               "function": "minecraft:set_count"
             }
@@ -253,8 +259,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 17,
-                "min": 5
+                "max": 17.0,
+                "min": 5.0
               },
               "function": "minecraft:set_count"
             }
@@ -268,8 +274,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 6,
-                "min": 2
+                "max": 6.0,
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -283,8 +289,8 @@
               "add": false,
               "count": {
                 "type": "minecraft:uniform",
-                "max": 6,
-                "min": 2
+                "max": 6.0,
+                "min": 2.0
               },
               "function": "minecraft:set_count"
             }
@@ -294,12 +300,12 @@
       ],
       "rolls": {
         "type": "minecraft:uniform",
-        "max": 4,
-        "min": 2
+        "max": 4.0,
+        "min": 2.0
       }
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty",
@@ -310,10 +316,10 @@
           "name": "minecraft:snout_armor_trim_smithing_template"
         }
       ],
-      "rolls": 1
+      "rolls": 1.0
     },
     {
-      "bonus_rolls": 0,
+      "bonus_rolls": 0.0,
       "entries": [
         {
           "type": "minecraft:empty",
@@ -324,7 +330,7 @@
           "name": "minecraft:netherite_upgrade_smithing_template"
         }
       ],
-      "rolls": 1
+      "rolls": 1.0
     },
     {
       "rolls": 1,
@@ -337,7 +343,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "shenanigans:pools/all_plushies"
+          "value": "shenanigans:pools/all_plushies"
         }
       ]
     }
