@@ -2425,7 +2425,7 @@
             ]
         },
         {
-            "pakku_id": "AleRT7AgD9TfIZgH",
+            "pakku_id": "kMVS5dSaCEMmBdip",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -2441,6 +2441,27 @@
                 "modrinth": "kQZ7uiYu"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "colorful_armor_bar-neoforge-1.21.1-0.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8536/760/colorful_armor_bar-neoforge-1.21.1-0.3.0.jar",
+                    "id": "8536760",
+                    "parent_id": "1587811",
+                    "hashes": {
+                        "sha1": "e97de12c392ed39f38223b383442dbe015fd9ee3",
+                        "md5": "a81974f4712150197c34bf3cc8a4dbb9"
+                    },
+                    "required_dependencies": [],
+                    "size": 326032,
+                    "date_published": "2026-07-29T22:29:41.277Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "colorful_armor_bar-neoforge-1.21.1-0.3.0.jar",
