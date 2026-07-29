@@ -11859,6 +11859,67 @@
             ]
         },
         {
+            "pakku_id": "TNKp8Rc3A1NUpzFC",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "plushiefriends",
+                "modrinth": "plushiefriends"
+            },
+            "name": {
+                "curseforge": "Plushie Friends",
+                "modrinth": "Plushie Friends"
+            },
+            "id": {
+                "curseforge": "1545772",
+                "modrinth": "dcPq78Za"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "plushie_friends-0.5.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8537/42/plushie_friends-0.5.0+1.21.1-neoforge.jar",
+                    "id": "8537042",
+                    "parent_id": "1545772",
+                    "hashes": {
+                        "sha1": "f354bd3b462b5b4671cd5f0df759ea1ff65afed2",
+                        "md5": "5d5e750cef041e1d97a6cce69d6ecf20"
+                    },
+                    "required_dependencies": [],
+                    "size": 298210,
+                    "date_published": "2026-07-29T23:26:36.423Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "plushie_friends-0.5.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/EydXMnCB/plushie_friends-0.5.0+1.21.1-neoforge.jar",
+                    "id": "EydXMnCB",
+                    "parent_id": "dcPq78Za",
+                    "hashes": {
+                        "sha512": "ac8a709af43d23bc14e3d8d44cfaa5e217a77a482d744d0f6b57080e468b34a66a17cc7e31249eb8d87cb61d3ea74d016535d75f68c04c0e61de480fdf3af4d6",
+                        "sha1": "f354bd3b462b5b4671cd5f0df759ea1ff65afed2"
+                    },
+                    "required_dependencies": [],
+                    "size": 298210,
+                    "date_published": "2026-07-29T23:24:06.770968Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Qj60FLyN8tTCJtRR",
             "type": "MOD",
             "side": "BOTH",
