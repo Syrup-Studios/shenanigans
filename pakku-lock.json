@@ -267,19 +267,44 @@
             ]
         },
         {
-            "pakku_id": "Zcp9u8g9GfhRuND6",
+            "pakku_id": "3QCx8P8PVXVGJ41N",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "SERVER",
             "slug": {
+                "curseforge": "almanac-lib",
                 "modrinth": "almanac"
             },
             "name": {
+                "curseforge": "Almanac Lib",
                 "modrinth": "Almanac"
             },
             "id": {
+                "curseforge": "1115285",
                 "modrinth": "Gi02250Z"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
+                    "mc_versions": [
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7489/91/Almanac-1.21.1-2-neoforge-1.5.2.jar",
+                    "id": "7489091",
+                    "parent_id": "1115285",
+                    "hashes": {
+                        "sha1": "d613dbc38ca5bcc718408db432385c2e67ac763f",
+                        "md5": "49d03c4b56618fda3c7e01af2fc73e7d"
+                    },
+                    "required_dependencies": [],
+                    "size": 25593,
+                    "date_published": "2026-01-19T16:11:40.097Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
@@ -3515,7 +3540,7 @@
             "pakku_links": [
                 "5DD7laGOUHqdWWNY",
                 "KB2rOSxoOJGmAoQa",
-                "Tt8L09MNLycUIPe4"
+                "40pkftCW8dp12uvJ"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -5391,9 +5416,9 @@
         {
             "pakku_id": "6BO5S1kQEcQUppuX",
             "pakku_links": [
-                "Tt8L09MNLycUIPe4",
                 "KB2rOSxoOJGmAoQa",
-                "5DD7laGOUHqdWWNY"
+                "5DD7laGOUHqdWWNY",
+                "40pkftCW8dp12uvJ"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -8816,7 +8841,8 @@
         {
             "pakku_id": "rEKxSzNyWgF1aY8B",
             "pakku_links": [
-                "Zcp9u8g9GfhRuND6"
+                "Zcp9u8g9GfhRuND6",
+                "3QCx8P8PVXVGJ41N"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -12634,7 +12660,7 @@
             ]
         },
         {
-            "pakku_id": "Tt8L09MNLycUIPe4",
+            "pakku_id": "40pkftCW8dp12uvJ",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -12650,6 +12676,28 @@
                 "modrinth": "M1953qlQ"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6467/772/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+                    "id": "6467772",
+                    "parent_id": "714059",
+                    "hashes": {
+                        "sha1": "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031",
+                        "md5": "84ff2805a591b10d22b7e0c69b44246c"
+                    },
+                    "required_dependencies": [],
+                    "size": 341009,
+                    "date_published": "2025-04-26T17:59:02.930Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
@@ -15992,7 +16040,7 @@
             ]
         },
         {
-            "pakku_id": "ptyjpdhMsFfThPth",
+            "pakku_id": "kuCs4os8XLOczEPx",
             "pakku_links": [
                 "G4wvt5AyMHwNw2mv",
                 "QEmpyRFeDwhbWsXt"
@@ -16000,15 +16048,42 @@
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "lets-do-bakery-farm-charm-compat",
                 "modrinth": "lets-do-bakery-farmcharm-compat"
             },
             "name": {
+                "curseforge": "[Let's Do] Bakery - Farm&Charm Compat",
                 "modrinth": "[Let's Do] Bakery - Farm&Charm Compat"
             },
             "id": {
+                "curseforge": "1038130",
                 "modrinth": "oNB5jhlA"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "letsdo-bakery-neoforge-2.1.6.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7628/197/letsdo-bakery-neoforge-2.1.6.jar",
+                    "id": "7628197",
+                    "parent_id": "1038130",
+                    "hashes": {
+                        "sha1": "1784df19be895a8aeff5c3b51675a04b7e1fb254",
+                        "md5": "ccb24b224eee89ed70b8cd5f777fc6ae"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "1038103"
+                    ],
+                    "size": 1039749,
+                    "date_published": "2026-02-15T11:57:08.117Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "letsdo-bakery-neoforge-2.1.6.jar",
