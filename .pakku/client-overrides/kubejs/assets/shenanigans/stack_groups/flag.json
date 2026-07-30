@@ -1,0 +1,6 @@
+{
+  "id": "shenanigans:flag",
+  "type": "emixx:regex",
+  "regex": "supplementaries:flag.*",
+  "name": "Flags"
+}
