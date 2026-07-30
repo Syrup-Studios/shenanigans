@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_sign"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bamboo_planks",
+    "count": 2
+  }
+}

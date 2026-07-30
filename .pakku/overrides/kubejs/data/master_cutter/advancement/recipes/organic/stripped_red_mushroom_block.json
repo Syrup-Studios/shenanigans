@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:red_mushroom_block"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:organic/stripped_red_mushroom_block"
+    ]
+  }
+}

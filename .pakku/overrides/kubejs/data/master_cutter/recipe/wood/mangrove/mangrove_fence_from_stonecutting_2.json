@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:mangrove_door"
+    }
+  ],
+  "result": {
+    "id": "minecraft:mangrove_fence",
+    "count": 2
+  }
+}

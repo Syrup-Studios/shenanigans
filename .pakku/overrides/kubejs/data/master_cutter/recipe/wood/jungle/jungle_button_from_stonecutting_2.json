@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:jungle_door"
+    },
+    {
+      "item": "minecraft:jungle_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:jungle_button",
+    "count": 2
+  }
+}

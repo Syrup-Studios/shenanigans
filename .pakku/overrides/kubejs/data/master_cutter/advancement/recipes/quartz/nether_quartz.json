@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:quartz"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:quartz/nether_quartz/nether_quartz_from_quartz_block",
+      "master_cutter:quartz/nether_quartz/quartz_block_from_stonecutting",
+      "master_cutter:quartz/nether_quartz/quartz_slab_from_stonecutting_1",
+      "master_cutter:quartz/nether_quartz/quartz_slab_from_stonecutting_2",
+      "master_cutter:quartz/nether_quartz/smooth_quartz_from_stonecutting",
+      "master_cutter:quartz/nether_quartz/smooth_quartz_slab_from_stonecutting"
+    ]
+  }
+}

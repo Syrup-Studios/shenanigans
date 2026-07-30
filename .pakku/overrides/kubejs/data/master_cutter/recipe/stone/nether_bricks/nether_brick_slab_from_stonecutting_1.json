@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:nether_brick_stairs"
+  },
+  "result": {
+    "id": "minecraft:nether_brick_slab",
+    "count": 1
+  }
+}

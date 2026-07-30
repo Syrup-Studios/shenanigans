@@ -1,0 +1,56 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:deepslate"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/deepslate/chiseled_deepslate_from_deepslate",
+      "master_cutter:stone/deepslate/cobbled_deepslate_from_deepslate",
+      "master_cutter:stone/deepslate/cobbled_deepslate_slab_from_deepslate",
+      "master_cutter:stone/deepslate/cobbled_deepslate_stairs_from_deepslate",
+      "master_cutter:stone/deepslate/cobbled_deepslate_wall_from_deepslate",
+      "master_cutter:stone/deepslate/cracked_deepslate_bricks_from_deepslate",
+      "master_cutter:stone/deepslate/cracked_deepslate_tiles_from_deepslate",
+      "master_cutter:stone/deepslate/deepslate_brick_slab_from_deepslate",
+      "master_cutter:stone/deepslate/deepslate_brick_stairs_from_deepslate",
+      "master_cutter:stone/deepslate/deepslate_brick_wall_from_deepslate",
+      "master_cutter:stone/deepslate/deepslate_bricks_from_deepslate",
+      "master_cutter:stone/deepslate/deepslate_tile_slab_from_deepslate",
+      "master_cutter:stone/deepslate/deepslate_tile_stairs_from_deepslate",
+      "master_cutter:stone/deepslate/deepslate_tile_wall_from_deepslate",
+      "master_cutter:stone/deepslate/deepslate_tiles_from_deepslate",
+      "master_cutter:stone/deepslate/polished_deepslate_from_deepslate",
+      "master_cutter:stone/deepslate/polished_deepslate_slab_from_deepslate",
+      "master_cutter:stone/deepslate/polished_deepslate_stairs_from_deepslate",
+      "master_cutter:stone/deepslate/polished_deepslate_wall_from_deepslate",
+      "master_cutter:stone/deepslate_variants/cobbled_deepslate_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/cobbled_deepslate_slab_from_stonecutting_1",
+      "master_cutter:stone/deepslate_variants/cobbled_deepslate_slab_from_stonecutting_2",
+      "master_cutter:stone/deepslate_variants/cobbled_deepslate_wall_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/cracked_deepslate_bricks_from_stonecutting_1",
+      "master_cutter:stone/deepslate_variants/cracked_deepslate_bricks_from_stonecutting_2",
+      "master_cutter:stone/deepslate_variants/cracked_deepslate_tiles_from_stonecutting_1",
+      "master_cutter:stone/deepslate_variants/cracked_deepslate_tiles_from_stonecutting_2",
+      "master_cutter:stone/deepslate_variants/deepslate_brick_slab_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/deepslate_brick_wall_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/deepslate_bricks_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/deepslate_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/deepslate_tile_slab_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/deepslate_tile_wall_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/deepslate_tiles_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/polished_deepslate_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/polished_deepslate_slab_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/polished_deepslate_stairs_from_stonecutting",
+      "master_cutter:stone/deepslate_variants/polished_deepslate_wall_from_stonecutting"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:oak_door"
+    },
+    {
+      "item": "minecraft:oak_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:oak_button",
+    "count": 2
+  }
+}

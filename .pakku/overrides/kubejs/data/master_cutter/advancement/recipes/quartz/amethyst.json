@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:amethyst_block"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:quartz/amethyst/amethyst_shards_from_stonecutting"
+    ]
+  }
+}

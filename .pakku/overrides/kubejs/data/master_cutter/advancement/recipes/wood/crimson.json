@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:crimson_stems"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/crimson/crimson_button_from_stonecutting_1",
+      "master_cutter:wood/crimson/crimson_button_from_stonecutting_2",
+      "master_cutter:wood/crimson/crimson_button_from_stonecutting_3",
+      "master_cutter:wood/crimson/crimson_door_from_stonecutting",
+      "master_cutter:wood/crimson/crimson_fence_from_stonecutting_1",
+      "master_cutter:wood/crimson/crimson_fence_from_stonecutting_2",
+      "master_cutter:wood/crimson/crimson_fence_from_stonecutting_3",
+      "master_cutter:wood/crimson/crimson_fence_gate_from_stonecutting",
+      "master_cutter:wood/crimson/crimson_stem_from_stonecutting",
+      "master_cutter:wood/crimson/crimson_planks_from_stonecutting_1",
+      "master_cutter:wood/crimson/crimson_planks_from_stonecutting_2",
+      "master_cutter:wood/crimson/crimson_planks_from_stonecutting_3",
+      "master_cutter:wood/crimson/crimson_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/crimson/crimson_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/crimson/crimson_sign_from_stonecutting_1",
+      "master_cutter:wood/crimson/crimson_sign_from_stonecutting_2",
+      "master_cutter:wood/crimson/crimson_slab_from_stonecutting_1",
+      "master_cutter:wood/crimson/crimson_slab_from_stonecutting_2",
+      "master_cutter:wood/crimson/crimson_slab_from_stonecutting_3",
+      "master_cutter:wood/crimson/crimson_stairs_from_stonecutting_1",
+      "master_cutter:wood/crimson/crimson_stairs_from_stonecutting_2",
+      "master_cutter:wood/crimson/crimson_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/crimson/crimson_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/crimson/crimson_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/crimson/stripped_crimson_stem_from_stonecutting_1",
+      "master_cutter:wood/crimson/stripped_crimson_stem_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/crimson/stripped_crimson_hyphae_from_stonecutting"
+    ]
+  }
+}

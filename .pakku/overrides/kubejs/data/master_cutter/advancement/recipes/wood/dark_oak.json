@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:dark_oak_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/dark_oak/dark_oak_button_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/dark_oak_button_from_stonecutting_2",
+      "master_cutter:wood/dark_oak/dark_oak_button_from_stonecutting_3",
+      "master_cutter:wood/dark_oak/dark_oak_door_from_stonecutting",
+      "master_cutter:wood/dark_oak/dark_oak_fence_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/dark_oak_fence_from_stonecutting_2",
+      "master_cutter:wood/dark_oak/dark_oak_fence_from_stonecutting_3",
+      "master_cutter:wood/dark_oak/dark_oak_fence_gate_from_stonecutting",
+      "master_cutter:wood/dark_oak/dark_oak_log_from_stonecutting",
+      "master_cutter:wood/dark_oak/dark_oak_planks_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/dark_oak_planks_from_stonecutting_2",
+      "master_cutter:wood/dark_oak/dark_oak_planks_from_stonecutting_3",
+      "master_cutter:wood/dark_oak/dark_oak_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/dark_oak_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/dark_oak/dark_oak_sign_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/dark_oak_sign_from_stonecutting_2",
+      "master_cutter:wood/dark_oak/dark_oak_slab_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/dark_oak_slab_from_stonecutting_2",
+      "master_cutter:wood/dark_oak/dark_oak_slab_from_stonecutting_3",
+      "master_cutter:wood/dark_oak/dark_oak_stairs_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/dark_oak_stairs_from_stonecutting_2",
+      "master_cutter:wood/dark_oak/dark_oak_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/dark_oak_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/dark_oak/dark_oak_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/dark_oak/stripped_dark_oak_log_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/stripped_dark_oak_log_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/dark_oak/stripped_dark_oak_wood_from_stonecutting"
+    ]
+  }
+}

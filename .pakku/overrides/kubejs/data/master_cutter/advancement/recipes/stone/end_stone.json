@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:end_stone"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/end_stone_bricks/end_stone_brick_slab_from_end_stone_brick_stairs",
+      "master_cutter:stone/end_stone_bricks/end_stone_brick_wall_from_end_stone_brick_stairs",
+      "master_cutter:stone/end_stone_bricks/end_stone_bricks_from_end_stone_brick_stairs",
+      "master_cutter:stone/end_stone_bricks/end_stone_from_end_stone_bricks"
+    ]
+  }
+}

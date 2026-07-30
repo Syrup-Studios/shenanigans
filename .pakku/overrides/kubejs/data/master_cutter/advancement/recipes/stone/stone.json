@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:stone"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/stone/stone_button_from_stonecutting_1",
+      "master_cutter:stone/stone/stone_button_from_stonecutting_2",
+      "master_cutter:stone/stone/stone_from_stonecutting_1",
+      "master_cutter:stone/stone/stone_from_stonecutting_2",
+      "master_cutter:stone/stone/stone_pressure_plate_from_stonecutting_1",
+      "master_cutter:stone/stone/stone_pressure_plate_from_stonecutting_2",
+      "master_cutter:stone/stone/stone_slab_from_stonecutting"
+    ]
+  }
+}

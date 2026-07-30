@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:birch_door"
+    },
+    {
+      "item": "minecraft:birch_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:birch_button",
+    "count": 2
+  }
+}

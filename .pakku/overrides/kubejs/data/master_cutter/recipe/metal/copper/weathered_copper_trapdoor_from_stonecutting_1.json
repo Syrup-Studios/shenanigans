@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:weathered_cut_copper"
+    },
+    {
+      "item": "minecraft:weathered_cut_copper_stairs"
+    },
+    {
+      "item": "minecraft:weathered_chiseled_copper"
+    },
+    {
+      "item": "minecraft:weathered_copper_grate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:weathered_copper_trapdoor",
+    "count": 1
+  }
+}

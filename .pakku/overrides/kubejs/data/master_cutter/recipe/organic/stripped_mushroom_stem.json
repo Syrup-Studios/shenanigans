@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:mushroom_stem"
+  },
+  "result": {
+    "id": "minecraft:mushroom_stem",
+    "count": 1,
+    "components": {
+      "minecraft:block_state": {
+        "down": "false",
+        "east": "false",
+        "north": "false",
+        "south": "false",
+        "up": "false",
+        "west": "false"
+      },
+      "minecraft:lore": [
+        "{\"color\":\"gray\",\"extra\":[{\"color\":\"red\",\"text\":\"false\"}],\"text\":\"Down: \"}",
+        "{\"color\":\"gray\",\"extra\":[{\"color\":\"red\",\"text\":\"false\"}],\"text\":\"East: \"}",
+        "{\"color\":\"gray\",\"extra\":[{\"color\":\"red\",\"text\":\"false\"}],\"text\":\"North: \"}",
+        "{\"color\":\"gray\",\"extra\":[{\"color\":\"red\",\"text\":\"false\"}],\"text\":\"South: \"}",
+        "{\"color\":\"gray\",\"extra\":[{\"color\":\"red\",\"text\":\"false\"}],\"text\":\"Up: \"}",
+        "{\"color\":\"gray\",\"extra\":[{\"color\":\"red\",\"text\":\"false\"}],\"text\":\"West: \"}"
+      ],
+      "minecraft:item_name": "{\"text\":\"Stripped Mushroom Stem\"}"
+    }
+  }
+}

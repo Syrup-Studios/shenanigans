@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:cherry_hanging_sign"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stripped_cherry_log",
+    "count": 2
+  }
+}

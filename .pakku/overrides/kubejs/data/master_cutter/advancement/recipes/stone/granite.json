@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:granite"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/granite/granite_from_stonecutting",
+      "master_cutter:stone/granite/granite_slab_from_stonecutting_1",
+      "master_cutter:stone/granite/granite_slab_from_stonecutting_2",
+      "master_cutter:stone/granite/granite_stairs_from_stonecutting",
+      "master_cutter:stone/granite/granite_wall_from_stonecutting_1",
+      "master_cutter:stone/granite/granite_wall_from_stonecutting_2",
+      "master_cutter:stone/granite/granite_wall_from_stonecutting_3",
+      "master_cutter:stone/granite/polished_granite_from_stonecutting",
+      "master_cutter:stone/granite/polished_granite_slab_from_stonecutting",
+      "master_cutter:stone/granite/polished_granite_stairs_from_stonecutting"
+    ]
+  }
+}

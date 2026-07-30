@@ -1,0 +1,50 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:bamboo_blocks"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/bamboo/bamboo_button_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_button_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_button_from_stonecutting_3",
+      "master_cutter:wood/bamboo/bamboo_door_from_stonecutting",
+      "master_cutter:wood/bamboo/bamboo_fence_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_fence_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_fence_from_stonecutting_3",
+      "master_cutter:wood/bamboo/bamboo_fence_gate_from_stonecutting",
+      "master_cutter:wood/bamboo/bamboo_mosaic_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_mosaic_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_mosaic_slab_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_mosaic_slab_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_mosaic_slab_from_stonecutting_3",
+      "master_cutter:wood/bamboo/bamboo_mosaic_stairs_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_mosaic_stairs_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_planks_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_planks_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_planks_from_stonecutting_3",
+      "master_cutter:wood/bamboo/bamboo_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_sign_from_stonecutting",
+      "master_cutter:wood/bamboo/bamboo_slab_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_slab_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_slab_from_stonecutting_3",
+      "master_cutter:wood/bamboo/bamboo_stairs_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_stairs_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/bamboo/bamboo_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/bamboo/bamboo_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/bamboo/stripped_bamboo_block_from_stonecutting_1",
+      "master_cutter:wood/bamboo/stripped_bamboo_block_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1"
+    ]
+  }
+}

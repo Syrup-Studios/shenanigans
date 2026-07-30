@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:cherry_door"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cherry_fence",
+    "count": 2
+  }
+}

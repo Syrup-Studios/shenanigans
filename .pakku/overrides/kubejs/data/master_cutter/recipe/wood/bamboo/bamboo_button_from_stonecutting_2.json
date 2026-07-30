@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_door"
+    },
+    {
+      "item": "minecraft:bamboo_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bamboo_button",
+    "count": 2
+  }
+}

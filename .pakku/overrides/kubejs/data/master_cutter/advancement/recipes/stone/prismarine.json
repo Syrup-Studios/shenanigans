@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:prismarine"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/prismarine/prismarine_from_stonecutting",
+      "master_cutter:stone/prismarine/prismarine_shard_from_stonecutting",
+      "master_cutter:stone/prismarine/prismarine_slab_from_stonecutting",
+      "master_cutter:stone/prismarine/prismarine_wall_from_stonecutting"
+    ]
+  }
+}

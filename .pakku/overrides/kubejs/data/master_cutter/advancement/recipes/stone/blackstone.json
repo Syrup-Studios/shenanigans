@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:blackstone"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/blackstone/blackstone_from_stonecutting",
+      "master_cutter:stone/blackstone/blackstone_slab_from_stonecutting",
+      "master_cutter:stone/blackstone/blackstone_stairs_from_stonecutting",
+      "master_cutter:stone/blackstone/blackstone_wall_from_stonecutting",
+      "master_cutter:stone/blackstone/cracked_polished_blackstone_bricks_from_stonecutting",
+      "master_cutter:stone/blackstone/polished_blackstone_brick_slab_from_stonecutting",
+      "master_cutter:stone/blackstone/polished_blackstone_brick_wall_from_stonecutting",
+      "master_cutter:stone/blackstone/polished_blackstone_bricks_from_stonecutting",
+      "master_cutter:stone/blackstone/polished_blackstone_button_from_stonecutting_1",
+      "master_cutter:stone/blackstone/polished_blackstone_button_from_stonecutting_2",
+      "master_cutter:stone/blackstone/polished_blackstone_from_stonecutting_1",
+      "master_cutter:stone/blackstone/polished_blackstone_from_stonecutting_2",
+      "master_cutter:stone/blackstone/polished_blackstone_from_stonecutting_3",
+      "master_cutter:stone/blackstone/polished_blackstone_pressure_plate_from_stonecutting_1",
+      "master_cutter:stone/blackstone/polished_blackstone_pressure_plate_from_stonecutting_2",
+      "master_cutter:stone/blackstone/polished_blackstone_slab_from_stonecutting_1",
+      "master_cutter:stone/blackstone/polished_blackstone_slab_from_stonecutting_2",
+      "master_cutter:stone/blackstone/polished_blackstone_wall_from_stonecutting"
+    ]
+  }
+}

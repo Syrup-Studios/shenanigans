@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:stone_stairs"
+    },
+    {
+      "item": "minecraft:mossy_cobblestone"
+    },
+    {
+      "item": "minecraft:mossy_cobblestone_stairs"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cobblestone_stairs",
+    "count": 1
+  }
+}

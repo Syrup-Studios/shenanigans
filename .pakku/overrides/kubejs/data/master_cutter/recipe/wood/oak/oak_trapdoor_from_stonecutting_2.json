@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:oak_planks"
+    },
+    {
+      "item": "minecraft:oak_stairs"
+    }
+  ],
+  "result": {
+    "id": "minecraft:oak_trapdoor",
+    "count": 1
+  }
+}

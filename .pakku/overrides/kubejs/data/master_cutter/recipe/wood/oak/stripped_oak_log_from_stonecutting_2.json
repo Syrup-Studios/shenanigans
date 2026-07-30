@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:oak_hanging_sign"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stripped_oak_log",
+    "count": 2
+  }
+}

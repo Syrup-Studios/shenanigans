@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bricks"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/bricks/brick_from_stonecutting_1",
+      "master_cutter:stone/bricks/brick_from_stonecutting_2",
+      "master_cutter:stone/bricks/brick_slab_from_brick_stairs",
+      "master_cutter:stone/bricks/brick_wall_from_brick_stairs",
+      "master_cutter:stone/bricks/bricks_from_brick_stairs"
+    ]
+  }
+}
