@@ -157,3 +157,59 @@ ServerEvents.tags('block', event => {
         'spelunkery:tuff_coal_ore'
     ]);
 });
+
+ServerEvents.tags('worldgen/biome', event => {
+    const wolfBiomes = {
+        ashen: [
+            'regions_unexplored:cold_boreal_taiga',
+            'regions_unexplored:frozen_pine_taiga'
+        ],
+        black: [
+            'regions_unexplored:blackwood_taiga',
+            'regions_unexplored:mountains',
+            'regions_unexplored:old_growth_bayou',
+            'regions_unexplored:pine_slopes',
+            'regions_unexplored:pine_taiga'
+        ],
+        chestnut: [
+            'regions_unexplored:blackwood_taiga',
+            'regions_unexplored:boreal_taiga',
+            'regions_unexplored:old_growth_bayou',
+            'regions_unexplored:towering_cliffs'
+        ],
+        rusty: [
+            'regions_unexplored:bamboo_forest',
+            'regions_unexplored:rainforest',
+            'regions_unexplored:sparse_rainforest',
+            'regions_unexplored:tropics'
+        ],
+        snowy: [
+            'regions_unexplored:frozen_pine_taiga',
+            'regions_unexplored:frozen_tundra',
+            'regions_unexplored:icy_heights',
+            'regions_unexplored:spires'
+        ],
+        spotted: [
+            'regions_unexplored:baobab_savanna',
+            'regions_unexplored:steppe',
+            'regions_unexplored:dry_bushland'
+        ],
+        striped: [
+            'regions_unexplored:arid_mountains',
+            'regions_unexplored:dry_bushland',
+            'regions_unexplored:joshua_desert',
+            'regions_unexplored:outback'
+        ],
+        woods: [
+            'regions_unexplored:rainforest',
+            'regions_unexplored:deciduous_forest',
+            'regions_unexplored:magnolia_woodland',
+            'regions_unexplored:redwoods',
+            'regions_unexplored:sparse_redwoods'
+        ]
+    };
+
+    Object.entries(wolfBiomes).forEach(([variant, biomes]) => {
+        event.add(`minecraft:has_wolf/${variant}`, biomes);
+    });
+});
