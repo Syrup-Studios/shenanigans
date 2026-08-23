@@ -15013,6 +15013,67 @@
             ]
         },
         {
+            "pakku_id": "u8zKAHyVFrhtrrQm",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "timber-frames",
+                "modrinth": "timber-frames"
+            },
+            "name": {
+                "curseforge": "Timber Frames",
+                "modrinth": "Timber Frames"
+            },
+            "id": {
+                "curseforge": "606011",
+                "modrinth": "M7N4aD7O"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "timber_frames-3.0.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8673/627/timber_frames-3.0.0+1.21.1-neoforge.jar",
+                    "id": "8673627",
+                    "parent_id": "606011",
+                    "hashes": {
+                        "sha1": "78dadd2db6921f803f3427b0f787c849a863c891",
+                        "md5": "f7dba9fc40fd2037c4e5642113e02046"
+                    },
+                    "required_dependencies": [],
+                    "size": 287620,
+                    "date_published": "2026-08-18T00:31:57.810Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "timber_frames-3.0.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/M7N4aD7O/versions/k7jlttBa/timber_frames-3.0.0+1.21.1-neoforge.jar",
+                    "id": "k7jlttBa",
+                    "parent_id": "M7N4aD7O",
+                    "hashes": {
+                        "sha512": "83ec3fb1bb777d3e4c1afc6ee24f32b8c231c4ee4642a80b5afbffea5c6927b3fa14e61815cb7e8fa628ca9224208da240a18f7ba1e35963fc39e2ee13992248",
+                        "sha1": "78dadd2db6921f803f3427b0f787c849a863c891"
+                    },
+                    "required_dependencies": [],
+                    "size": 287620,
+                    "date_published": "2026-08-18T00:31:59.018338Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "VQ6HtCNaJxcjlSZO",
             "type": "MOD",
             "side": "CLIENT",
