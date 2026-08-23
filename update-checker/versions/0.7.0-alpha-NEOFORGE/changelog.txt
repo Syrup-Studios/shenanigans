@@ -1,0 +1,12 @@
+## Changelog 0.7.0-alpha-NEOFORGE
+
+### Changed
+
+- Updated the NeoForge 1.21.1 modpack dependencies and datapacks.
+- Reworked compatibility datapacks as KubeJS server scripts.
+- Added AstikorCarts Redux compatibility for Farm & Charm and Regions Unexplored.
+- Updated ATi Structures, Epic Dungeons, Epic Villages, Epic Witch Huts, and Epic Igloos for Minecraft 1.21.1.
+
+### Removed
+
+- Removed outdated compatibility datapacks and the old ESO configuration.
