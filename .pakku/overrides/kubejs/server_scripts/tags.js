@@ -1,11 +1,87 @@
 //priority: 0
 
+const farmAndCharmSeedDrillItems = [
+    'farm_and_charm:kernels',
+    'farm_and_charm:oat_seeds',
+    'farm_and_charm:barley_seeds',
+    'farm_and_charm:lettuce_seeds',
+    'farm_and_charm:tomato_seeds',
+    'farm_and_charm:strawberry_seeds',
+    'farm_and_charm:onion'
+];
+
+const regionsUnexploredAstikorBlocks = [
+    'regions_unexplored:prismoss_sprout',
+    'regions_unexplored:redstone_bud',
+    'regions_unexplored:ashen_grass',
+    'regions_unexplored:bladed_grass',
+    'regions_unexplored:dead_steppe_shrub',
+    'regions_unexplored:frozen_grass',
+    'regions_unexplored:sandy_grass',
+    'regions_unexplored:small_desert_shrub',
+    'regions_unexplored:steppe_grass',
+    'regions_unexplored:steppe_shrub',
+    'regions_unexplored:bladed_tall_grass',
+    'regions_unexplored:sandy_tall_grass',
+    'regions_unexplored:steppe_tall_grass',
+    'regions_unexplored:windswept_grass',
+    'regions_unexplored:clover',
+    'regions_unexplored:alpha_dandelion',
+    'regions_unexplored:alpha_rose',
+    'regions_unexplored:aster',
+    'regions_unexplored:bleeding_heart',
+    'regions_unexplored:daisy',
+    'regions_unexplored:felicia_daisy',
+    'regions_unexplored:hyssop',
+    'regions_unexplored:mallow',
+    'regions_unexplored:poppy_bush',
+    'regions_unexplored:salmon_poppy_bush',
+    'regions_unexplored:tsubaki',
+    'regions_unexplored:waratah',
+    'regions_unexplored:white_trillium',
+    'regions_unexplored:blue_lupine',
+    'regions_unexplored:pink_lupine',
+    'regions_unexplored:purple_lupine',
+    'regions_unexplored:red_lupine',
+    'regions_unexplored:yellow_lupine',
+    'regions_unexplored:orange_coneflower',
+    'regions_unexplored:purple_coneflower',
+    'regions_unexplored:hyacinth_flowers',
+    'regions_unexplored:blue_magnolia_flowers',
+    'regions_unexplored:pink_magnolia_flowers',
+    'regions_unexplored:white_magnolia_flowers',
+    'regions_unexplored:tassel',
+    'regions_unexplored:white_snowbelle',
+    'regions_unexplored:light_gray_snowbelle',
+    'regions_unexplored:gray_snowbelle',
+    'regions_unexplored:black_snowbelle',
+    'regions_unexplored:brown_snowbelle',
+    'regions_unexplored:red_snowbelle',
+    'regions_unexplored:orange_snowbelle',
+    'regions_unexplored:yellow_snowbelle',
+    'regions_unexplored:lime_snowbelle',
+    'regions_unexplored:green_snowbelle',
+    'regions_unexplored:light_blue_snowbelle',
+    'regions_unexplored:cyan_snowbelle',
+    'regions_unexplored:blue_snowbelle',
+    'regions_unexplored:purple_snowbelle',
+    'regions_unexplored:magenta_snowbelle',
+    'regions_unexplored:pink_snowbelle',
+    'regions_unexplored:maple_leaf_litter',
+    'regions_unexplored:red_maple_leaf_litter',
+    'regions_unexplored:orange_maple_leaf_litter',
+    'regions_unexplored:enchanted_birch_leaf_litter',
+    'regions_unexplored:silver_birch_leaf_litter'
+];
+
 ServerEvents.tags('item', event => {
     event.remove('c:flour', [
         'bountifulfares:flour',
         'farm_and_charm:flour'
     ]);
     event.add('c:flour', 'create:wheat_flour');
+
+    event.add('astikorcartsredux:seed_drill_plantable', farmAndCharmSeedDrillItems);
 
     event.add('spelunkery:copper_ores', [
         'meadow:alpine_copper_ore',
@@ -156,6 +232,10 @@ ServerEvents.tags('block', event => {
         'spelunkery:granite_coal_ore',
         'spelunkery:tuff_coal_ore'
     ]);
+
+    event.add('astikorcartsredux:plow_breakable/hoe', regionsUnexploredAstikorBlocks);
+    event.add('astikorcartsredux:plow_breakable/shovel', regionsUnexploredAstikorBlocks);
+    event.add('minecraft:crops', regionsUnexploredAstikorBlocks);
 });
 
 ServerEvents.tags('worldgen/biome', event => {
