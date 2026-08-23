@@ -395,7 +395,8 @@
         {
             "pakku_id": "uFaZwnE8lTCibjLv",
             "pakku_links": [
-                "3FoeDM9k9g1Jlquc"
+                "3FoeDM9k9g1Jlquc",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -6199,7 +6200,8 @@
         {
             "pakku_id": "byIgPH3CZof8uSyO",
             "pakku_links": [
-                "3FoeDM9k9g1Jlquc"
+                "3FoeDM9k9g1Jlquc",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -7175,7 +7177,8 @@
         {
             "pakku_id": "qlWa0bxw5SdpQtVV",
             "pakku_links": [
-                "3FoeDM9k9g1Jlquc"
+                "3FoeDM9k9g1Jlquc",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -9524,7 +9527,8 @@
         {
             "pakku_id": "mYFNwDHordSKDqUL",
             "pakku_links": [
-                "3FoeDM9k9g1Jlquc"
+                "3FoeDM9k9g1Jlquc",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -9783,7 +9787,8 @@
         {
             "pakku_id": "FDBca5nL6rNWkpTS",
             "pakku_links": [
-                "3FoeDM9k9g1Jlquc"
+                "3FoeDM9k9g1Jlquc",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -10039,22 +10044,43 @@
             ]
         },
         {
-            "pakku_id": "3FoeDM9k9g1Jlquc",
+            "pakku_id": "XMdCrA4ZOjRYk53a",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "curseforge": "selene",
-                "modrinth": "selene"
+                "modrinth": "moonlight",
+                "curseforge": "selene"
             },
             "name": {
-                "curseforge": "Moonlight Lib",
-                "modrinth": "Selene"
+                "modrinth": "Moonlight Lib",
+                "curseforge": "Moonlight Lib"
             },
             "id": {
-                "curseforge": "499980",
-                "modrinth": "hRandqZM"
+                "modrinth": "twkfQtEc",
+                "curseforge": "499980"
             },
             "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "moonlight-1.21.1-3.5.0-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/JOhA6oZd/moonlight-1.21.1-3.5.0-neoforge.jar",
+                    "id": "JOhA6oZd",
+                    "parent_id": "twkfQtEc",
+                    "hashes": {
+                        "sha512": "fb33b378bb8fa9f24cd9ba93dbf41f4a948352761d2ffbbd86bca2e1d37124bd68bc9a37faf72eaeaa3884002fa294b5e0f36f2d05e8cf4c95179a2e4a9a90b4",
+                        "sha1": "f2db55e411fd769878aab0060025cb0d955f28f5"
+                    },
+                    "required_dependencies": [],
+                    "size": 2182870,
+                    "date_published": "2026-08-23T18:34:22.619874Z"
+                },
                 {
                     "type": "curseforge",
                     "file_name": "moonlight-1.21.1-3.5.0-neoforge.jar",
@@ -13199,7 +13225,8 @@
         {
             "pakku_id": "yWL3GJV8JAMlqVvv",
             "pakku_links": [
-                "3FoeDM9k9g1Jlquc"
+                "3FoeDM9k9g1Jlquc",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -14318,7 +14345,8 @@
         {
             "pakku_id": "QkcX2c8G9wDiGK8k",
             "pakku_links": [
-                "3FoeDM9k9g1Jlquc"
+                "3FoeDM9k9g1Jlquc",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -14531,6 +14559,9 @@
         },
         {
             "pakku_id": "Oslp5Kzo9DHXOG28",
+            "pakku_links": [
+                "XMdCrA4ZOjRYk53a"
+            ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -14737,7 +14768,8 @@
         {
             "pakku_id": "yOM5N7TuSlWHkeWT",
             "pakku_links": [
-                "3FoeDM9k9g1Jlquc"
+                "3FoeDM9k9g1Jlquc",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -15567,7 +15599,8 @@
                 "FhHFiCRt7stuRH1L",
                 "3FoeDM9k9g1Jlquc",
                 "kPmLwsMsKJ7V5mIq",
-                "V6PahWre3ohkD0mY"
+                "V6PahWre3ohkD0mY",
+                "XMdCrA4ZOjRYk53a"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -15698,6 +15731,67 @@
                     "required_dependencies": [],
                     "size": 5702557,
                     "date_published": "2026-07-16T23:55:30.494289Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "n6mVjmLsPPlzzIb5",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "well-seasoned",
+                "modrinth": "well-seasoned"
+            },
+            "name": {
+                "curseforge": "Well Seasoned",
+                "modrinth": "Well Seasoned"
+            },
+            "id": {
+                "curseforge": "1644991",
+                "modrinth": "3FZ72P1E"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "well_seasoned-0.4.1+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8702/91/well_seasoned-0.4.1+1.21.1-neoforge.jar",
+                    "id": "8702091",
+                    "parent_id": "1644991",
+                    "hashes": {
+                        "sha1": "6a1131245d4da0ae0571fec91bf25265a793371f",
+                        "md5": "be72bae815ce41480f988d5727b2aad0"
+                    },
+                    "required_dependencies": [],
+                    "size": 160384,
+                    "date_published": "2026-08-21T19:50:47.693Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "well_seasoned-0.4.1+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/3FZ72P1E/versions/ozDlzohI/well_seasoned-0.4.1+1.21.1-neoforge.jar",
+                    "id": "ozDlzohI",
+                    "parent_id": "3FZ72P1E",
+                    "hashes": {
+                        "sha512": "9c43af45ea371c19106f415de3b39da4a9f27af7a8f10e54222f5d6b28055d78ca94c7ee15c77ce145611b4111282f3acbf4a172d2685e2638e369b015887958",
+                        "sha1": "6a1131245d4da0ae0571fec91bf25265a793371f"
+                    },
+                    "required_dependencies": [],
+                    "size": 160384,
+                    "date_published": "2026-08-21T19:50:46.931758Z"
                 }
             ]
         },
