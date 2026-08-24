@@ -6678,6 +6678,68 @@
             ]
         },
         {
+            "pakku_id": "Qn6deuIz4ehbWWRD",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "gachaaddiction",
+                "modrinth": "gachaaddiction"
+            },
+            "name": {
+                "curseforge": "GachaAddiction",
+                "modrinth": "GachaAddiction"
+            },
+            "id": {
+                "curseforge": "1601177",
+                "modrinth": "hMkrmnbi"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "gachaaddiction-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8540/911/gachaaddiction-1.1.4.jar",
+                    "id": "8540911",
+                    "parent_id": "1601177",
+                    "hashes": {
+                        "sha1": "c67ea05e08cda6465ba6dddc0ec96ba7ce49cf0b",
+                        "md5": "4f9120f5d9236ff55e55ae0732a0eb9b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1577084,
+                    "date_published": "2026-07-30T14:32:12.833Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "gachaaddiction-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hMkrmnbi/versions/qe1Ud99q/gachaaddiction-1.1.4.jar",
+                    "id": "qe1Ud99q",
+                    "parent_id": "hMkrmnbi",
+                    "hashes": {
+                        "sha512": "0d0931f5feed0d7520ecea730b1017cc34d68198ec7d66e2ba8f88296e6f2a60c7f24331a9c41ef9771f86038b38b1a2333fbdc2270297b01d666ed4deefa47a",
+                        "sha1": "c67ea05e08cda6465ba6dddc0ec96ba7ce49cf0b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1577084,
+                    "date_published": "2026-07-30T14:37:09.494568Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5DD7laGOUHqdWWNY",
             "type": "MOD",
             "side": "BOTH",
