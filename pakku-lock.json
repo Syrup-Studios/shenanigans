@@ -14364,7 +14364,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "spelunkery-1.21.1-0.4.3-neoforge.jar",
+                    "file_name": "spelunkery-1.21.1-0.4.4-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -14372,18 +14372,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/krskFMfA/versions/oLqPJYV9/spelunkery-1.21.1-0.4.3-neoforge.jar",
-                    "id": "oLqPJYV9",
+                    "url": "https://cdn.modrinth.com/data/krskFMfA/versions/rFDQXIT4/spelunkery-1.21.1-0.4.4-neoforge.jar",
+                    "id": "rFDQXIT4",
                     "parent_id": "krskFMfA",
                     "hashes": {
-                        "sha512": "17a8d992362d8aad07a065e8798e5d0a348e1e5d8143790fc580375c6968cde3faf7ab8490404dd2b326d075993b6ccb0f09ac39eeab723ae58df51657db7c23",
-                        "sha1": "be46e4fcf3590c5dbca4942384e6b1ec0b9d6d59"
+                        "sha512": "459c3219e514b41cf65e512df2f3f0383053c8daeae0870a8692a314870924e298c0f520d93340877843d7f521e6686e2190302179582be38956eb18516d6d1b",
+                        "sha1": "be89b95ee7926351517f9bf56122452a2a9a94a9"
                     },
                     "required_dependencies": [
                         "twkfQtEc"
                     ],
-                    "size": 2081279,
-                    "date_published": "2026-06-18T18:16:24.941769Z"
+                    "size": 2081417,
+                    "date_published": "2026-09-08T20:02:57.702951Z"
                 }
             ]
         },
