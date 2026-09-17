@@ -3885,69 +3885,6 @@
             ]
         },
         {
-            "pakku_id": "laVkY6jnCLHssQ6b",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "custom-player-models",
-                "modrinth": "custom-player-models"
-            },
-            "name": {
-                "curseforge": "Customizable Player Models",
-                "modrinth": "Customizable Player Models"
-            },
-            "id": {
-                "curseforge": "439870",
-                "modrinth": "h1E7sQNL"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "CustomPlayerModels-1.21-0.6.27a.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8375/633/CustomPlayerModels-1.21-0.6.27a.jar",
-                    "id": "8375633",
-                    "parent_id": "439870",
-                    "hashes": {
-                        "sha1": "34d57efcc56c043f89c61f169944d7b95c11f504",
-                        "md5": "d74eddfd5685aec041d6c5b097b689f3"
-                    },
-                    "required_dependencies": [],
-                    "size": 2793136,
-                    "date_published": "2026-07-05T15:04:49.010Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "CustomPlayerModels-1.21-0.6.27a.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/h1E7sQNL/versions/YXfPij2E/CustomPlayerModels-1.21-0.6.27a.jar",
-                    "id": "YXfPij2E",
-                    "parent_id": "h1E7sQNL",
-                    "hashes": {
-                        "sha512": "5af1150d16bfc3adfa942bf606a8e4d829cdcc15d3ec46eb98cdb03bd85db81ceac4b85274b4207a928497d78a4f53afeab1cf5b43ac73219d20147948fea38b",
-                        "sha1": "34d57efcc56c043f89c61f169944d7b95c11f504"
-                    },
-                    "required_dependencies": [],
-                    "size": 2793136,
-                    "date_published": "2026-07-05T15:04:52.094627Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "6sfBwoOv0zr0sMEi",
             "pakku_links": [
                 "YfKnnFzm5GQhjlxS",
