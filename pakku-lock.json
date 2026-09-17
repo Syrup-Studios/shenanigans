@@ -15812,29 +15812,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "well_seasoned-0.4.1+1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8702/91/well_seasoned-0.4.1+1.21.1-neoforge.jar",
-                    "id": "8702091",
-                    "parent_id": "1644991",
-                    "hashes": {
-                        "sha1": "6a1131245d4da0ae0571fec91bf25265a793371f",
-                        "md5": "be72bae815ce41480f988d5727b2aad0"
-                    },
-                    "required_dependencies": [],
-                    "size": 160384,
-                    "date_published": "2026-08-21T19:50:47.693Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "well_seasoned-0.4.1+1.21.1-neoforge.jar",
+                    "file_name": "well_seasoned-0.5.1+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15842,16 +15821,37 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/3FZ72P1E/versions/ozDlzohI/well_seasoned-0.4.1+1.21.1-neoforge.jar",
-                    "id": "ozDlzohI",
+                    "url": "https://cdn.modrinth.com/data/3FZ72P1E/versions/ux1XeZDS/well_seasoned-0.5.1+1.21.1-neoforge.jar",
+                    "id": "ux1XeZDS",
                     "parent_id": "3FZ72P1E",
                     "hashes": {
-                        "sha512": "9c43af45ea371c19106f415de3b39da4a9f27af7a8f10e54222f5d6b28055d78ca94c7ee15c77ce145611b4111282f3acbf4a172d2685e2638e369b015887958",
-                        "sha1": "6a1131245d4da0ae0571fec91bf25265a793371f"
+                        "sha512": "d6db8b8b4e8122ec20b0bc488e2866d8cfa5981dc78e90cc037402177c6d3b05653ab89f8548d9cc3ae8df9a5a2f22d3370776940a724b72dd24d3825fc9b333",
+                        "sha1": "01389ef2131e9886a66bf81feac42a73394d3f92"
                     },
                     "required_dependencies": [],
-                    "size": 160384,
-                    "date_published": "2026-08-21T19:50:46.931758Z"
+                    "size": 162590,
+                    "date_published": "2026-09-02T10:33:18.871411Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "well_seasoned-0.5.1+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8791/708/well_seasoned-0.5.1+1.21.1-neoforge.jar",
+                    "id": "8791708",
+                    "parent_id": "1644991",
+                    "hashes": {
+                        "sha1": "01389ef2131e9886a66bf81feac42a73394d3f92",
+                        "md5": "4b96d463964c51ad5e9dbaf44d2c202c"
+                    },
+                    "required_dependencies": [],
+                    "size": 162590,
+                    "date_published": "2026-09-02T10:33:29.420Z"
                 }
             ]
         },
