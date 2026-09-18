@@ -14953,6 +14953,112 @@
             ]
         },
         {
+            "pakku_id": "TZDJkxh13ZLLbCwo",
+            "pakku_links": [
+                "h6faXwDdUgQjabX3"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "syrup-essentials",
+                "modrinth": "syrup-essentials"
+            },
+            "name": {
+                "curseforge": "Syrup Essentials",
+                "modrinth": "Syrup Essentials"
+            },
+            "id": {
+                "curseforge": "1477901",
+                "modrinth": "5ilOuE0e"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "syrup_essentials-0.4.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/fV4xnME5/syrup_essentials-0.4.0+1.21.1-neoforge.jar",
+                    "id": "fV4xnME5",
+                    "parent_id": "5ilOuE0e",
+                    "hashes": {
+                        "sha512": "e40afe6818f93183f6d1fc4db47bd013e72153bc90ecc19146770a82d3009c4992676e6281de3fb50cf5198172975c889c874dfbf5940f606d3cb9bb078e2536",
+                        "sha1": "e1b6919cf2b7b0e142fc99e1d1a8429317a0ab0b"
+                    },
+                    "required_dependencies": [
+                        "9tBNzmjo"
+                    ],
+                    "size": 74139,
+                    "date_published": "2026-09-18T17:39:09.987666Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "h6faXwDdUgQjabX3",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "syrup-library",
+                "modrinth": "syrup-library"
+            },
+            "name": {
+                "curseforge": "Syrup Library",
+                "modrinth": "Syrup Library"
+            },
+            "id": {
+                "curseforge": "1647641",
+                "modrinth": "9tBNzmjo"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "syrup_library-0.3.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8911/711/syrup_library-0.3.0+1.21.1-neoforge.jar",
+                    "id": "8911711",
+                    "parent_id": "1647641",
+                    "hashes": {
+                        "sha1": "86cd18e5457afc1a8fe6f8b74608514e5a96cff7",
+                        "md5": "b880522dc0f6484377e81f05a22b9961"
+                    },
+                    "required_dependencies": [],
+                    "size": 389110,
+                    "date_published": "2026-09-18T13:22:24.640Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "syrup_library-0.3.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/oiccBOME/syrup_library-0.3.0+1.21.1-neoforge.jar",
+                    "id": "oiccBOME",
+                    "parent_id": "9tBNzmjo",
+                    "hashes": {
+                        "sha512": "a702cac24c99f234cce95d5247bfd95b0bff58afeea85f87415f5b583d0cb7b3be54adf0b1ce40870aac38e14ad1e01a9b94e9854d47de65bc60c6939b7b638e",
+                        "sha1": "86cd18e5457afc1a8fe6f8b74608514e5a96cff7"
+                    },
+                    "required_dependencies": [],
+                    "size": 389110,
+                    "date_published": "2026-09-18T13:22:23.179445Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "sChkFsvEyWAfnykq",
             "type": "MOD",
             "side": "BOTH",
