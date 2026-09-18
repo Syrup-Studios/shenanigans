@@ -2472,45 +2472,45 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "colorful_armor_bar-0.4.2+1.21.1-neoforge.jar",
+                    "file_name": "colorful_armor_bar-1.0.0+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/nbC1v5Wq/colorful_armor_bar-0.4.2+1.21.1-neoforge.jar",
-                    "id": "nbC1v5Wq",
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/31pBDaxX/colorful_armor_bar-1.0.0+1.21.1-neoforge.jar",
+                    "id": "31pBDaxX",
                     "parent_id": "kQZ7uiYu",
                     "hashes": {
-                        "sha512": "563e73840c5b19f65f416ebbb275e9601348085cdbdcaae2fcc17690d66de400324355058e2c353021e215a43f670456856b5e9a91c77edf2262610564782c16",
-                        "sha1": "1f4d609d77746b47789209d2db43fa4dc6a38d1d"
+                        "sha512": "5b2abb73ae44cf10c772b2ad5303e54eb1f7713d6b24f7c3e67f808c2c160f4e09d83e0f5ce93479a7c8655409474d4802ea21999e91e339e07312abf74fc9ef",
+                        "sha1": "08f5cce1917ab702df7291fc62057d0b838f463a"
                     },
                     "required_dependencies": [],
-                    "size": 430885,
-                    "date_published": "2026-08-13T01:47:17.888569Z"
+                    "size": 430934,
+                    "date_published": "2026-09-18T11:04:01.372337Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "colorful_armor_bar-0.4.2+1.21.1-neoforge.jar",
+                    "file_name": "colorful_armor_bar-1.0.0+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8636/887/colorful_armor_bar-0.4.2+1.21.1-neoforge.jar",
-                    "id": "8636887",
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8910/847/colorful_armor_bar-1.0.0+1.21.1-neoforge.jar",
+                    "id": "8910847",
                     "parent_id": "1587811",
                     "hashes": {
-                        "sha1": "1f4d609d77746b47789209d2db43fa4dc6a38d1d",
-                        "md5": "6d7147674e86c76d3b19dc1c0b1a2652"
+                        "sha1": "08f5cce1917ab702df7291fc62057d0b838f463a",
+                        "md5": "095115663c3283b2decfe5021e937412"
                     },
                     "required_dependencies": [],
-                    "size": 430885,
-                    "date_published": "2026-08-13T01:47:18.620Z"
+                    "size": 430934,
+                    "date_published": "2026-09-18T11:04:02.253Z"
                 }
             ]
         },
