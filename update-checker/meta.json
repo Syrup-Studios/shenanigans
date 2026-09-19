@@ -111,6 +111,17 @@
           "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.7.0-alpha-NEOFORGE"
         }
       }
+    },
+    {
+      "id": "0.7.1-alpha-NEOFORGE",
+      "releasedAt": 1789813101000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/shenanigans/version/0.7.1-alpha-NEOFORGE",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition",
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.7.1-alpha-NEOFORGE"
+        }
+      }
     }
   ]
 }

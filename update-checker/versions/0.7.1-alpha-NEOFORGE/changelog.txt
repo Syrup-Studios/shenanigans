@@ -1,0 +1,4 @@
+## Changelog 0.7.1-alpha-NEOFORGE
+
+- Added copper tools and armor.
+- Added copper equipment recycling recipes.
