@@ -16903,7 +16903,7 @@
             ]
         },
         {
-            "pakku_id": "HVT4KyA57j2dLNXb",
+            "pakku_id": "p90fS5mk1zg58aRX",
             "pakku_links": [
                 "G4wvt5AyMHwNw2mv",
                 "REl7QuHVCDjFX0cQ"
@@ -16922,7 +16922,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "letsdo-wildernature-neoforge-1.1.5.jar",
+                    "file_name": "letsdo-wildernature-neoforge-1.1.6.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -16930,19 +16930,19 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/AAiRU4aQ/versions/hVASh9XY/letsdo-wildernature-neoforge-1.1.5.jar",
-                    "id": "hVASh9XY",
+                    "url": "https://cdn.modrinth.com/data/AAiRU4aQ/versions/jwvFJJGi/letsdo-wildernature-neoforge-1.1.6.jar",
+                    "id": "jwvFJJGi",
                     "parent_id": "AAiRU4aQ",
                     "hashes": {
-                        "sha512": "aae0fbf63605d1e9ccd59522b897b890b21dc9b3878b3bdaafb887c034ae31877b20a38e03887476314226410e3581b2b27e89a6024dcdad6d787b9295694c31",
-                        "sha1": "5307a4edc885ab949eed4438d9d7f9cb6176421d"
+                        "sha512": "e44694b5e2b45072ff82b0cd36e6b444954dab13108891e30467f9845d9120df575d92165ecb160f8f91ab1191be346125d1f9d83c0c95a059ca0c0329e63626",
+                        "sha1": "bc05ae236a7ee3ede8117d504a64cab76a2271d5"
                     },
                     "required_dependencies": [
-                        "vvuO3ImH",
-                        "lhGA9TYQ"
+                        "lhGA9TYQ",
+                        "vvuO3ImH"
                     ],
-                    "size": 3352801,
-                    "date_published": "2026-07-30T20:49:03.643024Z"
+                    "size": 3335904,
+                    "date_published": "2026-09-18T15:51:10.870067Z"
                 }
             ]
         },
