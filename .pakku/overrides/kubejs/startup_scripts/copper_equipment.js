@@ -39,3 +39,21 @@ StartupEvents.registry('item', event => {
   create('minecraft:copper_leggings', 'leggings', item => item.displayName('Copper Leggings').texture('shenanigans:item/copper_leggings').material('shenanigans:copper').maxDamage(165))
   create('minecraft:copper_boots', 'boots', item => item.displayName('Copper Boots').texture('shenanigans:item/copper_boots').material('shenanigans:copper').maxDamage(143))
 })
+
+StartupEvents.modifyCreativeTab('minecraft:tools_and_utilities', event => {
+  const items = (global.copperEquipmentFallback || [])
+    .filter(id => /pickaxe|axe|shovel|hoe/.test(id))
+    .map(id => Item.of(id))
+  event.addBefore(Item.of('minecraft:iron_shovel'), items)
+})
+
+StartupEvents.modifyCreativeTab('minecraft:combat', event => {
+  const armor = (global.copperEquipmentFallback || [])
+    .filter(id => /helmet|chestplate|leggings|boots/.test(id))
+    .map(id => Item.of(id))
+  const sword = (global.copperEquipmentFallback || [])
+    .filter(id => /sword/.test(id))
+    .map(id => Item.of(id))
+  event.addBefore(Item.of('minecraft:iron_helmet'), armor)
+  event.addBefore(Item.of('minecraft:iron_sword'), sword)
+})
