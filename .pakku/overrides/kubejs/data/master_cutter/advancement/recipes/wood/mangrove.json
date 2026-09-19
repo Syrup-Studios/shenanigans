@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:mangrove_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/mangrove/mangrove_button_from_stonecutting_1",
+      "master_cutter:wood/mangrove/mangrove_button_from_stonecutting_2",
+      "master_cutter:wood/mangrove/mangrove_button_from_stonecutting_3",
+      "master_cutter:wood/mangrove/mangrove_door_from_stonecutting",
+      "master_cutter:wood/mangrove/mangrove_fence_from_stonecutting_1",
+      "master_cutter:wood/mangrove/mangrove_fence_from_stonecutting_2",
+      "master_cutter:wood/mangrove/mangrove_fence_from_stonecutting_3",
+      "master_cutter:wood/mangrove/mangrove_fence_gate_from_stonecutting",
+      "master_cutter:wood/mangrove/mangrove_log_from_stonecutting",
+      "master_cutter:wood/mangrove/mangrove_planks_from_stonecutting_1",
+      "master_cutter:wood/mangrove/mangrove_planks_from_stonecutting_2",
+      "master_cutter:wood/mangrove/mangrove_planks_from_stonecutting_3",
+      "master_cutter:wood/mangrove/mangrove_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/mangrove/mangrove_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/mangrove/mangrove_sign_from_stonecutting_1",
+      "master_cutter:wood/mangrove/mangrove_sign_from_stonecutting_2",
+      "master_cutter:wood/mangrove/mangrove_slab_from_stonecutting_1",
+      "master_cutter:wood/mangrove/mangrove_slab_from_stonecutting_2",
+      "master_cutter:wood/mangrove/mangrove_slab_from_stonecutting_3",
+      "master_cutter:wood/mangrove/mangrove_stairs_from_stonecutting_1",
+      "master_cutter:wood/mangrove/mangrove_stairs_from_stonecutting_2",
+      "master_cutter:wood/mangrove/mangrove_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/mangrove/mangrove_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/mangrove/mangrove_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/mangrove/stripped_mangrove_log_from_stonecutting_1",
+      "master_cutter:wood/mangrove/stripped_mangrove_log_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/mangrove/stripped_mangrove_wood_from_stonecutting"
+    ]
+  }
+}

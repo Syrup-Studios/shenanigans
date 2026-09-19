@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:andesite"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/andesite/andesite_from_stonecutting",
+      "master_cutter:stone/andesite/andesite_slab_from_stonecutting_1",
+      "master_cutter:stone/andesite/andesite_slab_from_stonecutting_2",
+      "master_cutter:stone/andesite/andesite_stairs_from_stonecutting",
+      "master_cutter:stone/andesite/andesite_wall_from_stonecutting_1",
+      "master_cutter:stone/andesite/andesite_wall_from_stonecutting_2",
+      "master_cutter:stone/andesite/andesite_wall_from_stonecutting_3",
+      "master_cutter:stone/andesite/polished_andesite_from_stonecutting",
+      "master_cutter:stone/andesite/polished_andesite_slab_from_stonecutting",
+      "master_cutter:stone/andesite/polished_andesite_stairs_from_stonecutting"
+    ]
+  }
+}

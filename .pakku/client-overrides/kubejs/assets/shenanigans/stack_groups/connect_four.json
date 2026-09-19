@@ -1,0 +1,6 @@
+{
+  "id": "shenanigans:connect_four",
+  "type": "emixx:regex",
+  "regex": "table_top_craft:.*connect_four",
+  "name": "Connect Fours"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_planks"
+    },
+    {
+      "item": "minecraft:bamboo_stairs"
+    },
+    {
+      "item": "minecraft:bamboo_mosaic"
+    },
+    {
+      "item": "minecraft:bamboo_mosaic_stairs"
+    },
+    {
+      "item": "minecraft:bamboo_fence"
+    },
+    {
+      "item": "minecraft:bamboo_pressure_plate"
+    },
+    {
+      "item": "minecraft:bamboo_sign"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bamboo_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:oak_door"
+    }
+  ],
+  "result": {
+    "id": "minecraft:oak_trapdoor",
+    "count": 2
+  }
+}

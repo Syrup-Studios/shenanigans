@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:warped_stems"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/warped/warped_button_from_stonecutting_1",
+      "master_cutter:wood/warped/warped_button_from_stonecutting_2",
+      "master_cutter:wood/warped/warped_button_from_stonecutting_3",
+      "master_cutter:wood/warped/warped_door_from_stonecutting",
+      "master_cutter:wood/warped/warped_fence_from_stonecutting_1",
+      "master_cutter:wood/warped/warped_fence_from_stonecutting_2",
+      "master_cutter:wood/warped/warped_fence_from_stonecutting_3",
+      "master_cutter:wood/warped/warped_fence_gate_from_stonecutting",
+      "master_cutter:wood/warped/warped_stem_from_stonecutting",
+      "master_cutter:wood/warped/warped_planks_from_stonecutting_1",
+      "master_cutter:wood/warped/warped_planks_from_stonecutting_2",
+      "master_cutter:wood/warped/warped_planks_from_stonecutting_3",
+      "master_cutter:wood/warped/warped_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/warped/warped_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/warped/warped_sign_from_stonecutting_1",
+      "master_cutter:wood/warped/warped_sign_from_stonecutting_2",
+      "master_cutter:wood/warped/warped_slab_from_stonecutting_1",
+      "master_cutter:wood/warped/warped_slab_from_stonecutting_2",
+      "master_cutter:wood/warped/warped_slab_from_stonecutting_3",
+      "master_cutter:wood/warped/warped_stairs_from_stonecutting_1",
+      "master_cutter:wood/warped/warped_stairs_from_stonecutting_2",
+      "master_cutter:wood/warped/warped_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/warped/warped_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/warped/warped_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/warped/stripped_warped_stem_from_stonecutting_1",
+      "master_cutter:wood/warped/stripped_warped_stem_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/warped/stripped_warped_hyphae_from_stonecutting"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:mossy_cobblestone"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/mossy_cobblestone/mossy_cobblestone_from_stonecutting",
+      "master_cutter:stone/mossy_cobblestone/mossy_cobblestone_slab_from_stonecutting",
+      "master_cutter:stone/mossy_cobblestone/mossy_cobblestone_wall_from_stonecutting"
+    ]
+  }
+}

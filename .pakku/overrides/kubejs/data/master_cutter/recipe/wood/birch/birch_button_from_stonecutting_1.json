@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:birch_planks"
+    },
+    {
+      "item": "minecraft:birch_stairs"
+    },
+    {
+      "item": "minecraft:birch_fence"
+    },
+    {
+      "item": "minecraft:birch_pressure_plate"
+    },
+    {
+      "item": "minecraft:birch_sign"
+    }
+  ],
+  "result": {
+    "id": "minecraft:birch_button",
+    "count": 1
+  }
+}

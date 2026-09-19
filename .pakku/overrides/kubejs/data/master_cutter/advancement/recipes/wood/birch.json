@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:birch_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/birch/birch_button_from_stonecutting_1",
+      "master_cutter:wood/birch/birch_button_from_stonecutting_2",
+      "master_cutter:wood/birch/birch_button_from_stonecutting_3",
+      "master_cutter:wood/birch/birch_door_from_stonecutting",
+      "master_cutter:wood/birch/birch_fence_from_stonecutting_1",
+      "master_cutter:wood/birch/birch_fence_from_stonecutting_2",
+      "master_cutter:wood/birch/birch_fence_from_stonecutting_3",
+      "master_cutter:wood/birch/birch_fence_gate_from_stonecutting",
+      "master_cutter:wood/birch/birch_log_from_stonecutting",
+      "master_cutter:wood/birch/birch_planks_from_stonecutting_1",
+      "master_cutter:wood/birch/birch_planks_from_stonecutting_2",
+      "master_cutter:wood/birch/birch_planks_from_stonecutting_3",
+      "master_cutter:wood/birch/birch_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/birch/birch_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/birch/birch_sign_from_stonecutting_1",
+      "master_cutter:wood/birch/birch_sign_from_stonecutting_2",
+      "master_cutter:wood/birch/birch_slab_from_stonecutting_1",
+      "master_cutter:wood/birch/birch_slab_from_stonecutting_2",
+      "master_cutter:wood/birch/birch_slab_from_stonecutting_3",
+      "master_cutter:wood/birch/birch_stairs_from_stonecutting_1",
+      "master_cutter:wood/birch/birch_stairs_from_stonecutting_2",
+      "master_cutter:wood/birch/birch_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/birch/birch_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/birch/birch_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/birch/stripped_birch_log_from_stonecutting_1",
+      "master_cutter:wood/birch/stripped_birch_log_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/birch/stripped_birch_wood_from_stonecutting"
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+          "minecraft:copper_ingot",
+          "minecraft:copper_block",
+          "minecraft:exposed_copper",
+          "minecraft:weathered_copper",
+          "minecraft:oxidized_copper",
+          "minecraft:copper_ingot",
+          "minecraft:waxed_copper_block",
+          "minecraft:waxed_exposed_copper",
+          "minecraft:waxed_weathered_copper",
+          "minecraft:waxed_oxidized_copper"
+        ]
+      }
+    ]
+  }
+}
+},
+"rewards": {
+    "recipes": [
+      "master_cutter:metal/copper/cut_copper_slab_stonecutting",
+      "master_cutter:metal/copper/cut_copper_stonecutting",
+      "master_cutter:metal/copper/exposed_cut_copper_slab_stonecutting",
+      "master_cutter:metal/copper/exposed_cut_copper_stonecutting",
+      "master_cutter:metal/copper/oxdized_cut_copper_slab_stonecutting",
+      "master_cutter:metal/copper/oxdized_cut_copper_stonecutting",
+      "master_cutter:metal/copper/waxed_cut_copper_slab_stonecutting",
+      "master_cutter:metal/copper/waxed_cut_copper_stonecutting",
+      "master_cutter:metal/copper/waxed_exposed_cut_copper_slab_stonecutting",
+      "master_cutter:metal/copper/waxed_exposed_cut_copper_stonecutting",
+      "master_cutter:metal/copper/waxed_oxdized_cut_copper_slab_stonecutting",
+      "master_cutter:metal/copper/waxed_oxdized_cut_copper_stonecutting",
+      "master_cutter:metal/copper/waxed_weathered_cut_copper_slab_stonecutting",
+      "master_cutter:metal/copper/waxed_weathered_cut_copper_stonecutting",
+      "master_cutter:metal/copper/weathered_cut_copper_slab_stonecutting",
+      "master_cutter:metal/copper/weathered_cut_copper_stonecutting",
+      "master_cutter:metal/copper/copper_door_from_stonecutting",
+      "master_cutter:metal/copper/copper_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/copper/copper_trapdoor_from_stonecutting_2",
+      "master_cutter:metal/copper/copper_trapdoor_from_stonecutting_3",
+      "master_cutter:metal/copper/cut_copper_from_stonecutting",
+      "master_cutter:metal/copper/cut_copper_slab_from_stonecutting",
+      "master_cutter:metal/copper/cut_copper_stairs_from_stonecutting",
+      "master_cutter:metal/copper/exposed_copper_door_from_stonecutting",
+      "master_cutter:metal/copper/exposed_copper_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/copper/exposed_copper_trapdoor_from_stonecutting_2",
+      "master_cutter:metal/copper/exposed_copper_trapdoor_from_stonecutting_3",
+      "master_cutter:metal/copper/exposed_cut_copper_from_stonecutting",
+      "master_cutter:metal/copper/exposed_cut_copper_slab_from_stonecutting",
+      "master_cutter:metal/copper/exposed_cut_copper_stairs_from_stonecutting",
+      "master_cutter:metal/copper/oxidized_copper_door_from_stonecutting",
+      "master_cutter:metal/copper/oxidized_copper_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/copper/oxidized_copper_trapdoor_from_stonecutting_2",
+      "master_cutter:metal/copper/oxidized_copper_trapdoor_from_stonecutting_3",
+      "master_cutter:metal/copper/oxidized_cut_copper_from_stonecutting",
+      "master_cutter:metal/copper/oxidized_cut_copper_slab_from_stonecutting",
+      "master_cutter:metal/copper/oxidized_cut_copper_stairs_from_stonecutting",
+      "master_cutter:metal/copper/waxed_copper_door_from_stonecutting",
+      "master_cutter:metal/copper/waxed_copper_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/copper/waxed_copper_trapdoor_from_stonecutting_2",
+      "master_cutter:metal/copper/waxed_copper_trapdoor_from_stonecutting_3",
+      "master_cutter:metal/copper/waxed_cut_copper_from_stonecutting",
+      "master_cutter:metal/copper/waxed_cut_copper_slab_from_stonecutting",
+      "master_cutter:metal/copper/waxed_cut_copper_stairs_from_stonecutting",
+      "master_cutter:metal/copper/waxed_exposed_copper_door_from_stonecutting",
+      "master_cutter:metal/copper/waxed_exposed_copper_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/copper/waxed_exposed_copper_trapdoor_from_stonecutting_2",
+      "master_cutter:metal/copper/waxed_exposed_copper_trapdoor_from_stonecutting_3",
+      "master_cutter:metal/copper/waxed_exposed_cut_copper_from_stonecutting",
+      "master_cutter:metal/copper/waxed_exposed_cut_copper_slab_from_stonecutting",
+      "master_cutter:metal/copper/waxed_exposed_cut_copper_stairs_from_stonecutting",
+      "master_cutter:metal/copper/waxed_oxidized_copper_door_from_stonecutting",
+      "master_cutter:metal/copper/waxed_oxidized_copper_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/copper/waxed_oxidized_copper_trapdoor_from_stonecutting_2",
+      "master_cutter:metal/copper/waxed_oxidized_copper_trapdoor_from_stonecutting_3",
+      "master_cutter:metal/copper/waxed_oxidized_cut_copper_from_stonecutting",
+      "master_cutter:metal/copper/waxed_oxidized_cut_copper_slab_from_stonecutting",
+      "master_cutter:metal/copper/waxed_oxidized_cut_copper_stairs_from_stonecutting",
+      "master_cutter:metal/copper/waxed_weathered_copper_door_from_stonecutting",
+      "master_cutter:metal/copper/waxed_weathered_copper_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/copper/waxed_weathered_copper_trapdoor_from_stonecutting_2",
+      "master_cutter:metal/copper/waxed_weathered_copper_trapdoor_from_stonecutting_3",
+      "master_cutter:metal/copper/waxed_weathered_cut_copper_from_stonecutting",
+      "master_cutter:metal/copper/waxed_weathered_cut_copper_slab_from_stonecutting",
+      "master_cutter:metal/copper/waxed_weathered_cut_copper_stairs_from_stonecutting",
+      "master_cutter:metal/copper/weathered_copper_door_from_stonecutting",
+      "master_cutter:metal/copper/weathered_copper_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/copper/weathered_copper_trapdoor_from_stonecutting_2",
+      "master_cutter:metal/copper/weathered_copper_trapdoor_from_stonecutting_3",
+      "master_cutter:metal/copper/weathered_cut_copper_from_stonecutting",
+      "master_cutter:metal/copper/weathered_cut_copper_slab_from_stonecutting",
+      "master_cutter:metal/copper/weathered_cut_copper_stairs_from_stonecutting"
+    ]
+  }
+}

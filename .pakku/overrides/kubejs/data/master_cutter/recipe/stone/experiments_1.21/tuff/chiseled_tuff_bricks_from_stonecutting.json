@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:tuff_stairs"
+    },
+    {
+      "item": "minecraft:tuff_brick_stairs"
+    },
+    {
+      "item": "minecraft:polished_tuff_stairs"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chiseled_tuff_bricks",
+    "count": 1
+  }
+}

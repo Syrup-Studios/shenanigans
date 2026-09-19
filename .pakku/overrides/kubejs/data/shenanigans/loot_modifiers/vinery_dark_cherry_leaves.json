@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "vinery:blocks/dark_cherry_leaves"
+    }
+  ],
+  "table": "shenanigans:inject/vinery_cherries"
+}

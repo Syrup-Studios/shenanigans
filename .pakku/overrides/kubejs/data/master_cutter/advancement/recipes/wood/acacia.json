@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:acacia_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/acacia/acacia_button_from_stonecutting_1",
+      "master_cutter:wood/acacia/acacia_button_from_stonecutting_2",
+      "master_cutter:wood/acacia/acacia_button_from_stonecutting_3",
+      "master_cutter:wood/acacia/acacia_door_from_stonecutting",
+      "master_cutter:wood/acacia/acacia_fence_from_stonecutting_1",
+      "master_cutter:wood/acacia/acacia_fence_from_stonecutting_2",
+      "master_cutter:wood/acacia/acacia_fence_from_stonecutting_3",
+      "master_cutter:wood/acacia/acacia_fence_gate_from_stonecutting",
+      "master_cutter:wood/acacia/acacia_log_from_stonecutting",
+      "master_cutter:wood/acacia/acacia_planks_from_stonecutting_1",
+      "master_cutter:wood/acacia/acacia_planks_from_stonecutting_2",
+      "master_cutter:wood/acacia/acacia_planks_from_stonecutting_3",
+      "master_cutter:wood/acacia/acacia_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/acacia/acacia_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/acacia/acacia_sign_from_stonecutting_1",
+      "master_cutter:wood/acacia/acacia_sign_from_stonecutting_2",
+      "master_cutter:wood/acacia/acacia_slab_from_stonecutting_1",
+      "master_cutter:wood/acacia/acacia_slab_from_stonecutting_2",
+      "master_cutter:wood/acacia/acacia_slab_from_stonecutting_3",
+      "master_cutter:wood/acacia/acacia_stairs_from_stonecutting_1",
+      "master_cutter:wood/acacia/acacia_stairs_from_stonecutting_2",
+      "master_cutter:wood/acacia/acacia_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/acacia/acacia_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/acacia/acacia_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/acacia/stripped_acacia_log_from_stonecutting_1",
+      "master_cutter:wood/acacia/stripped_acacia_log_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/acacia/stripped_acacia_wood_from_stonecutting"
+    ]
+  }
+}

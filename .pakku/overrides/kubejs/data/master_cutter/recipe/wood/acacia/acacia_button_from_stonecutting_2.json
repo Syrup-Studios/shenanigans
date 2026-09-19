@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:acacia_door"
+    },
+    {
+      "item": "minecraft:acacia_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:acacia_button",
+    "count": 2
+  }
+}

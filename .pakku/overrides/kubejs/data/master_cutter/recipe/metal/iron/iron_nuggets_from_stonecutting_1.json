@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "tag": "minecraft:hanging_signs"
+    },
+    {
+      "item": "minecraft:rail"
+    }
+  ],
+  "result": {
+    "id": "minecraft:iron_nugget",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:cobblestone"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/cobblestone/cobblestone_from_stonecutting",
+      "master_cutter:stone/cobblestone/cobblestone_slab_from_stonecutting_1",
+      "master_cutter:stone/cobblestone/cobblestone_slab_from_stonecutting_2",
+      "master_cutter:stone/cobblestone/cobblestone_stairs_from_stonecutting",
+      "master_cutter:stone/cobblestone/cobblestone_wall_from_stonecutting"
+    ]
+  }
+}

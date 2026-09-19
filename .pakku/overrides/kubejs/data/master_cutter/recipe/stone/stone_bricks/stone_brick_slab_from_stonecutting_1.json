@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:stone_stairs"
+    },
+    {
+      "item": "minecraft:stone_slab"
+    },
+    {
+      "item": "minecraft:stone_brick_stairs"
+    },
+    {
+      "item": "minecraft:mossy_stone_brick_stairs"
+    },
+    {
+      "item": "minecraft:mossy_stone_brick_slab"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stone_brick_slab",
+    "count": 1
+  }
+}

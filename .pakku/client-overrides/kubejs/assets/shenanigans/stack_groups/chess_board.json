@@ -1,0 +1,6 @@
+{
+  "id": "shenanigans:chess_board",
+  "type": "emixx:regex",
+  "regex": "table_top_craft:.*chess",
+  "name": "Chess Boards"
+}

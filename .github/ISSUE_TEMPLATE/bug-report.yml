@@ -1,0 +1,175 @@
+name: Bug or crash report
+description: Report a reproducible problem with the Shenanigans modpack
+title: "[Bug]: "
+labels:
+  - bug
+  - needs-triage
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Shenanigans!
+
+        Please search existing issues before submitting a report. Remove server
+        addresses, usernames, access tokens, and other private information from logs.
+
+  - type: input
+    id: pack_version
+    attributes:
+      label: Modpack version
+      description: The exact version shown in your launcher or instance.
+      placeholder: "0.7.0-alpha"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: installation_source
+    attributes:
+      label: Installation source
+      options:
+        - Modrinth
+        - CurseForge
+        - Development build
+        - Server pack
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: launcher
+    attributes:
+      label: Launcher
+      placeholder: "Prism Launcher 9.4"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Where did the problem happen?
+      options:
+        - Single-player
+        - Client connected to a dedicated server
+        - Dedicated server
+        - Client startup
+        - Server startup
+        - Main menu or launcher
+    validations:
+      required: true
+
+  - type: dropdown
+    id: world
+    attributes:
+      label: World type
+      options:
+        - New world
+        - Existing world
+        - Happens with both
+        - Not applicable
+        - Not tested
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and its visible effects.
+      placeholder: |
+        When I ..., the game ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Provide the smallest reliable sequence you have found.
+      placeholder: |
+        1. Create or load ...
+        2. Place/use ...
+        3. Observe ...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reproducibility
+    attributes:
+      label: How often does it happen?
+      options:
+        - Every time
+        - Often
+        - Sometimes
+        - Happened once
+    validations:
+      required: true
+
+  - type: dropdown
+    id: modifications
+    attributes:
+      label: Did you modify the pack?
+      description: This includes adding mods, removing mods, or changing configs.
+      options:
+        - No
+        - Yes
+        - Unsure
+    validations:
+      required: true
+
+  - type: textarea
+    id: modification_details
+    attributes:
+      label: Modifications
+      description: If applicable, list everything changed from the distributed pack.
+      placeholder: |
+        Added:
+        Removed:
+        Config changes:
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or crash report
+      description: |
+        Drag the relevant latest.log or crash report into this field.
+        Please upload the complete file instead of pasting only the final error.
+      placeholder: Drag files here or provide a link.
+    validations:
+      required: true
+
+  - type: textarea
+    id: system
+    attributes:
+      label: System information
+      description: Particularly useful for crashes, performance, graphics, and startup issues.
+      placeholder: |
+        Operating system:
+        CPU:
+        GPU:
+        Allocated RAM:
+        Java version:
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: Add screenshots, videos, world files, or anything else that may help.
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues for this problem.
+          required: true
+        - label: I included the exact modpack version.
+          required: true
+        - label: I removed private information from the attached logs.
+          required: true

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:crimson_door"
+    },
+    {
+      "item": "minecraft:crimson_fence_gate"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crimson_button",
+    "count": 2
+  }
+}

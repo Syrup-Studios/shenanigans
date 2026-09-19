@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:bamboo_block"
+    },
+    {
+      "item": "minecraft:stripped_bamboo_block"
+    },
+    {
+      "item": "minecraft:bamboo_pressure_plate"
+    },
+    {
+      "item": "minecraft:bamboo_door"
+    },
+    {
+      "item": "minecraft:bamboo_trapdoor"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bamboo_sign",
+    "count": 1
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:birch_planks"
+    },
+    {
+      "item": "minecraft:birch_stairs"
+    }
+  ],
+  "result": {
+    "id": "minecraft:birch_fence",
+    "count": 1
+  }
+}

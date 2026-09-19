@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:tuff_stairs"
+    },
+    {
+      "item": "minecraft:polished_tuff_stairs"
+    }
+  ],
+  "result": {
+    "id": "minecraft:polished_tuff",
+    "count": 1
+  }
+}

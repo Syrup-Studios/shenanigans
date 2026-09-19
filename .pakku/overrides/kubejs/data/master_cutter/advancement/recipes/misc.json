@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:white_wool",
+              "minecraft:cobweb",
+              "minecraft:string"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:misc/cobweb_to_string",
+      "master_cutter:misc/string_from_stonecutting"
+    ]
+  }
+}

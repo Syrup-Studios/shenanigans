@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:cherry_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/cherry/cherry_button_from_stonecutting_1",
+      "master_cutter:wood/cherry/cherry_button_from_stonecutting_2",
+      "master_cutter:wood/cherry/cherry_button_from_stonecutting_3",
+      "master_cutter:wood/cherry/cherry_door_from_stonecutting",
+      "master_cutter:wood/cherry/cherry_fence_from_stonecutting_1",
+      "master_cutter:wood/cherry/cherry_fence_from_stonecutting_2",
+      "master_cutter:wood/cherry/cherry_fence_from_stonecutting_3",
+      "master_cutter:wood/cherry/cherry_fence_gate_from_stonecutting",
+      "master_cutter:wood/cherry/cherry_log_from_stonecutting",
+      "master_cutter:wood/cherry/cherry_planks_from_stonecutting_1",
+      "master_cutter:wood/cherry/cherry_planks_from_stonecutting_2",
+      "master_cutter:wood/cherry/cherry_planks_from_stonecutting_3",
+      "master_cutter:wood/cherry/cherry_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/cherry/cherry_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/cherry/cherry_sign_from_stonecutting_1",
+      "master_cutter:wood/cherry/cherry_sign_from_stonecutting_2",
+      "master_cutter:wood/cherry/cherry_slab_from_stonecutting_1",
+      "master_cutter:wood/cherry/cherry_slab_from_stonecutting_2",
+      "master_cutter:wood/cherry/cherry_slab_from_stonecutting_3",
+      "master_cutter:wood/cherry/cherry_stairs_from_stonecutting_1",
+      "master_cutter:wood/cherry/cherry_stairs_from_stonecutting_2",
+      "master_cutter:wood/cherry/cherry_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/cherry/cherry_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/cherry/cherry_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/cherry/stripped_cherry_log_from_stonecutting_1",
+      "master_cutter:wood/cherry/stripped_cherry_log_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/cherry/stripped_cherry_wood_from_stonecutting"
+    ]
+  }
+}

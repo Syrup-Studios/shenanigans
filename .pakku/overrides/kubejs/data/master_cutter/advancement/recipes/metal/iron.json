@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:iron_block"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:metal/iron/chain_from_stonecutting",
+      "master_cutter:metal/iron/heavy_weighted_pressure_plate_from_stonecutting",
+      "master_cutter:metal/iron/iron_bars_from_stonecutting",
+      "master_cutter:metal/iron/iron_door_from_stonecutting",
+      "master_cutter:metal/iron/iron_ingots_from_stonecutting_1",
+      "master_cutter:metal/iron/iron_ingots_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_ingots_from_stonecutting_3",
+      "master_cutter:metal/iron/iron_ingots_from_stonecutting_4",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_trapdoor_from_stonecutting_1",
+      "master_cutter:metal/iron/iron_trapdoor_from_stonecutting_2"
+    ]
+  }
+}

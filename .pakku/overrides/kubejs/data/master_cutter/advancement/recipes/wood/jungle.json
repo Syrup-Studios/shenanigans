@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:jungle_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/jungle/jungle_button_from_stonecutting_1",
+      "master_cutter:wood/jungle/jungle_button_from_stonecutting_2",
+      "master_cutter:wood/jungle/jungle_button_from_stonecutting_3",
+      "master_cutter:wood/jungle/jungle_door_from_stonecutting",
+      "master_cutter:wood/jungle/jungle_fence_from_stonecutting_1",
+      "master_cutter:wood/jungle/jungle_fence_from_stonecutting_2",
+      "master_cutter:wood/jungle/jungle_fence_from_stonecutting_3",
+      "master_cutter:wood/jungle/jungle_fence_gate_from_stonecutting",
+      "master_cutter:wood/jungle/jungle_log_from_stonecutting",
+      "master_cutter:wood/jungle/jungle_planks_from_stonecutting_1",
+      "master_cutter:wood/jungle/jungle_planks_from_stonecutting_2",
+      "master_cutter:wood/jungle/jungle_planks_from_stonecutting_3",
+      "master_cutter:wood/jungle/jungle_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/jungle/jungle_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/jungle/jungle_sign_from_stonecutting_1",
+      "master_cutter:wood/jungle/jungle_sign_from_stonecutting_2",
+      "master_cutter:wood/jungle/jungle_slab_from_stonecutting_1",
+      "master_cutter:wood/jungle/jungle_slab_from_stonecutting_2",
+      "master_cutter:wood/jungle/jungle_slab_from_stonecutting_3",
+      "master_cutter:wood/jungle/jungle_stairs_from_stonecutting_1",
+      "master_cutter:wood/jungle/jungle_stairs_from_stonecutting_2",
+      "master_cutter:wood/jungle/jungle_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/jungle/jungle_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/jungle/jungle_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/jungle/stripped_jungle_log_from_stonecutting_1",
+      "master_cutter:wood/jungle/stripped_jungle_log_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/jungle/stripped_jungle_wood_from_stonecutting"
+    ]
+  }
+}

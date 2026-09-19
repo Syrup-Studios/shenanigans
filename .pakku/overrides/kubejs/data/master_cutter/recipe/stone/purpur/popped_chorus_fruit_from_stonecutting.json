@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:purpur_block"
+    },
+    {
+      "item": "minecraft:purpur_pillar"
+    }
+  ],
+  "result": {
+    "id": "minecraft:popped_chorus_fruit",
+    "count": 4
+  }
+}

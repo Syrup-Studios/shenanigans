@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:cherry_door"
+    },
+    {
+      "item": "minecraft:cherry_stairs"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cherry_slab",
+    "count": 1
+  }
+}

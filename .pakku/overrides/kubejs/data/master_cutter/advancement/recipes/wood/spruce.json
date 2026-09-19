@@ -1,0 +1,46 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:spruce_logs"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:wood/spruce/spruce_button_from_stonecutting_1",
+      "master_cutter:wood/spruce/spruce_button_from_stonecutting_2",
+      "master_cutter:wood/spruce/spruce_button_from_stonecutting_3",
+      "master_cutter:wood/spruce/spruce_door_from_stonecutting",
+      "master_cutter:wood/spruce/spruce_fence_from_stonecutting_1",
+      "master_cutter:wood/spruce/spruce_fence_from_stonecutting_2",
+      "master_cutter:wood/spruce/spruce_fence_from_stonecutting_3",
+      "master_cutter:wood/spruce/spruce_fence_gate_from_stonecutting",
+      "master_cutter:wood/spruce/spruce_log_from_stonecutting",
+      "master_cutter:wood/spruce/spruce_planks_from_stonecutting_1",
+      "master_cutter:wood/spruce/spruce_planks_from_stonecutting_2",
+      "master_cutter:wood/spruce/spruce_planks_from_stonecutting_3",
+      "master_cutter:wood/spruce/spruce_pressure_plate_from_stonecutting_1",
+      "master_cutter:wood/spruce/spruce_pressure_plate_from_stonecutting_2",
+      "master_cutter:wood/spruce/spruce_sign_from_stonecutting_1",
+      "master_cutter:wood/spruce/spruce_sign_from_stonecutting_2",
+      "master_cutter:wood/spruce/spruce_slab_from_stonecutting_1",
+      "master_cutter:wood/spruce/spruce_slab_from_stonecutting_2",
+      "master_cutter:wood/spruce/spruce_slab_from_stonecutting_3",
+      "master_cutter:wood/spruce/spruce_stairs_from_stonecutting_1",
+      "master_cutter:wood/spruce/spruce_stairs_from_stonecutting_2",
+      "master_cutter:wood/spruce/spruce_trapdoor_from_stonecutting_1",
+      "master_cutter:wood/spruce/spruce_trapdoor_from_stonecutting_2",
+      "master_cutter:wood/spruce/spruce_trapdoor_from_stonecutting_3",
+      "master_cutter:wood/spruce/stripped_spruce_log_from_stonecutting_1",
+      "master_cutter:wood/spruce/stripped_spruce_log_from_stonecutting_2",
+      "master_cutter:metal/iron/iron_nuggets_from_stonecutting_1",
+      "master_cutter:wood/spruce/stripped_spruce_wood_from_stonecutting"
+    ]
+  }
+}

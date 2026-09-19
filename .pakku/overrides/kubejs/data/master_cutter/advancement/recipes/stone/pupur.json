@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:purpur_block"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/purpur/purpur_slab_from_purpur_stairs",
+      "master_cutter:stone/purpur/purpur_block_from_purpur_stairs",
+      "master_cutter:stone/purpur/purpur_slab_from_purpur_stairs",
+      "master_cutter:stone/purpur/purpur_slabs_from_purpur_pillar",
+      "master_cutter:stone/purpur/popped_chorus_fruit_from_stonecutting"
+    ]
+  }
+}

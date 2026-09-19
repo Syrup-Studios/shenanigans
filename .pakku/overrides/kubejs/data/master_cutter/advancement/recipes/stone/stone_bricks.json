@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:stone_bricks"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/stone_bricks/chiseled_stone_bricks_from_stonecutting",
+      "master_cutter:stone/stone_bricks/stone_brick_slab_from_stonecutting_1",
+      "master_cutter:stone/stone_bricks/stone_brick_slab_from_stonecutting_2",
+      "master_cutter:stone/stone_bricks/stone_brick_wall_from_stonecutting",
+      "master_cutter:stone/stone_bricks/stone_brick_stairs_from_stonecutting",
+      "master_cutter:stone/stone_bricks/stone_bricks_from_stonecutting"
+    ]
+  }
+}

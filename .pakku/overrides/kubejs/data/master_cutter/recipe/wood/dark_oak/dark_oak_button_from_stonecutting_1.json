@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+      "item": "minecraft:dark_oak_planks"
+    },
+    {
+      "item": "minecraft:dark_oak_stairs"
+    },
+    {
+      "item": "minecraft:dark_oak_fence"
+    },
+    {
+      "item": "minecraft:dark_oak_pressure_plate"
+    },
+    {
+      "item": "minecraft:dark_oak_sign"
+    }
+  ],
+  "result": {
+    "id": "minecraft:dark_oak_button",
+    "count": 1
+  }
+}

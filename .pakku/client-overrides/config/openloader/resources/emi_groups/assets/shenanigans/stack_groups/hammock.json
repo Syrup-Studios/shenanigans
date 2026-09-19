@@ -1,0 +1,6 @@
+{
+  "id": "shenanigans:hammock",
+  "type": "emixx:regex",
+  "regex": "comforts:hammock.*",
+  "name": "Hammocks"
+}

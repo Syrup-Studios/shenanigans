@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:diorite"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/diorite/diorite_from_stonecutting",
+      "master_cutter:stone/diorite/diorite_slab_from_stonecutting_1",
+      "master_cutter:stone/diorite/diorite_slab_from_stonecutting_2",
+      "master_cutter:stone/diorite/diorite_stairs_from_stonecutting",
+      "master_cutter:stone/diorite/diorite_wall_from_stonecutting_1",
+      "master_cutter:stone/diorite/diorite_wall_from_stonecutting_2",
+      "master_cutter:stone/diorite/diorite_wall_from_stonecutting_3",
+      "master_cutter:stone/diorite/polished_diorite_from_stonecutting",
+      "master_cutter:stone/diorite/polished_diorite_slab_from_stonecutting",
+      "master_cutter:stone/diorite/polished_diorite_stairs_from_stonecutting"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:mud_bricks"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "master_cutter:stone/mud_bricks/mud_brick_slab_from_mud_brick_stairs",
+      "master_cutter:stone/mud_bricks/mud_brick_slab_from_packed_mud",
+      "master_cutter:stone/mud_bricks/mud_brick_stairs_from_packed_mud",
+      "master_cutter:stone/mud_bricks/mud_brick_wall_from_mud_brick_stairs",
+      "master_cutter:stone/mud_bricks/mud_brick_wall_from_packed_mud",
+      "master_cutter:stone/mud_bricks/mud_bricks_from_mud_brick_stairs",
+      "master_cutter:stone/mud_bricks/mud_bricks_from_packed_mud",
+      "master_cutter:stone/mud_bricks/packed_mud_from_mud_bricks"
+    ]
+  }
+}
