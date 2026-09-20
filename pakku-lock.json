@@ -13557,6 +13557,68 @@
             ]
         },
         {
+            "pakku_id": "q70nOMsl4siRBZXx",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "servercore",
+                "modrinth": "servercore"
+            },
+            "name": {
+                "curseforge": "ServerCore",
+                "modrinth": "ServerCore"
+            },
+            "id": {
+                "curseforge": "550579",
+                "modrinth": "4WWQxlQP"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "servercore-neoforge-1.5.19+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8312/220/servercore-neoforge-1.5.19+1.21.1.jar",
+                    "id": "8312220",
+                    "parent_id": "550579",
+                    "hashes": {
+                        "sha1": "62ce692654e09271b5c55cbb3a1ef7606d067132",
+                        "md5": "4fc82f2fe4ad2f93fcbe07130428101b"
+                    },
+                    "required_dependencies": [],
+                    "size": 1462674,
+                    "date_published": "2026-06-24T12:58:50.840Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "servercore-neoforge-1.5.19+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/6N9hXiRa/servercore-neoforge-1.5.19+1.21.1.jar",
+                    "id": "6N9hXiRa",
+                    "parent_id": "4WWQxlQP",
+                    "hashes": {
+                        "sha512": "55b97df4cc46f52db85b96487188d73c62d511229d98859991c115414c5f1ab37f2f40a0f2edb5692220aa94d6c48b392b0a2d8593b3c3381b1fcbde2a728c8f",
+                        "sha1": "62ce692654e09271b5c55cbb3a1ef7606d067132"
+                    },
+                    "required_dependencies": [],
+                    "size": 1462674,
+                    "date_published": "2026-06-24T12:58:51.451898Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Q6MnvH5m7wsRdRmq",
             "pakku_links": [
                 "G4wvt5AyMHwNw2mv"
