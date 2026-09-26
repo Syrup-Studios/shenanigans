@@ -1,6 +1,6 @@
 {
     "name": "Shenanigans",
-    "version": "0.7.2",
+    "version": "0.7.3",
     "author": "Syrup Studios",
     "publish": {
         "modrinth": "kilQgj16",
@@ -110,6 +110,9 @@
             "side": "CLIENT"
         },
         "syrup-library": {
+            "side": "BOTH"
+        },
+        "reliable-advancements": {
             "side": "BOTH"
         }
     }
