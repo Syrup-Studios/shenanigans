@@ -2199,6 +2199,44 @@
             ]
         },
         {
+            "pakku_id": "vFkdr4xMNG3deKCy",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "chunksmith"
+            },
+            "name": {
+                "modrinth": "Chunksmith"
+            },
+            "id": {
+                "modrinth": "4BeAEBIb"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "chunksmith-4.3.5+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4BeAEBIb/versions/igiNpynV/chunksmith-4.3.5+1.21.1-neoforge.jar",
+                    "id": "igiNpynV",
+                    "parent_id": "4BeAEBIb",
+                    "hashes": {
+                        "sha512": "6d8d4529711c73e95c427949a4afbe871f6e913a49c99fd16674d3d0f03591d302c5493b674624a690ea92bb670bc5cc46803b4f992b1e9d783d982a6805bebb",
+                        "sha1": "ec3e54d4cc556ac9cd45e85d188c7e6be3bd23f1"
+                    },
+                    "required_dependencies": [],
+                    "size": 665089,
+                    "date_published": "2026-09-26T01:40:06.645832Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Ew6oqeHdgca9J60w",
             "type": "MOD",
             "side": "BOTH",
@@ -12574,7 +12612,7 @@
                 "Ew6oqeHdgca9J60w"
             ],
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "reliable-advancements",
                 "modrinth": "reliable-advancements"
@@ -15090,7 +15128,7 @@
         {
             "pakku_id": "oNuimO0yoosbhlnX",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "syrup-library",
                 "modrinth": "syrup-library"

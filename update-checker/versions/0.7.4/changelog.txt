@@ -1,0 +1,3 @@
+## Changelog 0.7.4
+
+- Added Chunksmith to improve chunk generation performance.
