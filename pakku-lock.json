@@ -2201,7 +2201,7 @@
         {
             "pakku_id": "vFkdr4xMNG3deKCy",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "chunksmith"
             },
@@ -2233,6 +2233,74 @@
                     "required_dependencies": [],
                     "size": 665089,
                     "date_published": "2026-09-26T01:40:06.645832Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "woUZJIE0GHaMW1ib",
+            "pakku_links": [
+                "Ew6oqeHdgca9J60w"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "clientsort",
+                "modrinth": "clientsort"
+            },
+            "name": {
+                "curseforge": "Client Sort",
+                "modrinth": "Client Sort"
+            },
+            "id": {
+                "curseforge": "1049891",
+                "modrinth": "K0AkAin6"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "clientsort-neoforge-3.89.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8978/780/clientsort-neoforge-3.89.2+1.21.1.jar",
+                    "id": "8978780",
+                    "parent_id": "1049891",
+                    "hashes": {
+                        "sha1": "5a7308a40e59ea44916a9f680c027303dc5993df",
+                        "md5": "70e287c60be9d7e7ef4a0edb9776ad94"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 353092,
+                    "date_published": "2026-09-26T07:42:29.913Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "clientsort-neoforge-3.89.2+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/K0AkAin6/versions/2c4hM8Ut/clientsort-neoforge-3.89.2+1.21.1.jar",
+                    "id": "2c4hM8Ut",
+                    "parent_id": "K0AkAin6",
+                    "hashes": {
+                        "sha512": "64fbd0f381e01c698569c1e292c6aa0699c3c685eca824124f674d03aaebc55bda5c879864061809dfdbc89fd2203c166f719edcb811a6b3cf71a9480647b589",
+                        "sha1": "05c7d37ad5f8aa5dcbe81623842b6f87f5ce1ae8"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 353091,
+                    "date_published": "2026-09-26T07:42:12.946337Z"
                 }
             ]
         },
