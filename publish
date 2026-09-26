@@ -127,12 +127,11 @@ def multipart(fields, files):
 
 
 def artifact(kind, suffix, required_member, name, version, optional=False):
-    matches = sorted((ROOT / "build" / kind).glob(f"{name}-{version}*{suffix}"))
-    if optional and not matches:
+    path = ROOT / "build" / kind / f"{name}-{version}{suffix}"
+    if optional and not path.exists():
         return None
-    if len(matches) != 1:
-        fail(f"expected one {kind} {suffix} for {version}, found {len(matches)}")
-    path = matches[0]
+    if not path.is_file():
+        fail(f"expected {kind} artifact for {version}: {path.relative_to(ROOT)} not found")
     try:
         with zipfile.ZipFile(path) as archive:
             bad_member = archive.testzip()
@@ -229,21 +228,44 @@ def main():
 
     game_version_ids = []
     if "curseforge" in platforms:
-        game_version_names = list(mc_versions)
-        loader_names = {"neoforge": "NeoForge", "forge": "Forge", "fabric": "Fabric"}
-        game_version_names.extend(loader_names.get(loader, loader) for loader in loaders)
-        _, body = request(
-            "https://minecraft.curseforge.com/api/game/versions",
-            {"X-Api-Token": tokens["curseforge"]},
-        )
+        headers = {"X-Api-Token": tokens["curseforge"]}
         try:
-            versions = json.loads(body)
-            for game_version in game_version_names:
-                ids = [item["id"] for item in versions if item.get("name") == game_version]
+            _, type_body = request("https://minecraft.curseforge.com/api/game/version-types", headers)
+            _, version_body = request("https://minecraft.curseforge.com/api/game/versions", headers)
+            version_types = json.loads(type_body)
+            versions = json.loads(version_body)
+            if (not isinstance(version_types, list) or not isinstance(versions, list)
+                    or any(not isinstance(item, dict) for item in version_types + versions)):
+                raise ValueError
+
+            for game_version in mc_versions:
+                match = re.fullmatch(r"(\d+)\.(\d+)(?:\.\d+)?", game_version) if isinstance(game_version, str) else None
+                if not match:
+                    fail(f"cannot map Minecraft version to a CurseForge version type: {game_version}")
+                type_slug = f"minecraft-{match[1]}-{match[2]}"
+                type_ids = [item["id"] for item in version_types if item.get("slug") == type_slug]
+                if len(type_ids) != 1:
+                    fail(f"CurseForge has no unique game version type for Minecraft {game_version} ({type_slug})")
+                ids = [item["id"] for item in versions
+                       if item.get("gameVersionTypeID") == type_ids[0] and item.get("name") == game_version]
                 if len(ids) != 1:
-                    fail(f"CurseForge has no unique game version entry for: {game_version}")
+                    fail(f"CurseForge has no unique game version entry for Minecraft {game_version} ({type_slug})")
                 game_version_ids.append(ids[0])
-        except (json.JSONDecodeError, TypeError, KeyError):
+
+            type_ids = [item["id"] for item in version_types if item.get("slug") == "modloader"]
+            if len(type_ids) != 1:
+                fail("CurseForge has no unique modloader version type")
+            loader_names = {"neoforge": "NeoForge", "forge": "Forge", "fabric": "Fabric", "quilt": "Quilt"}
+            for loader in loaders:
+                if not isinstance(loader, str):
+                    fail(f"invalid loader name for CurseForge: {loader}")
+                loader_name = loader_names.get(loader.lower(), loader)
+                ids = [item["id"] for item in versions
+                       if item.get("gameVersionTypeID") == type_ids[0] and item.get("name") == loader_name]
+                if len(ids) != 1:
+                    fail(f"CurseForge has no unique modloader entry for: {loader_name}")
+                game_version_ids.append(ids[0])
+        except (json.JSONDecodeError, TypeError, KeyError, ValueError):
             fail("invalid response from CurseForge game-version lookup")
 
     changelog_text = changelog.read_text(encoding="utf-8")
