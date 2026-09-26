@@ -6,6 +6,7 @@ import re
 import subprocess
 import sys
 import urllib.error
+import urllib.parse
 import urllib.request
 import uuid
 import zipfile
@@ -144,6 +145,81 @@ def artifact(kind, suffix, required_member, name, version, optional=False):
     return path
 
 
+def curseforge_game_version_ids(token, mc_versions, loaders):
+    headers = {"X-Api-Token": token}
+    try:
+        _, type_body = request("https://minecraft.curseforge.com/api/game/version-types", headers)
+        _, version_body = request("https://minecraft.curseforge.com/api/game/versions", headers)
+        version_types = json.loads(type_body)
+        versions = json.loads(version_body)
+        if (not isinstance(version_types, list) or not isinstance(versions, list)
+                or any(not isinstance(item, dict) for item in version_types + versions)):
+            raise ValueError
+
+        game_version_ids = []
+        for game_version in mc_versions:
+            match = re.fullmatch(r"(\d+)\.(\d+)(?:\.\d+)?", game_version) if isinstance(game_version, str) else None
+            if not match:
+                fail(f"cannot map Minecraft version to a CurseForge version type: {game_version}")
+            type_slug = f"minecraft-{match[1]}-{match[2]}"
+            type_ids = [item["id"] for item in version_types if item.get("slug") == type_slug]
+            if len(type_ids) != 1:
+                fail(f"CurseForge has no unique game version type for Minecraft {game_version} ({type_slug})")
+            ids = [item["id"] for item in versions
+                   if item.get("gameVersionTypeID") == type_ids[0] and item.get("name") == game_version]
+            if len(ids) != 1:
+                fail(f"CurseForge has no unique game version entry for Minecraft {game_version} ({type_slug})")
+            game_version_ids.append(ids[0])
+
+        type_ids = [item["id"] for item in version_types if item.get("slug") == "modloader"]
+        if len(type_ids) != 1:
+            fail("CurseForge has no unique modloader version type")
+        loader_names = {"neoforge": "NeoForge", "forge": "Forge", "fabric": "Fabric", "quilt": "Quilt"}
+        for loader in loaders:
+            if not isinstance(loader, str):
+                fail(f"invalid loader name for CurseForge: {loader}")
+            loader_name = loader_names.get(loader.lower(), loader)
+            ids = [item["id"] for item in versions
+                   if item.get("gameVersionTypeID") == type_ids[0] and item.get("name") == loader_name]
+            if len(ids) != 1:
+                fail(f"CurseForge has no unique modloader entry for: {loader_name}")
+            game_version_ids.append(ids[0])
+        return game_version_ids
+    except (json.JSONDecodeError, TypeError, KeyError, ValueError):
+        fail("invalid response from CurseForge game-version lookup")
+
+
+def modrinth_preflight(token, project, version, user_agent):
+    headers = {"Authorization": token, "User-Agent": user_agent}
+    project_path = urllib.parse.quote(str(project), safe="")
+    _, project_body = request(f"https://api.modrinth.com/v2/project/{project_path}", headers)
+    try:
+        details = json.loads(project_body)
+        if not isinstance(details, dict) or str(project) not in (str(details.get("id", "")), str(details.get("slug", ""))):
+            fail("Modrinth project lookup did not match the configured project ID or slug")
+        project_id = details["id"]
+        versions = []
+        offset = 0
+        while True:
+            _, versions_body = request(
+                f"https://api.modrinth.com/v2/project/{urllib.parse.quote(project_id, safe='')}/version?limit=100&offset={offset}",
+                headers,
+            )
+            page = json.loads(versions_body)
+            if not isinstance(page, list) or any(not isinstance(item, dict) for item in page):
+                raise ValueError
+            versions.extend(page)
+            if len(page) < 100:
+                break
+            offset += len(page)
+    except (json.JSONDecodeError, KeyError, TypeError, ValueError):
+        fail("invalid response from Modrinth project lookup")
+    matches = [item for item in versions if item.get("version_number") == version]
+    if len(matches) > 1:
+        fail(f"Modrinth has multiple versions named {version} for project {project}")
+    return project_id, bool(matches)
+
+
 def main():
     if sys.argv[1:] == ["--help"]:
         print("Usage: ./publish [--dry-run]")
@@ -215,6 +291,26 @@ def main():
     if "curseforge" in platforms:
         outputs["curseforge"] = artifact("curseforge", ".zip", "manifest.json", name, version)
     serverpack = artifact("serverpack", ".zip", "", name, version, optional=True)
+
+    user_agent = f"{name}/{version} Pakku publisher"
+    game_version_ids = None
+    modrinth_project_id = project_ids.get("modrinth")
+    modrinth_already_published = False
+    for platform in platforms:
+        if not tokens[platform]:
+            print(f"{platform}: remote preflight skipped; token is not set.")
+        elif platform == "curseforge":
+            game_version_ids = curseforge_game_version_ids(tokens[platform], mc_versions, loaders)
+            print("CurseForge remote preflight passed.")
+        else:
+            modrinth_project_id, modrinth_already_published = modrinth_preflight(
+                tokens[platform], project_ids[platform], version, user_agent
+            )
+            if modrinth_already_published:
+                print(f"Modrinth version {version} is already published; upload will be skipped.")
+            else:
+                print("Modrinth remote preflight passed.")
+
     if dry_run:
         print("Dry run; validated files:")
         for platform, path in outputs.items():
@@ -226,58 +322,15 @@ def main():
             print("Set " + " and ".join(f"{p.upper()}_TOKEN" for p in missing) + " to upload.")
         return
 
-    game_version_ids = []
-    if "curseforge" in platforms:
-        headers = {"X-Api-Token": tokens["curseforge"]}
-        try:
-            _, type_body = request("https://minecraft.curseforge.com/api/game/version-types", headers)
-            _, version_body = request("https://minecraft.curseforge.com/api/game/versions", headers)
-            version_types = json.loads(type_body)
-            versions = json.loads(version_body)
-            if (not isinstance(version_types, list) or not isinstance(versions, list)
-                    or any(not isinstance(item, dict) for item in version_types + versions)):
-                raise ValueError
-
-            for game_version in mc_versions:
-                match = re.fullmatch(r"(\d+)\.(\d+)(?:\.\d+)?", game_version) if isinstance(game_version, str) else None
-                if not match:
-                    fail(f"cannot map Minecraft version to a CurseForge version type: {game_version}")
-                type_slug = f"minecraft-{match[1]}-{match[2]}"
-                type_ids = [item["id"] for item in version_types if item.get("slug") == type_slug]
-                if len(type_ids) != 1:
-                    fail(f"CurseForge has no unique game version type for Minecraft {game_version} ({type_slug})")
-                ids = [item["id"] for item in versions
-                       if item.get("gameVersionTypeID") == type_ids[0] and item.get("name") == game_version]
-                if len(ids) != 1:
-                    fail(f"CurseForge has no unique game version entry for Minecraft {game_version} ({type_slug})")
-                game_version_ids.append(ids[0])
-
-            type_ids = [item["id"] for item in version_types if item.get("slug") == "modloader"]
-            if len(type_ids) != 1:
-                fail("CurseForge has no unique modloader version type")
-            loader_names = {"neoforge": "NeoForge", "forge": "Forge", "fabric": "Fabric", "quilt": "Quilt"}
-            for loader in loaders:
-                if not isinstance(loader, str):
-                    fail(f"invalid loader name for CurseForge: {loader}")
-                loader_name = loader_names.get(loader.lower(), loader)
-                ids = [item["id"] for item in versions
-                       if item.get("gameVersionTypeID") == type_ids[0] and item.get("name") == loader_name]
-                if len(ids) != 1:
-                    fail(f"CurseForge has no unique modloader entry for: {loader_name}")
-                game_version_ids.append(ids[0])
-        except (json.JSONDecodeError, TypeError, KeyError, ValueError):
-            fail("invalid response from CurseForge game-version lookup")
-
     changelog_text = changelog.read_text(encoding="utf-8")
     display_name = f"{name} {version}"
-    user_agent = f"{name}/{version} Pakku publisher"
-    if "modrinth" in platforms:
+    if "modrinth" in platforms and not modrinth_already_published:
         mr_metadata = json.dumps({
             "name": display_name, "version_number": version,
             "changelog": changelog_text, "dependencies": [],
             "game_versions": mc_versions, "version_type": release_type,
             "loaders": list(loaders), "featured": False, "status": "listed",
-            "project_id": project_ids["modrinth"], "file_parts": ["file"],
+            "project_id": modrinth_project_id, "file_parts": ["file"],
             "primary_file": "file", "environment": "client_and_server",
         })
         boundary, data = multipart(

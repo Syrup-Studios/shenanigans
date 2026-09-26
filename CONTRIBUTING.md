@@ -104,7 +104,7 @@ Before submitting a change:
 2. Confirm that new files are in the correct override directory.
 3. Start the pack and check `latest.log` for errors related to your change.
 4. Test relevant behavior in-game, including multiplayer or a dedicated server when applicable.
-5. Run `./publish --dry-run` to export the pack and validate target artifacts. Run `./publish` to upload when the required API token or tokens are set.
+5. Run `./publish --dry-run` to export the pack, validate target artifacts, and run read-only checks on each target platform with a token. This mode never uploads. Run `./publish` to upload when the required API token or tokens are set.
 
    ```bash
    ./publish --dry-run
@@ -140,7 +140,7 @@ Protect the file with `chmod 600 ~/.pakku/publish.env`. You can also put tokens 
 }
 ```
 
-If this JSON file contains either token, protect it with `chmod 600 ~/.pakku/pakku.json`. On POSIX systems, publishing fails when group or other users can read or access that file. Do not put token keys in a project `pakku.json`; publishing rejects them to prevent committed secrets. If any required token is missing, `./publish` validates the exports without uploading. Pass `--dry-run` to force this mode.
+If this JSON file contains either token, protect it with `chmod 600 ~/.pakku/pakku.json`. On POSIX systems, publishing fails when group or other users can read or access that file. Do not put token keys in a project `pakku.json`; publishing rejects them to prevent committed secrets. If any required token is missing, `./publish` runs as a dry run. In both automatic and explicit dry-run mode, exports are validated and read-only remote preflight runs for platforms with tokens. CurseForge checks game-version and loader IDs. Modrinth checks the configured project and whether the pack version already exists. A platform without a token is reported as skipped. Dry-run mode sends no upload requests. For a multiplatform release, if the exact Modrinth version already exists, the script reports it during dry run and skips its upload during publishing, then continues with CurseForge. This lets a publish resume if an earlier run uploaded to Modrinth before failing on CurseForge.
 
 You can put shared publishing defaults in `~/.pakku/pakku.json`, in a top-level `publish` object. The script merges those values first, then applies the project's `publish` values. A project value takes precedence when both files set the same key. For example, set a shared release type and changelog path globally:
 
