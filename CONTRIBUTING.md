@@ -11,6 +11,7 @@ You will need:
 - Git
 - Java
 - [Pakku](https://juraj-hrivnak.github.io/Pakku/installing-pakku.html)
+- Python 3 to publish
 - A launcher suitable for testing Minecraft 1.20.1 Fabric instances
 
 Clone the repository and create a branch for your work:
@@ -103,21 +104,70 @@ Before submitting a change:
 2. Confirm that new files are in the correct override directory.
 3. Start the pack and check `latest.log` for errors related to your change.
 4. Test relevant behavior in-game, including multiplayer or a dedicated server when applicable.
-5. Export the pack successfully:
+5. Run `./publish --dry-run` to export the pack and validate target artifacts. Run `./publish` to upload when the required API token or tokens are set.
 
    ```bash
-   pakku export
+   ./publish --dry-run
    ```
 
-6. Confirm that Pakku created the expected artifacts under:
+6. Confirm that Pakku created artifacts for the configured target:
 
    ```text
-   build/curseforge/
-   build/modrinth/
-   build/serverpack/
+   build/modrinth/       for target modrinth or multiplatform
+   build/curseforge/     for target curseforge or multiplatform
+   build/serverpack/     when a server pack is generated
    ```
 
 Generated build artifacts must not be committed.
+
+Publishing accepts tokens from the process environment, `~/.pakku/publish.env`, or `~/.pakku/pakku.json`. The lookup order is process environment, then `publish.env`, then the global JSON file. A token in a higher source takes precedence. The required tokens depend on `pakku-lock.json`'s `target` (`MODRINTH_TOKEN`, `CURSEFORGE_TOKEN`, or both for `multiplatform`).
+
+For `publish.env`, add the tokens as plain dotenv lines, without `export`:
+
+```dotenv
+MODRINTH_TOKEN='your-token'
+CURSEFORGE_TOKEN='your-token'
+```
+
+Protect the file with `chmod 600 ~/.pakku/publish.env`. You can also put tokens in the `publish` object of `~/.pakku/pakku.json`, using `modrinth_token` and `curseforge_token`:
+
+```json
+{
+  "publish": {
+    "modrinth_token": "your-token",
+    "curseforge_token": "your-token"
+  }
+}
+```
+
+If this JSON file contains either token, protect it with `chmod 600 ~/.pakku/pakku.json`. On POSIX systems, publishing fails when group or other users can read or access that file. Do not put token keys in a project `pakku.json`; publishing rejects them to prevent committed secrets. If any required token is missing, `./publish` validates the exports without uploading. Pass `--dry-run` to force this mode.
+
+You can put shared publishing defaults in `~/.pakku/pakku.json`, in a top-level `publish` object. The script merges those values first, then applies the project's `publish` values. A project value takes precedence when both files set the same key. For example, set a shared release type and changelog path globally:
+
+```json
+{
+  "publish": {
+    "release_type": "beta",
+    "changelog": "changelogs/{version}.md"
+  }
+}
+```
+
+Paths in `publish` are relative to the project root. The project `pakku.json` remains the source for pack name, version, and projects. Project publish settings do not supply credentials.
+
+The project's `publish` section can override defaults and set project-specific values:
+
+```json
+"publish": {
+  "modrinth": "project-id-or-slug",
+  "curseforge": 123456,
+  "release_type": "release",
+  "changelog": "changelogs/{version}.md",
+  "metadata": "update-checker/meta.json"
+}
+```
+
+Set project IDs only for the platforms in `pakku-lock.json`'s `target` (`modrinth`, `curseforge`, or `multiplatform`). The release type must be `release`, `beta`, or `alpha`. `changelog` is optional and defaults to `CHANGELOG.md`; `{version}` is replaced with the version from `pakku.json`. `metadata` is optional; when set, it must be JSON with a `versions` array containing an object whose `id` matches the pack version. Pack name, version, Minecraft versions, loaders, and export target come from Pakku's config and lockfile. Only artifacts for the locked target are required. A generated server pack is checked when present.
 
 
 ## Changelogs and releases
@@ -136,12 +186,12 @@ For a release:
 
 1. Set the new version in `pakku.json`.
 2. Ensure the lockfile contains the intended Minecraft, Fabric loader, and project versions.
-3. Add `update-checker/versions/<version>/changelog.txt`.
+3. Add the changelog at the path configured by `publish.changelog` in `pakku.json`.
 4. Add the same version to `update-checker/meta.json`.
 5. Keep every `releasedAt` value in the same timestamp unit; use a 13-digit Unix timestamp in milliseconds.
 6. Add direct Modrinth, CurseForge, and GitHub release links when available.
-7. Run `pakku export` and test the client and server artifacts.
-8. Confirm that filenames, manifests, changelog paths, and update-checker metadata all use the exact same version.
+7. Run `./publish --dry-run` and test the client and server artifacts.
+8. Confirm that filenames, manifests, the changelog path, and configured version metadata all use the exact same version.
 
 Changelogs should describe player-visible changes. Group entries under headings such as `Added`, `Changed`, `Fixed`, `Updated`, and `Removed`, and call out world-breaking or configuration-resetting changes prominently.
 

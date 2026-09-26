@@ -1,0 +1,4 @@
+## Changelog 0.7.2
+
+- Added ServerCore to improve server performance.
+- Enabled ModernFix's faster item rendering setting.

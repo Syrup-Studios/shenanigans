@@ -1,0 +1,293 @@
+#!/usr/bin/env python3
+import json
+import os
+from pathlib import Path
+import re
+import subprocess
+import sys
+import urllib.error
+import urllib.request
+import uuid
+import zipfile
+
+
+ROOT = Path(__file__).resolve().parent
+
+
+def fail(message):
+    print(f"publish: {message}", file=sys.stderr)
+    raise SystemExit(1)
+
+
+def read_json(path):
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        try:
+            display_path = path.relative_to(ROOT)
+        except ValueError:
+            display_path = path
+        fail(f"cannot read {display_path}: {error}")
+
+
+def global_publish_config():
+    path = Path.home() / ".pakku" / "pakku.json"
+    try:
+        config = json.loads(path.read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        return {}
+    except (OSError, json.JSONDecodeError) as error:
+        fail(f"cannot read ~/.pakku/pakku.json: {error}")
+    if not isinstance(config, dict):
+        fail("~/.pakku/pakku.json must contain a JSON object")
+    publish = config.get("publish", {})
+    if not isinstance(publish, dict):
+        fail("~/.pakku/pakku.json publish must be a JSON object")
+    token_keys = ("modrinth_token", "curseforge_token")
+    if any(key in publish for key in token_keys):
+        if os.name == "posix" and path.stat().st_mode & 0o077:
+            fail("~/.pakku/pakku.json contains tokens and must not be accessible by group or others; run chmod 600 ~/.pakku/pakku.json")
+        if any(key in publish and not isinstance(publish[key], str) for key in token_keys):
+            fail("token values in ~/.pakku/pakku.json publish must be strings")
+    return publish
+
+
+def contains_token_key(value):
+    if isinstance(value, dict):
+        return any(
+            key in ("modrinth_token", "curseforge_token") or contains_token_key(item)
+            for key, item in value.items()
+        )
+    if isinstance(value, list):
+        return any(contains_token_key(item) for item in value)
+    return False
+
+
+def request(url, headers=None, data=None, timeout=30):
+    req = urllib.request.Request(url, data=data, headers=headers or {})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as response:
+            return response.status, response.read()
+    except urllib.error.HTTPError as error:
+        fail(f"request failed: HTTP {error.code}")
+    except (urllib.error.URLError, TimeoutError) as error:
+        fail(f"request failed: {error.reason if isinstance(error, urllib.error.URLError) else error}")
+
+
+def publish_tokens(global_config):
+    names = ("MODRINTH_TOKEN", "CURSEFORGE_TOKEN")
+    values = {}
+    path = Path.home() / ".pakku" / "publish.env"
+    try:
+        lines = path.read_text(encoding="utf-8").splitlines()
+    except FileNotFoundError:
+        lines = []
+    except OSError as error:
+        fail(f"cannot read ~/.pakku/publish.env: {error}")
+
+    for number, line in enumerate(lines, 1):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        key = next((name for name in names if re.match(rf"^{name}\b", line)), None)
+        if key is None:
+            continue
+        match = re.fullmatch(rf"{key}\s*=\s*(?:'([^']*)'|\"([^\"]*)\"|([^#\s]+))\s*(?:#.*)?", line)
+        if not match:
+            fail(f"invalid {key} entry in ~/.pakku/publish.env:{number}")
+        values[key] = next(value for value in match.groups() if value is not None)
+
+    return {
+        "modrinth": os.environ.get(
+            "MODRINTH_TOKEN", values.get("MODRINTH_TOKEN", global_config.get("modrinth_token", ""))
+        ),
+        "curseforge": os.environ.get(
+            "CURSEFORGE_TOKEN", values.get("CURSEFORGE_TOKEN", global_config.get("curseforge_token", ""))
+        ),
+    }
+
+
+def multipart(fields, files):
+    boundary = f"----pakku-publish-{uuid.uuid4().hex}"
+    chunks = []
+    for name, value, content_type in fields:
+        chunks.extend((
+            f"--{boundary}\r\nContent-Disposition: form-data; name=\"{name}\"\r\n".encode(),
+            f"Content-Type: {content_type}\r\n\r\n".encode(),
+            value.encode("utf-8"), b"\r\n",
+        ))
+    for name, path, content_type in files:
+        chunks.extend((
+            f"--{boundary}\r\nContent-Disposition: form-data; name=\"{name}\"; filename=\"{path.name}\"\r\n".encode(),
+            f"Content-Type: {content_type}\r\n\r\n".encode(),
+            path.read_bytes(), b"\r\n",
+        ))
+    chunks.append(f"--{boundary}--\r\n".encode())
+    return boundary, b"".join(chunks)
+
+
+def artifact(kind, suffix, required_member, name, version, optional=False):
+    matches = sorted((ROOT / "build" / kind).glob(f"{name}-{version}*{suffix}"))
+    if optional and not matches:
+        return None
+    if len(matches) != 1:
+        fail(f"expected one {kind} {suffix} for {version}, found {len(matches)}")
+    path = matches[0]
+    try:
+        with zipfile.ZipFile(path) as archive:
+            bad_member = archive.testzip()
+            if bad_member:
+                fail(f"{path.relative_to(ROOT)} contains damaged file: {bad_member}")
+            if required_member and required_member not in archive.namelist():
+                fail(f"{path.relative_to(ROOT)} is missing {required_member}")
+    except (OSError, zipfile.BadZipFile):
+        fail(f"{path.relative_to(ROOT)} is not a valid zip archive or contains damaged files")
+    return path
+
+
+def main():
+    if sys.argv[1:] == ["--help"]:
+        print("Usage: ./publish [--dry-run]")
+        return
+    if sys.argv[1:] not in ([], ["--dry-run"]):
+        fail("usage: ./publish [--dry-run]")
+
+    pack = read_json(ROOT / "pakku.json")
+    lock = read_json(ROOT / "pakku-lock.json")
+    global_config = global_publish_config()
+    try:
+        if not isinstance(pack, dict):
+            raise ValueError("pakku.json must contain a JSON object")
+        name, version = pack["name"], pack["version"]
+        project_publish = pack.get("publish", {})
+        if not isinstance(project_publish, dict):
+            raise ValueError("pakku.json publish must be a JSON object")
+        if contains_token_key(pack):
+            raise ValueError("token keys are not allowed in project pakku.json; set them in ~/.pakku/pakku.json")
+        config = {key: value for key, value in global_config.items() if key not in ("modrinth_token", "curseforge_token")}
+        config.update(project_publish)
+        target = lock["target"]
+        mc_versions, loaders = lock["mc_versions"], lock["loaders"]
+        if not isinstance(name, str) or not isinstance(version, str):
+            raise ValueError("name and version must be strings")
+        if target not in ("modrinth", "curseforge", "multiplatform"):
+            raise ValueError(f"unsupported pakku-lock.json target: {target}")
+        if not isinstance(mc_versions, list) or not isinstance(loaders, dict):
+            raise ValueError("invalid pakku-lock.json Minecraft versions or loaders")
+        release_type = config["release_type"]
+        if release_type not in ("release", "beta", "alpha"):
+            raise ValueError("publish.release_type must be release, beta, or alpha")
+        platforms = ("modrinth", "curseforge") if target == "multiplatform" else (target,)
+        project_ids = {platform: config[platform] for platform in platforms}
+        if any(not isinstance(project_ids[p], (str, int)) or not str(project_ids[p]) for p in platforms):
+            raise ValueError("publish must contain the project ID for each target platform")
+        changelog_template = config.get("changelog", "CHANGELOG.md")
+        if not isinstance(changelog_template, str) or not changelog_template.strip():
+            raise ValueError("publish.changelog must be a non-empty path")
+        changelog_path = changelog_template.replace("{version}", version)
+        metadata_path = config.get("metadata")
+        if "metadata" in config and (not isinstance(metadata_path, str) or not metadata_path.strip()):
+            raise ValueError("publish.metadata must be a non-empty path when set")
+    except (KeyError, TypeError, ValueError) as error:
+        fail(f"invalid or incomplete publish configuration: {error}")
+
+    changelog = ROOT / changelog_path
+    if metadata_path:
+        metadata = read_json(ROOT / metadata_path)
+        versions = metadata.get("versions", [])
+        if not isinstance(versions, list) or not any(
+            isinstance(item, dict) and item.get("id") == version for item in versions
+        ):
+            fail(f"{metadata_path} is missing version {version}")
+    if not changelog.is_file() or not changelog.stat().st_size:
+        fail(f"missing or empty changelog: {changelog_path}")
+
+    tokens = publish_tokens(global_config)
+    dry_run = sys.argv[1:] == ["--dry-run"] or any(not tokens[p] for p in platforms)
+
+    try:
+        subprocess.run(["pakku-mc", "export"], cwd=ROOT, check=True)
+    except (OSError, subprocess.CalledProcessError) as error:
+        fail(f"pakku-mc export failed: {error}")
+
+    outputs = {}
+    if "modrinth" in platforms:
+        outputs["modrinth"] = artifact("modrinth", ".mrpack", "modrinth.index.json", name, version)
+    if "curseforge" in platforms:
+        outputs["curseforge"] = artifact("curseforge", ".zip", "manifest.json", name, version)
+    serverpack = artifact("serverpack", ".zip", "", name, version, optional=True)
+    if dry_run:
+        print("Dry run; validated files:")
+        for platform, path in outputs.items():
+            print(f"  {platform}: {path.relative_to(ROOT)}")
+        if serverpack:
+            print(f"  server pack: {serverpack.relative_to(ROOT)}")
+        missing = [platform for platform in platforms if not tokens[platform]]
+        if missing:
+            print("Set " + " and ".join(f"{p.upper()}_TOKEN" for p in missing) + " to upload.")
+        return
+
+    game_version_ids = []
+    if "curseforge" in platforms:
+        game_version_names = list(mc_versions)
+        loader_names = {"neoforge": "NeoForge", "forge": "Forge", "fabric": "Fabric"}
+        game_version_names.extend(loader_names.get(loader, loader) for loader in loaders)
+        _, body = request(
+            "https://minecraft.curseforge.com/api/game/versions",
+            {"X-Api-Token": tokens["curseforge"]},
+        )
+        try:
+            versions = json.loads(body)
+            for game_version in game_version_names:
+                ids = [item["id"] for item in versions if item.get("name") == game_version]
+                if len(ids) != 1:
+                    fail(f"CurseForge has no unique game version entry for: {game_version}")
+                game_version_ids.append(ids[0])
+        except (json.JSONDecodeError, TypeError, KeyError):
+            fail("invalid response from CurseForge game-version lookup")
+
+    changelog_text = changelog.read_text(encoding="utf-8")
+    display_name = f"{name} {version}"
+    user_agent = f"{name}/{version} Pakku publisher"
+    if "modrinth" in platforms:
+        mr_metadata = json.dumps({
+            "name": display_name, "version_number": version,
+            "changelog": changelog_text, "dependencies": [],
+            "game_versions": mc_versions, "version_type": release_type,
+            "loaders": list(loaders), "featured": False, "status": "listed",
+            "project_id": project_ids["modrinth"], "file_parts": ["file"],
+            "primary_file": "file", "environment": "client_and_server",
+        })
+        boundary, data = multipart(
+            [("data", mr_metadata, "application/json")],
+            [("file", outputs["modrinth"], "application/zip")],
+        )
+        status, _ = request(
+            "https://api.modrinth.com/v2/version",
+            {"Authorization": tokens["modrinth"], "User-Agent": user_agent,
+             "Content-Type": f"multipart/form-data; boundary={boundary}"},
+            data, timeout=120,
+        )
+        print(f"Modrinth upload complete (HTTP {status}).")
+
+    if "curseforge" in platforms:
+        cf_metadata = json.dumps({
+            "changelog": changelog_text, "changelogType": "markdown",
+            "displayName": display_name, "releaseType": release_type,
+            "gameVersions": game_version_ids,
+        })
+        boundary, data = multipart(
+            [("metadata", cf_metadata, "application/json")],
+            [("file", outputs["curseforge"], "application/zip")],
+        )
+        status, _ = request(
+            f"https://minecraft.curseforge.com/api/projects/{project_ids['curseforge']}/upload-file",
+            {"X-Api-Token": tokens["curseforge"],
+             "Content-Type": f"multipart/form-data; boundary={boundary}"},
+            data, timeout=120,
+        )
+        print(f"CurseForge upload complete (HTTP {status}).")
+
+
+if __name__ == "__main__":
+    main()
