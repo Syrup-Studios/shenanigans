@@ -2472,7 +2472,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "colorful_armor_bar-1.0.0+1.21.1-neoforge.jar",
+                    "file_name": "colorful_armor_bar-1.0.2+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2480,20 +2480,22 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/31pBDaxX/colorful_armor_bar-1.0.0+1.21.1-neoforge.jar",
-                    "id": "31pBDaxX",
+                    "url": "https://cdn.modrinth.com/data/kQZ7uiYu/versions/uCRQ9bbi/colorful_armor_bar-1.0.2+1.21.1-neoforge.jar",
+                    "id": "uCRQ9bbi",
                     "parent_id": "kQZ7uiYu",
                     "hashes": {
-                        "sha512": "5b2abb73ae44cf10c772b2ad5303e54eb1f7713d6b24f7c3e67f808c2c160f4e09d83e0f5ce93479a7c8655409474d4802ea21999e91e339e07312abf74fc9ef",
-                        "sha1": "08f5cce1917ab702df7291fc62057d0b838f463a"
+                        "sha512": "d092fdd957a5d67ea0a64926ed3e484bc37193b604a650449f886f0fcea192e6f1a48c7afea694592062e2090cd4e40320a640d2be652f72c2d8765e914d67b3",
+                        "sha1": "ab4536eeaaf2067d6bbb0688acabd9d4adbbd992"
                     },
-                    "required_dependencies": [],
-                    "size": 430934,
-                    "date_published": "2026-09-18T11:04:01.372337Z"
+                    "required_dependencies": [
+                        "9tBNzmjo"
+                    ],
+                    "size": 336002,
+                    "date_published": "2026-09-26T06:42:14.176849Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "colorful_armor_bar-1.0.0+1.21.1-neoforge.jar",
+                    "file_name": "colorful_armor_bar-1.0.1+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2501,16 +2503,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8910/847/colorful_armor_bar-1.0.0+1.21.1-neoforge.jar",
-                    "id": "8910847",
+                    "url": "https://edge.forgecdn.net/files/8922/723/colorful_armor_bar-1.0.1+1.21.1-neoforge.jar",
+                    "id": "8922723",
                     "parent_id": "1587811",
                     "hashes": {
-                        "sha1": "08f5cce1917ab702df7291fc62057d0b838f463a",
-                        "md5": "095115663c3283b2decfe5021e937412"
+                        "sha1": "61510d460382588dac66ae4218300791d2b76abe",
+                        "md5": "3bfe22076f944f5544bbee4a33951e74"
                     },
-                    "required_dependencies": [],
-                    "size": 430934,
-                    "date_published": "2026-09-18T11:04:02.253Z"
+                    "required_dependencies": [
+                        "1647641"
+                    ],
+                    "size": 335923,
+                    "date_published": "2026-09-19T16:58:08.390Z"
                 }
             ]
         },
@@ -15017,7 +15021,8 @@
         {
             "pakku_id": "TZDJkxh13ZLLbCwo",
             "pakku_links": [
-                "h6faXwDdUgQjabX3"
+                "h6faXwDdUgQjabX3",
+                "oNuimO0yoosbhlnX"
             ],
             "type": "MOD",
             "side": "SERVER",
@@ -15083,7 +15088,7 @@
             ]
         },
         {
-            "pakku_id": "h6faXwDdUgQjabX3",
+            "pakku_id": "oNuimO0yoosbhlnX",
             "type": "MOD",
             "side": "SERVER",
             "slug": {
@@ -15101,7 +15106,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "syrup_library-0.3.0+1.21.1-neoforge.jar",
+                    "file_name": "syrup_library-0.5.0+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15109,20 +15114,20 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8911/711/syrup_library-0.3.0+1.21.1-neoforge.jar",
-                    "id": "8911711",
+                    "url": "https://edge.forgecdn.net/files/8978/211/syrup_library-0.5.0+1.21.1-neoforge.jar",
+                    "id": "8978211",
                     "parent_id": "1647641",
                     "hashes": {
-                        "sha1": "86cd18e5457afc1a8fe6f8b74608514e5a96cff7",
-                        "md5": "b880522dc0f6484377e81f05a22b9961"
+                        "sha1": "3ede7a58ce2db23e70ec030d955710fe0eeb7649",
+                        "md5": "c9278087c1f02efb438baac75e09edfb"
                     },
                     "required_dependencies": [],
-                    "size": 389110,
-                    "date_published": "2026-09-18T13:22:24.640Z"
+                    "size": 204707,
+                    "date_published": "2026-09-26T05:50:44.077Z"
                 },
                 {
                     "type": "modrinth",
-                    "file_name": "syrup_library-0.3.0+1.21.1-neoforge.jar",
+                    "file_name": "syrup_library-0.5.0+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15130,16 +15135,16 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/oiccBOME/syrup_library-0.3.0+1.21.1-neoforge.jar",
-                    "id": "oiccBOME",
+                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/aUqmU6DA/syrup_library-0.5.0+1.21.1-neoforge.jar",
+                    "id": "aUqmU6DA",
                     "parent_id": "9tBNzmjo",
                     "hashes": {
-                        "sha512": "a702cac24c99f234cce95d5247bfd95b0bff58afeea85f87415f5b583d0cb7b3be54adf0b1ce40870aac38e14ad1e01a9b94e9854d47de65bc60c6939b7b638e",
-                        "sha1": "86cd18e5457afc1a8fe6f8b74608514e5a96cff7"
+                        "sha512": "d5b9701aad0248fd8e423c1c6ac2c8a8ac999804c6d3c9d4f34a4157f5c0fba62609acc602695f086eb4eb4c788aad0318dcc21b63c7191ae45a6320ce2c5ec1",
+                        "sha1": "3ede7a58ce2db23e70ec030d955710fe0eeb7649"
                     },
                     "required_dependencies": [],
-                    "size": 389110,
-                    "date_published": "2026-09-18T13:22:23.179445Z"
+                    "size": 204707,
+                    "date_published": "2026-09-26T05:50:43.865611Z"
                 }
             ]
         },
@@ -16006,7 +16011,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "well_seasoned-0.5.1+1.21.1-neoforge.jar",
+                    "file_name": "well_seasoned-0.5.2+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -16014,20 +16019,22 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/3FZ72P1E/versions/ux1XeZDS/well_seasoned-0.5.1+1.21.1-neoforge.jar",
-                    "id": "ux1XeZDS",
+                    "url": "https://cdn.modrinth.com/data/3FZ72P1E/versions/iwu1tAn0/well_seasoned-0.5.2+1.21.1-neoforge.jar",
+                    "id": "iwu1tAn0",
                     "parent_id": "3FZ72P1E",
                     "hashes": {
-                        "sha512": "d6db8b8b4e8122ec20b0bc488e2866d8cfa5981dc78e90cc037402177c6d3b05653ab89f8548d9cc3ae8df9a5a2f22d3370776940a724b72dd24d3825fc9b333",
-                        "sha1": "01389ef2131e9886a66bf81feac42a73394d3f92"
+                        "sha512": "15db49b5bbe767709eac96747653f6dae198656a8cfd39147ccb82c14e2fda812ef847163907a93728af558e2420e0332b5e198b08bad5e06a66a51101e4c2ab",
+                        "sha1": "4db2c511a4941751d4cb16a142f0bb950535dac2"
                     },
-                    "required_dependencies": [],
-                    "size": 162590,
-                    "date_published": "2026-09-02T10:33:18.871411Z"
+                    "required_dependencies": [
+                        "9tBNzmjo"
+                    ],
+                    "size": 67915,
+                    "date_published": "2026-09-26T15:36:53.471828Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "well_seasoned-0.5.1+1.21.1-neoforge.jar",
+                    "file_name": "well_seasoned-0.5.2+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -16035,16 +16042,18 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8791/708/well_seasoned-0.5.1+1.21.1-neoforge.jar",
-                    "id": "8791708",
+                    "url": "https://edge.forgecdn.net/files/8982/80/well_seasoned-0.5.2+1.21.1-neoforge.jar",
+                    "id": "8982080",
                     "parent_id": "1644991",
                     "hashes": {
-                        "sha1": "01389ef2131e9886a66bf81feac42a73394d3f92",
-                        "md5": "4b96d463964c51ad5e9dbaf44d2c202c"
+                        "sha1": "4db2c511a4941751d4cb16a142f0bb950535dac2",
+                        "md5": "3acd56b04f85609bad588cd4383bde9b"
                     },
-                    "required_dependencies": [],
-                    "size": 162590,
-                    "date_published": "2026-09-02T10:33:29.420Z"
+                    "required_dependencies": [
+                        "1647641"
+                    ],
+                    "size": 67915,
+                    "date_published": "2026-09-26T15:37:25.873Z"
                 }
             ]
         },

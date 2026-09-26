@@ -108,6 +108,9 @@
         },
         "signtweaks": {
             "side": "CLIENT"
+        },
+        "syrup-library": {
+            "side": "BOTH"
         }
     }
 }

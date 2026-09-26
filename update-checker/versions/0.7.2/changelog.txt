@@ -2,3 +2,4 @@
 
 - Added ServerCore to improve server performance.
 - Enabled ModernFix's faster item rendering setting.
+- Updated Colorful Armor Bar, Syrup Library, and Well Seasoned.
