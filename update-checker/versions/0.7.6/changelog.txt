@@ -1,0 +1,5 @@
+## Changelog 0.7.6
+
+- Replaced the Stone Hammer and Stone Excavator with Copper versions.
+- Both tools use copper recipes and textures, have 975 durability, and keep their 3x1 area.
+- Restored custom item tooltips for Minecraft 1.21.1.

@@ -6,6 +6,13 @@ ServerEvents.recipes(event => {
     if (fallback.includes(id)) recipe()
   }
 
+  event.remove({ id: 'onlyhammersandexcavators:stone_hammer' })
+  event.shaped('onlyhammersandexcavators:stone_hammer', ['CCC', ' S ', ' S '], { C: copper, S: stick })
+    .id('onlyhammersandexcavators:stone_hammer')
+  event.remove({ id: 'onlyhammersandexcavators:stone_excavator' })
+  event.shaped('onlyhammersandexcavators:stone_excavator', [' C ', 'CSC', ' S '], { C: copper, S: stick })
+    .id('onlyhammersandexcavators:stone_excavator')
+
   add('minecraft:copper_sword', () => event.shaped('minecraft:copper_sword', ['C', 'C', 'S'], { C: copper, S: stick }).id('shenanigans:copper_sword'))
   add('minecraft:copper_pickaxe', () => event.shaped('minecraft:copper_pickaxe', ['CCC', ' S ', ' S '], { C: copper, S: stick }).id('shenanigans:copper_pickaxe'))
   add('minecraft:copper_axe', () => event.shaped('minecraft:copper_axe', ['CC', 'CS', ' S'], { C: copper, S: stick }).id('shenanigans:copper_axe'))
