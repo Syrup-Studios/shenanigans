@@ -12108,7 +12108,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "plushie_friends-1.0.0+1.21.1-neoforge.jar",
+                    "file_name": "plushie_friends-1.0.1+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12116,20 +12116,22 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/laPSlcl4/plushie_friends-1.0.0+1.21.1-neoforge.jar",
-                    "id": "laPSlcl4",
+                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/8AP8EdoE/plushie_friends-1.0.1+1.21.1-neoforge.jar",
+                    "id": "8AP8EdoE",
                     "parent_id": "dcPq78Za",
                     "hashes": {
-                        "sha512": "02235a92f99ca2994d82ec41565c8ac391b9d913041e8513d0b2a439b3fd89f053cf404cb5eef28a1364f30ea24d3ea60c4f1ff7334c6aff7f8375906956c68e",
-                        "sha1": "621568fe13e065d6e307a23e918b5a34eed28154"
+                        "sha512": "b3fc2e0dc89b66b6c4219446a615a974f229b609b1cec6e9865e13e904f2cda340747e33bacc7f186952c0423ecfee197e0a1b1170e568fb62e373e9311a75fe",
+                        "sha1": "132b5f98b8d453e417509480f7d11cc3b1174147"
                     },
-                    "required_dependencies": [],
-                    "size": 299241,
-                    "date_published": "2026-08-09T23:15:17.327314Z"
+                    "required_dependencies": [
+                        "9tBNzmjo"
+                    ],
+                    "size": 94845,
+                    "date_published": "2026-09-23T22:05:14.259668Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "plushie_friends-1.0.0+1.21.1-neoforge.jar",
+                    "file_name": "plushie_friends-1.0.1+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12137,16 +12139,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8612/715/plushie_friends-1.0.0+1.21.1-neoforge.jar",
-                    "id": "8612715",
+                    "url": "https://edge.forgecdn.net/files/8959/213/plushie_friends-1.0.1+1.21.1-neoforge.jar",
+                    "id": "8959213",
                     "parent_id": "1545772",
                     "hashes": {
-                        "sha1": "621568fe13e065d6e307a23e918b5a34eed28154",
-                        "md5": "3b0facf63a15d204a750d42de4c5f977"
+                        "sha1": "132b5f98b8d453e417509480f7d11cc3b1174147",
+                        "md5": "3b74adb931038e216cba1475e9864807"
                     },
-                    "required_dependencies": [],
-                    "size": 299241,
-                    "date_published": "2026-08-09T23:16:04.563Z"
+                    "required_dependencies": [
+                        "1647641"
+                    ],
+                    "size": 94845,
+                    "date_published": "2026-09-23T22:05:15.127Z"
                 }
             ]
         },
@@ -15274,29 +15278,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "syrup_library-0.5.0+1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/8978/211/syrup_library-0.5.0+1.21.1-neoforge.jar",
-                    "id": "8978211",
-                    "parent_id": "1647641",
-                    "hashes": {
-                        "sha1": "3ede7a58ce2db23e70ec030d955710fe0eeb7649",
-                        "md5": "c9278087c1f02efb438baac75e09edfb"
-                    },
-                    "required_dependencies": [],
-                    "size": 204707,
-                    "date_published": "2026-09-26T05:50:44.077Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "syrup_library-0.5.0+1.21.1-neoforge.jar",
+                    "file_name": "syrup_library-0.5.1+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15304,16 +15287,37 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/aUqmU6DA/syrup_library-0.5.0+1.21.1-neoforge.jar",
-                    "id": "aUqmU6DA",
+                    "url": "https://cdn.modrinth.com/data/9tBNzmjo/versions/Oj73UJ3h/syrup_library-0.5.1+1.21.1-neoforge.jar",
+                    "id": "Oj73UJ3h",
                     "parent_id": "9tBNzmjo",
                     "hashes": {
-                        "sha512": "d5b9701aad0248fd8e423c1c6ac2c8a8ac999804c6d3c9d4f34a4157f5c0fba62609acc602695f086eb4eb4c788aad0318dcc21b63c7191ae45a6320ce2c5ec1",
-                        "sha1": "3ede7a58ce2db23e70ec030d955710fe0eeb7649"
+                        "sha512": "1cf3215b1231349bd2879d8aee0aa9c4bae7b0404ad5dc57b2e6bef2b2d8a24fd5a08d59dc2b3b57ab2c8360f43fec10c206c6eac64a5412e8a44fa8a4a5091d",
+                        "sha1": "607c1fb242ab28930f187431cbf885f825d93446"
                     },
                     "required_dependencies": [],
-                    "size": 204707,
-                    "date_published": "2026-09-26T05:50:43.865611Z"
+                    "size": 213183,
+                    "date_published": "2026-09-28T03:58:39.183689Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "syrup_library-0.5.1+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8996/795/syrup_library-0.5.1+1.21.1-neoforge.jar",
+                    "id": "8996795",
+                    "parent_id": "1647641",
+                    "hashes": {
+                        "sha1": "607c1fb242ab28930f187431cbf885f825d93446",
+                        "md5": "0e3300b0c2638f79eb8d406da1d74621"
+                    },
+                    "required_dependencies": [],
+                    "size": 213183,
+                    "date_published": "2026-09-28T03:58:39.933Z"
                 }
             ]
         },
