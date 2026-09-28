@@ -2,7 +2,7 @@
 
 Thanks for helping improve Shenanigans. Contributions can include mod changes, configuration tweaks, KubeJS scripts, datapacks, translations, documentation, and bug fixes.
 
-Shenanigans is a Minecraft 1.20.1 Fabric modpack managed with [Pakku](https://juraj-hrivnak.github.io/Pakku/). The pack targets both CurseForge and Modrinth.
+Shenanigans is a Minecraft 1.21.1 NeoForge modpack managed with [Pakku](https://juraj-hrivnak.github.io/Pakku/). The pack targets both CurseForge and Modrinth.
 
 ## Before you begin
 
@@ -12,7 +12,7 @@ You will need:
 - Java
 - [Pakku](https://juraj-hrivnak.github.io/Pakku/installing-pakku.html)
 - Python 3 to publish
-- A launcher suitable for testing Minecraft 1.20.1 Fabric instances
+- A launcher suitable for testing Minecraft 1.21.1 NeoForge instances
 
 Clone the repository and create a branch for your work:
 
@@ -185,7 +185,7 @@ Pre-release labels such as `-alpha`, `-beta`, and `-rc.1` indicate that a versio
 For a release:
 
 1. Set the new version in `pakku.json`.
-2. Ensure the lockfile contains the intended Minecraft, Fabric loader, and project versions.
+2. Ensure the lockfile contains the intended Minecraft, NeoForge loader, and project versions.
 3. Add the changelog at the path configured by `publish.changelog` in `pakku.json`.
 4. Add the same version to `update-checker/meta.json`.
 5. Keep every `releasedAt` value in the same timestamp unit; use a 13-digit Unix timestamp in milliseconds.
