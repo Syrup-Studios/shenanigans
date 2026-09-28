@@ -163,10 +163,6 @@ ServerEvents.tags('item', event => {
 
 
 ServerEvents.tags('block', event => {
-    event.add('shenanigans:grass_seed_blocks', [
-        'minecraft:grass_block'
-    ]);
-
     event.add('create:wrench_pickup', [
         '#c:chests',
         '#c:barrels',

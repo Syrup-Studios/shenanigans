@@ -4,6 +4,13 @@ const MinecraftBlocks = Java.loadClass('net.minecraft.world.level.block.Blocks')
 
 const tallGrassLower = MinecraftBlocks.TALL_GRASS.defaultBlockState().setValue(DoublePlantBlock.HALF, DoubleBlockHalf.LOWER);
 const tallGrassUpper = MinecraftBlocks.TALL_GRASS.defaultBlockState().setValue(DoublePlantBlock.HALF, DoubleBlockHalf.UPPER);
+const grassSeedConversions = {
+    'minecraft:dirt': 'minecraft:grass_block',
+    'biomeswevegone:lush_dirt': 'biomeswevegone:lush_grass_block',
+    'regions_unexplored:peat_dirt': 'regions_unexplored:peat_grass_block',
+    'regions_unexplored:silt_dirt': 'regions_unexplored:silt_grass_block',
+    'trmt:eroded_dirt': 'trmt:eroded_grass_block'
+};
 
 function growTallGrass(block) {
     const { level, pos } = block;
@@ -19,9 +26,11 @@ BlockEvents.rightClicked(event => {
     const { block, item, player } = event;
     if (item.id !== 'minecraft:wheat_seeds') return;
 
-    if (block.id === 'minecraft:dirt') {
-        block.set('minecraft:grass_block');
-    } else if (block.hasTag('shenanigans:grass_seed_blocks')) {
+    const grassBlock = grassSeedConversions[block.id];
+
+    if (grassBlock) {
+        block.set(grassBlock);
+    } else if (Object.values(grassSeedConversions).includes(block.id)) {
         const above = block.offset(0, 1, 0);
         if (above.id === 'minecraft:air') above.set('minecraft:short_grass');
         else if (above.id === 'minecraft:short_grass') growTallGrass(above);
