@@ -891,6 +891,69 @@
             ]
         },
         {
+            "pakku_id": "6mTuiCGSgsnqWzTW",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "badoptimizations",
+                "modrinth": "badoptimizations"
+            },
+            "name": {
+                "curseforge": "BadOptimizations",
+                "modrinth": "BadOptimizations"
+            },
+            "id": {
+                "curseforge": "949555",
+                "modrinth": "g96Z4WVZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BadOptimizations-2.4.1-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7338/300/BadOptimizations-2.4.1-1.21.1.jar",
+                    "id": "7338300",
+                    "parent_id": "949555",
+                    "hashes": {
+                        "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d",
+                        "md5": "59ee243a5ccd09fff1dd2879b3cad72a"
+                    },
+                    "required_dependencies": [],
+                    "size": 283566,
+                    "date_published": "2025-12-15T23:15:19.003Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BadOptimizations-2.4.1-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/S2qthD5S/BadOptimizations-2.4.1-1.21.1.jar",
+                    "id": "S2qthD5S",
+                    "parent_id": "g96Z4WVZ",
+                    "hashes": {
+                        "sha512": "2b66428bd98bd5ec0e09f2ec6af801cefb7b9b99cc4f0993daeaffe8d0ccc5ee0c2a73e9f38d4f92540ead0181704d2c9e946837ec05cf710fc3b20fce3b0cac",
+                        "sha1": "1461d8e46391efd32a3085150e86094c9f6f5c9d"
+                    },
+                    "required_dependencies": [],
+                    "size": 283566,
+                    "date_published": "2025-12-15T23:15:19.530081Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "YSPJlDMZwSjnFdYx",
             "type": "MOD",
             "side": "BOTH",
@@ -4538,6 +4601,69 @@
                     "required_dependencies": [],
                     "size": 4977657,
                     "date_published": "2026-04-12T18:46:06.171807Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "X6GjsIxaPRD9xTBQ",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "dynamic-fps",
+                "modrinth": "dynamic-fps"
+            },
+            "name": {
+                "curseforge": "Dynamic FPS",
+                "modrinth": "Dynamic FPS"
+            },
+            "id": {
+                "curseforge": "335493",
+                "modrinth": "LQ3K71Q1"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7546/938/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+                    "id": "7546938",
+                    "parent_id": "335493",
+                    "hashes": {
+                        "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
+                        "md5": "e5ef3e5d37eedad79cf44897229fd8f2"
+                    },
+                    "required_dependencies": [],
+                    "size": 220193,
+                    "date_published": "2026-01-29T18:23:46.537Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/T238FZpQ/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+                    "id": "T238FZpQ",
+                    "parent_id": "LQ3K71Q1",
+                    "hashes": {
+                        "sha512": "8eb18a280b265e598540306275b51a165836f4b14c6c703b6ced11fcac50bfab439e4deb69e222f62614a9f15fa0ef58e5bd84e20e37ae57755d9c2f8b134057",
+                        "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e"
+                    },
+                    "required_dependencies": [],
+                    "size": 220193,
+                    "date_published": "2026-01-29T18:23:47.709725Z"
                 }
             ]
         },
@@ -10937,6 +11063,44 @@
                     "required_dependencies": [],
                     "size": 306668,
                     "date_published": "2024-11-08T18:15:55.547255Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "IdcAFfN5TZceVjLk",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "noisiumforked"
+            },
+            "name": {
+                "modrinth": "NoisiumForked"
+            },
+            "id": {
+                "modrinth": "hasdd01q"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hasdd01q/versions/VviuomrA/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+                    "id": "VviuomrA",
+                    "parent_id": "hasdd01q",
+                    "hashes": {
+                        "sha512": "ed05cdcf19f6fe6849204cddf0009b514b3686a0bac0da1d834e80d106b8e28ee2bf7d1e66a6c140d23b6c4cf5bb06558a795b70e31c179bcd1f74d955bd0068",
+                        "sha1": "420b3a234d8f83fa6b24d8dd26333b6256af7911"
+                    },
+                    "required_dependencies": [],
+                    "size": 60512,
+                    "date_published": "2026-02-03T06:24:56.880442Z"
                 }
             ]
         },

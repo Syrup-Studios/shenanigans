@@ -114,6 +114,15 @@
         },
         "clientsort": {
             "side": "BOTH"
+        },
+        "badoptimizations": {
+            "side": "CLIENT"
+        },
+        "dynamic-fps": {
+            "side": "CLIENT"
+        },
+        "noisiumforked": {
+            "side": "BOTH"
         }
     }
 }
