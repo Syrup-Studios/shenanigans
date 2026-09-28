@@ -2129,74 +2129,6 @@
             ]
         },
         {
-            "pakku_id": "pXGWV14eZtRsICSe",
-            "pakku_links": [
-                "X53pH4teDt5MPBsz"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "chunk-activity-tracker",
-                "modrinth": "chunk-activity-tracker"
-            },
-            "name": {
-                "curseforge": "Chunk Activity Tracker",
-                "modrinth": "Chunk Activity Tracker"
-            },
-            "id": {
-                "curseforge": "1193454",
-                "modrinth": "BNuR43mM"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "chunkactivitytracker-neoforge-1.0.1-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6164/360/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar",
-                    "id": "6164360",
-                    "parent_id": "1193454",
-                    "hashes": {
-                        "sha1": "cf068831c27693cc49b79a74ed252caa12351275",
-                        "md5": "19ca2330c30674b01cf8ff75cee2c3a5"
-                    },
-                    "required_dependencies": [
-                        "1104882"
-                    ],
-                    "size": 385815,
-                    "date_published": "2025-02-06T14:53:47.207Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "chunkactivitytracker-neoforge-1.0.1-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/BNuR43mM/versions/ezAcslcX/chunkactivitytracker-neoforge-1.0.1-1.21.1.jar",
-                    "id": "ezAcslcX",
-                    "parent_id": "BNuR43mM",
-                    "hashes": {
-                        "sha512": "353d240170fc3c37d7445b20579f814522bfa4526de57b9f26aef4cc5b1d48710ee0d675b5cb9fc4489815f5992f4ca6f0d1479b2fad9d03f7184ce8dd292273",
-                        "sha1": "cf068831c27693cc49b79a74ed252caa12351275"
-                    },
-                    "required_dependencies": [
-                        "vBbPDuOs"
-                    ],
-                    "size": 385815,
-                    "date_published": "2025-02-06T14:53:49.382079Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "vFkdr4xMNG3deKCy",
             "type": "MOD",
             "side": "BOTH",
@@ -4464,77 +4396,6 @@
                     ],
                     "size": 172170,
                     "date_published": "2024-11-18T23:30:24.124494Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "ujpm5nqGsOYgw2NX",
-            "pakku_links": [
-                "pXGWV14eZtRsICSe",
-                "X53pH4teDt5MPBsz"
-            ],
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "does-it-tick",
-                "modrinth": "does-it-tick"
-            },
-            "name": {
-                "curseforge": "Does It Tick?",
-                "modrinth": "Does It Tick?"
-            },
-            "id": {
-                "curseforge": "543308",
-                "modrinth": "vmg6jaPW"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "does_it_tick-neoforge-1.1.4-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6353/650/does_it_tick-neoforge-1.1.4-1.21.1.jar",
-                    "id": "6353650",
-                    "parent_id": "543308",
-                    "hashes": {
-                        "sha1": "3db67950c701d756913f6f53c7a04316fe0bf2d5",
-                        "md5": "41c98f68cf6c4447d613759f90b01805"
-                    },
-                    "required_dependencies": [
-                        "1193454",
-                        "1104882"
-                    ],
-                    "size": 93269,
-                    "date_published": "2025-03-27T00:35:38.963Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "does_it_tick-neoforge-1.1.4-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vmg6jaPW/versions/LxZKFbNR/does_it_tick-neoforge-1.1.4-1.21.1.jar",
-                    "id": "LxZKFbNR",
-                    "parent_id": "vmg6jaPW",
-                    "hashes": {
-                        "sha512": "e8e46f601b84f837a915d6fce0bdc085f5873122acd781844b053bd2a5ace0a904fba02f5f0516c9a2ed16003e4282d99e9b2fc32d77a7e95ad7b0bc6eb2649e",
-                        "sha1": "3db67950c701d756913f6f53c7a04316fe0bf2d5"
-                    },
-                    "required_dependencies": [
-                        "BNuR43mM",
-                        "vBbPDuOs"
-                    ],
-                    "size": 93269,
-                    "date_published": "2025-03-27T00:35:39.992560Z"
                 }
             ]
         },
@@ -11069,7 +10930,7 @@
         {
             "pakku_id": "IdcAFfN5TZceVjLk",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "modrinth": "noisiumforked"
             },

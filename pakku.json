@@ -13,9 +13,6 @@
         "alternate-current": {
             "side": "BOTH"
         },
-        "does-it-tick": {
-            "side": "BOTH"
-        },
         "almanac": {
             "side": "BOTH"
         },
@@ -29,9 +26,6 @@
             "side": "BOTH"
         },
         "cerulean": {
-            "side": "BOTH"
-        },
-        "chunk-activity-tracker": {
             "side": "BOTH"
         },
         "comfortable-campfires": {
