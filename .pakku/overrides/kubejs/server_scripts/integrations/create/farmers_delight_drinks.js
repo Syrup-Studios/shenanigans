@@ -36,7 +36,7 @@ ServerEvents.recipes(event => {
         ],
         results: [
             {
-                id: 'kubejs:apple_cider',
+                id: 'shenanigans:apple_cider',
                 amount: 750
             }
         ]
@@ -48,7 +48,7 @@ ServerEvents.recipes(event => {
             {
                 item: 'minecraft:glass_bottle'
             },
-            fluidIngredient('kubejs:apple_cider', 250)
+            fluidIngredient('shenanigans:apple_cider', 250)
         ],
         results: [
             {
@@ -79,7 +79,7 @@ ServerEvents.recipes(event => {
         ],
         results: [
             {
-                id: 'kubejs:melon_juice',
+                id: 'shenanigans:melon_juice',
                 amount: 750
             }
         ]
@@ -91,7 +91,7 @@ ServerEvents.recipes(event => {
             {
                 item: 'minecraft:glass_bottle'
             },
-            fluidIngredient('kubejs:melon_juice', 250)
+            fluidIngredient('shenanigans:melon_juice', 250)
         ],
         results: [
             {
