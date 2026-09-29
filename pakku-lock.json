@@ -952,6 +952,67 @@
             ]
         },
         {
+            "pakku_id": "Rz6VPlaKI7Km3Bfv",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "auth-me",
+                "modrinth": "auth-me"
+            },
+            "name": {
+                "curseforge": "Auth Me",
+                "modrinth": "Auth Me"
+            },
+            "id": {
+                "curseforge": "356643",
+                "modrinth": "yjgIrBjZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "authme-neoforge-9.0.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6177/873/authme-neoforge-9.0.1+1.21.1.jar",
+                    "id": "6177873",
+                    "parent_id": "356643",
+                    "hashes": {
+                        "sha1": "13d12989930705e645f82c625d25ac26bce589e5",
+                        "md5": "71c3295cd8537b39ca95390b4cb8fd7e"
+                    },
+                    "required_dependencies": [],
+                    "size": 364895,
+                    "date_published": "2025-02-10T10:49:46.927Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "authme-neoforge-9.0.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yjgIrBjZ/versions/NinhKHNO/authme-neoforge-9.0.1+1.21.1.jar",
+                    "id": "NinhKHNO",
+                    "parent_id": "yjgIrBjZ",
+                    "hashes": {
+                        "sha512": "6f8a343e7bd75d0f9e222c9ced405a2b3b729656983e6ffe111bf97217fd95ddd83817580a126258a414c39e725266b51f03df40e2bd1072b24b7eee524cd8ad",
+                        "sha1": "13d12989930705e645f82c625d25ac26bce589e5"
+                    },
+                    "required_dependencies": [],
+                    "size": 364895,
+                    "date_published": "2025-02-10T10:49:50.512177Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6mTuiCGSgsnqWzTW",
             "type": "MOD",
             "side": "CLIENT",
