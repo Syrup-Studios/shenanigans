@@ -9355,6 +9355,67 @@
             ]
         },
         {
+            "pakku_id": "7Yv3hTLMmXnZxtnM",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mafglib",
+                "modrinth": "mafglib"
+            },
+            "name": {
+                "curseforge": "MaFgLib",
+                "modrinth": "MaFgLib"
+            },
+            "id": {
+                "curseforge": "910766",
+                "modrinth": "SKI34J7B"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mafglib-0.4.3+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7493/644/mafglib-0.4.3+mc1.21.1.jar",
+                    "id": "7493644",
+                    "parent_id": "910766",
+                    "hashes": {
+                        "sha1": "9f62df832b1d5c9fe1aead873bd65cb8defacac7",
+                        "md5": "3b3dafc71cfb16845d3e019a0d8670ec"
+                    },
+                    "required_dependencies": [],
+                    "size": 1314767,
+                    "date_published": "2026-01-20T10:47:47.177Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mafglib-0.4.3+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SKI34J7B/versions/CgDQ0u0Q/mafglib-0.4.3+mc1.21.1.jar",
+                    "id": "CgDQ0u0Q",
+                    "parent_id": "SKI34J7B",
+                    "hashes": {
+                        "sha512": "b28b0552022ba22a729c917b848d119b84236689b550b99ba1fe11f2353551abcd2d9e23b190689be82376a9b2a47ffc22cdb116f413d6f76a5d19f075a9e78d",
+                        "sha1": "9f62df832b1d5c9fe1aead873bd65cb8defacac7"
+                    },
+                    "required_dependencies": [],
+                    "size": 1314767,
+                    "date_published": "2026-01-20T10:47:52.273736Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Mf8y28Ustz2bNJjc",
             "type": "MOD",
             "side": "BOTH",
@@ -15859,6 +15920,74 @@
                     ],
                     "size": 77535,
                     "date_published": "2026-05-29T06:29:25.523345Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "XQgCbmtVg6dLLCiu",
+            "pakku_links": [
+                "7Yv3hTLMmXnZxtnM"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "tweakerge",
+                "modrinth": "tweakerge"
+            },
+            "name": {
+                "curseforge": "Tweakerge",
+                "modrinth": "Tweakerge"
+            },
+            "id": {
+                "curseforge": "915857",
+                "modrinth": "yke6wdGF"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "tweakerge-0.4.3+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7971/130/tweakerge-0.4.3+mc1.21.1.jar",
+                    "id": "7971130",
+                    "parent_id": "915857",
+                    "hashes": {
+                        "sha1": "73900f60c434ae33c1af9267b09d2551029e0486",
+                        "md5": "d35e267fa53c361be7d47d9eb06d4dcb"
+                    },
+                    "required_dependencies": [
+                        "910766"
+                    ],
+                    "size": 674125,
+                    "date_published": "2026-04-23T08:17:38.670Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "tweakerge-0.4.3+mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yke6wdGF/versions/701i2Xre/tweakerge-0.4.3+mc1.21.1.jar",
+                    "id": "701i2Xre",
+                    "parent_id": "yke6wdGF",
+                    "hashes": {
+                        "sha512": "3cf496cd275da1e05382dde8018245569c632ba3dee4e54c6e0d40a1ee89438d083dda8e4770403652cf1e8620fa6b264a4eae10fe7d20b194664be7baae3a22",
+                        "sha1": "73900f60c434ae33c1af9267b09d2551029e0486"
+                    },
+                    "required_dependencies": [
+                        "SKI34J7B"
+                    ],
+                    "size": 674125,
+                    "date_published": "2026-04-23T08:17:43.123224Z"
                 }
             ]
         },
