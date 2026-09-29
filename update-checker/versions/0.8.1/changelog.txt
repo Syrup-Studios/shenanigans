@@ -1,0 +1,7 @@
+## Changelog 0.8.1
+
+### Changed
+- Made NoisiumForked available on both client and server.
+
+### Removed
+- Removed VMP because it conflicts with Sable.

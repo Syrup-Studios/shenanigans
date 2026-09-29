@@ -11251,7 +11251,7 @@
         {
             "pakku_id": "llIRxoz48fJ1tFMO",
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "noisiumforked",
                 "modrinth": "noisiumforked"
@@ -16382,67 +16382,6 @@
                     "required_dependencies": [],
                     "size": 221494,
                     "date_published": "2024-07-30T06:53:19.643Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "fTTAm6z3OwDXsxUj",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "very-many-players-neoforge",
-                "modrinth": "very-many-players-neoforge"
-            },
-            "name": {
-                "curseforge": "Very Many Players (NeoForge)",
-                "modrinth": "Very Many Players (NeoForge)"
-            },
-            "id": {
-                "curseforge": "1680543",
-                "modrinth": "Qm8qDPDy"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "vmp-neoforge-mc1.21.1-0.2.0+beta.7-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8801/747/vmp-neoforge-mc1.21.1-0.2.0+beta.7-neoforge.jar",
-                    "id": "8801747",
-                    "parent_id": "1680543",
-                    "hashes": {
-                        "sha1": "a053a04b6bdd1c73e2d8fc6c4cf99419b1be0492",
-                        "md5": "4a4a73ff932851a1c1d6b4f8c36149c6"
-                    },
-                    "required_dependencies": [],
-                    "size": 467555,
-                    "date_published": "2026-09-03T18:37:37.830Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "vmp-neoforge-mc1.21.1-0.2.0+beta.7-neoforge.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "alpha",
-                    "url": "https://cdn.modrinth.com/data/Qm8qDPDy/versions/21419Ub4/vmp-neoforge-mc1.21.1-0.2.0+beta.7-neoforge.jar",
-                    "id": "21419Ub4",
-                    "parent_id": "Qm8qDPDy",
-                    "hashes": {
-                        "sha512": "bb088956bdf65a859302a0baf282b9f6fc51109829a34f07cc52da8c04fddac325003ab3a05b4eca4199669275c8487f1b54a362a0e256a6503087cf8e467d42",
-                        "sha1": "a053a04b6bdd1c73e2d8fc6c4cf99419b1be0492"
-                    },
-                    "required_dependencies": [],
-                    "size": 467555,
-                    "date_published": "2026-08-30T18:38:58.486802Z"
                 }
             ]
         },
