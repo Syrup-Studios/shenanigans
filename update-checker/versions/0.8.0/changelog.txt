@@ -10,11 +10,13 @@
 - Added tweakerge.
 - Added AuthMe
 - Added Cirrus
+- Added LOD Server Support
 
 ### Changed
 - Moved Master Cutter stonecutting recipes to KubeJS.
 - Recreated Better Than Mending and Grass Seeds behavior in KubeJS, with support for modded dirt.
 - Enabled entity activation in ServerCore.
+- Switched Chunksmith to LOD Server Support
 
 ### Updated
 - Updated Plushie Friends from 1.0.0 to 1.0.1.
@@ -23,3 +25,4 @@
 ### Removed
 - Removed Better Than Mending, Grass Seeds, Does It Tick, and Chunk Activity Tracker.
 - Removed the Master Cutter datapack files.
+- Removed Chunksmith
