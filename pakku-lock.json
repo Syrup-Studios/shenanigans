@@ -11249,19 +11249,44 @@
             ]
         },
         {
-            "pakku_id": "IdcAFfN5TZceVjLk",
+            "pakku_id": "llIRxoz48fJ1tFMO",
             "type": "MOD",
-            "side": "BOTH",
+            "side": "SERVER",
             "slug": {
+                "curseforge": "noisiumforked",
                 "modrinth": "noisiumforked"
             },
             "name": {
+                "curseforge": "NoisiumForked",
                 "modrinth": "NoisiumForked"
             },
             "id": {
+                "curseforge": "1357563",
                 "modrinth": "hasdd01q"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7569/595/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
+                    "id": "7569595",
+                    "parent_id": "1357563",
+                    "hashes": {
+                        "sha1": "420b3a234d8f83fa6b24d8dd26333b6256af7911",
+                        "md5": "2c7cf8892e4a59130b479ccfcac4ff0e"
+                    },
+                    "required_dependencies": [],
+                    "size": 60512,
+                    "date_published": "2026-02-03T06:25:22.823Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
