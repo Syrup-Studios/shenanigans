@@ -787,6 +787,67 @@
             ]
         },
         {
+            "pakku_id": "aOfw1dEcwtH0MEjJ",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "artifacts",
+                "modrinth": "artifacts"
+            },
+            "name": {
+                "curseforge": "Artifacts",
+                "modrinth": "Artifacts"
+            },
+            "id": {
+                "curseforge": "312353",
+                "modrinth": "P0Mu4wcQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "artifacts-neoforge-13.2.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8791/899/artifacts-neoforge-13.2.5.jar",
+                    "id": "8791899",
+                    "parent_id": "312353",
+                    "hashes": {
+                        "sha1": "fb6cd3be2d034dde369ffd7558c95c6daa44189e",
+                        "md5": "16cf5de839360972a30396bd106422ac"
+                    },
+                    "required_dependencies": [],
+                    "size": 1086922,
+                    "date_published": "2026-09-02T11:15:26.817Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "artifacts-neoforge-13.2.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/lMfuK0o7/artifacts-neoforge-13.2.5.jar",
+                    "id": "lMfuK0o7",
+                    "parent_id": "P0Mu4wcQ",
+                    "hashes": {
+                        "sha512": "9079bc8a22c237881b22b38027bbab2a8a2e685a1f49c1e1e0e5796f3e0a5509a130d73753c7b2980f12e4f00845f8e8c967ee969f1eadcd52139c2780afe09d",
+                        "sha1": "fb6cd3be2d034dde369ffd7558c95c6daa44189e"
+                    },
+                    "required_dependencies": [],
+                    "size": 1086922,
+                    "date_published": "2026-09-02T11:14:45.391471Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5NtPk4EYMHwPh8SK",
             "type": "MOD",
             "side": "BOTH",
@@ -1011,6 +1072,74 @@
                     "required_dependencies": [],
                     "size": 783793,
                     "date_published": "2026-08-14T07:50:34.880Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "fM8C175ThqQ7NysN",
+            "pakku_links": [
+                "Ew6oqeHdgca9J60w"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "beltborne-lanterns",
+                "modrinth": "beltborne-lanterns"
+            },
+            "name": {
+                "curseforge": "Beltborne Lanterns",
+                "modrinth": "Beltborne Lanterns"
+            },
+            "id": {
+                "curseforge": "1337474",
+                "modrinth": "NUFDZAKS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "beltborne_lanterns-1.2.5-neoforge+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7763/532/beltborne_lanterns-1.2.5-neoforge+1.21.1.jar",
+                    "id": "7763532",
+                    "parent_id": "1337474",
+                    "hashes": {
+                        "sha1": "3a30923e4ec5db8fd6838d20ce2743b24feb212d",
+                        "md5": "a32fd4a1f822a04631ad575fee2283e8"
+                    },
+                    "required_dependencies": [
+                        "348521"
+                    ],
+                    "size": 140861,
+                    "date_published": "2026-03-15T20:41:45.483Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "beltborne_lanterns-1.2.5-neoforge+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NUFDZAKS/versions/6pbCx85r/beltborne_lanterns-1.2.5-neoforge+1.21.1.jar",
+                    "id": "6pbCx85r",
+                    "parent_id": "NUFDZAKS",
+                    "hashes": {
+                        "sha512": "a540eefcdd340cde918a814c55e6f245f46ded7d7ee3b565a7a62b54cc8e27a073baf6b7a0b6c62b95ea5b4632202370617e18e2d15064e0000f6df296c1a9ba",
+                        "sha1": "3a30923e4ec5db8fd6838d20ce2743b24feb212d"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g"
+                    ],
+                    "size": 140861,
+                    "date_published": "2026-03-15T20:41:26.625020Z"
                 }
             ]
         },
@@ -15968,6 +16097,67 @@
                     "required_dependencies": [],
                     "size": 221494,
                     "date_published": "2024-07-30T06:53:19.643Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "fTTAm6z3OwDXsxUj",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "very-many-players-neoforge",
+                "modrinth": "very-many-players-neoforge"
+            },
+            "name": {
+                "curseforge": "Very Many Players (NeoForge)",
+                "modrinth": "Very Many Players (NeoForge)"
+            },
+            "id": {
+                "curseforge": "1680543",
+                "modrinth": "Qm8qDPDy"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "vmp-neoforge-mc1.21.1-0.2.0+beta.7-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8801/747/vmp-neoforge-mc1.21.1-0.2.0+beta.7-neoforge.jar",
+                    "id": "8801747",
+                    "parent_id": "1680543",
+                    "hashes": {
+                        "sha1": "a053a04b6bdd1c73e2d8fc6c4cf99419b1be0492",
+                        "md5": "4a4a73ff932851a1c1d6b4f8c36149c6"
+                    },
+                    "required_dependencies": [],
+                    "size": 467555,
+                    "date_published": "2026-09-03T18:37:37.830Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "vmp-neoforge-mc1.21.1-0.2.0+beta.7-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/Qm8qDPDy/versions/21419Ub4/vmp-neoforge-mc1.21.1-0.2.0+beta.7-neoforge.jar",
+                    "id": "21419Ub4",
+                    "parent_id": "Qm8qDPDy",
+                    "hashes": {
+                        "sha512": "bb088956bdf65a859302a0baf282b9f6fc51109829a34f07cc52da8c04fddac325003ab3a05b4eca4199669275c8487f1b54a362a0e256a6503087cf8e467d42",
+                        "sha1": "a053a04b6bdd1c73e2d8fc6c4cf99419b1be0492"
+                    },
+                    "required_dependencies": [],
+                    "size": 467555,
+                    "date_published": "2026-08-30T18:38:58.486802Z"
                 }
             ]
         },
