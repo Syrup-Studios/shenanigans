@@ -2319,44 +2319,6 @@
             ]
         },
         {
-            "pakku_id": "vFkdr4xMNG3deKCy",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "modrinth": "chunksmith"
-            },
-            "name": {
-                "modrinth": "Chunksmith"
-            },
-            "id": {
-                "modrinth": "4BeAEBIb"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "chunksmith-4.3.5+1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/4BeAEBIb/versions/igiNpynV/chunksmith-4.3.5+1.21.1-neoforge.jar",
-                    "id": "igiNpynV",
-                    "parent_id": "4BeAEBIb",
-                    "hashes": {
-                        "sha512": "6d8d4529711c73e95c427949a4afbe871f6e913a49c99fd16674d3d0f03591d302c5493b674624a690ea92bb670bc5cc46803b4f992b1e9d783d982a6805bebb",
-                        "sha1": "ec3e54d4cc556ac9cd45e85d188c7e6be3bd23f1"
-                    },
-                    "required_dependencies": [],
-                    "size": 665089,
-                    "date_published": "2026-09-26T01:40:06.645832Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "LLxm8v1zLHfy3rN6",
             "pakku_links": [
                 "LYIdcQkyP1mNhV4S",
@@ -8992,6 +8954,43 @@
                     ],
                     "size": 2294111,
                     "date_published": "2026-09-09T12:27:14.120Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "em4SVC5DcfV3MMfZ",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "lod-server-support"
+            },
+            "name": {
+                "modrinth": "LOD Server Support"
+            },
+            "id": {
+                "modrinth": "lKiXKLvv"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "lod-server-support-neoforge-0.15.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lKiXKLvv/versions/OKTMjy89/lod-server-support-neoforge-0.15.1+1.21.1.jar",
+                    "id": "OKTMjy89",
+                    "parent_id": "lKiXKLvv",
+                    "hashes": {
+                        "sha512": "3c41916d43e590ee0bdaba12c66df0b6328c45048d0c78b2b681367afb8b164b2b57648ebbab88aae3d8dae67fc2b554df8e7d8f80c6084af95e797435311b14",
+                        "sha1": "bd3d83205530333dc873830fba4efd8ba72c4649"
+                    },
+                    "required_dependencies": [],
+                    "size": 22785731,
+                    "date_published": "2026-09-21T00:19:49.663692Z"
                 }
             ]
         },
