@@ -9,6 +9,7 @@
 - Added VMP serverside.
 - Added tweakerge.
 - Added AuthMe
+- Added Cirrus
 
 ### Changed
 - Moved Master Cutter stonecutting recipes to KubeJS.

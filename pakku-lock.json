@@ -2357,6 +2357,77 @@
             ]
         },
         {
+            "pakku_id": "LLxm8v1zLHfy3rN6",
+            "pakku_links": [
+                "LYIdcQkyP1mNhV4S",
+                "G4wvt5AyMHwNw2mv"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "cirrus",
+                "modrinth": "cirrus"
+            },
+            "name": {
+                "curseforge": "Cirrus",
+                "modrinth": "Cirrus"
+            },
+            "id": {
+                "curseforge": "1572354",
+                "modrinth": "SJDzFJH7"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cirrus-neoforge-1.21.1-1.4.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8996/611/cirrus-neoforge-1.21.1-1.4.1.jar",
+                    "id": "8996611",
+                    "parent_id": "1572354",
+                    "hashes": {
+                        "sha1": "b34bb9e8698306778f927341ccc57f3101b13145",
+                        "md5": "44257c7fd6af434b823c6a98f77a02e7"
+                    },
+                    "required_dependencies": [
+                        "667299",
+                        "419699"
+                    ],
+                    "size": 6472459,
+                    "date_published": "2026-09-28T03:29:08.547Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cirrus-neoforge-1.21.1-1.4.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SJDzFJH7/versions/gQSzD7br/cirrus-neoforge-1.21.1-1.4.1.jar",
+                    "id": "gQSzD7br",
+                    "parent_id": "SJDzFJH7",
+                    "hashes": {
+                        "sha512": "85b8796a77e624ac443324df876605d60c577b5c255736c030eeac8a885248b4e026c69b5779212332a2c6373f4a998d8b5c760be98ceec91051b3df2a095360",
+                        "sha1": "b34bb9e8698306778f927341ccc57f3101b13145"
+                    },
+                    "required_dependencies": [
+                        "1eAoo2KR",
+                        "lhGA9TYQ"
+                    ],
+                    "size": 6472459,
+                    "date_published": "2026-09-28T03:22:03.454805Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "woUZJIE0GHaMW1ib",
             "pakku_links": [
                 "Ew6oqeHdgca9J60w"
