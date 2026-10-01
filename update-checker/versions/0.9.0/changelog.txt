@@ -1,0 +1,8 @@
+## Changelog 0.9.0
+
+### Added
+- Added Atlasbound, Antique Atlas 4, and Create: Nowheel.
+
+### Changed
+- Replaced Map Atlases with Antique Atlas 4.
+- Set Apathy to prevent mob attacks on Easy difficulty.
