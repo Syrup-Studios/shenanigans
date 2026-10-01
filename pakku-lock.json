@@ -1029,6 +1029,53 @@
             ]
         },
         {
+            "pakku_id": "p5fx1wKKMEGH4hYy",
+            "pakku_links": [
+                "nxdzcYTQIRxghBJ0",
+                "TuM8x3CyhtI5nS7l",
+                "37RuWfQuU8BnVFtX",
+                "kF1Im8ypr3bCrkGO"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "atlasbound"
+            },
+            "name": {
+                "curseforge": "Atlasbound for Antique Atlas 4"
+            },
+            "id": {
+                "curseforge": "1720083"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "atlasbound-0.2.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/9025/674/atlasbound-0.2.0+1.21.1-neoforge.jar",
+                    "id": "9025674",
+                    "parent_id": "1720083",
+                    "hashes": {
+                        "sha1": "1351e569139eea0a022a4a6578333fa70c857552",
+                        "md5": "88510fc75d81854d6b8f281b20b9f6d5"
+                    },
+                    "required_dependencies": [
+                        "889079",
+                        "890127",
+                        "1391592",
+                        "1391589"
+                    ],
+                    "size": 80831,
+                    "date_published": "2026-10-01T07:55:12.487Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Rz6VPlaKI7Km3Bfv",
             "type": "MOD",
             "side": "CLIENT",
