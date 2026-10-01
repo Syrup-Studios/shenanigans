@@ -5962,29 +5962,8 @@
             "redistributable": false,
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8287/097/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-                    "id": "8287097",
-                    "parent_id": "448233",
-                    "hashes": {
-                        "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf",
-                        "md5": "efb6e5638cd09578c0aaaa396c9bfa84"
-                    },
-                    "required_dependencies": [],
-                    "size": 1585287,
-                    "date_published": "2026-06-20T14:41:50.060Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+                    "file_name": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -5992,16 +5971,37 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-                    "id": "5zRIon6w",
+                    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/8w8FfUPs/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+                    "id": "8w8FfUPs",
                     "parent_id": "NNAgCjsB",
                     "hashes": {
-                        "sha512": "0c22502b84b13d8ac6daffe14ac77e7306b5b7a48f5cd9b3950d9e1d60b3786104aa035fbfdb208b1c9a75ad0e356301a774da32edc3f71cb3a53e2d28fd39e6",
-                        "sha1": "420d0006dbc0a20b1c2dd0b3c7c20ddb5cc51fcf"
+                        "sha512": "dbb40066796ea54bfe902251ccbe743770e3fa9da555fa762da56b3f0427d4a24d3790a8c224519955185a8d1e17fbad462cd314c3acb998b9fc2c8fec257f7a",
+                        "sha1": "2f723582d44b60b41d701a797846eaa45a3fef58"
                     },
                     "required_dependencies": [],
-                    "size": 1585287,
-                    "date_published": "2026-06-20T14:41:50.863801Z"
+                    "size": 1510018,
+                    "date_published": "2026-09-21T19:46:52.810258Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8942/303/entityculling-neoforge-1.11.2-mc1.21.1.jar",
+                    "id": "8942303",
+                    "parent_id": "448233",
+                    "hashes": {
+                        "sha1": "2f723582d44b60b41d701a797846eaa45a3fef58",
+                        "md5": "e10bf84ccb6d384f580dbf038a759160"
+                    },
+                    "required_dependencies": [],
+                    "size": 1510018,
+                    "date_published": "2026-09-21T19:46:50.973Z"
                 }
             ]
         },
