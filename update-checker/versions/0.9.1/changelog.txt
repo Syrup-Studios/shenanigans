@@ -1,0 +1,4 @@
+## Changelog 0.9.1
+
+### Changed
+- Updated Entity Culling from 1.10.5 to 1.11.2.
