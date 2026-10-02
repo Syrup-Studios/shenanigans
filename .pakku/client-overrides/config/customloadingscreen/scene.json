@@ -1,0 +1,141 @@
+{
+  "canvasWidth": 1920,
+  "canvasHeight": 1080,
+  "debug": false,
+  "exitDuration": 0.8,
+  "elements": [
+    {
+      "id": "background",
+      "type": "rect",
+      "layer": 0,
+      "width": 1920,
+      "height": 1080,
+      "opacity": 1,
+      "tint": "#171923FF",
+      "animations": [
+        { "name": "boot_fade", "property": "opacity", "from": 0, "to": 1, "duration": 0.8, "stage": "BOOT", "trigger": "stage", "easing": "out_quad" },
+        { "name": "exit", "property": "opacity", "from": 1, "to": 0, "duration": 0.8, "stage": "COMPLETE", "trigger": "stage", "easing": "in_quad" }
+      ]
+    },
+    {
+      "id": "particles",
+      "type": "particles",
+      "layer": 1,
+      "x": 0,
+      "y": 0,
+      "width": 1920,
+      "height": 1080,
+      "opacity": 0,
+      "count": 32,
+      "speed": 18,
+      "size": 2,
+      "spread": 1,
+      "tint": "#74D6A080",
+      "animations": [
+        { "property": "opacity", "from": 0, "to": 0.55, "duration": 0.7, "stage": "COMMON_SETUP", "trigger": "stage" },
+        { "property": "opacity", "from": 0.55, "to": 0, "duration": 0.8, "stage": "COMPLETE", "trigger": "stage" }
+      ]
+    },
+    {
+      "id": "logo",
+      "type": "sprite",
+      "texture": "logo.png",
+      "text": "@name@",
+      "layer": 1,
+      "anchor": "center",
+      "x": 960,
+      "y": 450,
+      "width": 720,
+      "height": 100,
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "opacity": 1,
+      "tint": "#FFFFFFFF",
+      "parallaxY": 3,
+      "parallaxPeriod": 8,
+      "animations": [
+        { "name": "logo_idle", "property": "y", "from": 450, "to": 400, "duration": 0.8, "easing": "inOutQuad", "playback": "pingpong" },
+        { "name": "logo_exit", "property": "opacity", "from": 1, "to": 0, "duration": 0.8, "stage": "COMPLETE", "trigger": "stage", "easing": "in_quad" }
+      ]
+    },
+    {
+      "id": "common_accent",
+      "type": "rect",
+      "layer": 2,
+      "anchor": "center",
+      "x": 960,
+      "y": 800,
+      "width": 520,
+      "height": 3,
+      "opacity": 0,
+      "tint": "#74D6A0FF",
+      "animations": [
+        { "name": "common_slide", "property": "y", "from": 880, "to": 800, "duration": 0.7, "stage": "COMMON_SETUP", "trigger": "stage", "easing": "out_cubic" },
+        { "property": "opacity", "from": 0, "to": 1, "duration": 0.6, "stage": "COMMON_SETUP", "trigger": "stage", "easing": "out_quad" },
+        { "property": "opacity", "from": 1, "to": 0, "duration": 0.8, "stage": "COMPLETE", "trigger": "stage" }
+      ]
+    },
+    {
+      "id": "client_detail",
+      "type": "text",
+      "text": "PREPARING RESOURCES",
+      "layer": 3,
+      "anchor": "center",
+      "x": 960,
+      "y": 510,
+      "width": 520,
+      "height": 28,
+      "opacity": 0,
+      "tint": "#B8BECCFF",
+      "animations": [
+        { "property": "opacity", "from": 0, "to": 1, "duration": 0.8, "stage": "CLIENT_SETUP", "trigger": "stage", "easing": "out_quad" },
+        { "property": "opacity", "from": 1, "to": 0, "duration": 0.8, "stage": "COMPLETE", "trigger": "stage" }
+      ]
+    },
+    {
+      "id": "progress_track",
+      "type": "rect",
+      "layer": 2,
+      "x": 640,
+      "y": 590,
+      "width": 640,
+      "height": 12,
+      "tint": "#373B4AFF",
+      "animations": [
+        { "property": "opacity", "from": 0, "to": 1, "duration": 0.5, "stage": "MOD_CONSTRUCTION", "trigger": "stage" },
+        { "property": "opacity", "from": 1, "to": 0, "duration": 0.8, "stage": "COMPLETE", "trigger": "stage" }
+      ]
+    },
+    {
+      "id": "progress_fill",
+      "type": "rect",
+      "layer": 3,
+      "x": 640,
+      "y": 590,
+      "width": 0,
+      "height": 12,
+      "tint": "#74D6A0FF",
+      "animations": [
+        { "property": "width", "from": 0, "to": 640, "trigger": "overall_progress", "easing": "linear" },
+        { "property": "opacity", "from": 0, "to": 1, "duration": 0.5, "stage": "MOD_CONSTRUCTION", "trigger": "stage" },
+        { "property": "opacity", "from": 1, "to": 0, "duration": 0.8, "stage": "COMPLETE", "trigger": "stage" }
+      ]
+    },
+    {
+      "id": "loading_label",
+      "type": "text",
+      "text": "Loading",
+      "layer": 4,
+      "x": 640,
+      "y": 620,
+      "width": 640,
+      "height": 36,
+      "tint": "#B8BECCFF",
+      "animations": [
+        { "property": "opacity", "from": 0, "to": 1, "duration": 0.5, "stage": "MOD_CONSTRUCTION", "trigger": "stage" },
+        { "property": "opacity", "from": 1, "to": 0, "duration": 0.8, "stage": "COMPLETE", "trigger": "stage" }
+      ]
+    }
+  ]
+}
