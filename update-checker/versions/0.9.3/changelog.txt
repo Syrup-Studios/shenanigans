@@ -1,0 +1,7 @@
+## Changelog 0.9.3
+
+### Added
+- Added a recipe to craft tuff from gravel, flint, and a stone crafting material.
+
+### Fixed
+- Removed duplicate tuff crushing recipes that produced regular nuggets. Raw nuggets and flint remain available.
