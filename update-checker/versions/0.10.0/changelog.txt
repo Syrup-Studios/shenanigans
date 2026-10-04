@@ -1,4 +1,4 @@
-## Changelog 0.9.3
+## Changelog 0.10.0
 
 ### Added
 - Added a recipe to craft tuff from gravel, flint, and a stone crafting material.

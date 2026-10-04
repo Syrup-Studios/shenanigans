@@ -12552,7 +12552,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "plushie_friends-1.0.1+1.21.1-neoforge.jar",
+                    "file_name": "plushie_friends-1.0.2+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12560,22 +12560,22 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/8AP8EdoE/plushie_friends-1.0.1+1.21.1-neoforge.jar",
-                    "id": "8AP8EdoE",
+                    "url": "https://cdn.modrinth.com/data/dcPq78Za/versions/uxeAyM13/plushie_friends-1.0.2+1.21.1-neoforge.jar",
+                    "id": "uxeAyM13",
                     "parent_id": "dcPq78Za",
                     "hashes": {
-                        "sha512": "b3fc2e0dc89b66b6c4219446a615a974f229b609b1cec6e9865e13e904f2cda340747e33bacc7f186952c0423ecfee197e0a1b1170e568fb62e373e9311a75fe",
-                        "sha1": "132b5f98b8d453e417509480f7d11cc3b1174147"
+                        "sha512": "593901ba7ba2398542479f1eedc2683bd36d68027819247fece7138173f83020aca5e9ef3fec6c439f9a77d26fdace15f2b777c8125d0d129046b6242b20f476",
+                        "sha1": "531d5320071b389d642d43ac59740586ff8e4335"
                     },
                     "required_dependencies": [
                         "9tBNzmjo"
                     ],
-                    "size": 94845,
-                    "date_published": "2026-09-23T22:05:14.259668Z"
+                    "size": 94844,
+                    "date_published": "2026-09-29T23:58:25.645987Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "plushie_friends-1.0.1+1.21.1-neoforge.jar",
+                    "file_name": "plushie_friends-1.0.2+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -12583,18 +12583,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8959/213/plushie_friends-1.0.1+1.21.1-neoforge.jar",
-                    "id": "8959213",
+                    "url": "https://edge.forgecdn.net/files/9014/327/plushie_friends-1.0.2+1.21.1-neoforge.jar",
+                    "id": "9014327",
                     "parent_id": "1545772",
                     "hashes": {
-                        "sha1": "132b5f98b8d453e417509480f7d11cc3b1174147",
-                        "md5": "3b74adb931038e216cba1475e9864807"
+                        "sha1": "531d5320071b389d642d43ac59740586ff8e4335",
+                        "md5": "a6e209b2db4085ed27f22ccf7363a3b8"
                     },
                     "required_dependencies": [
                         "1647641"
                     ],
-                    "size": 94845,
-                    "date_published": "2026-09-23T22:05:15.127Z"
+                    "size": 94844,
+                    "date_published": "2026-09-29T23:58:26.420Z"
                 }
             ]
         },
