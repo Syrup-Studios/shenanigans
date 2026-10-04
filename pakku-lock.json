@@ -1049,7 +1049,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "atlasbound-0.2.0+1.21.1-neoforge.jar",
+                    "file_name": "atlasbound-0.3.0+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1057,21 +1057,21 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/9025/674/atlasbound-0.2.0+1.21.1-neoforge.jar",
-                    "id": "9025674",
+                    "url": "https://edge.forgecdn.net/files/9057/185/atlasbound-0.3.0+1.21.1-neoforge.jar",
+                    "id": "9057185",
                     "parent_id": "1720083",
                     "hashes": {
-                        "sha1": "1351e569139eea0a022a4a6578333fa70c857552",
-                        "md5": "88510fc75d81854d6b8f281b20b9f6d5"
+                        "sha1": "29448e24797b4d29c0eca286a63a0ede530523ae",
+                        "md5": "62785385bc6ed8513d04ded5fb7540f6"
                     },
                     "required_dependencies": [
-                        "889079",
                         "890127",
+                        "889079",
                         "1391592",
                         "1391589"
                     ],
-                    "size": 80831,
-                    "date_published": "2026-10-01T07:55:12.487Z"
+                    "size": 172137,
+                    "date_published": "2026-10-04T11:02:18.233Z"
                 }
             ]
         },
