@@ -83,6 +83,8 @@ ServerEvents.tags('item', event => {
 
     event.add('astikorcartsredux:seed_drill_plantable', farmAndCharmSeedDrillItems);
 
+    event.add('minecraft:enchantable/durability', 'wildernature:blunderbuss');
+
     event.add('spelunkery:copper_ores', [
         'meadow:alpine_copper_ore',
         'natures_spirit:chert_copper_ore'
