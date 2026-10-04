@@ -4343,6 +4343,46 @@
             ]
         },
         {
+            "pakku_id": "vPVdVBoYkz0wpFs5",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "custom-loading-screen",
+                "modrinth": "custom-loading-screen"
+            },
+            "name": {
+                "curseforge": "Custom Loading Screen",
+                "modrinth": "Custom Loading Screen"
+            },
+            "id": {
+                "curseforge": "1721903",
+                "modrinth": "RC5CQSRD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "customloadingscreen-0.1.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/9036/619/customloadingscreen-0.1.0+1.21.1-neoforge.jar",
+                    "id": "9036619",
+                    "parent_id": "1721903",
+                    "hashes": {
+                        "sha1": "ae59fccfdad8ce985d26a9fe51fa587c486011bf",
+                        "md5": "5f2b8315550a5abe085563e0115a5a05"
+                    },
+                    "required_dependencies": [],
+                    "size": 56735,
+                    "date_published": "2026-10-02T10:50:38.720Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6sfBwoOv0zr0sMEi",
             "pakku_links": [
                 "YfKnnFzm5GQhjlxS",
