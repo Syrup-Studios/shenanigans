@@ -6885,51 +6885,53 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fieldguide-neoforge-1.21.1-1.17.0.jar",
+                    "file_name": "fieldguide-1.20.3+1.21.1-neoforge.jar",
                     "mc_versions": [
+                        "1.21",
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/72RRCWM6/versions/XNZLB2kq/fieldguide-neoforge-1.21.1-1.17.0.jar",
-                    "id": "XNZLB2kq",
+                    "url": "https://cdn.modrinth.com/data/72RRCWM6/versions/y03rusAi/fieldguide-1.20.3+1.21.1-neoforge.jar",
+                    "id": "y03rusAi",
                     "parent_id": "72RRCWM6",
                     "hashes": {
-                        "sha512": "be5406052ba5e18a23f7eca3ef66a185a9fc7b2ebf6fd1ad49b2b0af5c67ae1ce34f212b534241d3d70100409e1bff098a194797f1443518be0e2cc8cc906a2c",
-                        "sha1": "8a568b4fdb8b4ddacbbb9e3716a230b1e29a3a27"
+                        "sha512": "27330ef7126aca14d3be57ec9b02cb5756b7b3280c6a01416b0d57846a1c226ffdb054d5a5b779a306f4a1f66d36b2eb3c2187efcffb317dcfdd46c1048ffe4e",
+                        "sha1": "8d2817aa39b9377cda1497492dd35ff8dfa95013"
                     },
                     "required_dependencies": [
                         "UaizcMKP",
                         "PKoLkD98"
                     ],
-                    "size": 1220800,
-                    "date_published": "2026-09-15T04:28:25.044268Z"
+                    "size": 1279758,
+                    "date_published": "2026-10-03T21:15:32.569420Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fieldguide-neoforge-1.21.1-1.17.0.jar",
+                    "file_name": "fieldguide-1.20.3+1.21.1-neoforge.jar",
                     "mc_versions": [
+                        "1.21",
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8884/210/fieldguide-neoforge-1.21.1-1.17.0.jar",
-                    "id": "8884210",
+                    "url": "https://edge.forgecdn.net/files/9051/799/fieldguide-1.20.3+1.21.1-neoforge.jar",
+                    "id": "9051799",
                     "parent_id": "1470590",
                     "hashes": {
-                        "sha1": "8a568b4fdb8b4ddacbbb9e3716a230b1e29a3a27",
-                        "md5": "8cc3dd49ff01a72b145c72da01632c1b"
+                        "sha1": "8d2817aa39b9377cda1497492dd35ff8dfa95013",
+                        "md5": "c1946d413188f5277004bb53dc60e77b"
                     },
                     "required_dependencies": [
-                        "1245453",
-                        "1101501"
+                        "1101501",
+                        "1245453"
                     ],
-                    "size": 1220800,
-                    "date_published": "2026-09-15T04:28:25.183Z"
+                    "size": 1279758,
+                    "date_published": "2026-10-03T21:15:32.030Z"
                 }
             ]
         },
