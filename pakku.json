@@ -117,6 +117,9 @@
         },
         "noisiumforked": {
             "side": "BOTH"
+        },
+        "voxy": {
+            "update_strategy": "NONE"
         }
     }
 }
