@@ -8210,7 +8210,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "mc2_interactivefoliage-2.1.0-neoforge+1.21.1.jar",
+                    "file_name": "mc2_interactivefoliage-1.3.1-neoforge+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8218,22 +8218,22 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ba5MV2CF/versions/lOLxlJJJ/mc2_interactivefoliage-2.1.0-neoforge+1.21.1.jar",
-                    "id": "lOLxlJJJ",
+                    "url": "https://cdn.modrinth.com/data/ba5MV2CF/versions/V2mVk8al/mc2_interactivefoliage-1.3.1-neoforge+1.21.1.jar",
+                    "id": "V2mVk8al",
                     "parent_id": "ba5MV2CF",
                     "hashes": {
-                        "sha512": "845ca55bbc226257763d88bdfc8fe2b588d3e2ed51cd9d7c58a089dcfe6caf13b0fbd569e5d5152f6bf95432d787453db35bdcc1f06819cf217986bc6b826bcc",
-                        "sha1": "dab8f2e8f97ab4bbb0f622fdc1445ece1baf7117"
+                        "sha512": "7af85da47b753ff22361e2e488ff1cdeb203ae94fc528fe26e3a8b4f85065c4b3c8eec4445e4ea183b8136ead5726c794cba2fe13d437d7d393d7bfbc87eb434",
+                        "sha1": "38476c4e607086124c1c9dcc10fe33ec568cfa35"
                     },
                     "required_dependencies": [
                         "Gj6Yce3v"
                     ],
-                    "size": 303244,
-                    "date_published": "2026-10-02T01:55:46.086682Z"
+                    "size": 113132,
+                    "date_published": "2026-09-10T03:26:47.123935Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "mc2_interactivefoliage-2.1.0-neoforge+1.21.1.jar",
+                    "file_name": "mc2_interactivefoliage-1.3.1-neoforge+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8241,18 +8241,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9033/376/mc2_interactivefoliage-2.1.0-neoforge+1.21.1.jar",
-                    "id": "9033376",
+                    "url": "https://edge.forgecdn.net/files/8847/946/mc2_interactivefoliage-1.3.1-neoforge+1.21.1.jar",
+                    "id": "8847946",
                     "parent_id": "1560873",
                     "hashes": {
-                        "sha1": "dab8f2e8f97ab4bbb0f622fdc1445ece1baf7117",
-                        "md5": "a5becbea7d62fbfc68b3c085ea5db1ca"
+                        "sha1": "38476c4e607086124c1c9dcc10fe33ec568cfa35",
+                        "md5": "d414fea73107240672ca27afe90cd2f9"
                     },
                     "required_dependencies": [
                         "1568089"
                     ],
-                    "size": 303244,
-                    "date_published": "2026-10-02T01:55:37.680Z"
+                    "size": 113132,
+                    "date_published": "2026-09-10T03:26:44.131Z"
                 }
             ]
         },

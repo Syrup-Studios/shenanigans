@@ -1,6 +1,6 @@
 {
     "name": "Shenanigans",
-    "version": "0.10.0",
+    "version": "0.10.1",
     "author": "Syrup Studios",
     "publish": {
         "modrinth": "kilQgj16",
@@ -119,6 +119,10 @@
             "side": "BOTH"
         },
         "voxy": {
+            "update_strategy": "NONE"
+        },
+        "mc2-interactive-foliage": {
+            "side": "CLIENT",
             "update_strategy": "NONE"
         }
     }
