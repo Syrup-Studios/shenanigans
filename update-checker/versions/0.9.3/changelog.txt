@@ -2,6 +2,7 @@
 
 ### Added
 - Added a recipe to craft tuff from gravel, flint, and a stone crafting material.
+- The Blunderbuss can now receive Mending, Unbreaking, and Curse of Vanishing enchantments.
 
 ### Fixed
 - Removed duplicate tuff crushing recipes that produced regular nuggets. Raw nuggets and flint remain available.
