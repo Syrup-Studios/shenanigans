@@ -480,7 +480,7 @@ element {
   sticky_anchor = false
   anchor_point = top-left
   x = 48
-  y = 48
+  y = 56
   width = 320
   height = 40
   stay_on_screen = false
@@ -563,7 +563,7 @@ vanilla_button {
   sticky_anchor = false
   anchor_point = top-left
   x = 24
-  y = 140
+  y = 164
   width = 20
   height = 20
   stay_on_screen = true
@@ -586,7 +586,7 @@ vanilla_button {
   advanced_height = -2147483648
   stretch_x = false
   stretch_y = false
-  appearance_delay_seconds = 1.25
+  appearance_delay_seconds = 0.95
   disappearance_delay_seconds = 1.0
   fade_in_speed = 5.5
   fade_out_speed = 1.0
@@ -806,9 +806,9 @@ vanilla_button {
   sticky_anchor = false
   anchor_point = top-left
   x = 48
-  y = 168
-  width = 200
-  height = 20
+  y = 208
+  width = 88
+  height = 24
   stay_on_screen = true
   element_loading_requirement_container_identifier = 1ad939cc-674c-49bd-8994-349525792f34-1789679925410
   [loading_requirement_container_meta:1ad939cc-674c-49bd-8994-349525792f34-1789679925410] = [groups:][instances:]
@@ -887,9 +887,9 @@ vanilla_button {
   sticky_anchor = false
   anchor_point = top-left
   x = 48
-  y = 140
-  width = 200
-  height = 20
+  y = 156
+  width = 208
+  height = 36
   stay_on_screen = true
   element_loading_requirement_container_identifier = e32e51e0-3512-4d6f-a066-15dc6b17cdd1-1789679925410
   [loading_requirement_container_meta:e32e51e0-3512-4d6f-a066-15dc6b17cdd1-1789679925410] = [groups:][instances:]
@@ -1048,8 +1048,8 @@ vanilla_button {
   auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = top-left
-  x = 24
-  y = 196
+  x = 144
+  y = 210
   width = 20
   height = 20
   stay_on_screen = true
@@ -1072,7 +1072,7 @@ vanilla_button {
   advanced_height = -2147483648
   stretch_x = false
   stretch_y = false
-  appearance_delay_seconds = 1.25
+  appearance_delay_seconds = 0.95
   disappearance_delay_seconds = 1.0
   fade_in_speed = 5.5
   fade_out_speed = 1.0
@@ -1130,9 +1130,9 @@ vanilla_button {
   sticky_anchor = false
   anchor_point = top-left
   x = 48
-  y = 252
-  width = 200
-  height = 20
+  y = 240
+  width = 116
+  height = 24
   stay_on_screen = true
   element_loading_requirement_container_identifier = 2a542017-312e-426d-bd70-f4452a4fdfdc-1789679925410
   [loading_requirement_container_meta:2a542017-312e-426d-bd70-f4452a4fdfdc-1789679925410] = [groups:][instances:]
@@ -1153,7 +1153,7 @@ vanilla_button {
   advanced_height = -2147483648
   stretch_x = false
   stretch_y = false
-  appearance_delay_seconds = 0.80
+  appearance_delay_seconds = 0.50
   disappearance_delay_seconds = 1.0
   fade_in_speed = 5.5
   fade_out_speed = 1.0
@@ -1291,10 +1291,10 @@ vanilla_button {
   auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = top-left
-  x = 48
-  y = 224
-  width = 200
-  height = 20
+  x = 176
+  y = 240
+  width = 80
+  height = 24
   stay_on_screen = true
   element_loading_requirement_container_identifier = f40c1dec-437e-4c15-9059-1f6252404db5-1789679925410
   [loading_requirement_container_meta:f40c1dec-437e-4c15-9059-1f6252404db5-1789679925410] = [groups:][instances:]
@@ -1315,7 +1315,7 @@ vanilla_button {
   advanced_height = -2147483648
   stretch_x = false
   stretch_y = false
-  appearance_delay_seconds = 0.65
+  appearance_delay_seconds = 0.50
   disappearance_delay_seconds = 1.0
   fade_in_speed = 5.5
   fade_out_speed = 1.0
@@ -1373,7 +1373,7 @@ vanilla_button {
   sticky_anchor = false
   anchor_point = top-left
   x = 24
-  y = 168
+  y = 210
   width = 20
   height = 20
   stay_on_screen = true
@@ -1396,7 +1396,7 @@ vanilla_button {
   advanced_height = -2147483648
   stretch_x = false
   stretch_y = false
-  appearance_delay_seconds = 1.25
+  appearance_delay_seconds = 0.95
   disappearance_delay_seconds = 1.0
   fade_in_speed = 5.5
   fade_out_speed = 1.0
@@ -1455,8 +1455,8 @@ vanilla_button {
   anchor_point = top-left
   x = 48
   y = 112
-  width = 200
-  height = 20
+  width = 208
+  height = 36
   stay_on_screen = true
   element_loading_requirement_container_identifier = ff9b3ea9-179b-4bad-9cbb-0d9f0276afc8-1789679925410
   [loading_requirement_container_meta:ff9b3ea9-179b-4bad-9cbb-0d9f0276afc8-1789679925410] = [groups:][instances:]
@@ -1534,10 +1534,10 @@ vanilla_button {
   auto_sizing_base_gui_height = 0
   sticky_anchor = false
   anchor_point = top-left
-  x = 48
-  y = 196
-  width = 200
-  height = 20
+  x = 168
+  y = 208
+  width = 88
+  height = 24
   stay_on_screen = true
   element_loading_requirement_container_identifier = 3f9f3bea-cd59-4940-93f7-eb77bbaab482-1789679925410
   [loading_requirement_container_meta:3f9f3bea-cd59-4940-93f7-eb77bbaab482-1789679925410] = [groups:][instances:]
@@ -1558,7 +1558,7 @@ vanilla_button {
   advanced_height = -2147483648
   stretch_x = false
   stretch_y = false
-  appearance_delay_seconds = 0.50
+  appearance_delay_seconds = 0.35
   disappearance_delay_seconds = 1.0
   fade_in_speed = 5.5
   fade_out_speed = 1.0
@@ -1697,7 +1697,7 @@ vanilla_button {
   sticky_anchor = false
   anchor_point = top-left
   x = 24
-  y = 112
+  y = 120
   width = 20
   height = 20
   stay_on_screen = true
@@ -1720,7 +1720,7 @@ vanilla_button {
   advanced_height = -2147483648
   stretch_x = false
   stretch_y = false
-  appearance_delay_seconds = 1.25
+  appearance_delay_seconds = 0.95
   disappearance_delay_seconds = 1.0
   fade_in_speed = 5.5
   fade_out_speed = 1.0
@@ -1956,7 +1956,7 @@ element {
   element_type = animation_controller
   instance_identifier = c3c032ed-001f-41de-810c-d3410525b820-1791204926717
   appearance_delay = no_delay
-  appearance_delay_seconds = 0.15
+  appearance_delay_seconds = 0.00
   fade_in_v2 = no_fading
   fade_in_speed = 1.0
   fade_out = no_fading
@@ -1987,7 +1987,7 @@ element {
 }
 
 element {
-  target_element_ids = ["forge_titlescreen_mods_button"]
+  target_element_ids = ["forge_titlescreen_mods_button","mc_titlescreen_options_button"]
   keyframes = [{"timestamp":0,"posOffsetX":240,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"ee34f1f1-b7c8-4198-9ca6-b8a07b92f001-1791204926717"},{"timestamp":350,"posOffsetX":240,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"a2023a19-fa3c-483e-9826-6e864f3f7d77-1791204926717"},{"timestamp":800,"posOffsetX":0,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"03db97a1-527b-46f0-81bf-242a45058f9b-1791204926717"}]
   loop = false
   offset_mode = true
@@ -1996,7 +1996,7 @@ element {
   element_type = animation_controller
   instance_identifier = 1da21085-59df-4f87-a8b4-6b7a233bd717-1791204926717
   appearance_delay = no_delay
-  appearance_delay_seconds = 0.30
+  appearance_delay_seconds = 0.00
   fade_in_v2 = no_fading
   fade_in_speed = 1.0
   fade_out = no_fading
@@ -2027,7 +2027,7 @@ element {
 }
 
 element {
-  target_element_ids = ["mc_titlescreen_options_button"]
+  target_element_ids = ["376282","mc_titlescreen_quit_button"]
   keyframes = [{"timestamp":0,"posOffsetX":240,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"36dcc87d-43f8-42e0-ba61-7af17bcee594-1791204926717"},{"timestamp":500,"posOffsetX":240,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"211c6bf4-171a-4dad-8817-10dfa5d66bcf-1791204926717"},{"timestamp":950,"posOffsetX":0,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"50575760-fa44-4467-a806-0e95734dff61-1791204926717"}]
   loop = false
   offset_mode = true
@@ -2036,87 +2036,7 @@ element {
   element_type = animation_controller
   instance_identifier = 73c51159-90c2-42e2-9c6b-a6998e685cfd-1791204926717
   appearance_delay = no_delay
-  appearance_delay_seconds = 0.45
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 2560
-  auto_sizing_base_screen_height = 1440
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 68
-  y = 1
-  width = 49
-  height = 39
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 9f17f3db-0f1f-45f1-a241-06c1319e9a55-1791204926717
-  [loading_requirement_container_meta:9f17f3db-0f1f-45f1-a241-06c1319e9a55-1791204926717] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = true
-  in_editor_color = #00FF0064
-  layer_hidden_in_editor = false
-}
-
-element {
-  target_element_ids = ["mc_titlescreen_quit_button"]
-  keyframes = [{"timestamp":0,"posOffsetX":240,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"013a510f-9b45-4157-8347-63326e64d39c-1791204926717"},{"timestamp":650,"posOffsetX":240,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"5d1f47b6-7ef2-4a6a-8a51-c955f268acae-1791204926717"},{"timestamp":1100,"posOffsetX":0,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"a218ec57-77c8-4d66-84cf-8ca0eb559220-1791204926717"}]
-  loop = false
-  offset_mode = true
-  ignore_size = true
-  ignore_position = false
-  element_type = animation_controller
-  instance_identifier = 2e9aa1ea-5cc1-47d3-9518-b7375b80f306-1791204926717
-  appearance_delay = no_delay
-  appearance_delay_seconds = 0.60
-  fade_in_v2 = no_fading
-  fade_in_speed = 1.0
-  fade_out = no_fading
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  auto_sizing = false
-  auto_sizing_base_screen_width = 2560
-  auto_sizing_base_screen_height = 1440
-  sticky_anchor = false
-  anchor_point = top-left
-  x = 68
-  y = 1
-  width = 49
-  height = 39
-  stretch_x = false
-  stretch_y = false
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 9f17f3db-0f1f-45f1-a241-06c1319e9a55-1791204926717
-  [loading_requirement_container_meta:9f17f3db-0f1f-45f1-a241-06c1319e9a55-1791204926717] = [groups:][instances:]
-  enable_parallax = false
-  parallax_intensity_v2 = 0.5
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = true
-  in_editor_color = #00FF0064
-  layer_hidden_in_editor = false
-}
-
-element {
-  target_element_ids = ["376282"]
-  keyframes = [{"timestamp":0,"posOffsetX":240,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"bc544964-75f2-4259-8d93-9a52efad6b0e-1791204926717"},{"timestamp":800,"posOffsetX":240,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"500948da-3e89-4dc0-857c-bbdbea2edc66-1791204926717"},{"timestamp":1250,"posOffsetX":0,"posOffsetY":0,"baseWidth":50,"baseHeight":50,"anchorPoint":{"name":"top-left"},"stickyAnchor":true,"uniqueIdentifier":"b5dbb908-747c-431a-b1a1-877177b74ef7-1791204926717"}]
-  loop = false
-  offset_mode = true
-  ignore_size = true
-  ignore_position = false
-  element_type = animation_controller
-  instance_identifier = 15b58dee-8c7d-4800-8d55-32d50cca02dd-1791204926717
-  appearance_delay = no_delay
-  appearance_delay_seconds = 0.75
+  appearance_delay_seconds = 0.00
   fade_in_v2 = no_fading
   fade_in_speed = 1.0
   fade_out = no_fading
