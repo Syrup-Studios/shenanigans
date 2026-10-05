@@ -1,6 +1,6 @@
 {
     "name": "Shenanigans",
-    "version": "0.10.1",
+    "version": "0.10.2",
     "author": "Syrup Studios",
     "publish": {
         "modrinth": "kilQgj16",
@@ -116,6 +116,9 @@
             "side": "CLIENT"
         },
         "noisiumforked": {
+            "side": "BOTH"
+        },
+        "nclskins": {
             "side": "BOTH"
         },
         "voxy": {

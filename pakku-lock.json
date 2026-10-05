@@ -8207,6 +8207,7 @@
                 "curseforge": "1560873",
                 "modrinth": "ba5MV2CF"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "modrinth",
@@ -10906,6 +10907,67 @@
                     "required_dependencies": [],
                     "size": 73938,
                     "date_published": "2024-08-17T15:54:27.801812Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "AdxBVDrxTUmuZfCm",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "nclskins",
+                "modrinth": "nclskins"
+            },
+            "name": {
+                "curseforge": "NCL Skins",
+                "modrinth": "NCL Skins"
+            },
+            "id": {
+                "curseforge": "1637371",
+                "modrinth": "axxWLWkK"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "nclskins-1.2.1+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9010/603/nclskins-1.2.1+1.21.1-neoforge.jar",
+                    "id": "9010603",
+                    "parent_id": "1637371",
+                    "hashes": {
+                        "sha1": "14394fb6a9ea6d13cf36090bd894a29a693766f2",
+                        "md5": "3ccbd7866dd0dc3100583916cd795c7a"
+                    },
+                    "required_dependencies": [],
+                    "size": 2320986,
+                    "date_published": "2026-09-29T16:17:29.723Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "nclskins-1.2.1+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/axxWLWkK/versions/5ym18iIE/nclskins-1.2.1+1.21.1-neoforge.jar",
+                    "id": "5ym18iIE",
+                    "parent_id": "axxWLWkK",
+                    "hashes": {
+                        "sha512": "d4b6fe5e82e260492fd43a48a0968d0318af7aa8234d93214aee4b9e6fbdb81b89ff0108fc457986d7a79244dcb980acc630ed2273b6a52e30f8fb236ca786dc",
+                        "sha1": "14394fb6a9ea6d13cf36090bd894a29a693766f2"
+                    },
+                    "required_dependencies": [],
+                    "size": 2320986,
+                    "date_published": "2026-09-29T16:17:07.769540Z"
                 }
             ]
         },
@@ -17912,6 +17974,7 @@
             "id": {
                 "modrinth": "fxxUqruK"
             },
+            "update_strategy": "NONE",
             "files": [
                 {
                     "type": "modrinth",
