@@ -1,0 +1,7 @@
+## Changelog 0.10.2
+
+### Added
+- Added NCL Skins.
+
+### Changed
+- Updated the title screen layout with a dark background, a new text element, and revised menu buttons.
