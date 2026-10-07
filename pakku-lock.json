@@ -600,71 +600,6 @@
             ]
         },
         {
-            "pakku_id": "rwIXSdfDzCDXCn39",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "appleskin",
-                "modrinth": "appleskin"
-            },
-            "name": {
-                "curseforge": "AppleSkin",
-                "modrinth": "AppleSkin"
-            },
-            "id": {
-                "curseforge": "248787",
-                "modrinth": "EsAfCjCV"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "appleskin-neoforge-mc1.21-3.0.9.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
-                    "id": "7854442",
-                    "parent_id": "248787",
-                    "hashes": {
-                        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
-                        "md5": "db5fe7619d502cf5b9bc972a955cd3bc"
-                    },
-                    "required_dependencies": [],
-                    "size": 75804,
-                    "date_published": "2026-04-01T04:44:43.280Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "appleskin-neoforge-mc1.21-3.0.9.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
-                    "id": "uAKA6Laj",
-                    "parent_id": "EsAfCjCV",
-                    "hashes": {
-                        "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
-                        "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
-                    },
-                    "required_dependencies": [],
-                    "size": 75804,
-                    "date_published": "2026-04-01T04:50:54.655459Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "SdmUsWumCdO0HL3B",
             "pakku_links": [
                 "FVivaUuWZjg6Hgn2"
@@ -6927,7 +6862,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "fieldguide-1.20.3+1.21.1-neoforge.jar",
+                    "file_name": "fieldguide-1.21.1+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -6936,23 +6871,23 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/72RRCWM6/versions/y03rusAi/fieldguide-1.20.3+1.21.1-neoforge.jar",
-                    "id": "y03rusAi",
+                    "url": "https://cdn.modrinth.com/data/72RRCWM6/versions/B7VC43nG/fieldguide-1.21.1+1.21.1-neoforge.jar",
+                    "id": "B7VC43nG",
                     "parent_id": "72RRCWM6",
                     "hashes": {
-                        "sha512": "27330ef7126aca14d3be57ec9b02cb5756b7b3280c6a01416b0d57846a1c226ffdb054d5a5b779a306f4a1f66d36b2eb3c2187efcffb317dcfdd46c1048ffe4e",
-                        "sha1": "8d2817aa39b9377cda1497492dd35ff8dfa95013"
+                        "sha512": "73f2d546f52d020d0bfe143309507fdebec2e9aa14e88760a892cf94ddb1107d50d0b86f9358cbdc723a830b19b3940653ffd36dd3ed5162376826bda1e10f56",
+                        "sha1": "7d95b8438a0e6340cfa223ce7b3ae2027a39a277"
                     },
                     "required_dependencies": [
                         "UaizcMKP",
                         "PKoLkD98"
                     ],
-                    "size": 1279758,
-                    "date_published": "2026-10-03T21:15:32.569420Z"
+                    "size": 1306796,
+                    "date_published": "2026-10-06T03:33:02.114938Z"
                 },
                 {
                     "type": "curseforge",
-                    "file_name": "fieldguide-1.20.3+1.21.1-neoforge.jar",
+                    "file_name": "fieldguide-1.21.1+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -6961,19 +6896,19 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9051/799/fieldguide-1.20.3+1.21.1-neoforge.jar",
-                    "id": "9051799",
+                    "url": "https://edge.forgecdn.net/files/9075/969/fieldguide-1.21.1+1.21.1-neoforge.jar",
+                    "id": "9075969",
                     "parent_id": "1470590",
                     "hashes": {
-                        "sha1": "8d2817aa39b9377cda1497492dd35ff8dfa95013",
-                        "md5": "c1946d413188f5277004bb53dc60e77b"
+                        "sha1": "7d95b8438a0e6340cfa223ce7b3ae2027a39a277",
+                        "md5": "2816fc736dc103ea6a792c7bc49a0349"
                     },
                     "required_dependencies": [
-                        "1101501",
-                        "1245453"
+                        "1245453",
+                        "1101501"
                     ],
-                    "size": 1279758,
-                    "date_published": "2026-10-03T21:15:32.030Z"
+                    "size": 1306796,
+                    "date_published": "2026-10-06T03:33:01.283Z"
                 }
             ]
         },
@@ -16465,6 +16400,48 @@
                     ],
                     "size": 77535,
                     "date_published": "2026-05-29T06:29:25.523345Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "mwQU0sZgbhY1XEKp",
+            "pakku_links": [
+                "kPmLwsMsKJ7V5mIq"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "travellers-handbook"
+            },
+            "name": {
+                "curseforge": "Traveller's Handbook"
+            },
+            "id": {
+                "curseforge": "1721648"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "travellers-handbook-0.6.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9032/199/travellers-handbook-0.6.0+1.21.1-neoforge.jar",
+                    "id": "9032199",
+                    "parent_id": "1721648",
+                    "hashes": {
+                        "sha1": "429efab0ba166f5f12201162a4454e3eb7ec0639",
+                        "md5": "502cf0cb6836155c7f96ae1a909f0ddf"
+                    },
+                    "required_dependencies": [
+                        "488090"
+                    ],
+                    "size": 167493,
+                    "date_published": "2026-10-01T23:36:14.177Z"
                 }
             ]
         },
