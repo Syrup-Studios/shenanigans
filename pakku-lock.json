@@ -1032,9 +1032,9 @@
             "pakku_id": "p5fx1wKKMEGH4hYy",
             "pakku_links": [
                 "nxdzcYTQIRxghBJ0",
-                "TuM8x3CyhtI5nS7l",
                 "37RuWfQuU8BnVFtX",
-                "kF1Im8ypr3bCrkGO"
+                "kF1Im8ypr3bCrkGO",
+                "eWbjDcSyRFV19xn2"
             ],
             "type": "MOD",
             "slug": {
@@ -14842,20 +14842,23 @@
             ]
         },
         {
-            "pakku_id": "TuM8x3CyhtI5nS7l",
+            "pakku_id": "eWbjDcSyRFV19xn2",
             "pakku_links": [
                 "nxdzcYTQIRxghBJ0"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
-                "modrinth": "connector"
+                "modrinth": "connector",
+                "curseforge": "sinytra-connector"
             },
             "name": {
-                "modrinth": "Sinytra Connector"
+                "modrinth": "Sinytra Connector",
+                "curseforge": "Sinytra Connector"
             },
             "id": {
-                "modrinth": "u58R1TMW"
+                "modrinth": "u58R1TMW",
+                "curseforge": "890127"
             },
             "files": [
                 {
@@ -14880,6 +14883,29 @@
                     ],
                     "size": 4573244,
                     "date_published": "2026-08-15T12:43:58.152125Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "connector-2.0.0-beta.17+1.21.1-full.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/8654/89/connector-2.0.0-beta.17+1.21.1-full.jar",
+                    "id": "8654089",
+                    "parent_id": "890127",
+                    "hashes": {
+                        "sha1": "ba08b534af7982d0bd25a25b45cb654c09ffec8f",
+                        "md5": "b3e451facbf76338a06d765e7d1c7e9c"
+                    },
+                    "required_dependencies": [
+                        "889079"
+                    ],
+                    "size": 4573244,
+                    "date_published": "2026-08-15T12:43:57.387Z"
                 }
             ]
         },
