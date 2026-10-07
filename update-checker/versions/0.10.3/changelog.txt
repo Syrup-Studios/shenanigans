@@ -1,0 +1,5 @@
+## Changelog 0.10.3
+
+### Changed
+- Updated Custom Loading Screen to 0.2.0.
+- Updated Roxy to 0.4.0.

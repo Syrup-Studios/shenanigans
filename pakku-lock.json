@@ -4361,7 +4361,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "customloadingscreen-0.1.0+1.21.1-neoforge.jar",
+                    "file_name": "customloadingscreen-0.2.0+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -4369,16 +4369,16 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/9036/619/customloadingscreen-0.1.0+1.21.1-neoforge.jar",
-                    "id": "9036619",
+                    "url": "https://edge.forgecdn.net/files/9085/563/customloadingscreen-0.2.0+1.21.1-neoforge.jar",
+                    "id": "9085563",
                     "parent_id": "1721903",
                     "hashes": {
-                        "sha1": "ae59fccfdad8ce985d26a9fe51fa587c486011bf",
-                        "md5": "5f2b8315550a5abe085563e0115a5a05"
+                        "sha1": "10b42d739c9438a4b7b0e5c7a151dc9648e0e597",
+                        "md5": "cb7f616206ce3e5a893b3bf81fdefd13"
                     },
                     "required_dependencies": [],
-                    "size": 56735,
-                    "date_published": "2026-10-02T10:50:38.720Z"
+                    "size": 70945,
+                    "date_published": "2026-10-07T01:56:16.880Z"
                 }
             ]
         },
@@ -10913,7 +10913,7 @@
         {
             "pakku_id": "AdxBVDrxTUmuZfCm",
             "type": "MOD",
-            "side": "CLIENT",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "nclskins",
                 "modrinth": "nclskins"
@@ -13851,32 +13851,8 @@
             "redistributable": false,
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "roxy-1.21.1-NeoForge-0.3.3.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8899/498/roxy-1.21.1-NeoForge-0.3.3.jar",
-                    "id": "8899498",
-                    "parent_id": "1626949",
-                    "hashes": {
-                        "sha1": "f8e75297fcdde4db0aa1d89780d262925535af4d",
-                        "md5": "0c891ba2769de7fa48d7bb9a85794c75"
-                    },
-                    "required_dependencies": [
-                        "394468",
-                        "889079"
-                    ],
-                    "size": 2498570,
-                    "date_published": "2026-09-16T23:12:14.737Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "roxy-1.21.1-NeoForge-0.3.3.jar",
+                    "file_name": "roxy-1.21.1-NeoForge-0.4.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -13884,20 +13860,44 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/Ap78bKTp/versions/Tbny1Cq6/roxy-1.21.1-NeoForge-0.3.3.jar",
-                    "id": "Tbny1Cq6",
+                    "url": "https://cdn.modrinth.com/data/Ap78bKTp/versions/cDmwpuYr/roxy-1.21.1-NeoForge-0.4.0.jar",
+                    "id": "cDmwpuYr",
                     "parent_id": "Ap78bKTp",
                     "hashes": {
-                        "sha512": "9b4a487e9c0fe76eaee8c2e41833140cd84a02bc87fcf75672a09534c68f97cee52c7ea8496b0328a722d3c723a994c3884cd18c252077da34be647b23ee136d",
-                        "sha1": "f8e75297fcdde4db0aa1d89780d262925535af4d"
+                        "sha512": "9dc2c87447b2d43b186eba4957be25a08833a937aadd4f836ba86ad64328a1ae819c696044ba55d3efc9cd7b9f8022e3dbc3d362d355486e90b179674eeae1da",
+                        "sha1": "05d2b4028dbfc309184f8cf745de92f880a72520"
                     },
                     "required_dependencies": [
                         "Aqlf1Shp",
                         "AANobbMI",
                         "fxxUqruK"
                     ],
-                    "size": 2498570,
-                    "date_published": "2026-09-16T23:11:41.578012Z"
+                    "size": 2640569,
+                    "date_published": "2026-10-07T02:19:53.500881Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "roxy-1.21.1-NeoForge-0.4.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9085/685/roxy-1.21.1-NeoForge-0.4.0.jar",
+                    "id": "9085685",
+                    "parent_id": "1626949",
+                    "hashes": {
+                        "sha1": "05d2b4028dbfc309184f8cf745de92f880a72520",
+                        "md5": "363e412f1ceafa3338996d7095d713b7"
+                    },
+                    "required_dependencies": [
+                        "889079",
+                        "394468"
+                    ],
+                    "size": 2640569,
+                    "date_published": "2026-10-07T02:20:34.743Z"
                 }
             ]
         },
