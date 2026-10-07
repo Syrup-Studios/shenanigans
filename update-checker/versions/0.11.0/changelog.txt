@@ -6,5 +6,8 @@
 ### Updated
 - Updated Field Guide from 1.20.3 to 1.21.1.
 
+### Fixed
+- Moved bundled datapacks to Open Loader's default packs folder so they load correctly.
+
 ### Removed
 - Removed AppleSkin.
