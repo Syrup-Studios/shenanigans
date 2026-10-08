@@ -127,6 +127,9 @@
         "mc2-interactive-foliage": {
             "side": "CLIENT",
             "update_strategy": "NONE"
+        },
+        "travellers-handbook": {
+            "redistributable": true
         }
     }
 }
