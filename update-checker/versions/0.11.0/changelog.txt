@@ -2,6 +2,7 @@
 
 ### Added
 - Added Traveller's Handbook 0.6.0.
+- Added Rock n Stone 0.6.0.
 
 ### Updated
 - Updated Field Guide from 1.20.3 to 1.21.2.
