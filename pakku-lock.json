@@ -13762,6 +13762,73 @@
             ]
         },
         {
+            "pakku_id": "p9i726X58Os09AeP",
+            "pakku_links": [
+                "kPmLwsMsKJ7V5mIq"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "rock-n-stone",
+                "modrinth": "rock-n-stone"
+            },
+            "name": {
+                "curseforge": "Rock n Stone",
+                "modrinth": "Rock n Stone"
+            },
+            "id": {
+                "curseforge": "1621516",
+                "modrinth": "PYeUWbif"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "rockandstone-0.6.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8490/728/rockandstone-0.6.0+1.21.1-neoforge.jar",
+                    "id": "8490728",
+                    "parent_id": "1621516",
+                    "hashes": {
+                        "sha1": "952dcc279e84857b9246ca6050a8ca8b41ba55ba",
+                        "md5": "6f1f7799a94a58d29102e9d768f9cbc1"
+                    },
+                    "required_dependencies": [],
+                    "size": 54068,
+                    "date_published": "2026-07-23T01:04:06.510Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "rockandstone-0.6.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/PYeUWbif/versions/MQkaXGVz/rockandstone-0.6.0+1.21.1-neoforge.jar",
+                    "id": "MQkaXGVz",
+                    "parent_id": "PYeUWbif",
+                    "hashes": {
+                        "sha512": "8690b81c835042be76dd6ab07bf47c85615c3e1b198e8e752812cfda20bfc20e60e59b91280dd9313e147101228c6c29c5b218edc751dd6fc7fd3dc61c69feef",
+                        "sha1": "952dcc279e84857b9246ca6050a8ca8b41ba55ba"
+                    },
+                    "required_dependencies": [
+                        "codAaoxh"
+                    ],
+                    "size": 54068,
+                    "date_published": "2026-07-22T01:37:13.565184Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "nbf6E0JNOUXOSlf5",
             "pakku_links": [
                 "BU7qhTi3bxhmutfW",
@@ -16418,7 +16485,6 @@
             "id": {
                 "curseforge": "1721648"
             },
-            "redistributable": true,
             "files": [
                 {
                     "type": "curseforge",
