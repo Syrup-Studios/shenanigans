@@ -1,0 +1,31 @@
+## Changelog 0.11.0
+
+### Added
+- Added Traveller's Handbook 0.6.0.
+- Added Rock n Stone 0.6.0.
+
+### Updated
+- Updated Field Guide from 1.20.3 to 1.21.2.
+- Updated Collective from 8.41 to 8.42.
+- Updated Dusty Decorations from 2.1.0 to 2.2.0.
+- Updated JEI from 19.57.0.450 to 19.57.0.451.
+- Updated Moonlight Lib from 3.7.0 to 3.7.1.
+- Updated Oh The Biomes We've Gone from 2.6.0 to 2.6.2.
+- Updated Oh The Trees You'll Grow from 5.3.3 to 5.3.4.
+- Updated Particle Rain from 4.0.0-beta.11 to 4.0.1.
+- Updated Sophisticated Backpacks from 3.26.7.2182 to 3.26.9.2195.
+- Updated Sophisticated Core from 1.5.5.2363 to 1.5.7.2381.
+- Updated Sophisticated Storage from 1.6.1.2147 to 1.6.2.2159.
+- Updated SuperMartijn642's Core Lib from 1.1.24a to 1.1.25.
+- Updated Entity Model Features from 3.3.10 to 3.3.11.
+- Updated Let's Do Bakery from 2.1.7 to 2.1.8.
+- Updated Let's Do Brewery from 2.1.11 to 2.1.12.
+- Updated Let's Do Candlelight from 2.1.13 to 2.1.14.
+- Updated Let's Do Farm & Charm from 1.1.26 to 1.1.27.
+- Updated Let's Do Vinery from 1.5.4 to 1.5.5.
+
+### Fixed
+- Moved bundled datapacks to Open Loader's default packs folder so they load correctly.
+
+### Removed
+- Removed AppleSkin.

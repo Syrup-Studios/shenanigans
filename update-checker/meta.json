@@ -276,6 +276,17 @@
           "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.10.3"
         }
       }
+    },
+    {
+      "id": "0.11.0",
+      "releasedAt": 1791379656000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/shenanigans/version/0.11.0",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/",
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.11.0"
+        }
+      }
     }
   ]
 }

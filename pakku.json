@@ -1,6 +1,6 @@
 {
     "name": "Shenanigans",
-    "version": "0.10.3",
+    "version": "0.11.0",
     "author": "Syrup Studios",
     "publish": {
         "modrinth": "kilQgj16",
@@ -127,6 +127,9 @@
         "mc2-interactive-foliage": {
             "side": "CLIENT",
             "update_strategy": "NONE"
+        },
+        "travellers-handbook": {
+            "redistributable": true
         }
     }
 }
