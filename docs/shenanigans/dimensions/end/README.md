@@ -1,3 +1,3 @@
 # The End
 
-The repository does not document End-specific changes.
+Plushies are in the loot table for End city treasure chests.

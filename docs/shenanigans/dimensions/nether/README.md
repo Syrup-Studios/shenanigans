@@ -1,3 +1,3 @@
 # The Nether
 
-The pack includes NetherPortalFix. The repository does not document other Nether-specific changes.
+NetherPortalFix is included in the pack. Plushies are in loot tables for Nether fortress and bastion chests.

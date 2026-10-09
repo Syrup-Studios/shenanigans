@@ -1,6 +1,6 @@
 # Only Hammers and Excavators
 
-The pack changes the configured tool radius by tier:
+Tool radius by tier:
 
 | Tier | Excavator | Hammer |
 | --- | ---: | ---: |

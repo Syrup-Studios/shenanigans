@@ -1,3 +1,3 @@
 # Item Obliterator
 
-The config disables five vanilla stone tools: the shovel, pickaxe, axe, hoe, and sword.
+These vanilla stone tools are disabled: shovel, pickaxe, axe, hoe, and sword.

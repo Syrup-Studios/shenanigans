@@ -1,3 +1,3 @@
 # Realistic Bees
 
-The pack sets the maximum number of bees per hive to five.
+Bees are half their usual size. Each natural bee spawn adds three more bees. A hive holds up to five bees.

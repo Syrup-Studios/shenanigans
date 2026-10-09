@@ -1,6 +1,6 @@
 # Changes
 
-These pages describe pack-specific changes to selected mods:
+Pack-specific changes to selected mods:
 
 - [Apathy](mods/apathy/README.md)
 - [Better Days](mods/betterdays/README.md)
@@ -9,3 +9,4 @@ These pages describe pack-specific changes to selected mods:
 - [Item Obliterator](mods/itemobliterator/README.md)
 - [Only Hammers and Excavators](mods/onlyhammersandexcavators/README.md)
 - [Realistic Bees](mods/realisticbees/README.md)
+- [Recipe changes](recipes.md)

@@ -1,12 +1,12 @@
 # Contributing to Shenanigans
 
-Thanks for helping improve Shenanigans. Contributions can include mod changes, configuration tweaks, KubeJS scripts, datapacks, translations, documentation, and bug fixes.
+Contributions can include mod changes, configuration, KubeJS scripts, datapacks, translations, documentation, and bug fixes.
 
 Shenanigans is a Minecraft 1.21.1 NeoForge modpack managed with [Pakku](https://juraj-hrivnak.github.io/Pakku/). The pack targets both CurseForge and Modrinth.
 
 ## Before you begin
 
-You will need:
+Requirements:
 
 - Git
 - Java
@@ -14,7 +14,7 @@ You will need:
 - Python 3 to publish
 - A launcher suitable for testing Minecraft 1.21.1 NeoForge instances
 
-Clone the repository and create a branch for your work:
+Clone the repository and create a branch:
 
 ```bash
 git clone https://github.com/Syrup-Studios/shenanigans.git
@@ -37,7 +37,7 @@ update-checker/     Published version metadata and changelogs
 build/              Generated CurseForge, Modrinth, and server exports
 ```
 
-`pakku-lock.json` is part of the source of truth and must remain committed. When a Pakku operation changes the project set or locked versions, include the resulting lockfile change in your commit.
+Commit `pakku-lock.json` with the source. If a Pakku operation changes projects or locked versions, include the lockfile change.
 
 ## Working on the pack
 
@@ -55,9 +55,9 @@ pakku fetch
 pakku export
 ```
 
-Review the changes to both `pakku.json` and `pakku-lock.json` after adding, removing, or updating projects. Avoid hand-editing the lockfile.
+After adding, removing, or updating projects, review `pakku.json` and `pakku-lock.json`. Do not edit the lockfile by hand.
 
-`pakku fetch` downloads project files and applies the overrides to a local development instance. Commit or stash unrelated work before using commands that synchronize or replace local instance files.
+`pakku fetch` downloads project files and applies overrides to a local development instance. Commit or stash unrelated work before commands that synchronize or replace instance files.
 
 ### Choosing an override directory
 
@@ -69,7 +69,7 @@ Place a file according to where it must be installed:
 | `.pakku/client-overrides/` | Yes | No | Client configs, menus, resource packs, client scripts |
 | `.pakku/server-overrides/` | No | Yes | Server-only files such as the server icon |
 
-Do not place a client-only config or asset in the shared overrides merely because it is harmless on a server. Keeping the sides accurate makes exports easier to understand and troubleshoot.
+Keep client-only configs and assets out of shared overrides, even if they are harmless on a server. Correct side placement makes exports easier to troubleshoot.
 
 ### KubeJS
 
@@ -80,21 +80,21 @@ KubeJS files are organized by execution side and purpose:
 - Registrations and item changes: `.pakku/overrides/kubejs/startup_scripts/`
 - Translations and client assets: `.pakku/client-overrides/kubejs/assets/shenanigans/`
 
-Keep scripts focused and place integrations in a directory named after the affected mod. Prefer the `shenanigans` namespace for pack-owned identifiers and translation keys. If several scripts repeat the same behavior, consolidate the shared data or helper logic when practical.
+Keep scripts focused. Put integrations in a directory named for the affected mod. Use the `shenanigans` namespace for pack-owned identifiers and translation keys. Consolidate repeated behavior when practical.
 
-Test both a new world and an existing world when changing startup scripts, registries, tags, recipes, loot tables, or world-generation configuration.
+When changing startup scripts, registries, tags, recipes, loot tables, or world-generation config, test a new and an existing world.
 
 ### Datapacks and resource packs
 
-Pack-owned datapacks and resource packs should remain unpacked so their contents produce useful Git diffs. Each pack directory must contain its `pack.mcmeta` at the same level as `data/` or `assets/`.
+Keep pack-owned datapacks and resource packs unpacked for useful Git diffs. Each pack directory must place `pack.mcmeta` beside `data/` or `assets/`.
 
-Third-party packs may remain archived when they are distributed in that form. Do not modify or redistribute third-party content unless its license or the author's permission allows it. Record the source and version in the filename or accompanying documentation when adding bundled content.
+Third-party packs may remain archived if distributed that way. Modify or redistribute third-party content only when its license or the author's permission allows it. Record the source and version in the filename or accompanying documentation.
 
 ### Config files
 
-Only commit intentional settings. Remove machine-specific values, server addresses, account information, tokens, window dimensions, and generated noise before committing.
+Commit only intentional settings. Remove machine-specific values, server addresses, account information, tokens, window dimensions, and generated noise.
 
-When changing a shared config, test it on both a client and a dedicated server. A config generated in single-player is not automatically safe or useful on a server.
+Test shared configs on a client and dedicated server. A single-player config is not automatically suitable for a server.
 
 ## Validation and testing
 
@@ -104,7 +104,7 @@ Before submitting a change:
 2. Confirm that new files are in the correct override directory.
 3. Start the pack and check `latest.log` for errors related to your change.
 4. Test relevant behavior in-game, including multiplayer or a dedicated server when applicable.
-5. Run `./publish --dry-run` to export the pack, validate target artifacts, and run read-only checks on each target platform with a token. This mode never uploads. Run `./publish` to upload when the required API token or tokens are set.
+5. Run `./publish --dry-run` to export the pack, validate artifacts, and run read-only checks on target platforms with tokens. It does not upload. Run `./publish` to upload when required tokens are set.
 
    ```bash
    ./publish --dry-run
@@ -120,7 +120,7 @@ Before submitting a change:
 
 Generated build artifacts must not be committed.
 
-Publishing accepts tokens from the process environment, `~/.pakku/publish.env`, or `~/.pakku/pakku.json`. The lookup order is process environment, then `publish.env`, then the global JSON file. A token in a higher source takes precedence. The required tokens depend on `pakku-lock.json`'s `target` (`MODRINTH_TOKEN`, `CURSEFORGE_TOKEN`, or both for `multiplatform`).
+Publishing reads tokens from the process environment, `~/.pakku/publish.env`, or `~/.pakku/pakku.json`, in that order. Higher sources take precedence. `pakku-lock.json`'s `target` determines the required token: `MODRINTH_TOKEN`, `CURSEFORGE_TOKEN`, or both for `multiplatform`.
 
 For `publish.env`, add the tokens as plain dotenv lines, without `export`:
 
@@ -129,7 +129,7 @@ MODRINTH_TOKEN='your-token'
 CURSEFORGE_TOKEN='your-token'
 ```
 
-Protect the file with `chmod 600 ~/.pakku/publish.env`. You can also put tokens in the `publish` object of `~/.pakku/pakku.json`, using `modrinth_token` and `curseforge_token`:
+Protect the file with `chmod 600 ~/.pakku/publish.env`. Alternatively, put tokens in the `publish` object in `~/.pakku/pakku.json`:
 
 ```json
 {
@@ -140,9 +140,11 @@ Protect the file with `chmod 600 ~/.pakku/publish.env`. You can also put tokens 
 }
 ```
 
-If this JSON file contains either token, protect it with `chmod 600 ~/.pakku/pakku.json`. On POSIX systems, publishing fails when group or other users can read or access that file. Do not put token keys in a project `pakku.json`; publishing rejects them to prevent committed secrets. If any required token is missing, `./publish` runs as a dry run. In both automatic and explicit dry-run mode, exports are validated and read-only remote preflight runs for platforms with tokens. CurseForge checks game-version and loader IDs. Modrinth checks the configured project and whether the pack version already exists. A platform without a token is reported as skipped. Dry-run mode sends no upload requests. For a multiplatform release, if the exact Modrinth version already exists, the script reports it during dry run and skips its upload during publishing, then continues with CurseForge. This lets a publish resume if an earlier run uploaded to Modrinth before failing on CurseForge.
+If this file contains either token, protect it with `chmod 600 ~/.pakku/pakku.json`. On POSIX systems, publishing fails if group or other users can access it. Do not put tokens in a project `pakku.json`; publishing rejects them to prevent committed secrets.
 
-You can put shared publishing defaults in `~/.pakku/pakku.json`, in a top-level `publish` object. The script merges those values first, then applies the project's `publish` values. A project value takes precedence when both files set the same key. For example, set a shared release type and changelog path globally:
+If a required token is missing, `./publish` runs as a dry run. Explicit and automatic dry runs validate exports and run read-only preflight checks on platforms with tokens. CurseForge checks game-version and loader IDs. Modrinth checks the configured project and whether the pack version exists. Platforms without tokens are reported as skipped. Dry runs do not upload. For a multiplatform release, a dry run reports an existing exact Modrinth version. Publishing skips that upload and continues with CurseForge, so you can retry after Modrinth succeeds and CurseForge fails.
+
+Set shared publishing defaults in the top-level `publish` object of `~/.pakku/pakku.json`. Project `publish` values override global values. For example:
 
 ```json
 {
@@ -153,9 +155,9 @@ You can put shared publishing defaults in `~/.pakku/pakku.json`, in a top-level 
 }
 ```
 
-Paths in `publish` are relative to the project root. The project `pakku.json` remains the source for pack name, version, and projects. Project publish settings do not supply credentials.
+Publishing paths are relative to the project root. Project `pakku.json` supplies the pack name, version, and projects. Project publish settings do not supply credentials.
 
-The project's `publish` section can override defaults and set project-specific values:
+The project's `publish` section can override defaults and set project values:
 
 ```json
 "publish": {
@@ -167,12 +169,12 @@ The project's `publish` section can override defaults and set project-specific v
 }
 ```
 
-Set project IDs only for the platforms in `pakku-lock.json`'s `target` (`modrinth`, `curseforge`, or `multiplatform`). The release type must be `release`, `beta`, or `alpha`. `changelog` is optional and defaults to `CHANGELOG.md`; `{version}` is replaced with the version from `pakku.json`. `metadata` is optional; when set, it must be JSON with a `versions` array containing an object whose `id` matches the pack version. Pack name, version, Minecraft versions, loaders, and export target come from Pakku's config and lockfile. Only artifacts for the locked target are required. A generated server pack is checked when present.
+Set project IDs only for platforms in `pakku-lock.json`'s `target` (`modrinth`, `curseforge`, or `multiplatform`). `release_type` must be `release`, `beta`, or `alpha`. `changelog` defaults to `CHANGELOG.md`; `{version}` uses the version in `pakku.json`. If set, `metadata` must be JSON with a `versions` array containing an object whose `id` matches the pack version. Pakku's config and lockfile supply the pack name, version, Minecraft versions, loaders, and export target. Only artifacts for the locked target are required. A generated server pack is checked when present.
 
 
 ## Changelogs and releases
 
-Routine contributions should not bump the modpack version. Maintainers handle versioning and publishing unless a change is specifically preparing a release.
+Do not bump the pack version for routine contributions. Maintainers handle versioning and publishing unless a change prepares a release.
 
 Shenanigans uses [Semantic Versioning](https://semver.org/) in the form `MAJOR.MINOR.PATCH`:
 
@@ -180,24 +182,24 @@ Shenanigans uses [Semantic Versioning](https://semver.org/) in the form `MAJOR.M
 - Increment `MINOR` for backward-compatible content, feature, or gameplay additions.
 - Increment `PATCH` for backward-compatible fixes and small adjustments.
 
-Pre-release labels such as `-alpha`, `-beta`, and `-rc.1` indicate that a version is not yet stable. While the pack is in development, breaking changes may occur between minor releases, but they must still be identified clearly in the changelog. Version numbers must not include a leading `v`; reserve that prefix for Git tags, such as tag `v0.7.0-alpha` for pack version `0.7.0-alpha`.
+Labels such as `-alpha`, `-beta`, and `-rc.1` mark unstable versions. During development, breaking changes may occur between minor releases; identify them in the changelog. Do not prefix version numbers with `v`; reserve it for Git tags (for example, tag `v0.7.0-alpha` for pack version `0.7.0-alpha`).
 
 For a release:
 
 1. Set the new version in `pakku.json`.
 2. Ensure the lockfile contains the intended Minecraft, NeoForge loader, and project versions.
-3. Add the changelog at the path configured by `publish.changelog` in `pakku.json`.
+3. Add the changelog at the `publish.changelog` path in `pakku.json`.
 4. Add the same version to `update-checker/meta.json`.
 5. Keep every `releasedAt` value in the same timestamp unit; use a 13-digit Unix timestamp in milliseconds.
 6. Add direct Modrinth, CurseForge, and GitHub release links when available.
 7. Run `./publish --dry-run` and test the client and server artifacts.
-8. Confirm that filenames, manifests, the changelog path, and configured version metadata all use the exact same version.
+8. Confirm filenames, manifests, the changelog path, and version metadata use the same version.
 
-Changelogs should describe player-visible changes. Group entries under headings such as `Added`, `Changed`, `Fixed`, `Updated`, and `Removed`, and call out world-breaking or configuration-resetting changes prominently.
+Describe player-visible changes. Group entries under `Added`, `Changed`, `Fixed`, `Updated`, and `Removed`. Clearly flag world-breaking changes and config resets.
 
 ## Submitting a contribution
 
-Keep commits focused and use a clear summary describing the result of the change. In a pull request, include:
+Keep commits focused and summarize the result. In a pull request, include:
 
 - What changed and why
 - How it was tested
@@ -205,6 +207,6 @@ Keep commits focused and use a clear summary describing the result of the change
 - Screenshots for visual changes when useful
 - Relevant issue links
 
-Do not combine unrelated mod updates, gameplay changes, formatting, and generated config churn in one contribution. Smaller changes are easier to test, review, and revert.
+Keep unrelated mod updates, gameplay changes, formatting, and generated config changes in separate contributions. Smaller changes are easier to test, review, and revert.
 
 Bug reports and suggestions can also be submitted through [GitHub Issues](https://github.com/Syrup-Studios/shenanigans/issues) or the community links in the main [README](README.md).

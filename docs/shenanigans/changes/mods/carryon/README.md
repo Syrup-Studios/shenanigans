@@ -1,3 +1,3 @@
 # Carryon
 
-Carry On cannot pick up Lootr chests.
+Lootr chests cannot be picked up with Carry On.
