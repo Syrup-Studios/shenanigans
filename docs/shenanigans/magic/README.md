@@ -1,3 +1,3 @@
 # Magic
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+Arcane Lanterns adds lanterns with different effects. The pack tooltips describe effects such as faster crop growth, light, and changes to nearby mobs.

@@ -1,3 +1,3 @@
 # Tools and Armor
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+The pack includes Only Hammers And Excavators and Immersive Armors. See the [hammer and excavator changes](../changes/mods/onlyhammersandexcavators/README.md) for the pack-specific tool settings.

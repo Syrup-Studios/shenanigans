@@ -1,3 +1,7 @@
 # Dimensions
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+These pages cover the Overworld, Nether, and End. The pack also includes NetherPortalFix.
+
+- [The Overworld](overworld/README.md)
+- [The Nether](nether/README.md)
+- [The End](end/README.md)

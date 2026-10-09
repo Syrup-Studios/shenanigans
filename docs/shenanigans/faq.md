@@ -1,11 +1,18 @@
 ---
 title: Shenanigans FAQ
-description: Shenanigans Frequently Asked Questions
-authors: 
+description: Answers to common questions about Shenanigans
 ---
 
 # FAQ
 
-**Shenanigans** Frequently Asked Questions
+## What version of Minecraft does the pack use?
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+The current pack configuration uses Minecraft 1.21.1 with NeoForge.
+
+## Where can I download the pack?
+
+The pack is available on [Modrinth](https://modrinth.com/modpack/shenanigans) and [CurseForge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition).
+
+## What does the pack change?
+
+It adds biome, building, food, storage, and technology mods. See the topic pages for an overview.

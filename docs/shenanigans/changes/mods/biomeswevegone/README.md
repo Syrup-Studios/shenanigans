@@ -1,3 +1,3 @@
 # Biomes Weve Gone
 
-Enabled all biomes
+All listed Oh The Biomes We've Gone biomes are enabled for world generation.

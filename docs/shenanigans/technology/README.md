@@ -1,3 +1,3 @@
 # Technology
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+The pack includes Create, Create: Threaded Trains, Create Aeronautics, and Steam 'n' Rails. These mods add machinery, trains, and related building options.

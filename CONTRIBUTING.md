@@ -180,7 +180,7 @@ Shenanigans uses [Semantic Versioning](https://semver.org/) in the form `MAJOR.M
 - Increment `MINOR` for backward-compatible content, feature, or gameplay additions.
 - Increment `PATCH` for backward-compatible fixes and small adjustments.
 
-Pre-release labels such as `-alpha`, `-beta`, and `-rc.1` indicate that a version is not yet stable. While the pack remains in alpha, breaking changes may occur between minor releases, but they must still be identified clearly in the changelog. Version numbers must not include a leading `v`; reserve that prefix for Git tags, such as tag `v0.7.0-alpha` for pack version `0.7.0-alpha`.
+Pre-release labels such as `-alpha`, `-beta`, and `-rc.1` indicate that a version is not yet stable. While the pack is in development, breaking changes may occur between minor releases, but they must still be identified clearly in the changelog. Version numbers must not include a leading `v`; reserve that prefix for Git tags, such as tag `v0.7.0-alpha` for pack version `0.7.0-alpha`.
 
 For a release:
 

@@ -1,3 +1,3 @@
 # Carryon
 
-Made lootr chests not be pickupable
+Carry On cannot pick up Lootr chests.

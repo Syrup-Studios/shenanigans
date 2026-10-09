@@ -1,49 +1,46 @@
 ---
 title: Shenanigans
-description: Shenanigans Intro Description
----  
+description: An overview of the Shenanigans modpack
+---
 
 # Shenanigans
 
 [![](img/shenanigansLogo.png){.center}](https://modrinth.com/modpack/shenanigans)
 
 
-**This will be a super awesome and informative page soon! trust**
+Shenanigans is a Minecraft modpack with new biomes, structures, food, building options, and small changes to familiar gameplay.
 
-Download the Pack here:
+Download the pack here:
 
 - [Modrinth](https://modrinth.com/modpack/shenanigans)
 
 - [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) (usually takes longer for updates to be on)
 
-- [Github](https://github.com/Syrup-Studios/guidingit)
+- Source code: [GitHub](https://github.com/Syrup-Studios/shenanigans)
 
 
 
-*name subject to change*
-
-## EARLY ALPHA
-_Looking for playtesters, info below!_
-
-
-[![Built with Pakku](https://raw.githubusercontent.com/juraj-hrivnak/Pakku/main/docs/images/compact_vector.svg)](https://github.com/juraj-hrivnak/Pakku) 
+[![Built with Pakku](https://raw.githubusercontent.com/juraj-hrivnak/Pakku/main/docs/images/compact_vector.svg)](https://github.com/juraj-hrivnak/Pakku)
 
 ---
 
 This is our attempt at creating a nice and pleasant Vanilla++ Experience with many opinionated changes to make it feel very comfortable and familiar.
 
 - Overhauled Biomes — Discover new surface biomes, along with cave biomes & cool features!
-- [Dimensions](dimensions/README.md) — New and exciting Dimensions like the Otherside!
-- Custom Structures — Reimagined vanilla structures for the best experience !
+- [Dimensions](dimensions/README.md) — An overview of the Overworld, Nether, and End.
+- [Buildings and decorations](buildings%20%26%20decorations/README.md) — More blocks and furniture for building.
 - Backpacks — Don't run out of inventory slots while you're out exploring!
 - New Animals — It looks like it’s time to build a zoo with new animals !
-- Ambient Sounds — Be surrounded by new sounds which will make everything feel so immersive!
 - More Blocks — Build your dream house using more block variations !
 - Photography — Capture memories with a functioning camera!
-- [Expanded Farming and cooking](farming_food/README.md) — Cook new dishes and do farming-related things!
-- Expanded Archaeology — Dig into archaeology with new tools and items to uncover fossils !
-- [Magic](magic/README.md) — Some lightweight magic elements that don't feel out of place !
-- Controller in mind — We want this to be as controller-friendly as possible! (WIP)
+- [Farming and food](farming_food/README.md) — Farming, cooking, and food mods.
+- [Magic](magic/README.md) — Arcane lanterns and other magic-themed content.
+- [Technology](technology/README.md) — Create and its train and building additions.
+- [Storage and logistics](storage%20%26%20logistics/README.md) — Storage mods and transport options.
+- [Tools and armor](tools%20%26%20armor/README.md) — Added tools and armor options.
+- [Exploration](exploration/README.md) — Biomes, structures, and navigation.
+- [Changes](changes/README.md) — Pack-specific changes to selected mods.
+- [FAQ](faq.md) — Answers to common questions.
 
 We want to bring all mods and additions together in a way that feels natural, and make it as straightforward as possible, so that new players have an easy time getting into modded MC!
 
@@ -55,13 +52,6 @@ This pack has been in the works for over 2 years (LOTS of procrastination), and 
 We are also looking for playtesters on our [Discord](https://discord.gg/RPEz5JX4EM)!
 
 
-If you encounter any glitches & crashes, or if you have any suggestions, you can tell me by joining [Discord](https://discord.gg/RPEz5JX4EM) or opening an issue on [GitHub](https://github.com/SodaSyrup/shenanigans/issues)
-
----
-#### Telemetry
-This Pack collects data on how many active instances are running, click [here](https://syrup-studios.github.io/guidingit/help/analytics/) to read more
+If you encounter any glitches & crashes, or if you have any suggestions, you can tell me by joining [Discord](https://discord.gg/RPEz5JX4EM) or opening an issue on [GitHub](https://github.com/Syrup-Studios/shenanigans/issues)
 
 [![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-plural_vector.svg)](https://ko-fi.com/saladsyrup)
-
-
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)

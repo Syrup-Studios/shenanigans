@@ -1,3 +1,3 @@
 # Storage & Logistics
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+The pack includes Sophisticated Backpacks, Sophisticated Storage, Storage Drawers, and Tom's Simple Storage Mod. It also includes Create trains and Via Romana for transport.

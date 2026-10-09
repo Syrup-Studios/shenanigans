@@ -1,3 +1,3 @@
 # Realistic Bees
 
-lowered the amount of bees inside the beehives
+The pack sets the maximum number of bees per hive to five.

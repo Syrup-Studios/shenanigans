@@ -1,3 +1,3 @@
 # Exploration
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+The pack includes biome mods, Repurposed Structures, Explorer's Compass, Nature's Compass, and Camerapture.

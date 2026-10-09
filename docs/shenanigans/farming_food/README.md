@@ -1,3 +1,3 @@
 # Farming & Food
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+Food and farming content includes Farmer's Delight, Nature's Delight, Crops Love Rain, and Let's Do mods such as Bakery, Brewery, Candlelight, Farm & Charm, Meadow, and Vinery.

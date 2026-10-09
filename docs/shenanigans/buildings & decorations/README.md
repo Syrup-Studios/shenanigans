@@ -1,3 +1,3 @@
 # Buildings & Decorations
 
-> Shenanigans | [Modrinth](https://modrinth.com/modpack/shenanigans) | [Curseforge](https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition) | [GitHub](https://github.com/CozyCord/shenanigans/tree/main)
+Building mods in the pack include Chipped, Handcrafted, Immersive Furniture, Supplementaries, and several Macaw additions.
