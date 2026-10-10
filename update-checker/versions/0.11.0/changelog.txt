@@ -17,6 +17,7 @@
 - Updated Sophisticated Core from 1.5.5.2363 to 1.5.7.2381.
 - Updated Sophisticated Storage from 1.6.1.2147 to 1.6.2.2159.
 - Updated SuperMartijn642's Core Lib from 1.1.24a to 1.1.25.
+- Updated Syrup Essentials from 0.4.1 to 0.4.2.
 - Updated Entity Model Features from 3.3.10 to 3.3.11.
 - Updated Let's Do Bakery from 2.1.7 to 2.1.8.
 - Updated Let's Do Brewery from 2.1.11 to 2.1.12.
