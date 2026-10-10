@@ -15835,7 +15835,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "syrup_essentials-0.4.1+1.21.1-neoforge.jar",
+                    "file_name": "syrup_essentials-0.4.2+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -15843,18 +15843,18 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/OKpLp6G9/syrup_essentials-0.4.1+1.21.1-neoforge.jar",
-                    "id": "OKpLp6G9",
+                    "url": "https://cdn.modrinth.com/data/5ilOuE0e/versions/6cUVKEqE/syrup_essentials-0.4.2+1.21.1-neoforge.jar",
+                    "id": "6cUVKEqE",
                     "parent_id": "5ilOuE0e",
                     "hashes": {
-                        "sha512": "56f6ebbf2996a1f26f563bc721db8f318e5ef0b60a56ceacd8fa2de825a6f415d784eadd551726f90acada0038d3a2aa7dff3678d1e06036e485e4ad8f753d10",
-                        "sha1": "18979d59a5b636baca612aa39469217bec304836"
+                        "sha512": "bbe84273283e52f8f8c90c01c0740249d12fdf759efcaa9e5c6057e9eaf17718ede9245311b0092cb09c9c0d8f81b8c3c543b2d2b8df915f669d3a4a354fcf9e",
+                        "sha1": "1716237ec4e3976bf8412b35944132aed0b4416c"
                     },
                     "required_dependencies": [
                         "9tBNzmjo"
                     ],
-                    "size": 74139,
-                    "date_published": "2026-09-18T21:42:38.258978Z"
+                    "size": 86304,
+                    "date_published": "2026-10-10T11:00:24.953622Z"
                 },
                 {
                     "type": "curseforge",
