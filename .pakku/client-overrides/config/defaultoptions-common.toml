@@ -2,6 +2,6 @@
 #Allowed Values: PEACEFUL, EASY, NORMAL, HARD
 defaultDifficulty = "EASY"
 #Resource pack IDs to have enabled by default on the first run.
-defaultResourcePacks = ["vanilla", "fabric", "mod_resources", "moonlight:merged_pack", "file/Stay True 1.21.5.zip", "file/Blocks&Stuff-Resource-Pack-16x-1.21.zip", "file/Colorized-Antique-Atlas-4.zip", "file/Better Mob Models [V1.2].zip"]
+defaultResourcePacks = ["vanilla", "fabric", "mod_resources", "moonlight:merged_pack", "file/emi_groups", "file/EnderEyes_26.1_v3.1", "file/Excalibur_Lootr_v1.1", "file/Fancy Crops v1.3", "file/Fancy_Beds-v4.1", "file/Fine Armoury v1.7", "file/SE Vanilla Consistency 1.20.1.zip", "file/Slightly-Improved-Font-1.1.5", "file/unicorns", "file/Visual Titles 1.3", "file/Stay True", "file/Blocks&Stuff-Resource-Pack-16x-1.21.zip", "file/Colorized-Antique-Atlas-4.zip"]
 #Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
 lockDifficulty = false

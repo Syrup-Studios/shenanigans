@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [ { "model": "block/open_eyeblossom", "weight":1 }
+,{ "model": "block/open_eyeblossom1", "weight":1 }
+,{ "model": "block/open_eyeblossom2", "weight":1 }
+,{ "model": "block/open_eyeblossom3", "weight":1 }
+ ]   }
+}

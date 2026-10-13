@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [ { "model": "block/bush", "weight":1 }
+,{ "model": "block/bush1", "weight":1 }
+,{ "model": "block/bush2", "weight":1 }
+,{ "model": "block/bush3", "weight":1 }
+
+
+ ]   }
+}

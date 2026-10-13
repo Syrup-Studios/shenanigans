@@ -1,0 +1,9 @@
+{
+  	"pack": {
+		"description": "by Futureazoo",
+		"pack_format": 84,
+		"min_format": [15, 0],
+		"max_format": [84, 0],
+		"supported_formats": [15, 84]
+	}
+}

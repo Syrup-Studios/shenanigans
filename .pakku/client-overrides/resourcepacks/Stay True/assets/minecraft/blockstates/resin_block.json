@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [ { "model": "block/resin_block", "weight":10 }
+,{ "model": "block/resin_block1", "weight":5 }
+
+ ]   }
+}

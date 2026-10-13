@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [ { "model": "block/resin_bricks", "weight":10 }
+,{ "model": "block/resin_bricks1", "weight":2 }
+,{ "model": "block/resin_bricks2", "weight":2 }
+,{ "model": "block/resin_bricks3", "weight":2 }
+,{ "model": "block/resin_bricks4", "weight":2 }
+,{ "model": "block/resin_bricks4", "weight":2 }
+,{ "model": "block/resin_bricks5", "weight":2 }
+
+ ]   }
+}

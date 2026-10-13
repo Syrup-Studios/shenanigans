@@ -1,0 +1,39 @@
+{
+  "travelerstitles.minecraft.overworld": "\uE006",
+
+  "travelerstitles.ad_astra.earth_orbit": "\uE006",
+  "travelerstitles.ad_astra.mercury": "\uE094",
+  "travelerstitles.ad_astra.mercury_orbit": "\uE094",
+  "travelerstitles.ad_astra.moon": "\uE115",
+  "travelerstitles.ad_astra.moon_orbit": "\uE115",
+  "travelerstitles.ad_astra.venus": "\uE143",
+  "travelerstitles.ad_astra.venus_orbit": "\uE143",
+
+  "travelerstitles.beyond_earth.deimos": "\uE063",
+  "travelerstitles.beyond_earth.deimos_orbit": "\uE063",
+  "travelerstitles.beyond_earth.earth_orbit": "\uE006",
+  "travelerstitles.beyond_earth.mercury": "\uE094",
+  "travelerstitles.beyond_earth.mercury_orbit": "\uE094",
+  "travelerstitles.beyond_earth.moon": "\uE115",
+  "travelerstitles.beyond_earth.moon_orbit": "\uE115",
+  "travelerstitles.beyond_earth.venus": "\uE143",
+  "travelerstitles.beyond_earth.venus_orbit": "\uE143",
+
+  "travelerstitles.galacticraft.asteroid": "\uE162",
+  "travelerstitles.galacticraft.moon": "\uE115",
+  "travelerstitles.galacticraft.venus": "\uE143",
+
+  "travelerstitles.stellaris.earth_orbit": "\uE006",
+  "travelerstitles.stellaris.mercury": "\uE094",
+  "travelerstitles.stellaris.mercury_orbit": "\uE094",
+  "travelerstitles.stellaris.moon": "\uE115",
+  "travelerstitles.stellaris.venus": "\uE143",
+  "travelerstitles.stellaris.venus_orbit": "\uE143",
+
+  "travelerstitles.northstar.earth_orbit": "\uE006",
+  "travelerstitles.northstar.mercury": "\uE094",
+  "travelerstitles.northstar.moon": "\uE115",
+  "travelerstitles.northstar.venus": "\uE143",
+
+  "travelerstitles.tropicraft.tropics": "\uE256"
+}
