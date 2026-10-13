@@ -5,7 +5,7 @@ description: Categories and descriptions for every mod in the Shenanigans pack
 
 # Installed mods
 
-This list covers all 279 mod projects in the pack lock file for Minecraft 1.21.1 and NeoForge. Descriptions summarize each project's purpose.
+This list covers all 285 mod projects in the pack lock file for Minecraft 1.21.1 and NeoForge. Descriptions summarize each project's purpose.
 
 Pack-specific details are available for [Apathy](changes/mods/apathy/README.md), [Better Days](changes/mods/betterdays/README.md), [Biomes We’ve Gone](changes/mods/biomeswevegone/README.md), [Carry On](changes/mods/carryon/README.md), [Item Obliterator](changes/mods/itemobliterator/README.md), [Only Hammers and Excavators](changes/mods/onlyhammersandexcavators/README.md), [Realistic Bees](changes/mods/realisticbees/README.md), and [recipe changes](changes/recipes.md).
 
@@ -21,7 +21,9 @@ Pack-specific details are available for [Apathy](changes/mods/apathy/README.md),
 | [Colorful Hearts](https://modrinth.com/mod/colorful-hearts) | Shows health as one row of color-coded hearts. |
 | [Colorwheel](https://modrinth.com/mod/colorwheel) | Adds Iris shader support for Create Flywheel rendering. |
 | [Colorwheel Patcher](https://modrinth.com/mod/colorwheel-patcher) | Patches supported shader packs for use with Colorwheel. |
+| [Countered's Smooth Steps](https://modrinth.com/mod/countereds-smooth-steps) | Smooths camera motion when stepping up stairs and slabs. |
 | [Dark Paintings](https://modrinth.com/mod/dark-paintings) | Adds paintings with new artwork. |
+| [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) | Changes or hides the crosshair based on the held item and target. |
 | [Extreme sound muffler](https://modrinth.com/mod/extreme_sound_muffler) | Lets players mute selected sounds. |
 | [Fadeless](https://modrinth.com/mod/fadeless) | Removes fade-out animations from selected screens. |
 | [Fancy World Animations [FWA]](https://modrinth.com/mod/fwa) | Adds animations to interactive blocks and hanging lanterns. |
@@ -34,9 +36,11 @@ Pack-specific details are available for [Apathy](changes/mods/apathy/README.md),
 | [NCL Skins](https://modrinth.com/mod/nclskins) | Lets players create and switch between skin, cape, and model presets. |
 | [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) | Shows more player actions as third-person animations. |
 | [Particle Rain](https://modrinth.com/mod/particle-rain) | Renders weather as particle effects. |
+| [Particular Reforged](https://modrinth.com/mod/particular-reforged) | Adds water splashes, falling leaves, fireflies, and other visual effects. |
 | [Screenshot Viewer](https://modrinth.com/mod/screenshot-viewer) | Lets players view screenshots in game. |
 | [Screenshot to Clipboard](https://modrinth.com/mod/screenshot-to-clipboard) | Copies screenshots to the clipboard. |
 | [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) | Adds proximity voice chat. |
+| [Subtle Effects](https://modrinth.com/mod/subtle-effects) | Adds configurable ambient particles and sounds. |
 | [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations) | Adds animations when players pick up or move items. |
 | [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) | Loads custom entity models from resource packs. |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Loads custom and emissive entity textures from resource packs. |
@@ -133,6 +137,7 @@ Pack-specific details are available for [Apathy](changes/mods/apathy/README.md),
 | --- | --- |
 | [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) | Shows advancement notifications as larger popup panels. |
 | [Auth Me](https://modrinth.com/mod/auth-me) | Prompts players to re-authenticate their Minecraft account when needed. |
+| [Auto HUD](https://modrinth.com/mod/autohud) | Hides inactive HUD elements and shows them when relevant. |
 | [Better Compatibility Checker](https://modrinth.com/mod/better-compatibility-checker) | Checks modpack versions when players join a server. |
 | [Better Days](https://modrinth.com/mod/betterdays) | Lets players change day length and speeds up time during sleep. |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Shows player heads beside chat messages. |
@@ -259,7 +264,6 @@ Pack-specific details are available for [Apathy](changes/mods/apathy/README.md),
 | [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul) | Adds enderman variants with distinct appearances and sounds. |
 | [Explorer's Compass](https://modrinth.com/mod/explorers-compass) | Adds a compass that locates structures. |
 | [Field Guide](https://modrinth.com/mod/field-guide) | Adds a guide for recording information about plants, animals, and monsters. |
-| [Geophilic](https://modrinth.com/mod/geophilic) | Changes vanilla Overworld biomes. |
 | [Ghost](https://modrinth.com/mod/ghost) | Adds ghost creatures. |
 | [Immersive Gateways](https://modrinth.com/mod/immersive-gateways) | Adds gateways that link distant places while supporting exploration. |
 | [Nature's Compass](https://modrinth.com/mod/natures-compass) | Adds a compass that locates biomes. |
@@ -270,6 +274,7 @@ Pack-specific details are available for [Apathy](changes/mods/apathy/README.md),
 | [Ribbits](https://modrinth.com/mod/ribbits) | Adds swamp villages and musical frogs. |
 | [Rock n Stone](https://modrinth.com/mod/rock-n-stone) | Changes ore generation based on environmental conditions. |
 | [Spelunkery](https://modrinth.com/mod/spelunkery) | Changes caves and adds mining features. |
+| [Streams Reflowing](https://modrinth.com/mod/streams-reflowing) | Adds flowing streams, waterfalls, lakes, and currents to generated terrain. |
 | [The Roads More Travelled [TRMT]](https://modrinth.com/mod/the-roads-more-travelled) | Adds terrain erosion along frequently traveled paths. |
 | [Vanilla Backport](https://modrinth.com/mod/vanillabackport) | Adds selected features from later Minecraft versions. |
 | [Via Romana: Infrastructure-Driven Fast Travel](https://modrinth.com/mod/via-romana) | Lets players connect signs along paths to create fast-travel routes. |
@@ -326,6 +331,7 @@ Pack-specific details are available for [Apathy](changes/mods/apathy/README.md),
 | [Ocean's Delight](https://modrinth.com/mod/oceans-delight) | Adds seafood and cooking content for Farmer's Delight. |
 | [Peaceful Hunger \| UPDATED](https://modrinth.com/mod/peaceful-hunger) | Allows hunger to decrease in Peaceful mode. |
 | [Realistic Bees](https://modrinth.com/mod/realistic-bees) | Changes bee size and group spawning, and adds hive and stinger features. |
+| [Respawning Animals](https://modrinth.com/mod/respawning-animals) | Lets wild animals despawn and repopulate areas. |
 | [RightClickHarvest](https://modrinth.com/mod/rightclickharvest) | Lets players harvest crops with a right click. |
 | [Universal Bone Meal](https://modrinth.com/mod/universal-bone-meal) | Lets bone meal grow additional plant types. |
 | [Well Seasoned](https://modrinth.com/mod/well-seasoned) | Replaces hunger with direct healing and configurable effects from food. |
@@ -337,3 +343,9 @@ Pack-specific details are available for [Apathy](changes/mods/apathy/README.md),
 | [[Let's Do] HerbalBrews](https://modrinth.com/mod/lets-do-herbalbrews) | Adds tea, coffee, and brewing recipes. |
 | [[Let's Do] Meadow](https://modrinth.com/mod/lets-do-meadow) | Adds meadow sub-biomes and cheese making. |
 | [[Let's Do] Vinery](https://modrinth.com/mod/lets-do-vinery) | Adds grape growing, wine making, and vineyard blocks. |
+
+## Geophilic data pack
+
+| Data pack | What it does |
+| --- | --- |
+| [Geophilic](https://modrinth.com/datapack/geophilic) | Makes subtle changes to vanilla Overworld biomes. |
