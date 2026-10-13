@@ -1,0 +1,7 @@
+## Changelog 0.11.1
+
+### Changed
+- Changed Auto HUD to reveal the hotbar, health, and other main HUD elements together.
+
+### Fixed
+- Enabled bundled resource packs that were not loaded from the old Open Loader folder.
