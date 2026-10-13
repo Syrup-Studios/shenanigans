@@ -4,7 +4,7 @@
         "1.21.1"
     ],
     "loaders": {
-        "neoforge": "21.1.255"
+        "neoforge": "21.1.259"
     },
     "projects": [
         {
@@ -15806,6 +15806,42 @@
                     "required_dependencies": [],
                     "size": 3005054,
                     "date_published": "2026-10-11T17:33:20.905777Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "tzBJGFNFY6LyPSiE",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "studious-keybinds"
+            },
+            "name": {
+                "curseforge": "Studious Keybinds"
+            },
+            "id": {
+                "curseforge": "1731572"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9106/885/studious-keybinds-neoforge-1.21.1-1.0.8-beta.1.jar",
+                    "id": "9106885",
+                    "parent_id": "1731572",
+                    "hashes": {
+                        "sha1": "774dae2a81ba825edd5decde37f466b052aeeb5e",
+                        "md5": "a4e2070221ffc44cae5fd5413cfad277"
+                    },
+                    "required_dependencies": [],
+                    "size": 50696,
+                    "date_published": "2026-10-09T10:30:06.347Z"
                 }
             ]
         },
