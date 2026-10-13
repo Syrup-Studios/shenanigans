@@ -10,7 +10,7 @@
 		"fadeIn": 0.0,
 		"fadeOut": 0.0
 	},
-	"revealType": "Stacked",
+	"revealType": "Grouped",
 	"events": {
 		"onScreenOpen": "Nothing",
 		"onMoving": "Nothing",
