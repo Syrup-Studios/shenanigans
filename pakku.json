@@ -130,6 +130,9 @@
         },
         "travellers-handbook": {
             "redistributable": true
+        },
+        "respawning-animals": {
+            "side": "BOTH"
         }
     }
 }

@@ -13646,7 +13646,7 @@
                 "FVivaUuWZjg6Hgn2"
             ],
             "type": "MOD",
-            "side": "SERVER",
+            "side": "BOTH",
             "slug": {
                 "curseforge": "respawning-animals",
                 "modrinth": "respawning-animals"
