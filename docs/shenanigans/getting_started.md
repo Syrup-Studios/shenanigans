@@ -14,7 +14,18 @@ description: Install, update, and get help with Shenanigans
 
 The pack includes EMI for in-game recipe lookup. For recipes added or changed by Shenanigans, see [recipe changes](changes/recipes.md).
 
-To check available key bindings, open Minecraft's **Options → Controls** menu.
+New worlds start on Easy difficulty. You can change it in the world settings.
+
+On first launch, Default Options selects Colorized Antique Atlas, Blocks & Stuff, and Stay True, in that priority order, from highest to lowest. Standard and mod resource packs remain enabled. Later launches keep your resource pack selection. Review or change the order in Minecraft's **Options → Resource Packs** menu.
+
+Useful default key bindings include:
+
+- **M**: Open the Antique Atlas.
+- **O**: Open the Field Guide.
+- **B**: Open Sophisticated Backpacks.
+- **J**: Open the Traveller's Handbook.
+
+To check or change key bindings, open Minecraft's **Options → Controls** menu.
 
 ## Update an existing world
 

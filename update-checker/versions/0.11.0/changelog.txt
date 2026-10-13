@@ -43,6 +43,10 @@
 - Switched Geophilic from a mod to its data pack version.
 - Configured Auto HUD to leave crosshair visibility to Dynamic Crosshair.
 - Disabled EMI++ creative mode tabs.
+- Set Colorized Antique Atlas, Blocks & Stuff, and Stay True as default resource packs, in that order from highest to lowest priority. Standard and mod resource packs remain enabled.
+- Set new worlds to Easy difficulty. Players can still change the difficulty.
+- Added default key bindings for the Antique Atlas, Field Guide, Sophisticated Backpacks, and Traveller's Handbook.
+- Enabled the custom FancyMenu title screen background.
 
 ### Fixed
 - Moved bundled datapacks to Open Loader's default packs folder so they load correctly.

@@ -96,6 +96,14 @@ Commit only intentional settings. Remove machine-specific values, server address
 
 Test shared configs on a client and dedicated server. A single-player config is not automatically suitable for a server.
 
+### Default client options and menus
+
+Keep Default Options files in `.pakku/client-overrides/config/defaultoptions/`. Store default key bindings in `keybindings.txt`. Set the default difficulty and resource packs in `.pakku/client-overrides/config/defaultoptions-common.toml`.
+
+Keep FancyMenu layouts and their assets in `.pakku/client-overrides/config/fancymenu/`. The title screen layout is `customization/title_screen_layout.txt`; place its background image in `assets/` and reference it from the layout. Do not include `defaultoptions.journal.json` in client overrides.
+
+Before release, confirm that every `file/` entry in `defaultResourcePacks` has a matching file in `.pakku/client-overrides/resourcepacks/`.
+
 ## Validation and testing
 
 Before submitting a change:
