@@ -15550,6 +15550,69 @@
             ]
         },
         {
+            "pakku_id": "Zy8k9jGK4qaDF3R0",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "spyglass-improvements",
+                "modrinth": "spyglass-improvements"
+            },
+            "name": {
+                "curseforge": "Spyglass Improvements: Zoom, Quick Access... [Fabric/NeoForge]",
+                "modrinth": "Spyglass Improvements"
+            },
+            "id": {
+                "curseforge": "571264",
+                "modrinth": "Z6ykjRlM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spyglass_improvements-1.5.7+mc1.21+neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5634/604/spyglass_improvements-1.5.7+mc1.21+neoforge.jar",
+                    "id": "5634604",
+                    "parent_id": "571264",
+                    "hashes": {
+                        "sha1": "c7a2041f23f99a289fa2307774a2709e42d3d591",
+                        "md5": "ce908ea767bb2c9ac7966c892c40db47"
+                    },
+                    "required_dependencies": [],
+                    "size": 62864,
+                    "date_published": "2024-08-16T10:52:29.583Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "spyglass_improvements-1.5.7+mc1.21+neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Z6ykjRlM/versions/F2s6rUr5/spyglass_improvements-1.5.7+mc1.21+neoforge.jar",
+                    "id": "F2s6rUr5",
+                    "parent_id": "Z6ykjRlM",
+                    "hashes": {
+                        "sha512": "6b4933795f3fda0d8c042c35c8f95ce47db88f2ec06b15a6c803298e660a1cb18223ed5fcb96d15aeabde540abf050f3a19ca23ebad4d060afc8860174af937f",
+                        "sha1": "c7a2041f23f99a289fa2307774a2709e42d3d591"
+                    },
+                    "required_dependencies": [],
+                    "size": 62864,
+                    "date_published": "2024-08-16T10:52:32.904324Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9GUSQa65TPSpYZnk",
             "pakku_links": [
                 "EeQdD3oiJjCRqQiD"

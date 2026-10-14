@@ -1,0 +1,4 @@
+## Changelog 0.11.2
+
+### Added
+- Added Spyglass Improvements 1.5.7 on the client.

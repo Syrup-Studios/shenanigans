@@ -296,6 +296,15 @@
           "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.11.1"
         }
       }
+    },
+    {
+      "id": "0.11.2",
+      "releasedAt": 1791902606512,
+      "promotions": {
+        "downloads": {
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.11.2"
+        }
+      }
     }
   ]
 }
