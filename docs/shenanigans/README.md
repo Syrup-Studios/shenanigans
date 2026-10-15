@@ -25,7 +25,6 @@ Start with [Getting started](getting_started.md) for install, update, and suppor
 - [Storage and logistics](storage%20%26%20logistics/README.md)
 - [Tools and armor](tools%20%26%20armor/README.md)
 - [Exploration](exploration/README.md)
-- [Installed mods](mods.md) — Categories and descriptions for all 285 mods.
 - [Changes](changes/README.md)
 - [Recipe changes](changes/recipes.md)
 - [FAQ](faq.md)

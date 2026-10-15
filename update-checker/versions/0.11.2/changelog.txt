@@ -2,3 +2,6 @@
 
 ### Added
 - Added Spyglass Improvements 1.5.7 on the client.
+
+### Removed
+- Removed Auto HUD and its configuration.
