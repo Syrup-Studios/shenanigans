@@ -2,6 +2,13 @@
     "name": "Shenanigans",
     "version": "0.11.2",
     "author": "Syrup Studios",
+    "publish": {
+        "modrinth": "kilQgj16",
+        "curseforge": 1446278,
+        "release_type": "beta",
+        "changelog": "update-checker/versions/{version}/changelog.txt",
+        "metadata": "update-checker/meta.json"
+    },
     "projects": {
         "alternate-current": {
             "side": "BOTH"
