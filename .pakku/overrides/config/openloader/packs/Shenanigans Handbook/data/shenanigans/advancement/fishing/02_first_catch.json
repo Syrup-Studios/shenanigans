@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "caught_fish": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:cod",
+            "minecraft:salmon",
+            "minecraft:tropical_fish",
+            "minecraft:pufferfish"
+          ]
+        }
+      }
+    }
+  }
+}

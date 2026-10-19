@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "crafted_rod": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:fishing_rod"
+      }
+    }
+  }
+}

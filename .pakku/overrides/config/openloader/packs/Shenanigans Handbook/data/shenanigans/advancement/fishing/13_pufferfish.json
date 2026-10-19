@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "caught_pufferfish": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {"items": "minecraft:pufferfish"}
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "caught_fish_in_river": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "entity": {
+          "location": {
+            "biomes": [
+              "minecraft:river",
+              "minecraft:frozen_river"
+            ]
+          }
+        },
+        "item": {
+          "items": [
+            "minecraft:cod",
+            "minecraft:salmon",
+            "minecraft:tropical_fish",
+            "minecraft:pufferfish"
+          ]
+        }
+      }
+    }
+  }
+}
