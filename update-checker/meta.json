@@ -293,7 +293,9 @@
       "releasedAt": 1791898650000,
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.11.1"
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.11.1",
+          "modrinth": "https://modrinth.com/modpack/shenanigans/version/zHaQMMAg",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/"
         }
       }
     },
@@ -302,7 +304,20 @@
       "releasedAt": 1791902606512,
       "promotions": {
         "downloads": {
-          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.11.2"
+          "generic": "https://github.com/Syrup-Studios/shenanigans/releases/tag/v0.11.2",
+          "modrinth": "https://modrinth.com/modpack/shenanigans/version/KGeBbpVK",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/files/9192972"
+        }
+      }
+    },
+    {
+      "id": "0.12.0",
+      "releasedAt": 1792440555000,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/shenanigans",
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/shenanigans-cf-edition/",
+          "generic": "https://github.com/Syrup-Studios/shenanigans"
         }
       }
     }

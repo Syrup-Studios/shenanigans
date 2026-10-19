@@ -1,14 +1,7 @@
 {
     "name": "Shenanigans",
-    "version": "0.11.2",
+    "version": "0.12.0",
     "author": "Syrup Studios",
-    "publish": {
-        "modrinth": "kilQgj16",
-        "curseforge": 1446278,
-        "release_type": "beta",
-        "changelog": "update-checker/versions/{version}/changelog.txt",
-        "metadata": "update-checker/meta.json"
-    },
     "projects": {
         "alternate-current": {
             "side": "BOTH"
@@ -41,9 +34,6 @@
             "side": "BOTH"
         },
         "crops-love-rain": {
-            "side": "BOTH"
-        },
-        "enderpearl-backport": {
             "side": "BOTH"
         },
         "geophilic": {
@@ -137,5 +127,12 @@
         "spyglass-improvements": {
             "side": "BOTH"
         }
+    },
+    "publish": {
+        "modrinth": "kilQgj16",
+        "curseforge": 1446278,
+        "release_type": "beta",
+        "changelog": "update-checker/versions/{version}/changelog.txt",
+        "metadata": "update-checker/meta.json"
     }
 }
