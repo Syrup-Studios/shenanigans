@@ -7,7 +7,7 @@ description: Recipe and progression changes in Shenanigans
 
 ## Copper progression
 
-Copper swords, tools, and armor use copper ingots in their recipes and repairs. Copper hammers and excavators also use copper in place of stone. See [tools and armor](../tools%20%26%20armor/README.md) for details.
+Copper hammers and excavators use copper in place of stone. See [tools and armor](../tools%20%26%20armor/README.md) for details.
 
 Smelting copper, iron, or gold ore takes 60 seconds in a furnace or 5 seconds in a blast furnace at normal game speed. Smelting raw copper, raw iron, raw gold, or Nether gold ore takes 60 seconds in a furnace.
 
