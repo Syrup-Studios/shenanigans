@@ -4,6 +4,7 @@
 - Added fishing advancements and Traveller's Handbook entries for getting a rod, catching a first fish, fishing in rivers, and catching cod, salmon, tropical fish, and pufferfish.
 
 ### Changed
+- Copper tools and armor now use Vanilla Backport items under the same item IDs, replacing the custom KubeJS items.
 - More Axolotl Variants API changed from Fabric 1.3.0 to NeoForge 2.4.0+1.21.1.
 - More Axolotl Variants changed from Fabric 1.3.1 to NeoForge 2.2.0+1.21.1.
 - Spyglass Improvements now runs on both the client and server.
