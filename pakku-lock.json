@@ -6055,6 +6055,67 @@
             ]
         },
         {
+            "pakku_id": "lSmrLSHsWVpCX3Oq",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "envelope",
+                "modrinth": "envelope"
+            },
+            "name": {
+                "curseforge": "Envelope",
+                "modrinth": "Envelope"
+            },
+            "id": {
+                "curseforge": "1281170",
+                "modrinth": "bINSbhYK"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "envelope-neoforge-1.21.1-0.8.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9269/677/envelope-neoforge-1.21.1-0.8.0.jar",
+                    "id": "9269677",
+                    "parent_id": "1281170",
+                    "hashes": {
+                        "sha1": "0bb37ca395f33d5e1304dbbbd9b6071c60655d08",
+                        "md5": "bd96b115fd6c5272e4594e1877c39505"
+                    },
+                    "required_dependencies": [],
+                    "size": 2538983,
+                    "date_published": "2026-10-20T18:20:37.520Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "envelope-neoforge-1.21.1-0.8.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bINSbhYK/versions/7AGtjUTP/envelope-neoforge-1.21.1-0.8.0.jar",
+                    "id": "7AGtjUTP",
+                    "parent_id": "bINSbhYK",
+                    "hashes": {
+                        "sha512": "822da6b41e75552c3c26c6470f86c5e8ea7f3ecabca0ddfefe9cce87f455ade38c2357b5ec54b1442248c7d195ffa46d784dd7c44efcd1a363a773294ff2c64f",
+                        "sha1": "0bb37ca395f33d5e1304dbbbd9b6071c60655d08"
+                    },
+                    "required_dependencies": [],
+                    "size": 2538983,
+                    "date_published": "2026-10-20T18:20:36.393363Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "5jvvKaLkiye9RYF4",
             "type": "MOD",
             "side": "BOTH",
