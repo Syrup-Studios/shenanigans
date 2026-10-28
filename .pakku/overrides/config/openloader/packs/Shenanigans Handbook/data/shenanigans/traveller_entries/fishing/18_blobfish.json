@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Blobfish",
+  "description": "Blobfish has been gathered. A bucket, a cooked catch, or the fish itself will do.",
+  "advancement": "shenanigans:fishing/18_blobfish",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

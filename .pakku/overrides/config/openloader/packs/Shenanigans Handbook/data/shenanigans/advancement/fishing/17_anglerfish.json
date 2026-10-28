@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "collected_anglerfish": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "naturalist:anglerfish",
+              "naturalist:cooked_anglerfish",
+              "naturalist:anglerfish_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Gardening",
+  "subcategory": "Crops and Food",
+  "title": "First Harvest",
+  "description": "Wheat is a patient crop. Seeds grow in farmland near water.",
+  "advancement": "shenanigans:gardening/04_wheat",
+  "entry": {
+    "id": "shenanigans:gardening/00_gardening"
+  }
+}

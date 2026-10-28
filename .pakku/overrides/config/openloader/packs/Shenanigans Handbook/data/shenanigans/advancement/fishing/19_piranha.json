@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "collected_piranha": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "naturalist:piranha",
+              "naturalist:cooked_piranha",
+              "naturalist:piranha_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

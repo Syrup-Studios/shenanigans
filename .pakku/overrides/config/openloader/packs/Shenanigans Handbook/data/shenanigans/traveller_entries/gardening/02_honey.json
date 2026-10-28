@@ -1,0 +1,10 @@
+{
+  "category": "Gardening",
+  "subcategory": "Flowers and Bees",
+  "title": "A Sweet Reward",
+  "description": "A honey bottle is a sweet find. A campfire under the nest keeps the harvest calm.",
+  "advancement": "shenanigans:gardening/02_honey",
+  "entry": {
+    "id": "shenanigans:gardening/00_gardening"
+  }
+}

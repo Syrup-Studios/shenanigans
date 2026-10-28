@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Ray",
+  "description": "A ray rides in a bucket. Few travelers report seeing one.",
+  "advancement": "shenanigans:fishing/20_ray",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

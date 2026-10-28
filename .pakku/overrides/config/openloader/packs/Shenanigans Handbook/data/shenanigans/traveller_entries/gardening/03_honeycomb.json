@@ -1,0 +1,10 @@
+{
+  "category": "Gardening",
+  "subcategory": "Flowers and Bees",
+  "title": "Wax and Wonder",
+  "description": "A full hive bears wax beneath its golden stores. Shears are the old tool for it.",
+  "advancement": "shenanigans:gardening/03_honeycomb",
+  "entry": {
+    "id": "shenanigans:gardening/00_gardening"
+  }
+}

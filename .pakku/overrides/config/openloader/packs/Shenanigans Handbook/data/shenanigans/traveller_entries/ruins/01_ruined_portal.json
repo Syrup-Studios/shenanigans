@@ -1,0 +1,10 @@
+{
+  "category": "Ruins",
+  "subcategory": "Structures",
+  "title": "Broken Gateway",
+  "description": "A broken portal stands as a landmark. Its scattered frame may still be useful.",
+  "advancement": "shenanigans:ruins/01_ruined_portal",
+  "entry": {
+    "id": "shenanigans:ruins/00_ruins"
+  }
+}

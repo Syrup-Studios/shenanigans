@@ -1,0 +1,10 @@
+{
+  "category": "Ruins",
+  "subcategory": "Structures",
+  "title": "A Trial Below",
+  "description": "A trial chamber has been found. Its rooms are said to test every visitor.",
+  "advancement": "shenanigans:ruins/04_trial_chamber",
+  "entry": {
+    "id": "shenanigans:ruins/00_ruins"
+  }
+}

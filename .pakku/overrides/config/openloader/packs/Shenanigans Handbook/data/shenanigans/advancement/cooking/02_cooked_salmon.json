@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "has_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_salmon"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

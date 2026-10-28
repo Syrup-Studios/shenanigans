@@ -3,7 +3,9 @@
     "caught_tropical_fish": {
       "trigger": "minecraft:fishing_rod_hooked",
       "conditions": {
-        "item": {"items": "minecraft:tropical_fish"}
+        "item": {
+          "items": "minecraft:tropical_fish"
+        }
       }
     }
   }

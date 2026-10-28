@@ -1,0 +1,10 @@
+{
+  "category": "Magic",
+  "subcategory": "Potions",
+  "title": "Air Beneath the Waves",
+  "description": "Water closed overhead, yet breath held. Pufferfish may be the brewer\u2019s answer.",
+  "advancement": "shenanigans:magic/02_water_breathing",
+  "entry": {
+    "id": "shenanigans:magic/00_magic"
+  }
+}

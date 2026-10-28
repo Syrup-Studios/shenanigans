@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Great White Shark",
+  "description": "A great white shark has fallen. Few would call that an ordinary catch.",
+  "advancement": "shenanigans:fishing/21_great_white_shark",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

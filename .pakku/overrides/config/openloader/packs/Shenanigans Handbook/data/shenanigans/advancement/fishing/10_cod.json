@@ -3,7 +3,9 @@
     "caught_cod": {
       "trigger": "minecraft:fishing_rod_hooked",
       "conditions": {
-        "item": {"items": "minecraft:cod"}
+        "item": {
+          "items": "minecraft:cod"
+        }
       }
     }
   }

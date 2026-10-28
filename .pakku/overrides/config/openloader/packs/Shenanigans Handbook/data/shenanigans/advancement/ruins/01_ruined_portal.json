@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "visited_portal": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ruined_portal"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

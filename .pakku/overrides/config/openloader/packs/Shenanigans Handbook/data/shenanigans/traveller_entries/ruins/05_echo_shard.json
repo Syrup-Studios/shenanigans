@@ -1,0 +1,10 @@
+{
+  "category": "Ruins",
+  "subcategory": "Relics",
+  "title": "Echo from the Deep",
+  "description": "An echo shard carries a city\u2019s silence. Such finds are said to lie in ancient-city chests.",
+  "advancement": "shenanigans:ruins/05_echo_shard",
+  "entry": {
+    "id": "shenanigans:ruins/00_ruins"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Cooking",
+  "subcategory": "Fish Meals",
+  "title": "Salmon for the Road",
+  "description": "Smoke or flame turns salmon into a fine trail meal.",
+  "advancement": "shenanigans:cooking/02_cooked_salmon",
+  "entry": {
+    "id": "shenanigans:cooking/00_cooking"
+  }
+}

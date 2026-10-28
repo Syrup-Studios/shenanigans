@@ -89,6 +89,7 @@ key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown:
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown:
 key_key.carry.desc:key.keyboard.unknown:
 key_key.bridgingmod.toggle_bridging:key.keyboard.unknown:
+key_key.spyglass-improvements.use:key.keyboard.c:
 key_key.antique_atlas.open:key.keyboard.m:
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt:
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown:

@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "caught_koi": {
+      "trigger": "minecraft:fishing_rod_hooked",
+      "conditions": {
+        "item": {
+          "items": "crittersandcompanions:koi_fish"
+        }
+      }
+    }
+  }
+}

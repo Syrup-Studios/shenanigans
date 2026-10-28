@@ -1,0 +1,9 @@
+{
+  "category": "Fishing",
+  "title": "A String and Three Sticks",
+  "description": "Three sticks, two strings, and a little patience make a fishing rod. Water may answer the line.",
+  "advancement": "shenanigans:fishing/01_rod",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

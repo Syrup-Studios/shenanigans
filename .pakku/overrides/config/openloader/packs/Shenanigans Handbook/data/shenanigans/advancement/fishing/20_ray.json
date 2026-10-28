@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "collected_ray": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "naturalist:ray_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Cooking",
+  "subcategory": "Fish Meals",
+  "title": "Cooked Catch",
+  "description": "A warm cod makes a plain but welcome meal. Cooked cod travels well.",
+  "advancement": "shenanigans:cooking/01_cooked_cod",
+  "entry": {
+    "id": "shenanigans:cooking/00_cooking"
+  }
+}

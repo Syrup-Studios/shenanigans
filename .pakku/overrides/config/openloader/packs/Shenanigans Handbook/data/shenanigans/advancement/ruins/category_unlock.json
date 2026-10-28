@@ -1,0 +1,76 @@
+{
+  "criteria": {
+    "ruined_portal": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ruined_portal"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "ocean_ruin": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ocean_ruin_warm"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "desert_pyramid": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:desert_pyramid"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "trial_chamber": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:trial_chambers"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ruined_portal",
+      "ocean_ruin",
+      "desert_pyramid",
+      "trial_chamber"
+    ]
+  ]
+}

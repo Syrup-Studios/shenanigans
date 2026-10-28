@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Cod",
+  "description": "Cod took the bait. It will keep well once cooked.",
+  "advancement": "shenanigans:fishing/10_cod",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

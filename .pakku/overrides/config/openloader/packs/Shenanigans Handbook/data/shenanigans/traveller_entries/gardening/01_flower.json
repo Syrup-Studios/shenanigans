@@ -1,0 +1,10 @@
+{
+  "category": "Gardening",
+  "subcategory": "Flowers and Bees",
+  "title": "A Bright Start",
+  "description": "A poppy draws the eye. Bees are said to follow such bright signs.",
+  "advancement": "shenanigans:gardening/01_flower",
+  "entry": {
+    "id": "shenanigans:gardening/00_gardening"
+  }
+}

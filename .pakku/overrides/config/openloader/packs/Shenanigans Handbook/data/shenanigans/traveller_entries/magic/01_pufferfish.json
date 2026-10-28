@@ -1,0 +1,10 @@
+{
+  "category": "Magic",
+  "subcategory": "Ingredients",
+  "title": "A Risky Ingredient",
+  "description": "A pufferfish is no safe supper. Brewers prize it for a breath that lasts below water.",
+  "advancement": "shenanigans:magic/01_pufferfish",
+  "entry": {
+    "id": "shenanigans:magic/00_magic"
+  }
+}

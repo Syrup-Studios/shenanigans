@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "defeated_great_white_shark": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "naturalist:great_white_shark"
+        }
+      }
+    }
+  }
+}

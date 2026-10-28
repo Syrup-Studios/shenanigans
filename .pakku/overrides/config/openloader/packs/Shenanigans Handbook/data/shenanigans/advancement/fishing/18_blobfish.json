@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "collected_blobfish": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "naturalist:blobfish",
+              "naturalist:cooked_blobfish",
+              "naturalist:blobfish_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

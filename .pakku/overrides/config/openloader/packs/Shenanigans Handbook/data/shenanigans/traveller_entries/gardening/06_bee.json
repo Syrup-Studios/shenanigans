@@ -1,0 +1,10 @@
+{
+  "category": "Gardening",
+  "subcategory": "Flowers and Bees",
+  "title": "A Visitor in the Garden",
+  "description": "A bee has allowed a closer meeting. Its visits to flowers may reveal a nearby nest.",
+  "advancement": "shenanigans:gardening/06_bee",
+  "entry": {
+    "id": "shenanigans:gardening/00_gardening"
+  }
+}

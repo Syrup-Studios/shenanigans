@@ -1,0 +1,10 @@
+{
+  "category": "Cooking",
+  "subcategory": "Fish Meals",
+  "title": "A Hearty Bowl",
+  "description": "Cod and vegetables make a hearty bowl, if the kitchen tales are true.",
+  "advancement": "shenanigans:cooking/03_fish_stew",
+  "entry": {
+    "id": "shenanigans:cooking/00_cooking"
+  }
+}

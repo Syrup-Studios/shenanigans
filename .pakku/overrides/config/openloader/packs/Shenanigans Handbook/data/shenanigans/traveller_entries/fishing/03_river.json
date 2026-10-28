@@ -1,0 +1,9 @@
+{
+  "category": "Fishing",
+  "title": "River Notes",
+  "description": "A fish came to the line in river or frozen river water. These currents keep their own company.",
+  "advancement": "shenanigans:fishing/03_river",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

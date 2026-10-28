@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Bass",
+  "description": "Bass has been gathered. A bucket, a cooked catch, or the fish itself will do.",
+  "advancement": "shenanigans:fishing/15_bass",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Exploration",
+  "subcategory": "Field Notes",
+  "title": "Jagged Peaks",
+  "description": "The jagged peaks are behind you. From their heights, rivers may show the way.",
+  "advancement": "shenanigans:exploration/23_jagged_peaks",
+  "entry": {
+    "id": "shenanigans:exploration/00_exploration"
+  }
+}

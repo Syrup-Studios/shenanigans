@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "has_flower": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#minecraft:flowers"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Koi",
+  "description": "A koi took the line. Some anglers say patience matters more than the place.",
+  "advancement": "shenanigans:fishing/14_koi",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

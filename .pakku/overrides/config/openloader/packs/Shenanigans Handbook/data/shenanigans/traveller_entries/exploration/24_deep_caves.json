@@ -1,0 +1,10 @@
+{
+  "category": "Exploration",
+  "subcategory": "Field Notes",
+  "title": "Below the Surface",
+  "description": "The deep dark has been entered. Travelers mark the way back before the silence closes in.",
+  "advancement": "shenanigans:exploration/24_deep_caves",
+  "entry": {
+    "id": "shenanigans:exploration/00_exploration"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Gardening",
+  "subcategory": "Crops and Food",
+  "title": "A Simple Meal",
+  "description": "Bread is simple fare, and a sound companion on a long road.",
+  "advancement": "shenanigans:gardening/05_bread",
+  "entry": {
+    "id": "shenanigans:gardening/00_gardening"
+  }
+}

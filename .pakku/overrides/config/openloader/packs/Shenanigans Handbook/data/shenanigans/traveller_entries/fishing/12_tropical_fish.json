@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Tropical Fish",
+  "description": "A tropical fish came to the line. It is best admired alive; a water bucket can carry it.",
+  "advancement": "shenanigans:fishing/12_tropical_fish",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

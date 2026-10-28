@@ -1,0 +1,10 @@
+{
+  "category": "Ruins",
+  "subcategory": "Structures",
+  "title": "Stones Beneath the Waves",
+  "description": "Warm-water ruins rise from the sea. Their flooded rooms may hide a clue.",
+  "advancement": "shenanigans:ruins/02_ocean_ruin",
+  "entry": {
+    "id": "shenanigans:ruins/00_ruins"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "collected_catfish": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "naturalist:catfish",
+              "naturalist:cooked_catfish",
+              "naturalist:catfish_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

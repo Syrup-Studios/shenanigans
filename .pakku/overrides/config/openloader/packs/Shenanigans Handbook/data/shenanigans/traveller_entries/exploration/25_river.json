@@ -1,0 +1,10 @@
+{
+  "category": "Exploration",
+  "subcategory": "Field Notes",
+  "title": "A Map to the Past",
+  "description": "A river biome lies behind you. Its banks are favored by anglers, who speak of what waits there.",
+  "advancement": "shenanigans:exploration/25_river",
+  "entry": {
+    "id": "shenanigans:exploration/00_exploration"
+  }
+}

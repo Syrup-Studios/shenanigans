@@ -1,0 +1,136 @@
+{
+  "criteria": {
+    "cooked_beef": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_beef"
+            ]
+          }
+        ]
+      }
+    },
+    "cooked_porkchop": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_porkchop"
+            ]
+          }
+        ]
+      }
+    },
+    "cooked_chicken": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_chicken"
+            ]
+          }
+        ]
+      }
+    },
+    "cooked_mutton": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_mutton"
+            ]
+          }
+        ]
+      }
+    },
+    "cooked_rabbit": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_rabbit"
+            ]
+          }
+        ]
+      }
+    },
+    "cooked_cod": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_cod"
+            ]
+          }
+        ]
+      }
+    },
+    "cooked_salmon": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:cooked_salmon"
+            ]
+          }
+        ]
+      }
+    },
+    "baked_potato": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:baked_potato"
+            ]
+          }
+        ]
+      }
+    },
+    "bread": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:bread"
+            ]
+          }
+        ]
+      }
+    },
+    "tagged_food": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:foods"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "cooked_beef",
+      "cooked_porkchop",
+      "cooked_chicken",
+      "cooked_mutton",
+      "cooked_rabbit",
+      "cooked_cod",
+      "cooked_salmon",
+      "baked_potato",
+      "bread",
+      "tagged_food"
+    ]
+  ]
+}

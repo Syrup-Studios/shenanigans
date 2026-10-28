@@ -1,0 +1,10 @@
+{
+  "category": "Exploration",
+  "subcategory": "Field Notes",
+  "title": "Mark the Water",
+  "description": "A filled map is in hand. It can keep the coast from becoming a circle.",
+  "advancement": "shenanigans:exploration/26_map",
+  "entry": {
+    "id": "shenanigans:exploration/00_exploration"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Ruins",
+  "subcategory": "Structures",
+  "title": "Buried Rooms",
+  "description": "A pyramid lies half-buried in the sand. Its lower chamber is said to hide a trap.",
+  "advancement": "shenanigans:ruins/03_desert_pyramid",
+  "entry": {
+    "id": "shenanigans:ruins/00_ruins"
+  }
+}

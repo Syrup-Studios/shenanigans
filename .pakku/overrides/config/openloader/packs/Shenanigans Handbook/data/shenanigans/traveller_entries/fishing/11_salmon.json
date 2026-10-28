@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Salmon",
+  "description": "Salmon took the bait. A fire will make it fit for the pack.",
+  "advancement": "shenanigans:fishing/11_salmon",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

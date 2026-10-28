@@ -1,0 +1,6 @@
+{
+  "category": "Fishing",
+  "title": "Start Here",
+  "description": "A simple rod and still water are enough to begin. Some travelers carry a bucket for the catch.",
+  "advancement": "shenanigans:fishing/01_rod"
+}

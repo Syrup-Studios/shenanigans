@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "collected_bass": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "naturalist:bass",
+              "naturalist:cooked_bass",
+              "naturalist:bass_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

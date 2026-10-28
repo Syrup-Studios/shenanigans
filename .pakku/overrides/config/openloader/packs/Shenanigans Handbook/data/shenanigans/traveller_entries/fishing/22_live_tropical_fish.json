@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "A Living Color",
+  "description": "A tropical fish rides in a water bucket. The reef has given up one of its colors.",
+  "advancement": "shenanigans:fishing/22_live_tropical_fish",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

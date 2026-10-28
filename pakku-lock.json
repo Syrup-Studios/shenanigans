@@ -7105,6 +7105,42 @@
             ]
         },
         {
+            "pakku_id": "seMh7b31ZFKqDuKX",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "fragmentum-neoforge"
+            },
+            "name": {
+                "curseforge": "Fragmentum 🧩 NeoForge"
+            },
+            "id": {
+                "curseforge": "1123977"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fragmentum-5.4.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9202/578/fragmentum-5.4.0+1.21.1-neoforge.jar",
+                    "id": "9202578",
+                    "parent_id": "1123977",
+                    "hashes": {
+                        "sha1": "711f46b591cbee203e68cf023277dae9060725f8",
+                        "md5": "44e80aeb24883f8e833bda0adda6ef97"
+                    },
+                    "required_dependencies": [],
+                    "size": 7815344,
+                    "date_published": "2026-10-16T01:11:12.037Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7Il1tp8VmHWNbgd6",
             "pakku_links": [
                 "hCsFEJh6iPgUIAUi"
@@ -11778,6 +11814,74 @@
                     ],
                     "size": 23830,
                     "date_published": "2025-08-12T21:11:22.331123Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5qU7hB8ftr1pYt6x",
+            "pakku_links": [
+                "seMh7b31ZFKqDuKX"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "obscure-tooltips",
+                "modrinth": "obscure-tooltips"
+            },
+            "name": {
+                "curseforge": "Obscure Tooltips",
+                "modrinth": "Obscure Tooltips"
+            },
+            "id": {
+                "curseforge": "715660",
+                "modrinth": "5vetjDBY"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8922/38/obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+                    "id": "8922038",
+                    "parent_id": "715660",
+                    "hashes": {
+                        "sha1": "35469a3b86c85e2e535b559280e3a140d1acdc74",
+                        "md5": "0cf8adf4d23cdebdfc5cd8334fcefd31"
+                    },
+                    "required_dependencies": [
+                        "1123977"
+                    ],
+                    "size": 448989,
+                    "date_published": "2026-09-19T15:53:03.997Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5vetjDBY/versions/Yo2oNdw1/obscure_tooltips-neoforge-1.21.1-4.2.5.jar",
+                    "id": "Yo2oNdw1",
+                    "parent_id": "5vetjDBY",
+                    "hashes": {
+                        "sha512": "08c4259ff4ad3af1d146581f9cd30ac403c5e2cc410ed685f0a32227062a40363986b9c8af46423dce3240d417b9d8e139cbee1117d8eb50b1da7e0877815fa5",
+                        "sha1": "35469a3b86c85e2e535b559280e3a140d1acdc74"
+                    },
+                    "required_dependencies": [
+                        "49C5QgTK"
+                    ],
+                    "size": 448989,
+                    "date_published": "2026-09-19T15:53:14.615360Z"
                 }
             ]
         },
@@ -16641,69 +16745,6 @@
                     "required_dependencies": [],
                     "size": 3372,
                     "date_published": "2025-07-28T02:09:28.417Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "nLh6DvLD7wbmu7Ko",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "tooltip-overhaul",
-                "modrinth": "tooltip-overhaul"
-            },
-            "name": {
-                "curseforge": "Tooltip Overhaul",
-                "modrinth": "Tooltip Overhaul"
-            },
-            "id": {
-                "curseforge": "1327508",
-                "modrinth": "vRFcG5n6"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "tooltipoverhaul-neoforge-1.21.1-2.0.7.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vRFcG5n6/versions/zHL7vnJP/tooltipoverhaul-neoforge-1.21.1-2.0.7.jar",
-                    "id": "zHL7vnJP",
-                    "parent_id": "vRFcG5n6",
-                    "hashes": {
-                        "sha512": "5f4a6b2009ba914398291e02e5a494400ad9f04f1ef2c43cf18d31f7a9ebc5f1c3380100c18e10183071fed3d4859b6f8ce3ab5c9563812084198c080de3ea7b",
-                        "sha1": "ea9873bce86ab65594ba41c13fb16d9fec5c0958"
-                    },
-                    "required_dependencies": [],
-                    "size": 922581,
-                    "date_published": "2026-10-19T16:00:57.721351Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "tooltipoverhaul-neoforge-1.21.1-2.0.7.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/9257/162/tooltipoverhaul-neoforge-1.21.1-2.0.7.jar",
-                    "id": "9257162",
-                    "parent_id": "1327508",
-                    "hashes": {
-                        "sha1": "ea9873bce86ab65594ba41c13fb16d9fec5c0958",
-                        "md5": "10a28486e9b7f23f402be4ec486e3761"
-                    },
-                    "required_dependencies": [],
-                    "size": 922581,
-                    "date_published": "2026-10-19T16:01:06.340Z"
                 }
             ]
         },

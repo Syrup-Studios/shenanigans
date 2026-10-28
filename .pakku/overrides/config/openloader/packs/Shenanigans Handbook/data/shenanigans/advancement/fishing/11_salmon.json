@@ -3,7 +3,9 @@
     "caught_salmon": {
       "trigger": "minecraft:fishing_rod_hooked",
       "conditions": {
-        "item": {"items": "minecraft:salmon"}
+        "item": {
+          "items": "minecraft:salmon"
+        }
       }
     }
   }

@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Pufferfish",
+  "description": "A pufferfish took the bait. Handle with care: it stings the unwary and serves the brewer.",
+  "advancement": "shenanigans:fishing/13_pufferfish",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

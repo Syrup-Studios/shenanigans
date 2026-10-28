@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Piranha",
+  "description": "Piranha has been gathered. A bucket, a cooked catch, or the fish itself will do.",
+  "advancement": "shenanigans:fishing/19_piranha",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Catfish",
+  "description": "Catfish has been gathered. A bucket, a cooked catch, or the fish itself will do.",
+  "advancement": "shenanigans:fishing/16_catfish",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}

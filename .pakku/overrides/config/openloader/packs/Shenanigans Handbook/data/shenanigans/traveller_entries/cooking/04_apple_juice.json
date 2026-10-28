@@ -1,0 +1,10 @@
+{
+  "category": "Cooking",
+  "subcategory": "Drinks",
+  "title": "A Vinery Vintage",
+  "description": "Vinery apple juice makes a bright drink for the road.",
+  "advancement": "shenanigans:cooking/04_apple_juice",
+  "entry": {
+    "id": "shenanigans:cooking/00_cooking"
+  }
+}

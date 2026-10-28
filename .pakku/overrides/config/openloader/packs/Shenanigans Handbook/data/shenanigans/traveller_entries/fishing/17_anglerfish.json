@@ -1,0 +1,10 @@
+{
+  "category": "Fishing",
+  "subcategory": "Fish",
+  "title": "Anglerfish",
+  "description": "Anglerfish has been gathered. A bucket, a cooked catch, or the fish itself will do.",
+  "advancement": "shenanigans:fishing/17_anglerfish",
+  "entry": {
+    "id": "shenanigans:fishing/00_fishing"
+  }
+}
