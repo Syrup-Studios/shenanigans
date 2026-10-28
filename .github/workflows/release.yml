@@ -1,0 +1,85 @@
+name: Release pack
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.sha }}
+
+      - uses: actions/setup-java@v6
+        with:
+          distribution: temurin
+          java-version: '21'
+
+      - name: Export and publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          version=$(python3 -c 'import json; print(json.load(open("pakku.json"))["version"])')
+          tag="v$version"
+          if [[ -z "$version" ]] || ! git check-ref-format "refs/tags/$tag"; then
+            echo "pakku.json must contain a non-empty valid release version" >&2
+            exit 1
+          fi
+
+          changelog=$(python3 -c 'import json,sys; print(json.load(open("pakku.json"))["publish"]["changelog"].replace("{version}",sys.argv[1]))' "$version")
+          if [[ ! -f "$changelog" ]]; then
+            echo "Release changelog not found: $changelog" >&2
+            exit 1
+          fi
+
+          target_sha=$(git rev-parse HEAD)
+          if ! remote_tags=$(git ls-remote --tags origin "refs/tags/$tag" "refs/tags/$tag^{}"); then
+            echo "Could not check whether tag $tag exists" >&2
+            exit 1
+          fi
+          if [[ -n "$remote_tags" ]]; then
+            echo "Tag $tag already exists; refusing to overwrite the release" >&2
+            exit 1
+          fi
+
+          curl --fail --location --silent --show-error \
+            https://github.com/juraj-hrivnak/Pakku/releases/download/v1.5.0/pakku.jar \
+            --output pakku.jar
+          echo '4fdbd8423698b59d19d71195dcde1b65da6432b6d67ea38fc74aefd9062aa201  pakku.jar' | sha256sum --check --status
+
+          java -jar pakku.jar export
+
+          shopt -s nullglob
+          modrinth_files=(build/modrinth/*.mrpack)
+          if [[ ${#modrinth_files[@]} -ne 1 ]]; then
+            echo "Expected one Modrinth export in build/modrinth; found ${#modrinth_files[@]}" >&2
+            exit 1
+          fi
+
+          curseforge_files=(build/curseforge/*.zip)
+          if [[ ${#curseforge_files[@]} -ne 1 ]]; then
+            echo "Expected one CurseForge export in build/curseforge; found ${#curseforge_files[@]}" >&2
+            exit 1
+          fi
+
+          server_files=(build/serverpack/*.zip)
+          if [[ ${#server_files[@]} -ne 1 ]]; then
+            echo "Expected one server pack export in build/serverpack; found ${#server_files[@]}" >&2
+            exit 1
+          fi
+
+          curseforge_asset="${curseforge_files[0]%.zip}-curseforge.zip"
+          server_asset="${server_files[0]%.zip}-serverpack.zip"
+          cp "${curseforge_files[0]}" "$curseforge_asset"
+          cp "${server_files[0]}" "$server_asset"
+
+          gh release create "$tag" "${modrinth_files[0]}" "$curseforge_asset" "$server_asset" \
+            --target "$target_sha" \
+            --notes-file "$changelog"
