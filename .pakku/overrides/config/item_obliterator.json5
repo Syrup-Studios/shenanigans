@@ -20,7 +20,9 @@
     "minecraft:stone_pickaxe",
     "minecraft:stone_axe",
     "minecraft:stone_hoe",
-    "minecraft:stone_sword"
+    "minecraft:stone_sword",
+    "minecraft:barrel",
+    "minecraft:chest"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
