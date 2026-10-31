@@ -2,9 +2,15 @@
 
 ### Added
 - Added Envelope.
-- Added fishing advancements and Traveller's Handbook entries for getting a rod, catching a first fish, fishing in rivers, and catching cod, salmon, tropical fish, and pufferfish.
+- Added Ars Elixirum.
+- Added fishing advancements and Traveller's Handbook entries for getting a rod, catching a first fish, fishing in rivers, and catching cod, salmon, tropical fish, pufferfish, koi, bass, catfish, anglerfish, blobfish, piranha, and ray. Also added entries for catching a great white shark and a live tropical fish.
+- Added gardening, cooking, magic, exploration, and structure advancements and Traveller's Handbook entries.
 
 ### Changed
+- Removed vanilla chests and barrels. Recipes that use chests or barrels now accept items in the matching chest or barrel tag.
+- Added Sophisticated Storage recipes for 11 wood types and generic wood recipes.
+- Set the default GUI scale to 3 and set the Spyglass Improvements key binding to C.
+- Switched to Obscure Tooltips.
 - Copper tools and armor now use Vanilla Backport items under the same item IDs, replacing the custom KubeJS items.
 - More Axolotl Variants API changed from Fabric 1.3.0 to NeoForge 2.4.0+1.21.1.
 - More Axolotl Variants changed from Fabric 1.3.1 to NeoForge 2.2.0+1.21.1.
@@ -49,7 +55,6 @@
 - Updated Sophisticated Storage from 1.6.5.2176 to 1.6.8.2196.
 - Updated Streams Reflowing from 2.15.0 to 2.15.2.
 - Updated Supplementaries from 4.0.1 to 4.0.2.
-- Updated Tooltip Overhaul from 2.0.6 to 2.0.7.
 - Updated Traveller's Handbook from 0.6.0+1.21.1 to 0.7.0+1.21.1.
 - Updated Vanilla Backport from 1.1.7.10 to 1.2.
 - Updated [Let's Do] Bakery - Farm&Charm Compat from 2.1.10 to 2.1.11 on Modrinth; the CurseForge build changed from 2.1.9 to 2.1.11.
