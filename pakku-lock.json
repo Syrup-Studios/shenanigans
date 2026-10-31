@@ -9422,6 +9422,89 @@
             ]
         },
         {
+            "pakku_id": "U66r5unN6fauPsnK",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "lexiconfig",
+                "modrinth": "lexiconfig"
+            },
+            "name": {
+                "curseforge": "Lexiconfig",
+                "modrinth": "Lexiconfig"
+            },
+            "id": {
+                "curseforge": "1019452",
+                "modrinth": "D157Rgyf"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lexiconfig-neoforge-1.4.22-novel.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9336/489/lexiconfig-neoforge-1.4.22-novel.jar",
+                    "id": "9336489",
+                    "parent_id": "1019452",
+                    "hashes": {
+                        "sha1": "d47f6cee9957e17b3e13977cf9e535643ec34a0e",
+                        "md5": "ff3a011615a26a293896ffbef3b2250d"
+                    },
+                    "required_dependencies": [],
+                    "size": 65318,
+                    "date_published": "2026-10-26T19:28:03.413Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "lexiconfig-neoforge-1.4.22-novel.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5",
+                        "1.21.6",
+                        "1.21.7",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/D157Rgyf/versions/gwSEA3qm/lexiconfig-neoforge-1.4.22-novel.jar",
+                    "id": "gwSEA3qm",
+                    "parent_id": "D157Rgyf",
+                    "hashes": {
+                        "sha512": "808ed8fc87fb43a91edfc328d8de9edb6228aa06ca7499d9d72e2ddf6b67130f029cf0003b399cbfd603a520471bf93767d53b3ce542c59272f129bec23b0062",
+                        "sha1": "d47f6cee9957e17b3e13977cf9e535643ec34a0e"
+                    },
+                    "required_dependencies": [],
+                    "size": 65318,
+                    "date_published": "2026-10-26T19:28:03.951056Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "FCvWEmpR2PyfRN9z",
             "type": "MOD",
             "side": "BOTH",
@@ -15072,6 +15155,85 @@
                     "required_dependencies": [],
                     "size": 4934688,
                     "date_published": "2026-09-20T07:23:31.740Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "kTt4Hg3dnuy5r8st",
+            "pakku_links": [
+                "2eqEx5kf9pqoRL66",
+                "U66r5unN6fauPsnK"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "simple-voice-radio",
+                "modrinth": "simple-radio"
+            },
+            "name": {
+                "curseforge": "Simple Voice Radio",
+                "modrinth": "Simple Radio"
+            },
+            "id": {
+                "curseforge": "820070",
+                "modrinth": "S7b8mMXS"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "simpleradio-neoforge-1.21.1-4.6.7.10.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.3",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9340/887/simpleradio-neoforge-1.21.1-4.6.7.10.jar",
+                    "id": "9340887",
+                    "parent_id": "820070",
+                    "hashes": {
+                        "sha1": "05696145b97187c23ba42f3b403ab7f242f17fbc",
+                        "md5": "53f7240b1861c819967c2150d86481b4"
+                    },
+                    "required_dependencies": [
+                        "416089",
+                        "1019452"
+                    ],
+                    "size": 1055815,
+                    "date_published": "2026-10-27T06:55:59.580Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "simpleradio-neoforge-1.21.1-4.6.7.10.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/S7b8mMXS/versions/L8SiUelt/simpleradio-neoforge-1.21.1-4.6.7.10.jar",
+                    "id": "L8SiUelt",
+                    "parent_id": "S7b8mMXS",
+                    "hashes": {
+                        "sha512": "9fb856067a56edc9f4198d60f00a68ce0542b35ea7ddb3749c262ded4c4ae430f3eb96eab862993d90fe356e84b4e48f2ea458754b307adc4fa690da60f9ed2f",
+                        "sha1": "05696145b97187c23ba42f3b403ab7f242f17fbc"
+                    },
+                    "required_dependencies": [
+                        "9eGKb6K1",
+                        "D157Rgyf"
+                    ],
+                    "size": 1055815,
+                    "date_published": "2026-10-27T06:56:00.540571Z"
                 }
             ]
         },
