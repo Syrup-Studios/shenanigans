@@ -22,7 +22,7 @@
 - Updated Amendments from 2.1.11 to 2.2.5.
 - Updated Accessories from 1.1.0-beta.53+1.21.1 to 1.1.0-beta.54+1.21.1.
 - Updated Almanac from 1.5.2 to 1.26.10.3 on Modrinth and CurseForge.
-- Updated Atlasbound from 0.3.1+1.21.1 to 0.4.0-1.21.1.
+- Updated Atlasbound from 0.3.1+1.21.1 to 0.4.1-1.21.1.
 - Updated Collective from 8.47 to 8.71.
 - Updated Custom Loading Screen from 0.2.0+1.21.1 to 0.2.1+1.21.1.
 - Updated Crops Love Rain from 3.2.1 to 3.2.2.
