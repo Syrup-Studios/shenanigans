@@ -462,83 +462,6 @@
             ]
         },
         {
-            "pakku_id": "kF1Im8ypr3bCrkGO",
-            "pakku_links": [
-                "37RuWfQuU8BnVFtX",
-                "frx1UC3WeqZIm5W0"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "antique-atlas-4",
-                "modrinth": "antique-atlas-4"
-            },
-            "name": {
-                "curseforge": "Antique Atlas 4",
-                "modrinth": "Antique Atlas 4"
-            },
-            "id": {
-                "curseforge": "1391589",
-                "modrinth": "Y5Ve4Ui4"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "antique-atlas-3.1.2+1.21.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7420/253/antique-atlas-3.1.2+1.21.jar",
-                    "id": "7420253",
-                    "parent_id": "1391589",
-                    "hashes": {
-                        "sha1": "97b7c41cbcfcfb86e8ba80b316b1133ff1903e72",
-                        "md5": "0638d153cd8cf12680c8b9a66f638ea9"
-                    },
-                    "required_dependencies": [
-                        "1391592",
-                        "306612",
-                        "1402884"
-                    ],
-                    "size": 891461,
-                    "date_published": "2026-01-05T08:52:10.047Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "antique-atlas-3.1.2+1.21.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/Y5Ve4Ui4/versions/2sDsTAId/antique-atlas-3.1.2+1.21.jar",
-                    "id": "2sDsTAId",
-                    "parent_id": "Y5Ve4Ui4",
-                    "hashes": {
-                        "sha512": "e920516b107f009d8a671c4b07a65afc0060a11fe3d2918169eb8320408cb3a71b4bdfa7d58a59ff73d8161a545ba220f4e5d766434d46aa08de14e7fe6368cc",
-                        "sha1": "97b7c41cbcfcfb86e8ba80b316b1133ff1903e72"
-                    },
-                    "required_dependencies": [
-                        "tNmWwdI2",
-                        "P7dR8mSH",
-                        "4KjqhPc9"
-                    ],
-                    "size": 891461,
-                    "date_published": "2026-01-05T08:52:18.929507Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "bKWHvxF1VOrGeqoS",
             "type": "MOD",
             "side": "BOTH",
@@ -967,8 +890,6 @@
             "pakku_id": "p5fx1wKKMEGH4hYy",
             "pakku_links": [
                 "nxdzcYTQIRxghBJ0",
-                "37RuWfQuU8BnVFtX",
-                "kF1Im8ypr3bCrkGO",
                 "eWbjDcSyRFV19xn2"
             ],
             "type": "MOD",
@@ -976,7 +897,7 @@
                 "curseforge": "atlasbound"
             },
             "name": {
-                "curseforge": "Atlasbound for Antique Atlas 4"
+                "curseforge": "Atlasbound"
             },
             "id": {
                 "curseforge": "1720083"
@@ -984,7 +905,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "atlasbound-0.3.3+1.21.1-neoforge.jar",
+                    "file_name": "atlasbound-0.4.0-1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -992,21 +913,16 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/9269/797/atlasbound-0.3.3+1.21.1-neoforge.jar",
-                    "id": "9269797",
+                    "url": "https://edge.forgecdn.net/files/9379/644/atlasbound-0.4.0-1.21.1-neoforge.jar",
+                    "id": "9379644",
                     "parent_id": "1720083",
                     "hashes": {
-                        "sha1": "4a4e76659ce29004971c4f09332b5b518ce920fd",
-                        "md5": "902f680dec60b096b26a5bfaa34513ed"
+                        "sha1": "bbbe22cc6bc9572d6d5d276acb47ce20c33f0d07",
+                        "md5": "bcae75ff7c0610c6272ea2931418b755"
                     },
-                    "required_dependencies": [
-                        "1391589",
-                        "890127",
-                        "1391592",
-                        "889079"
-                    ],
-                    "size": 185559,
-                    "date_published": "2026-10-20T18:31:36.530Z"
+                    "required_dependencies": [],
+                    "size": 1057451,
+                    "date_published": "2026-10-31T01:46:38.240Z"
                 }
             ]
         },
@@ -10118,94 +10034,6 @@
             ]
         },
         {
-            "pakku_id": "frx1UC3WeqZIm5W0",
-            "pakku_links": [
-                "LYIdcQkyP1mNhV4S"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "mcqoy",
-                "modrinth": "mcqoy"
-            },
-            "name": {
-                "curseforge": "McQoy",
-                "modrinth": "McQoy"
-            },
-            "id": {
-                "curseforge": "1402884",
-                "modrinth": "tNmWwdI2"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "mcqoy-0.4.1+neo-1.21.jar",
-                    "mc_versions": [
-                        "1.21.8",
-                        "1.21.5",
-                        "1.21.4",
-                        "1.21.1",
-                        "1.21.6",
-                        "1.21.3",
-                        "1.21.7",
-                        "1.21.2",
-                        "1.21.9",
-                        "1.21.10",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7372/152/mcqoy-0.4.1+neo-1.21.jar",
-                    "id": "7372152",
-                    "parent_id": "1402884",
-                    "hashes": {
-                        "sha1": "98a771b14c1f4ead12ffcd99a90b1c91b25cca8d",
-                        "md5": "48776ca08accb8610f6f4368d546f929"
-                    },
-                    "required_dependencies": [
-                        "667299"
-                    ],
-                    "size": 310685,
-                    "date_published": "2025-12-24T05:30:29.370Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "mcqoy-0.4.1+neo-1.21.jar",
-                    "mc_versions": [
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
-                        "1.21.11"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/tNmWwdI2/versions/nfqfeKsL/mcqoy-0.4.1+neo-1.21.jar",
-                    "id": "nfqfeKsL",
-                    "parent_id": "tNmWwdI2",
-                    "hashes": {
-                        "sha512": "20c40e4bd4104069b65455065cbb9beac829efa314b6e9e960b269725727f0d4f9bed6946815e8b573223cd4a76feddd1e5fbfb17c7293fa6a25545299e1afbc",
-                        "sha1": "98a771b14c1f4ead12ffcd99a90b1c91b25cca8d"
-                    },
-                    "required_dependencies": [
-                        "1eAoo2KR"
-                    ],
-                    "size": 310685,
-                    "date_published": "2025-12-24T05:30:36.348554Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "RwHuKUmG48ATpKqz",
             "type": "MOD",
             "side": "CLIENT",
@@ -16372,50 +16200,6 @@
                     ],
                     "size": 13840377,
                     "date_published": "2026-10-16T19:44:39.277Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "37RuWfQuU8BnVFtX",
-            "pakku_links": [
-                "frx1UC3WeqZIm5W0"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "surveyor-map-framework"
-            },
-            "name": {
-                "curseforge": "Surveyor Map Framework"
-            },
-            "id": {
-                "curseforge": "1391592"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "surveyor-1.2.4+1.21.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8067/329/surveyor-1.2.4+1.21.jar",
-                    "id": "8067329",
-                    "parent_id": "1391592",
-                    "hashes": {
-                        "sha1": "77e9d3996c11eed104fe224c3ba706be1c759303",
-                        "md5": "5b09d2daeb9e2da7e4a35216646e4bc9"
-                    },
-                    "required_dependencies": [
-                        "306612",
-                        "1402884"
-                    ],
-                    "size": 602264,
-                    "date_published": "2026-05-10T08:34:41.453Z"
                 }
             ]
         },
