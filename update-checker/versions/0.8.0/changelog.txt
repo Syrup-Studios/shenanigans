@@ -1,16 +1,16 @@
 ## Changelog 0.8.0
 
 ### Added
-- Added the Ping Wheel.
-- Added Create mixing and filling for apple cider, melon juice, hot cocoa, and 13 soup and stew fluids.
-- Added stonecutting variants for dacite and white dacite.
-- Added BadOptimizations, Dynamic FPS, and NoisiumForked.
-- Added Artifacts and Beltborne Lanterns.
-- Added VMP serverside.
-- Added tweakerge.
-- Added AuthMe
-- Added Cirrus
-- Added LOD Server Support
+- the Ping Wheel.
+- Create mixing and filling for apple cider, melon juice, hot cocoa, and 13 soup and stew fluids.
+- stonecutting variants for dacite and white dacite.
+- BadOptimizations, Dynamic FPS, and NoisiumForked.
+- Artifacts and Beltborne Lanterns.
+- VMP serverside.
+- tweakerge.
+- AuthMe
+- Cirrus
+- LOD Server Support
 
 ### Changed
 - Moved Master Cutter stonecutting recipes to KubeJS.
@@ -19,8 +19,8 @@
 - Switched Chunksmith to LOD Server Support
 
 ### Updated
-- Updated Plushie Friends from 1.0.0 to 1.0.1.
-- Updated Syrup Library from 0.5.0 to 0.5.1.
+- Plushie Friends from 1.0.0 to 1.0.1.
+- Syrup Library from 0.5.0 to 0.5.1.
 
 ### Removed
 - Removed Better Than Mending, Grass Seeds, Does It Tick, and Chunk Activity Tracker.
