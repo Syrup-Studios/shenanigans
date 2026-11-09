@@ -17,7 +17,7 @@ Start with [Getting started](getting_started.md) for install, update, and suppor
 
 ## Guides and pack changes
 
-- [Dimensions](dimensions/README.md) — Overworld, Nether, and End overview.
+- [Dimensions](dimensions/README.md) - Overworld, Nether, and End overview.
 - [Buildings and decorations](buildings%20%26%20decorations/README.md)
 - [Farming and food](farming_food/README.md)
 - [Magic](magic/README.md)
