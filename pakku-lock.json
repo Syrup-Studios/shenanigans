@@ -7024,16 +7024,20 @@
             ]
         },
         {
-            "pakku_id": "seMh7b31ZFKqDuKX",
+            "pakku_id": "mY7iJh7gIEC6a2Cu",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "fragmentum-neoforge"
+                "curseforge": "fragmentum-neoforge",
+                "modrinth": "fragmentum"
             },
             "name": {
-                "curseforge": "Fragmentum 🧩 NeoForge"
+                "curseforge": "Fragmentum 🧩 NeoForge",
+                "modrinth": "Fragmentum"
             },
             "id": {
-                "curseforge": "1123977"
+                "curseforge": "1123977",
+                "modrinth": "49C5QgTK"
             },
             "files": [
                 {
@@ -7056,6 +7060,27 @@
                     "required_dependencies": [],
                     "size": 7815344,
                     "date_published": "2026-10-16T01:11:12.037Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fragmentum-5.4.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/49C5QgTK/versions/kCXNhuIV/fragmentum-5.4.0+1.21.1-neoforge.jar",
+                    "id": "kCXNhuIV",
+                    "parent_id": "49C5QgTK",
+                    "hashes": {
+                        "sha512": "426b3a7f2085266ae231d7ef81092baabb0409bbf222b9220472dd3ba482840a0850047aabc4b59d20fd65170ec9920559d29df6527d8119ecf02c69cfa78e53",
+                        "sha1": "711f46b591cbee203e68cf023277dae9060725f8"
+                    },
+                    "required_dependencies": [],
+                    "size": 7815344,
+                    "date_published": "2026-10-16T01:10:43.968544Z"
                 }
             ]
         },
@@ -9121,19 +9146,43 @@
             ]
         },
         {
-            "pakku_id": "em4SVC5DcfV3MMfZ",
+            "pakku_id": "6VgRbqlrnptLUeGP",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "lod-server-support",
                 "modrinth": "lod-server-support"
             },
             "name": {
+                "curseforge": "LOD Server Support",
                 "modrinth": "LOD Server Support"
             },
             "id": {
+                "curseforge": "1763550",
                 "modrinth": "lKiXKLvv"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lod-server-support-neoforge-0.20.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9310/938/lod-server-support-neoforge-0.20.0+1.21.1.jar",
+                    "id": "9310938",
+                    "parent_id": "1763550",
+                    "hashes": {
+                        "sha1": "a6a9a19670548d7847c5011fdb555a29333c09af",
+                        "md5": "801caa5529ae363b9735fd022cdc6f9a"
+                    },
+                    "required_dependencies": [],
+                    "size": 14540420,
+                    "date_published": "2026-10-24T16:19:12.770Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "lod-server-support-neoforge-0.20.0+1.21.1.jar",
@@ -11734,7 +11783,7 @@
         {
             "pakku_id": "5qU7hB8ftr1pYt6x",
             "pakku_links": [
-                "seMh7b31ZFKqDuKX"
+                "mY7iJh7gIEC6a2Cu"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -13788,7 +13837,7 @@
             "pakku_id": "Qu2ccIFqGN0nWL12",
             "pakku_links": [
                 "5DD7laGOUHqdWWNY",
-                "X3Ooqz5V6KeAbdDh"
+                "A7nPBiAuvyeuYBlX"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -15480,6 +15529,74 @@
                     ],
                     "size": 1936454,
                     "date_published": "2026-11-04T08:53:33.213Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GR9uNS3ogMUaRV5p",
+            "pakku_links": [
+                "LYIdcQkyP1mNhV4S"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "spatial-gui",
+                "modrinth": "spatial-gui"
+            },
+            "name": {
+                "curseforge": "Spatial GUI",
+                "modrinth": "Spatial GUI"
+            },
+            "id": {
+                "curseforge": "1676741",
+                "modrinth": "zLBn2IE4"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spatial-gui-1.11.0-1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9486/808/spatial-gui-1.11.0-1.21.1-neoforge.jar",
+                    "id": "9486808",
+                    "parent_id": "1676741",
+                    "hashes": {
+                        "sha1": "05de6e395fb4fb118312f9c195d28424159bb93c",
+                        "md5": "f1560f878895041ed49be63b30baebf3"
+                    },
+                    "required_dependencies": [
+                        "667299"
+                    ],
+                    "size": 741689,
+                    "date_published": "2026-11-07T05:13:13.130Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "spatial-gui-1.11.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/zLBn2IE4/versions/4EaJojZ1/spatial-gui-1.11.0+1.21.1-neoforge.jar",
+                    "id": "4EaJojZ1",
+                    "parent_id": "zLBn2IE4",
+                    "hashes": {
+                        "sha512": "ff72b5024734c9d0fa7bd580b5909f3885c980fc0c420729be736553224f20389503463aea874916d7546a7ce0f4b5c7147374b71af5b5054e36d13d47a49001",
+                        "sha1": "05de6e395fb4fb118312f9c195d28424159bb93c"
+                    },
+                    "required_dependencies": [
+                        "1eAoo2KR"
+                    ],
+                    "size": 741689,
+                    "date_published": "2026-11-07T05:13:09.881037Z"
                 }
             ]
         },
@@ -17440,16 +17557,20 @@
             ]
         },
         {
-            "pakku_id": "X3Ooqz5V6KeAbdDh",
+            "pakku_id": "A7nPBiAuvyeuYBlX",
             "type": "MOD",
+            "side": "BOTH",
             "slug": {
-                "curseforge": "yungs-api-neoforge"
+                "curseforge": "yungs-api-neoforge",
+                "modrinth": "yungs-api"
             },
             "name": {
-                "curseforge": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]"
+                "curseforge": "YUNG's API (NeoForge) [1.20.4-1.21.1 ONLY]",
+                "modrinth": "YUNG's API"
             },
             "id": {
-                "curseforge": "1015100"
+                "curseforge": "1015100",
+                "modrinth": "Ua7DFN59"
             },
             "files": [
                 {
@@ -17473,6 +17594,28 @@
                     "required_dependencies": [],
                     "size": 413763,
                     "date_published": "2026-09-16T11:24:30.020Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "YungsApi-1.21.1-NeoForge-5.1.9.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/2prKITKh/YungsApi-1.21.1-NeoForge-5.1.9.jar",
+                    "id": "2prKITKh",
+                    "parent_id": "Ua7DFN59",
+                    "hashes": {
+                        "sha512": "7e3cf0b429e8a1c51dca094c2d8eabf12245bb42cbcd8b6e3e54959f931bef93201b81a08d200b417059aaa438e8eb445c3978a09568597bfb588199b7775967",
+                        "sha1": "2c4b740c8ad27bbcb2a21b85b64f011b809aed91"
+                    },
+                    "required_dependencies": [],
+                    "size": 413763,
+                    "date_published": "2026-09-16T11:24:46.968948Z"
                 }
             ]
         },
@@ -18230,23 +18373,49 @@
             ]
         },
         {
-            "pakku_id": "p90fS5mk1zg58aRX",
+            "pakku_id": "uTdwQbkuQH3sWVRA",
             "pakku_links": [
-                "G4wvt5AyMHwNw2mv",
-                "REl7QuHVCDjFX0cQ"
+                "REl7QuHVCDjFX0cQ",
+                "G4wvt5AyMHwNw2mv"
             ],
             "type": "MOD",
             "side": "BOTH",
             "slug": {
+                "curseforge": "lets-do-wildernature",
                 "modrinth": "lets-do-wildernature"
             },
             "name": {
+                "curseforge": "[Let's Do] WilderNature",
                 "modrinth": "[Let's Do] WilderNature"
             },
             "id": {
+                "curseforge": "1071657",
                 "modrinth": "AAiRU4aQ"
             },
             "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "letsdo-wildernature-neoforge-1.1.8.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/9176/454/letsdo-wildernature-neoforge-1.1.8.jar",
+                    "id": "9176454",
+                    "parent_id": "1071657",
+                    "hashes": {
+                        "sha1": "8a2a614807d1d76aac9fba02d4b2a0d1843b5d05",
+                        "md5": "418a8e494bbe569418e5c7e816af00ed"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 3914173,
+                    "date_published": "2026-10-14T17:09:10.960Z"
+                },
                 {
                     "type": "modrinth",
                     "file_name": "letsdo-wildernature-neoforge-1.1.8.jar",
